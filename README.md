@@ -38,6 +38,10 @@ You can either use the batch files provided in the release (you'll need to edit 
 
 **Q:**	How do I compile everything?\
 **A:**	The Injector and XMLTranslator can be compiled with any version of Visual Studio with C++ and C# installed. The XMLTranslator has a dependency on [YandexTranslateCSharpSdk](https://github.com/anovik/YandexTranslateCSharpSdk). The DLLs require the [Intel Compiler](https://software.intel.com/en-us/parallel-studio-xe) to be compiled because MSVC does not support 64-bit inline assembly.
-	
+
+**Q:**	How do I configure the XMLTranslator?\
+**A:**	Set the API key to your Yandex Translate API key. If you need to get one, go [here](https://translate.yandex.com/developers)
+
+
 ## Dependencies
 * Uses [YandexTranslateCSharpSdk](https://github.com/anovik/YandexTranslateCSharpSdk)
