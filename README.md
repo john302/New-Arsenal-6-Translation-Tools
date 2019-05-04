@@ -42,6 +42,11 @@ You can either use the batch files provided in the release (you'll need to edit 
 **Q:**	How do I configure the XMLTranslator?\
 **A:**	Set the API key to your Yandex Translate API key. If you need to get one, go [here](https://translate.yandex.com/developers)
 
+## TODO:
+
+* Translate un-translated strings in the xml files.
+* Translate the script files.
+* Improve the XMLTranslator to better parse and translate the xml files.
 
 ## Dependencies
 * Uses [YandexTranslateCSharpSdk](https://github.com/anovik/YandexTranslateCSharpSdk)
