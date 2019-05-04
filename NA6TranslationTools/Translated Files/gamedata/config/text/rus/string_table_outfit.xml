@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="bandit_outfit_description">
+		<text>Traditional clothes of a bandit - a leather jacket with armor sewn elements. Provides protection highly insufficient in the harsh conditions of the Zone.</text>
+	</string>
+	<string id="bandit_outfit_description_m">
+		<text>The usual weak bandit body armor, but chainmail sewn into the lining fabric. To do so the strength almost everyone, but enough patience not for everyone.</text>
+	</string>
+	<string id="bandit_outfit_name">
+		<text>Bandit jacket</text>
+	</string>
+	<string id="bandit_outfit_name_m">
+		<text>Chainmail jacket</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>Is one of defense of the Kiev Institute of custom grouping "Debt". The simplicity and reliability of the underlying model PSZ-9 in combination with new materials provides good protection from various harmful impacts, including firearm damage. Due to the lack of respiratory vest needs some work.</text>
+	</string>
+	<string id="dolg_outfit_description_m1">
+		<text>Dolgovskaya suit with improved protection against bites and cuts.</text>
+	</string>
+	<string id="dolg_outfit_name">
+		<text>PSZ-9D "Armor of the Debt"</text>
+	</string>
+	<string id="dolg_outfit_name_m1">
+		<text>Hunting PSZ-9D</text>
+	</string>
+	<string id="dolg_scientific_outfit_description">
+		<text>Great protective suit for the Zone. Stalkers appreciate it for its combination of excellent qualities and protivobolevykh protivobolevoe protection. Composed of: jumpsuit PSZ-9D, the breathing system of closed-loop, integrated system of suppression of the action of the anomalous fields. Provides quality protection from bullet and shrapnel hits.</text>
+	</string>
+	<string id="dolg_scientific_outfit_name">
+		<text>PSZ-9Мд "Universal protection"</text>
+	</string>
+	<string id="ecolog_outfit_description">
+		<text>Designed to work in the Zone chemical protective suit the SSP-99. Used by the expeditions of scientists and cooperating stalkers and ecologists. Built-in air filtration system and air conditioning. Not designed for combat operations.</text>
+	</string>
+	<string id="ecolog_outfit_name">
+		<text>SSP-99 "Environmentalist"</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>The experimental sample of a military exoskeleton. Serial production did not get, in view of the extreme cost and some design faults. In spite of this, produced in small batches on underground facilities in China. The exoskeleton belongs to the third generation. It eliminated structural defects, drastically reduced mobility, as well as reinforced armor. Provides excellent protection against bullet and shrapnel hits, but does not guarantee resistance to anomalies.</text>
+	</string>
+	<string id="exo_outfit_description_m1">
+		<text>Monolitische prototype of the exoskeleton of the second generation night vision device with digital signal filtering and system protection from psi-radiation.</text>
+	</string>
+	<string id="exo_outfit_name">
+		<text>The exoskeleton</text>
+	</string>
+	<string id="killer_outfit_description">
+		<text>Jumpsuit Stalker from the group of "Mercenaries". Based on the samples of equipment of special forces of Western armies. Due to a special fabric treatment enhanced the stability of the armor in the physical displacement of the plates. On the protective characteristics slightly superior army armor series PSZ-7.</text>
+	</string>
+	<string id="killer_outfit_description_m1">
+		<text>In the lining of the jacket sewn chainmail mesh that enhance protection from firearms, as well as from the bite of monsters. Also included are night vision.</text>
+	</string>
+	<string id="killer_outfit_name">
+		<text>Jumpsuit mercenary</text>
+	</string>
+	<string id="killer_outfit_name_m1">
+		<text>Reinforced leathers</text>
+	</string>
+	<string id="military_outfit_description">
+		<text>Army armoured suit SKAT-9M created for carrying out assault operations in the areas of activity anomalies. In stock: heavy army bronekostyum series PSZ-12P, built-in compensation suit, helmet Sphere-12M. Provides excellent protection against bullet and shrapnel hits, it does not reduce the mobility of the soldier. In the presence of a balanced system of protection from anomalous exposure.</text>
+	</string>
+	<string id="military_outfit_name">
+		<text>Army bronekostyum</text>
+	</string>
+	<string id="monolit_outfit_description">
+		<text>Jumpsuit Stalker group "Monolith", manufacturer unknown. On the protective characteristics slightly inferior army armor series PSZ-9a. According to the structure it resembles the widespread among neutral stalkers gear, where the armor connects to the costume of radiation protection. Good protection from weak weapons. The protection level of abnormal activity is poor due to the lack of a system of air filtration.</text>
+	</string>
+	<string id="monolit_outfit_name">
+		<text>Jumpsuit monolith</text>
+	</string>
+	<string id="novice_outfit_description_m">
+		<text>The jacket the corpse was removed from one of the stalkers who died in the anomaly "a jelly". After spending a long time in the anomaly, the jacket has gained the ability to speed up metabolism.</text>
+	</string>
+	<string id="novice_outfit_name_m">
+		<text>Anomalous jacket</text>
+	</string>
+	<string id="outfit_soldier_description">
+		<text>The usual heavy leather jacket, what a lot. Slightly increases protivobolevoe and fragmentation protection. Ineffective against abnormal and other impacts.</text>
+	</string>
+	<string id="outfit_soldier_name">
+		<text>Leather jacket</text>
+	</string>
+	<string id="protection_outfit_description">
+		<text>Jumpsuit high quality modified SSP-99. Added protection of the torso from the bullet and shrapnel damage. Designed for equipment protection scientific expeditions. Effective protection from radiation and biological anomalies. Resistant to chemically aggressive environments, and other harmful influences.</text>
+	</string>
+	<string id="protection_outfit_name">
+		<text>Jumpsuit SSP-99M</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>Produced by one of Kiev''s defense research Institute, this jumpsuit provides a great alternative to other stalkeresque overalls made in handicraft conditions. Is a great combination of an armored jumpsuit, respiration system with a closed cycle and an integrated system of suppression of the action of the anomalous fields. Due to the successful selection of materials is a good choice. The only drawback is its price.</text>
+	</string>
+	<string id="scientific_outfit_name">
+		<text>Jumpsuit "SEVA"</text>
+	</string>
+	<string id="specnaz_outfit_description_m1">
+		<text>A suit fabric impregnated streptocidum ointment that accelerates the healing of wounds.</text>
+	</string>
+	<string id="specnaz_outfit_name_m1">
+		<text>Medical Beryl</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>Modified to work in the Zone, equipment of the army special forces - Berill-5M. Part of: army flak jacket series PSZ-9a with a beryllium-coated Sphere helmet-08. Designed for assault operations in areas with elevated background radiation. Are not effective under conditions of high anomalous activity.</text>
+	</string>
+	<string id="specops_outfit_name">
+		<text>The suit Berill-5M</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>Produced by "craftsmen" jumpsuit Stalker is an effective combination of a light military bulletproof vest and a jumpsuit made of rubberized fabric. Strengthened by built-in Kevlar plates. Good protection from weak weapons. In General very inadequate for deep raids and serious operations in the knots of the Zone.</text>
+	</string>
+	<string id="stalker_outfit_description_m1">
+		<text>There is a legend that the Ghost Stalker never carries a first aid kit. It all heals as on a dog. Say that he had an unusual jumpsuit and that he it out of here got.</text>
+	</string>
+	<string id="stalker_outfit_description_m2">
+		<text>The former owner of this thing was a real tourist, and never once used to go to heavy, on the verge of human possibilities Hiking. He knew how to distribute the weight carried and what to prefer. The pockets on the jacket and the well-chosen backpack allow you to carry more weight.</text>
+	</string>
+	<string id="stalker_outfit_name">
+		<text>Jumpsuit Stalker</text>
+	</string>
+	<string id="stalker_outfit_name_m1">
+		<text>Jumpsuit Ghost</text>
+	</string>
+	<string id="stalker_outfit_name_m2">
+		<text>Jumpsuit tourist</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>Produced by artisans of the Liberty group reinforced jumpsuit Stalker. The average army flak jacket plus the overhead reinforcing zirconium elements give good protection against machine-gun bullets and shrapnel at different distances. The suit material consists of two layers: specially treated leather and cloth with asbestos thread. Gives some protection from various abnormal effects and radiation.</text>
+	</string>
+	<string id="svoboda_heavy_outfit_name">
+		<text>Jumpsuit "Guardian of freedom"</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>Produced by the artisans group "Freedom" lightweight jumpsuit Stalker. Light army flak jacket plus Kevlar reinforcing patch plate. Able to protect from weak weapons. Fabric of jumpsuit is treated with a special compound that increases resistance to abnormal activity.</text>
+	</string>
+	<string id="svoboda_light_outfit_name">
+		<text>Jumpsuit "Wind of freedom"</text>
+	</string>
+	<string id="svoboda_outfit_name_m1">
+		<text>Modified jumpsuit of freedom</text>
+	</string>
+	<string id="svoboda_outfit_description_m1">
+		<text>Overalls integrated metal grid that protects from electric and magnetic fields. The kit also included a night vision device.</text>
+	</string>
+	<string id="mp_exo_outfit_description">
+		<text>The exoskeleton perfectly protects from bullet and shrapnel damage, but reduces mobility. Vulnerable to armor-piercing bullets.</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+		<text>The exoskeleton</text>
+	</string>
+	<string id="mp_military_outfit_description">
+		<text>Army bronekostyum created for carrying out assault operations. Provides excellent protection against bullet and shrapnel hits, it does not reduce the mobility of the soldier. Vulnerable to armor-piercing bullets.</text>
+	</string>
+	<string id="mp_military_outfit_name">
+		<text>Army bronekostyum</text>
+	</string>
+	<string id="mp_scientific_outfit_description">
+		<text>This jumpsuit is designed for research activities in the Area. Equipped with a breathing system with a closed cycle and an integrated system of suppression of action and the anomalous fields, whereby perfectly protect from anomalies. Due to weak protection is very vulnerable. Has a built-in container for artifacts transfer.</text>
+	</string>
+	<string id="mp_scientific_outfit_name">
+		<text>Science jumpsuit</text>
+       </string>
+	<string id="protection_outfit_description_m1">
+		<text>High-quality jumpsuit made from heavy-duty materials on the basis of the suit "Monolit Scientific". Effective protection from radiation and biological anomalies. Resistant to chemically aggressive environments, and other harmful influences. Also included are night vision with digital signal filtering and system protection from psi-radiation.</text>
+	</string>
+	<string id="protection_outfit_name_m1">
+		<text>Jumpsuit SP++</text>
+	</string>
+	<string id="novice_outfit_description_m2">
+		<text>In a jacket sewn Kevlar gasket, to increase protection from bullet and shrapnel hits.</text>
+	</string>
+	<string id="novice_outfit_name_m2">
+		<text>Kevlar jacket</text>
+       </string>
+	<string id="military_outfit_name_m1">
+		<text>The exoskeleton SKAT-10</text>
+	</string>
+	<string id="military_outfit_description_m1">
+		<text>The prototype of the army's special suit-exoskeleton SKAT-10. Created based on well-proven in the conditions Area SKAT-9M. Most likely made by the same company that produces exoskeletons dolgovskaya, since the parameters are almost identical.</text>
+	</string>
+	<string id="monolit_scientific_outfit_description">
+		<text>Modification of the overall "Monolith". Like most creations of the Monolith technology is unknown. It is established that it is composed of extraterrestrial materials. They are lighter than their earth counterparts and is very well protected from radiation, speed up metabolism and reflect the psi-radiation.</text>
+	</string>
+	<string id="monolit_scientific_outfit_name">
+		<text>Jumpsuit Chernobyl</text>
+	</string>
+	<string id="freedom_scientific_outfit_name">
+		<text>Academic costume of Freedom</text>
+	</string>
+	<string id="freedom_scientific_outfit_description">
+		<text>Liberty Manufacturing group, for research in the Area. Security system with closed-loop integrated system of suppression of the action of the anomalous fields. High protection from radiation. Bullet protection is still insufficient for active hostilities.</text>
+	</string>
+	<string id="killer_scientific_outfit_name">
+		<text>Research costume mercenaries</text>
+	</string>
+	<string id="killer_scientific_outfit_description">
+		<text>Costume mercenaries who ply in the anomalous zones. Security system with closed-loop integrated system of suppression of the action of the anomalous fields. Provides good protection from bullet and shrapnel hits, but clearly insufficient for large-scale hostilities.</text>
+	</string>
+	<string id="monolit_exoskeleton_name">
+		<text>The exoskeleton Monolith</text>
+	</string>
+	<string id="monolit_exoskeleton_description">
+		<text>Technology of creation unknown. The composition of the material discovered inclusions of unknown metal, nature of origin is unknown. Surprisingly light weight and high level performance on all counts. Maximum protection from radiation.</text>
+	</string>
+	<string id="svoboda_exoskeleton_name">
+		<text>The exoskeleton of Freedom</text>
+	</string>
+	<string id="svoboda_exoskeleton_description">
+		<text>The product of artisans of Freedom. Experimenting with different modifications, after numerous attempts they managed to create a really successful design. Comparable In characteristics to the suit Debt. Work on its improvement continues.</text>
+	</string>
+	<string id="killer_blue_exoskeleton_name">
+		<text>The exoskeleton mercenaries</text>
+	</string>
+	<string id="killer_blue_exoskeleton_description">
+		<text>The experimental sample of a military exoskeleton in the West. The exoskeleton belongs to the third generation. Used by mercenaries. The emphasis is on combat applications, the anomalous resistance is low.</text>
+	</string>
+	<string id="dolg_black_exoskeleton_name">
+		<text>The exoskeleton Debt</text>
+	</string>
+	<string id="dolg_black_exoskeleton_description">
+		<text>Domestic development of a research Institute specifically to group Duty. Military functions predominate, large load capacity. The weight of The suit, however, does not exclude the possibility to run in it.</text>
+	</string>
+	<string id="nebo_exo_name">
+		<text>The exoskeleton Hunters</text>
+	</string>
+	<string id="nebo_exo_description">
+		<text>The exoskeleton perfectly protects from a variety of anomalous effects, radiation poisoning, and bites and bumps. Vulnerable to armor-piercing bullets.</text>
+	</string>
+	<string id="nebo_light_outfit_name">
+		<text>Jumpsuit "Hunter"</text>
+	</string>
+	<string id="nebo_light_outfit_description">
+		<text>Produce hunters lightweight jumpsuit Stalker. Light military armor. Able to protect from weak weapons. Fabric of jumpsuit is treated with a special compound that increases resistance to abnormal activity.</text>
+	</string>
+	<string id="nebo_heavy_outfit_name">
+		<text>Jumpsuit "Guardian hunting"</text>
+	</string>
+	<string id="nebo_heavy_outfit_description">
+		<text>Produce hunters reinforced jumpsuit Stalker. The average army flak jacket. The suit material consists of two layers: specially treated leather and cloth with asbestos thread. Gives good protection from various abnormal effects and radiation.</text>
+	</string>
+	<string id="outfit_soldier_new_name">
+		<text>Army costume</text>
+	</string>
+	<string id="outfit_soldier_new_description">
+		<text>The standard equipment of a soldier - a light military bulletproof vest, boots and camouflage. Effectively protects from pistol bullets and shrapnel. Ineffective against abnormal and other impacts.</text>
+	</string>
+	<string id="dark_veteran_outfit_name">
+		<text>Leather coat</text>
+	</string>
+	<string id="dark_veteran_outfit_description">
+		<text>Has a little more protection from injuries and fire than a normal jacket. Clothing dark veterans. Protection is extremely insufficient, but natural leather.</text>
+	</string>
+	<string id="bandit_master_outfit_name">
+		<text>Bandit cloak</text>
+	</string>
+	<string id="bandit_master_outfit_description">
+		<text>First, these cloaks were a distinctive feature of the OPG Arrow. Now go to the foremen of the crime. A good bullet resistance... for a Cape made of leather.</text>
+	</string>
+	<string id="exo_outfit_name_m2">
+		<text>The exoskeleton "NA"</text>
+	</string>
+	<string id="exo_outfit_description_m2">
+		<text>The exoskeleton of the future, developed by the Corporation "New Arsenal".</text>
+	</string>
+	<string id="st_helm_battle">
+		<text>Helmet "Sphere M12"</text>
+	</string>
+	<string id="st_helm_battle_descr">
+		<text>Fabric finished with aluminum-titanium helmet with pockets for steel armor elements and bruneleschi. Usually comes complete with body armor class PS3 for special forces. Quite popular in the Area thanks to the respirator and the integrated night vision device and a good protection of the head.</text>
+	</string>
+	<string id="st_helm_hardhat">
+		<text>Steel helmet</text>
+	</string>
+	<string id="st_helm_hardhat_descr">
+		<text>Standard army steel helmet. Does not protect from anomalies or radiation, but is able to reject flown at a tangent shot. Demand in the Area was only used during the first clashes between the factions.</text>
+	</string>
+	<string id="st_helm_protective">
+		<text>Helmet "Barrier"</text>
+	</string>
+	<string id="st_helm_protective_descr">
+		<text>Light helmet with an airtight visor intended for protection from certain abnormal influences. Judging by the technology developed by the defense research Institute, and overalls "SEVA" - presumably for use with complete army protection.</text>
+	</string>
+	<string id="st_helm_respirator">
+		<text>Gas mask</text>
+	</string>
+	<string id="st_helm_respirator_descr">
+		<text>A standard gas mask, designed to filter from the air of radioactive dust and toxic substances. Widely used by both beginners and veterans of all groups because of its functional indispensability. Not equipped with protection against bullets, fragments and mechanical damage.</text>
+	</string>
+	<string id="st_helm_tactic">
+		<text>Tactical helmet</text>
+	</string>
+	<string id="st_helm_tactic_descr">
+		<text>The Western model of a tactical helmet, devoid of any marking. Designed to provide the unit commander the maximum amount of tactical information with the installation of appropriate electronic "stuffing". It features an enhanced design; in addition, equipped with multi-layer Kevlar protection, a respirator and night-vision goggles.</text>
+	</string>
+</string_table>

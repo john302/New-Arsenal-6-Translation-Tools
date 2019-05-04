@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="oso_chernobyl_crush_0">
+		<text>The accident in 1986 - is yours?</text>
+	</string>
+	<string id="oso_chernobyl_crush_1">
+		<text>No, we can't help it. Our experiment began after the accident at the Chernobyl nuclear power plant.</text>
+	</string>
+	<string id="oso_death_truck_0">
+		<text>What is the "trucks of death"?</text>
+	</string>
+	<string id="oso_death_truck_1">
+		<text>It is the means by which we deliver our agents in different parts of the Zone. Agents embedded in the environment of stalkers and perform tasks that they were programmed without even knowing it. Unfortunately, more than half of the agents during transport are killed, as the Area is very unstable.</text>
+	</string>
+	<string id="oso_no_0">
+		<text>No, I refuse to join you.</text>
+	</string>
+	<string id="oso_osoznanie_start_11">
+		<text>Hello, Shooter. I see you have a lot of questions for me. Ask them, and then we'll decide what to do with you.</text>
+	</string>
+	<string id="oso_osoznanie_start_21">
+		<text>The choice is yours.</text>
+	</string>
+	<string id="oso_stalker_0">
+		<text>What does the tattoo "S. T. A. L. K. E. R."?</text>
+	</string>
+	<string id="oso_stalker_1">
+		<text>S. T. A. L. K. E. R. is the name of the program coding of the person to perform certain tasks. On the way to the center of the Zone, we have placed multiple psi-units. The largest of these known to you as "brain burner". Everyone who is trying to get to the center of the Zone, fall under our control. Then they pass encoding, have become our agents and get a tattoo of S. T. A. L. K. E. R. Sending them through the Area we affect the course of events and ensure their safety.</text>
+	</string>
+	<string id="oso_what_about_me_0">
+		<text>What happened to me?</text>
+	</string>
+	<string id="oso_what_about_me_1">
+		<text>You fell out of the mechanism nut. During one of the trips to the Zone center, you're too close to us. Our ingress was considered to be perfect, but you managed to find a way, the existence of which we were unaware. To prevent our secret found out someone else we could not: mankind is not yet ready to learn the truth about the reasons for the emergence Zone. So we immediately began to encode our agents on your destruction. For some reason the equipment failed, and we have not noticed that you yourself were among the stalkers, which have come under our control. You got a mission to kill himself.</text>
+	</string>
+	<string id="oso_what_is_the_zone_0">
+		<text>What is a Zone? Why did it originate?</text>
+	</string>
+	<string id="oso_what_is_the_zone_1">
+		<text>The area is a result of out-of-control experiment with the noosphere information field of the Earth. We were going to connect to the noosphere, to explore the ability to influence it. However, during the experiment there was a breakthrough, and the energy of the noosphere poured on the earth, changing everything around. Thus was formed the anomaly you call the Area.</text>
+	</string>
+	<string id="oso_what_next_0">
+		<text>What's next?</text>
+	</string>
+	<string id="oso_what_next_1">
+		<text>What happens next is up to you. The area is slowly but steadily increasing. Our power is barely enough to stem the flow of the energy of the noosphere. You can join us - our strength will increase and we may be able to get it under control. You can destroy us. Then the energy of the noosphere will flow freely in the Area, and where it leads is unknown.</text>
+	</string>
+	<string id="oso_who_are_you_0">
+		<text>Who are you?</text>
+	</string>
+	<string id="oso_who_are_you_1">
+		<text>We are "On-Consciousness", a group of researchers who have set a goal to change the world. It is known that the Earth is surrounded with special information field of the noosphere. It is closely connected with all sentient beings on the planet and keeps all of their mental images. We decided to connect to the noosphere and make changes: removing all the dark, which gave rise to humanity to make the world perfect. No human mind does not have sufficient power to interact with the noosphere, so we pooled our consciousness.</text>
+	</string>
+	<string id="oso_why_chernobyl_0">
+		<text>Why it happened here?</text>
+	</string>
+	<string id="oso_why_chernobyl_1">
+		<text>Chernobyl NPP was the most suitable place for our experiments. First, after the accident in 1986, there was a few people, so we could work without fear. Secondly, the station provided us with energy required for operation of the plants. Thirdly, next to the station there were powerful antennas that were used in the experiments on effects on people's minds.</text>
+	</string>
+	<string id="oso_yes_0">
+		<text>I agree to join the "On-Consciousness".</text>
+	</string>
+</string_table>

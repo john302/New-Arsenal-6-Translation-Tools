@@ -1,0 +1,144 @@
+	<string id="bar_arena_actor_afraid">
+		<text>The fight is canceled. The applicant was frightened and came out to the ring.</text>
+	</string>
+	<string id="bar_arena_fight_10">
+		<text>It took 10 seconds!</text>
+	</string>
+	<string id="bar_arena_fight_20">
+		<text>It took 20 seconds!</text>
+	</string>
+	<string id="bar_arena_fight_30">
+		<text>It took 30 seconds!</text>
+	</string>
+	<string id="bar_arena_fight_40">
+		<text>It took 40 seconds!</text>
+	</string>
+	<string id="bar_arena_fight_50">
+		<text>It took 50 seconds!</text>
+	</string>
+	<string id="bar_arena_fight_60">
+		<text>A minute passed!</text>
+	</string>
+	<string id="bar_arena_fight_70">
+		<text>Took a minute and 10 seconds!</text>
+	</string>
+	<string id="bar_arena_fight_80">
+		<text>Took a minute and 20 seconds!</text>
+	</string>
+	<string id="bar_arena_fight_90">
+		<text>It took fifteen minutes!</text>
+	</string>
+	<string id="bar_arena_fight_begin">
+		<text>The battle began!</text>
+	</string>
+	<string id="bar_arena_fight_bloodsucker">
+		<text>Attention! Attention! Soon the Arena will start a new battle! In the left corner of the arena, the bloodthirsty and ever-hungry Bloodsucker! In the right corner of the arena, man? Yeah, man! They call him the Bullseye!</text>
+	</string>
+	<string id="bar_arena_fight_burer">
+		<text>Attention! Attention! Soon the Arena will start a new battle! In the left corner of the arena, he knows kung fu, he is able to bend spoons, it's a Burer! In the right corner of the arena, the hero whose quest will never end! They call him the Bullseye!</text>
+	</string>
+	<string id="bar_arena_fight_dead">
+		<text>So! The enemy put down a contender. Here is the number!</text>
+	</string>
+	<string id="bar_arena_fight_lose">
+		<text>So! The applicant has put the enemy, but did not in the time allotted and lost!</text>
+	</string>
+	<string id="bar_arena_fight_pseudodog">
+		<text>Attention! Attention! Soon the Arena will start a new battle! In the left corner of the arena, white, fluffy, but incredibly angry Pseudodog! In the right corner of the arena, coming from nowhere, going nowhere. They call him the Bullseye!</text>
+	</string>
+	<string id="bar_arena_fight_savage">
+		<text>Attention! Attention! Soon the Arena will start a new battle! In the left corner of the arena, you know him, you love him. And he hates you. It's A Beast! In the right corner of the arena, still alive, Bullseye!</text>
+	</string>
+	<string id="bar_arena_fight_snork">
+		<text>Attention! Attention! Soon the Arena will start a new battle! In the left corner of the arena, martial arts expert and nutrition Snork! In the right corner of the arena, the man without a past. They call him the Bullseye!</text>
+	</string>
+	<string id="bar_arena_fight_timeout">
+		<text>Time's up! The Challenger lost, but still fighting for his life!</text>
+	</string>
+	<string id="bar_arena_fight_victory">
+		<text>So! The applicant managed to put the enemy in the allotted time and win!</text>
+	</string>
+	<string id="bar_ecolog_attack">
+		<text>As you please.</text>
+	</string>
+	<string id="bar_ecolog_crush_attract_actor">
+		<text>Stalker, man! I beg don't leave, help us! The anarchists shot down our helicopter and we're going to finish. We have wounded, we need your help!</text>
+	</string>
+	<string id="bar_ecolog_crush_heli_down">
+		<text>Hehe, that's all. Nope your helicopter! Now and you will get rat government!</text>
+	</string>
+	<string id="bar_ecolog_crush_start_heli">
+		<text>Well, all Wolfhound, you had it. Flying in a military helicopter. Now they have, like puppies!</text>
+	</string>
+	<string id="bar_ecolog_escape">
+		<text>The Professor has escaped! Urgent all in pursuit of Kruglov! He had not gone far.</text>
+	</string>
+	<string id="bar_ecolog_hit">
+		<text>Labeled, help me!!! Killing me!!!</text>
+	</string>
+	<string id="bar_ecolog_spam_1">
+		<text>Cost, Jackal. First finish school, and then going to put ultimatums.</text>
+	</string>
+	<string id="bar_ecolog_spam_2">
+		<text>If you attack, I'll destroy information. Figs you, and not my work.</text>
+	</string>
+	<string id="bar_ecolog_spam_3">
+		<text>If you don't want me to destroy the evidence stay away.</text>
+	</string>
+	<string id="bar_ecolog_spam_4">
+		<text>Wolfhound, get your dogs while tails not skinned!</text>
+	</string>
+	<string id="bar_freedom_attack">
+		<text>All the talk is over. The shooting starts.</text>
+	</string>
+	<string id="bar_freedom_attack_attract_actor">
+		<text>Man, let's put here! The thing is. Together we will finish these government rats.</text>
+	</string>
+	<string id="bar_freedom_attack_spy">
+		<text>Labeled. You bitch, for the bases we will pay.</text>
+	</string>
+	<string id="bar_freedom_chase">
+		<text>They're coming for us!? Labeled, stop them.</text>
+	</string>
+	<string id="bar_freedom_spam_1">
+		<text>In short, you wise fool. Or give me the results, or leave in a plastic bag.</text>
+	</string>
+	<string id="bar_freedom_spam_2">
+		<text>Kruglov, I don't know Latin, but I know the language of weapons. I ask you on it? Or will you give information?</text>
+	</string>
+	<string id="bar_freedom_spam_3">
+		<text>Professor, you're a smart man. Give information and go on all four sides.</text>
+	</string>
+	<string id="bar_freedom_spam_4">
+		<text>Kruglov, do you still not understand?! We knocked your a fucking helicopter and we need that information that you carry. After you give it to us, you can with your children to blame. This is your last chance to get out of here, come on the flash drive and go</text>
+	</string>
+	<string id="bar_psih_come">
+		<text>Urgently go here! Near the Radar, my guys caught a crazy Stalker, are now trying to interrogate him.</text>
+	</string>
+	<string id="bar_territory_dolg_1_hit">
+		<text>Bullseye, are you crazy? Immediately stop shooting! That's an order!</text>
+	</string>
+	<string id="bar_territory_dolg_2_hit">
+		<text>Labeled, immediately stop shooting! If you disobey a command you're dead!</text>
+	</string>
+	<string id="bar_territory_dolg_3_hit">
+		<text>Labeled. For violating the code of Debt you are banished from the group. From now on you are our enemy.</text>
+	</string>
+	<string id="bar_territory_dolg_kill">
+		<text>Bullseye, you disobeyed a direct order! Now you're dead. Debt isn't as forgiving!</text>
+	</string>
+	<string id="bar_territory_nodolg_1_hit">
+		<text>Stop shooting! On-site Debt shooting is prohibited! Disobeying will be punished!</text>
+	</string>
+	<string id="bar_territory_nodolg_2_hit">
+		<text>Attention! For violation of the law on the use of weapons on the territory of Debt, Labeled declared criminal.</text>
+	</string>
+	<string id="bar_territory_nodolg_kill">
+		<text>Attention! Discovered the killer! Order to all in the territory of duty! Immediately destroy the killer!</text>
+	</string>
+	<string id="rostok_kruglov_spam_1">
+		<text>Stalker, help! We were attacked by mercenaries, half of us were killed. Help us, we are not in debt stay.</text>
+	</string>
+	<string id="rostok_kruglov_spam_2">
+		<text>Help us to fight through an ambush near the plant, I'm thrown off the coordinates. Be careful, by the Wolfhound with the thugs near the helicopter.</text>
+	</string>

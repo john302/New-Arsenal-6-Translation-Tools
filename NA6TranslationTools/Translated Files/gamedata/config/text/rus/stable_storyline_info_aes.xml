@@ -1,0 +1,9 @@
+	<string id="aes_military_task">
+		<text>Operation "Monolith"</text>
+	</string>
+	<string id="aes_military_task_head">
+		<text>Furnished</text>
+	</string>
+	<string id="aes_soldier_info">
+		<text>Action plan\n\nMilitary personnel:\nthe Commander of the operation, call the Quartet\nSeven airborne assault troops: "Sapsan" "Hawk" "Hawk" Kestrel, "Falcon" Grif "LUN".\nSniper calculation: "Owl"\nSupport:\nAir: "the eighteenth-Zero" "zero thirtieth" "Zero thirty-one" "Forty-eight", "forty ninth" "half a second"\n"forty first", "Sixty four" "Sixty five" "zero ninety-eight" "zero ninety-seven"\nEarth: "Battleship-1" "Battleship-2" "Battleship-3"\nFurnished: Possible strong resistance in the area of the bridge(23,45), gate(26,78), the road along the main building of the station(12,23-53,76). Probably the use of the enemy's heavy weapons.\nthe Expected strength of the enemy 70 - 100. The presence of armored vehicles - no.\nPossible heavy sniper cover from the enemy.\nWeather: Visibility - 700, the presence of previously unknown anomalies.</text>
+	</string>

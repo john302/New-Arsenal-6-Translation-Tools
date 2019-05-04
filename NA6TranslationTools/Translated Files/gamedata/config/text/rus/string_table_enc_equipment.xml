@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+   <string id="Antirad">
+      <text>Anti-radiation drugs</text>
+   </string>
+   <string id="Arm-heavy">
+      <text>Stalkeresque heavy equipment</text>
+   </string>
+   <string id="Arm-light">
+      <text>Easy stalkeresque equipment</text>
+   </string>
+   <string id="Arm-medium">
+      <text>Secondary stalkeresque equipment</text>
+   </string>
+   <string id="bandage">
+      <text>Bandage</text>
+   </string>
+   <string id="Binocul">
+      <text>Binoculars</text>
+   </string>
+   <string id="Bread">
+      <text>Bread</text>
+   </string>
+   <string id="cit_deadcity_maps_desc">
+      <text>A detailed map of the Dead city that contains the layout of the positions of the mercenaries</text>
+   </string>
+   <string id="cit_deadcity_maps_name">
+      <text>Map of the Dead city</text>
+   </string>
+   <string id="cit_doctors_key_desc">
+      <text>Key Doctor from the stash in Pripyat.</text>
+   </string>
+   <string id="cit_doctors_key_short_desc">
+      <text>Key Doctor</text>
+   </string>
+   <string id="Conserva">
+      <text>"Happy camper"</text>
+   </string>
+   <string id="Detect1">
+      <text>Anomaly detector</text>
+   </string>
+   <string id="Devic">
+      <text>Devices</text>
+   </string>
+   <string id="device-PDA">
+      <text>PDA</text>
+   </string>
+   <string id="device-torch">
+      <text>Flashlight</text>
+   </string>
+   <string id="device-torch_m1">
+      <text>Super Flashlight</text>
+   </string>
+   <string id="enc_equipment_armors_arm-heavy">
+      <text>A protective suit. Weight - 18 kg. Features: protects the body from "jelly", "hot fuzz", most of the anomalies and mechanical damage. Chest and back are protected by built-in bimetallische plates. Equipped with hermetic plastic helmet and two oxygen cylinders. Note: in continuous use is in disrepair - damaged and torn.</text>
+   </string>
+   <string id="enc_equipment_armors_arm-light">
+      <text>A protective suit. Weight - 8 kg. Features: protects the body from the effects of the weak anomalies and mechanical damage. Equipped with oxygen mask. Note: in continuous use is in disrepair - damaged and torn.</text>
+   </string>
+   <string id="enc_equipment_armors_arm-medium">
+      <text>A protective suit. Weight - 12 kg. Features: protects the body from "jelly", "hot fuzz", many anomalies and mechanical damage. Equipped with a sealed helmet and oxygen tank. Note: in continuous use is in disrepair - damaged and torn.</text>
+   </string>
+   <string id="enc_equipment_armors_sci2">
+      <text>A protective suit is red, with a sealed helmet. Weight - 11 kg. Features: protects the body from fire, acids, gases, exposure to a variety of abnormalities, "hot fuzz" and mechanical damage. Equipped with two oxygen cylinders. Note: in continuous use is in disrepair - damaged and torn.</text>
+   </string>
+   <string id="enc_equipment_devic_binocul1">
+      <text>Army portable binoculars.</text>
+   </string>
+   <string id="enc_equipment_devic_detect1">
+      <text>Dosimeter - a device that measures the dose or power of ionizing radiation.</text>
+   </string>
+   <string id="enc_equipment_devic_detect2">
+      <text>A device that determines the presence of anomalous fields and disturbances and reporting them sound signal.</text>
+   </string>
+   <string id="enc_equipment_devic_detect3">
+      <text>Elite anomaly detector, invented by scientists in the Area. Determines the presence of anomalous fields and disturbances, but also on the map shows their location, tells them about a sound signal.</text>
+   </string>
+   <string id="enc_equipment_devic_detect4">
+      <text>Anomaly detector used by the group to the Monolith. The production technology is unknown. Advantages in comparison with the elite anomaly detector lies in the lower weight of the device and that it can function as detector artifacts.</text>
+   </string>
+   <string id="enc_equipment_devic_device-PDA1">
+      <text>Pocket personal computer is an indispensable device in the Zone.</text>
+   </string>
+   <string id="enc_equipment_devic_device-torch1">
+      <text>Flashlight with normal bulb. Very useful in low light conditions.</text>
+   </string>
+   <string id="enc_equipment_devic_device-torch1_m1">
+      <text>Flashlight with a powerful lamp. A very useful thing when you excess cash.</text>
+   </string>
+   <string id="enc_equipment_energydrink">
+      <text>Great energy drink "Non Stop". Contains caffeine, taurine and a powerful vitamin complex that removes fatigue and adds strength. Unable to make even a step? Then this is what you need.</text>
+   </string>
+   <string id="enc_equipment_food_bread1">
+      <text>Who knows who manages to bake loaves in the Zone, but this bread is not infected and quite edible. In any case, none of the stalkers have not yet complained.</text>
+   </string>
+   <string id="enc_equipment_food_conserva1">
+      <text>Canned army food warehouse. Shelf life seems to be not expired.</text>
+   </string>
+   <string id="enc_equipment_food_kolbasa1">
+      <text>Often, for lack of a better sausage - a mixture of chicken and soy substitutes - is Breakfast, lunch and dinner Stalker.</text>
+   </string>
+   <string id="enc_equipment_food_vodka1">
+      <text>Vodka produced by "NA". Good to drink, significantly reduces the radiation exposure, however, misusing it should not.</text>
+   </string>
+   <string id="enc_equipment_medi_antirad1">
+      <text>Reduce the impact of radiation on the body.</text>
+   </string>
+   <string id="enc_equipment_medi_bandage1">
+      <text>Dressing material. Helps to stop the bleeding.</text>
+   </string>
+   <string id="enc_equipment_medi_medkit1">
+      <text>Universal medical kit. Can cope with injuries of various types and severity - wounds, burns, poisoning and others.</text>
+   </string>
+   <string id="enc_equipment_medi_medkit2">
+      <text>Specialized medical kit to fight against physical damage and bleeding. There are components for accelerating blood clotting, painkillers, antibiotics and immune stimulants.</text>
+   </string>
+   <string id="enc_equipment_medi_medkit3">
+      <text>The kit, developed specially for work in the Zone. Picked The set up for combat wounds, and for the withdrawal of radionuclides from the body. Prevents the development of radiation sickness and lowers the dose of accumulated radiation.</text>
+   </string>
+   <string id="energy_drink_name">
+      <text>Energy drink "Non Stop"</text>
+   </string>
+   <string id="energy_drink_short_name">
+      <text>Energy drink "Non Stop"</text>
+   </string>
+   <string id="enc_equipments_sleeping_bag">
+      <text>The subject of a marching life intended for rest and sleep. The sleeping bag provides good insulation from the cold, as well as additional period.</text>
+   </string>
+   <string id="enc_equipments_cat_bag">
+      <text>Trained to protect the owner of the saber-toothed cat in the bag. Weighs decent, but very effectively helps to repel the attacks of various evil spirits. If necessary the cat can be planted again in the bag. In the lining of the bag enclosing artifact fragments Spring to reduce the whole of this large beast.</text>
+   </string>
+   <string id="Equipment">
+      <text>Equipment and food</text>
+   </string>
+   <string id="Food">
+      <text>Food</text>
+   </string>
+   <string id="Kolbasa">
+      <text>Sausage "Practical"</text>
+   </string>
+   <string id="Medi">
+      <text>Medications</text>
+   </string>
+   <string id="Medkit">
+      <text>First aid kit</text>
+   </string>
+   <string id="Medkit_army">
+      <text>Army kit</text>
+   </string>
+   <string id="Medkit_scientific">
+      <text>Scientific first aid kit</text>
+   </string>
+   <string id="Sci2">
+      <text>Scientific EXP-4</text>
+   </string>
+   <string id="Vodka">
+      <text>Vodka "Cossacks"</text>
+   </string>
+   <string id="st_detector1">
+      <text>Dosimeter</text>
+   </string>
+   <string id="st_detector2">
+      <text>Anomaly detector</text>
+   </string>
+   <string id="st_detector3">
+      <text>Elite anomaly detector</text>
+   </string>
+   <string id="st_detector4">
+      <text>Anomaly detector "Monolith"</text>
+   </string>
+   <string id="st_detector_descr">
+      <text>Designed to detect anomalous zones, as well as foci of contamination.</text>
+   </string>
+   <string id="st_sleeping_bag">
+      <text>Sleeping bag</text>
+   </string>
+   <string id="st_cat_bag">
+      <text>The cat in The bag</text>
+   </string>
+   <string id="tre_ruck">
+      <text>Empty backpack</text>
+   </string>
+   <string id="tre_ruck_s">
+      <text>Empty backpack</text>
+   </string>
+   <string id="enc_tre_ruck">
+      <text>Hiking backpack made of rubberized camouflage fabric, waterproof and invisible, so is ideal for laying its hiding place somewhere in a secluded place.</text>
+   </string>
+   <string id="kpb_name">
+      <text>Electronic game</text>
+   </string>
+   <string id="kpb_desc">
+      <text>One of the electronic toys that were so popular in the recent past.</text>
+   </string>
+   <string id="kittens_name">
+      <text>Detector "Monolith"</text>
+   </string>
+   <string id="kittens_desc">
+      <text>Anomaly detector and artifacts used by the group to the Monolith. The production technology is unknown.</text>
+   </string>
+   <string id="item_pda_labx8_name">
+      <text>PDA X8</text>
+   </string>
+   <string id="item_pda_labx8_desc">
+      <text>PDA with secret data from the laboratory X8.</text>
+   </string>
+   <string id="item_notebook_jupiter_name">
+      <text>Portable computers</text>
+   </string>
+   <string id="item_notebook_jupiter_desc">
+      <text>Portable computers assistant research station-hopper "Jupiter" with important information.</text>
+   </string>
+   <string id="item_doc_jupiter_name">
+      <text>Documentation Jupiter</text>
+   </string>
+   <string id="item_doc_jupiter_desc">
+      <text>Documentation with the secret data from the laboratory in the vicinity of Jupiter.</text>
+   </string>
+   <string id="item_kubik_rubik_name">
+      <text>Rubik's Cube</text>
+   </string>
+   <string id="item_kubik_rubik_desc">
+      <text>One of the most popular puzzle toys so distant 1980-ies. The idea should be inexpensive, and weigh much less. It is unclear why she is ready to pay a decent reward...</text>
+   </string>
+   <string id="Beer">
+      <text>Beer</text>
+   </string>
+   <string id="enc_equipment_food_beer">
+      <text>Beer Baltika. In small quantities a bit in recovery, but in excessive amounts causes intoxication.</text>
+   </string>
+   <string id="Flaska">
+      <text>Flask</text>
+   </string>
+   <string id="enc_equipment_food_flaska">
+      <text>Flask of living water.</text>
+   </string>
+   <string id="Naka">
+      <text>Chocolate</text>
+   </string>
+   <string id="enc_equipment_food_naka">
+      <text>Chocolate bar. They can be a good snack when there is nothing more.</text>
+   </string>
+   <string id="pripyat_key_name">
+      <text>Key</text>
+   </string>
+   <string id="pripyat_key_desc">
+      <text>Key that opens the unknown door...</text>
+   </string>
+   <string id="item_floppy_disketka_name">
+      <text>Floppy</text>
+   </string>
+   <string id="item_floppy_disketka_desc">
+      <text>Floppy with dannymi about the secret military development.</text>
+   </string>
+   <string id="item_music_cddisk_name">
+      <text>CD</text>
+   </string>
+   <string id="item_music_cddisk_desc">
+      <text>CD with some supposedly important information.</text>
+   </string>
+   <string id="item_condensators_name">
+      <text>Capacitors</text>
+   </string>
+   <string id="item_condensators_desc">
+      <text>A box of capacitors.</text>
+   </string>
+   <string id="item_transistors_name">
+      <text>Transistors</text>
+   </string>
+   <string id="item_transistors_desc">
+      <text>A box of transistors.</text>
+   </string>
+   <string id="item_katushka_provoloki_name">
+      <text>Coil wire</text>
+   </string>
+   <string id="item_katushka_provoloki_desc">
+      <text>Coil with wire for a wiring repair.</text>
+   </string>
+   <string id="item_icona_name">
+      <text>Icon</text>
+   </string>
+   <string id="item_icona_desc">
+      <text>Antique and very valuable icon. Collectors are willing to pay for it large sums.</text>
+   </string>
+   <string id="flower_ameliya_name">
+      <text>The scarlet flower</text>
+   </string>
+   <string id="flower_ameliya_desc">
+      <text>Petals white, with a bluish tint, Bud large, cross-shaped. The flower has a pleasant aroma. When you hold it, the Geiger counter stops near the radioactive zones. Apparently the flower somehow absorbs almost all the radiation. In addition it has other useful properties.</text>
+   </string>
+   <string id="container_rice_name">
+      <text>A container with rice</text>
+   </string>
+   <string id="container_rice_desc">
+      <text>Steel container for storing various items during prolonged exposure to radiation. It is possible to put even products, not afraid to get in their consumption dose of radiation. On the cover a sticker that says "Rice". The container is locked, it mounted a very clever castle. Judging by the weight and rumble when shaken, there's something in there.</text>
+   </string>
+   <string id="poison_gas_ballon_name">
+      <text>A tank of gas "Perrin B3"</text>
+   </string>
+   <string id="poison_gas_ballon_desc">
+      <text>The container of a dangerous chemical nerve agents.</text>
+   </string>
+   <string id="liker_baileys_name">
+      <text>Moonshine "Anomaly"</text>
+   </string>
+   <string id="liker_baileys_desc">
+      <text>A bottle of moonshine made by a Forester from Red forest by infusion of moonshine kicked in the anomalies.</text>
+   </string>
+   <string id="box_cigara_name">
+      <text>A box of cigars</text>
+   </string>
+   <string id="box_cigara_desc">
+      <text>Box of Cuban cigars "Guantanamera".</text>
+   </string>
+   <string id="item_lekarstvo_name">
+      <text>Medicine</text>
+   </string>
+   <string id="item_lekarstvo_desc">
+      <text>Powerful painkillers.</text>
+   </string>
+   <string id="sigaret">
+      <text>Cigarette</text>
+   </string>
+   <string id="enc_sigaret_desc">
+      <text>A pack of cigarettes. Is a hot commodity in the Area even among non-stalkers, because cigarette can be advantageous to exchange. Slightly satisfy hunger, but harmful to health.</text>
+   </string>
+   <string id="cigara">
+      <text>Cigar</text>
+   </string>
+   <string id="enc_cigara_desc">
+      <text>Cuban cigar. Is a hot commodity in the Area even among non-Smoking stalkers, as it can be beneficial exchange. Slightly satisfy hunger, but harmful to health.</text>
+   </string>
+   <string id="secret_device_name">
+      <text>The psi-emitter</text>
+   </string>
+   <string id="secret_device_desc">
+      <text>A portable device, designed and assembled by scientists of the Monolith. The exact purpose is unknown, but the device is able to broadcast a strong enough psi-radiation within a radius of 200 meters. Looks Topolino, however, in this case the appearance is probably deceptive.</text>
+   </string>
+   <string id="oreshki">
+      <text>Nuts</text>
+   </string>
+   <string id="enc_oreshki_desc">
+      <text>Nuts. Very filling and nutritious, so are expensive and rare.</text>
+   </string>
+   <string id="ryba">
+      <text>Sprat</text>
+   </string>
+   <string id="enc_ryba_desc">
+      <text>Sprat in tomato sauce. Regular canned anchovies. In the Area of these preserves is not enough, as outside the Area almost no one eats.</text>
+   </string>
+   <string id="Vitamin">
+      <text>Vitamins</text>
+   </string>
+   <string id="enc_equipment_vitamin">
+      <text>The daily dose of vitamins developed by scientists in the Area, especially for mitigating the harmful effects of radiation and anomalies. Restore strength, health and improves the appetite, and temporarily increase the carried weight on average 1 kg.</text>
+   </string>
+   <string id="Herkules">
+      <text>Hercules</text>
+   </string>
+   <string id="enc_equipment_herkules">
+      <text>Concentrated food product with creatine. Nutritious and also very convenient to use and storage due to compact and light weight. Well restores strength and temporarily increases the carry weight by an average of 10 kg.</text>
+   </string>
+   <string id="repair_kit">
+      <text>Kit</text>
+   </string>
+   <string id="enc_equipment_repair_kit">
+      <text>A set of tools and devices for car repair in field conditions.</text>
+   </string>
+   <string id="Barrel">
+      <text>Barrel</text>
+   </string>
+   <string id="item_case_pred_name">
+      <text>Documents from the dressing room</text>
+   </string>
+   <string id="explosive_charge_name">
+      <text>Explosives</text>
+   </string>
+   <string id="explosive_charge_desc">
+      <text>Explosives with a clockwork mechanism.</text>
+   </string>
+   <string id="item_note_jupiter_name">
+      <text>Note Jupiter</text>
+   </string>
+   <string id="item_note_jupiter_desc">
+      <text>A note with the secret data from the laboratory in the vicinity of Jupiter.</text>
+   </string>
+   <string id="item_note_zaton_name">
+      <text>Documents from Zaton</text>
+   </string>
+   <string id="item_note_zaton_desc">
+      <text>Documents with sensitive information lost by the military expedition on the Creek.</text>
+   </string>
+   <string id="item_kanifol_name">
+      <text>Rosin</text>
+   </string>
+   <string id="item_kanifol_desc">
+      <text>A box of rosin.</text>
+   </string>
+   <string id="item_textolite_name">
+      <text>The PCB</text>
+   </string>
+   <string id="item_textolite_desc">
+      <text>Electrical insulating structural material.</text>
+   </string>
+   <string id="item_memory_module_name">
+      <text>Transformer</text>
+   </string>
+   <string id="item_memory_module_desc">
+      <text>Device for electrical purposes.</text>
+   </string>
+   <string id="item_toolkit_1_name">
+      <text>Tools</text>
+   </string>
+   <string id="item_toolkit_1_desc">
+      <text>A basic set of tools.</text>
+   </string>
+   <string id="item_toolkit_2_name">
+      <text>Tools</text>
+   </string>
+   <string id="item_toolkit_2_desc">
+      <text>A set of tools for accurate work.</text>
+   </string>
+   <string id="item_toolkit_3_name">
+      <text>Tools</text>
+   </string>
+   <string id="item_toolkit_3_desc">
+      <text>A set of tools for ultra-precision work.</text>
+   </string>
+   <string id="item_black_box_name">
+      <text>Black box</text>
+   </string>
+   <string id="item_black_box_desc">
+      <text>The Black box of the helicopter that crashed over the Dead Marshes.</text>
+   </string>
+   <string id="item_pda_lucky_name">
+      <text>Pugach</text>
+   </string>
+   <string id="item_pda_lucky_desc">
+      <text>Some strange device, which according to scientists supposedly emits a frequency that is capable at short distances and for some time to scare off some monsters. Ineffective against monsters that can attack at ranges exceeding the range of the instrument. The device is powered and specific still unidentified a form of energy that is present in the Area. The device is quickly discharged, but over time begins to accumulate this unknown energy. Is installed in slot detectors anomalies.</text>
+   </string>
+   <string id="item_pda_tiran_name">
+      <text>Calculator</text>
+   </string>
+   <string id="item_pda_tiran_desc">
+      <text>Ordinary scientific calculator.</text>
+   </string>
+   <string id="item_msl_pda_name">
+      <text>An E-card</text>
+   </string>
+   <string id="item_msl_pda_desc">
+      <text>E-card from a secret vault in Pripyat.</text>
+   </string>
+   <string id="container_green_name">
+      <text>Green container</text>
+   </string>
+   <string id="container_green_desc">
+      <text>Steel container for storing various items during prolonged exposure to radiation. It is possible to put even products, not afraid to get in their consumption dose of radiation. On the cover a sticker that says "Green". The container is locked, it mounted a very clever castle. Judging by the weight and rumble when shaken, there's something in there.</text>
+   </string>
+   <string id="item_predatel_card_name">
+      <text>The identity of the traitor</text>
+   </string>
+   <string id="item_predatel_card_desc">
+      <text>ID dolgovtsa-traitor.</text>
+   </string>
+   <string id="item_playboy_name">
+      <text>Journal</text>
+   </string>
+   <string id="item_playboy_desc">
+      <text>Very entertaining magazine.</text>
+   </string>
+   <string id="st_id_simple">
+      <text>The Detector "Response"</text>
+   </string>
+   <string id="enc_id_simple">
+      <text>Older model detector abnormal activity of the first generation. Reacts light signals when approaching anomalies. In addition, can register the presence of artifacts and measure the distance to the nearest of them. The distance to the artifact is determined by the frequency of a light signal. For reliability indications must be removed in a stationary state.</text>
+   </string>
+   <string id="st_id_advanced">
+      <text>Detector "Scout"</text>
+   </string>
+   <string id="enc_id_advanced">
+      <text>Detection of abnormal activity of the second generation. Equipped with a locator of abnormal formations and led Board to display directions to the artifact and the distance to it.</text>
+   </string>
+   <string id="st_id_elite">
+      <text>The Detector Is A "Search"</text>
+   </string>
+   <string id="enc_id_elite">
+      <text>Detector-scanner of the third generation used by scientists. Thanks to three independent sensors, the approximate location of the artifact relative to the detector is displayed on a special screen.</text>
+   </string>
+   <string id="st_id_elite_plus">
+      <text>The prototype detector "Svarog"</text>
+   </string>
+   <string id="enc_id_elite_plus">
+      <text>The prototype scanner anomalous zones extended functionality. Added recognition program static zones of anomalous activity, which are available in the database; while maintaining the ability to detect artifacts. The location of anomalous zones and artifacts relative to the detector are displayed on a special screen. The detector is capable of using a wireless LAN connection to a GPS device to convey to him the coordinates of nearby anomalies.</text>
+   </string>
+	<string id="st_drug_coagulant">
+		<text>Periwinkle</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>"Menadione" - a synthetic analogue of vitamin K. the Main effect is to increase blood clotting. Demand among stalkers, as it allows the body faster rupavati lacerations. Has a long action.</text>
+	</string>
+	<string id="st_drug_psy_blockade">
+		<text>The psi-blockade</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>The narcotic drug that blocks avalanche-like nerve impulses. An interesting side effect: after taking the drug observed transient disappearance of any emotion. In the Zone is used to counteract the anomalous fields increased psi activity; outside application not found. Has a long action.</text>
+	</string>
+	<string id="st_drug_radioprotector">
+		<text>Radioprotectant</text>
+	</string>
+	<string id="st_drug_radioprotector_descr">
+		<text>Radioprotectant "Enderlin-Б190" was part of the personal kits of the plant workers. Appeared in the Zone as a replacement for the overly toxic cysteamine hydrochloride (PC1). Reduces the effect of gamma radiation on tissues of a living organism. This drug should preferably be used preventively, before exposure, because it has no instant effect. Has a long action.</text>
+	</string>
+	<string id="item_dar_pass_flash_name">
+      <text>Transceiver</text>
+   </string>
+   <string id="item_dar_pass_flash_desc">
+      <text>Apparatus for transmitting and receiving signal between the two physically different environments of the communication system.</text>
+   </string>
+   <string id="item_evm_name">
+      <text>Computer</text>
+   </string>
+   <string id="item_evm_desc">
+      <text>Favorite electronic computer of associate Professor Prigorov.</text>
+   </string>
+</string_table>

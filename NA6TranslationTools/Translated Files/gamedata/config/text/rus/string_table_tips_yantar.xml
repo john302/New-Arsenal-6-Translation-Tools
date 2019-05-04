@@ -1,0 +1,27 @@
+	<string id="general_ecolog_tip_1">
+		<text>What happened?! He died?! Come back immediately!</text>
+	</string>
+	<string id="general_ecolog_tip_2">
+		<text>What happened?! He died?! Take measurements and come back immediately!</text>
+	</string>
+	<string id="storyline_ghost_tip">
+		<text>Sound recording of a Ghost.</text>
+	</string>
+	<string id="storyline_vasilyev_tip">
+		<text>Sound recording Vasiliev.</text>
+	</string>
+	<string id="tips_labx16switcher_press">
+		<text>To disable the wonderful setting, press ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tips_labx16switcher_press_again">
+		<text>To include a wonderful setting, press ($$ACTION_USE$$)</text>
+	</string>
+	<string id="yan_saharov_message">
+		<text>Well done, Labeled, did you get to the lab. It is imperative for us to learn the installation that is there. Try to disable it, so we were able to explore.</text>
+	</string>
+	<string id="yan_saharov_message_2">
+		<text>Look, a prototype can not long be protected from strong radiation. I have provided such a case, so when you're under the strong influence you have, turn on the timer. When the time expires, the prototype will cease to protect you. Be careful, and not forget about the timer.</text>
+	</string>
+	<string id="yan_saharov_message_3">
+		<text>Well, Bullseye! Radiation is disabled, you're alive. We called a few military helicopters so they cleared the area of zombies, so you're there until you walk, so as not to fall under attack. Oh, and you're around look us in the bunker.</text>
+	</string>

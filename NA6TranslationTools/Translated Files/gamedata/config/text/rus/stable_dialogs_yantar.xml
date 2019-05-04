@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="yantar_general_ucheniy_talk_start_101">
+		<text>Thank You... uh-uh... marked, right? You helped my colleague Kruglov to escape, and in appreciation I would like to present You with this... a very handy thing, you know... Maybe I could have something to do for You?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_1011">
+		<text>I'm looking for a lab X16. The bartender said, You can know her whereabouts.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_1012">
+		<text>Us has long been interested in lab X16...or Rather, inside the device, which generates radiation with a direct impact on people's minds. I have to disappoint You: to not get the special without the psi-protection. The result will certainly be tragic, even if we manage to avoid the hordes of zombies around the entrance to the lab, You risk becoming one of them. This is very serious. However, we have developed a device that helps to shield the radiation, but for a more accurate adjustment it is necessary to implement a number of additional measurements. If You can help us in this, after a while, we probably will be able to provide for field testing finally aligned prototype.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_1013">
+		<text>Measurements?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_1014">
+		<text>If You, together with our staff will make all the necessary measurements, I will prepare the prototype of the protective device and give it to You. It is, most likely, will allow to enter the lab.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_10141">
+		<text>Well, I agree.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_101411">
+		<text>Well, that's great! First You need to get a portable psi-emitter of the Monolith. We know that this device is stored underground in caverns in the heart of the Forest. Some say that this base was built by ancient aliens, but I don't believe it. Known to us the access code to the vault: 330429. In the caves must be the guides, and if You get lost, please contact them and they will guide You to the base. Near the base there must be another exit from the caves, so as to find your device, don't go back and look for the nearest exit. How will obtain this device, talk to Kruglov and go. He's already loaded with all the Essentials.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_101412">
+		<text>Well.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_10142">
+		<text>Well, I agree.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_101421">
+		<text>Well, that's great! First You need to get a portable psi-emitter of the Monolith. We know that this device is stored underground in caverns in the heart of the Forest. Some say that this base was built by ancient aliens, but I don't believe it. Known to us the access code to the vault: 330429. In the caves must be the guides, and if You get lost, please contact them and they will guide You to the base. Near the base there must be another exit from the caves, so as to find your device, don't go back and look for the nearest exit. How to get this device to talk with Semenov and go. All the necessary he already has.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_101422">
+		<text>Well.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_10143">
+		<text>No... while I would not want to do that.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_101431">
+		<text>Sorry, sorry... I don't know when we will be able to send an expedition to the measurements.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_11">
+		<text>Yes? What are You interested?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_111">
+		<text>I'm looking for a lab X16. The bartender said, You can know her whereabouts.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_12">
+		<text>Thank you Bullseye, that helped Kruglov to escape. Here, take this reward for your help. And, I suspect, you're not just after the reward came, am I right?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_121">
+		<text>I'm looking for a lab X16. The bartender said that you can know her whereabouts.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_1211">
+		<text>We have been studying the radiation lab X16, you're not going in there without any special protection. We have developed the appropriate device, but to configure it is necessary to make a number of measurements. If you help us to make these measurements, I'll give you a customized prototype, with which you will be able to get to the lab.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_12111">
+		<text>I agree.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_121111">
+		<text>Well, that's great! First you need to get a portable psi-emitter of the Monolith. We know that this device is stored underground in caverns in the heart of the Forest. Some say that this base was built by ancient aliens, but I don't believe it. Known to us the access code to the vault: 330429. In the caves must be the guides, and if You get lost, please contact them and they will guide You to the base. Near the base there must be another exit from the caves, so as to find your device, don't go back and look for the nearest exit. How will obtain this device, talk to Kruglov and go. He has all the necessary.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_12112">
+		<text>No, I don't agree.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_121122">
+		<text>Sorry. We also can not agree to send an expedition to the measurements.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_21">
+		<text>Yes? What are You interested?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211">
+		<text>Yes, we know about this laboratory, but its precise coordinates are not known. In addition, try to get there too dangerous.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_2111">
+		<text>Continue.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_21111">
+		<text>Us has long been interested in lab X16...or Rather, inside the device, which generates radiation with a direct impact on people's minds. I have to disappoint You: to not get the special without the psi-protection. The result will certainly be tragic, even if we manage to avoid the hordes of zombies around the entrance to the lab, You risk becoming one of them. This is very serious. However, we have developed a device that helps to shield the radiation, but for a more accurate adjustment it is necessary to implement a number of additional measurements. If You can help us in this, after a while, we probably will be able to provide for field testing finally aligned prototype.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_21112">
+		<text>Well, I agree.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211121">
+		<text>Well, that's great! First You need to get a portable psi-emitter of the Monolith. We know that the device is kept in an underground base in the caves in the area of the Forest. Some say that this base was built by ancient aliens, but I don't believe it. Known to us the access code to the vault: 330429. In the caves must be the guides, and if You get lost, please contact them and they will guide You to the base. Near the base there must be another exit from the caves, so as to find your device, don't go back and look for the nearest exit. How will obtain this device, talk to Kruglov and go. He's already loaded with all the Essentials.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_2111211">
+		<text>Well.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_21113">
+		<text>Well, I agree.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211131">
+		<text>Well, that's great! First You need to get a portable psi-emitter of the Monolith. We know that the device is kept in an underground base in the caves in the area of the Forest. Some say that this base was built by ancient aliens, but I don't believe it. Known to us the access code to the vault: 330429. In the caves must be the guides, and if You get lost, please contact them and they will guide You to the base. Near the base there must be another exit from the caves, so as to find your device, don't go back and look for the nearest exit. How to get this device to talk with Semenov and go. All the necessary he already has.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211132">
+		<text>Well.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211141">
+		<text>You don't understand, there is radiation. Closer to a mile no one could get in, it mesmerizes everyone. It's suicide to go there without protection, you know?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_2111411">
+		<text>Hmm. It makes all the difference.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211142">
+		<text>Don't care, just tell me what you know.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211143">
+		<text>Well, look, I warned you. Problem laboratory studies Vasiliev. About a week ago they, together with a Stalker named Ghost, tried to enter the lab. After a few hours we rocked the procedure and the radiation is gone, in another hour received a signal from Vasilyeva, the signal came from the swamps, but then disappeared. Apparently with the death of hundreds. Try to find the corpse Vasilyev, he had exact information on the lab, where it is located and how to get to the lab. May have information and how to turn off the radiation. The entrance to The laboratory is likely hidden in the basement of one of the buildings on the factory site.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211144">
+		<text>That's fine.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_21115">
+		<text>No... while I would not want to do that.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211151">
+		<text>Sorry, sorry... I don't know when we will be able to send an expedition to the measurements.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_221">
+		<text>Thank You... uh-uh... marked, right? You helped my colleague Kruglov to escape, and in appreciation I would like to present You with this... a very handy thing, you know!</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_231">
+		<text>You's done a great job, Marked! Switching off radiation allows to equip a new expedition to explore previously inaccessible areas. And... from now on, we will follow the most favorable pricing.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_2311">
+		<text>Thank you.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_241">
+		<text>Yes, Bullseye? What are You interested?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_31">
+		<text>You did a great job! If the measurement is correct, then the prototype will provide maximum protection against radiation.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_311">
+		<text>Glad to hear it.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_3111">
+		<text>Now the way the lab is open to You... however, if the light source is not eliminated or lose power, go back, you can not make... so, dear. Our calculations helped to establish the approximate location of the emitter, as well as the fact that it is located in an underground room. I allowed myself to put a mark on Your map.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_31111">
+		<text>How to get to the lab X16? Where is the entrance?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_311111">
+		<text>Problem laboratory studies Vasiliev. About a week ago they, together with a Stalker named Ghost, tried to enter the lab. After a few hours we jolted procedure and radiation time was gone, and after another hour we received a signal from Vasiliev. The signal came from swamps, but then disappeared. Apparently, Vasilyev died. He had accurate information on the laboratory where it is, how to get it... Try to find his body. Might find and information about how to turn off the radiation. All the coordinates I'm thrown off.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_311112">
+		<text>Hmmm..of Course it would be interesting to look at these documents. Ie do You think they Vasilyev?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_311113">
+		<text>Possible. In any case, you should begin with the search for the body Vasilyeva - only in this case there is a chance to obtain accurate information about the location of the lab. Somewhere there must be a body of Your colleagues a Ghost. You know, I thought he knew about the X16 is much more than talking, and if he somehow miraculously survived... Although, of course, hope is stupid.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_311114">
+		<text>Well, I'll try.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_41">
+		<text>Why did he die? After all, you're supposed to protect?!</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_411">
+		<text>Kruglov shot a zombie, there was nothing I could do. There were many of them.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_4111">
+		<text>Oh... well, how could this happen?... Damn, it all goes awry.... Will have to call in more staff...And we have bigger problems.... Damn!</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_41111">
+		<text>Listen... Kruglov died but I'm alive. Give me the prototype. I will make it to X16.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_411111">
+		<text>Here is the prototype, but be careful: it is not configured properly – but then you are to blame: did not save our colleague – so the device will not be able to provide maximum protection, although it will weaken the radiation. You'll have to hurry on the way to the radiator.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_4111111">
+		<text>How to get to the lab X16? Where exactly is the entrance?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_41111111">
+		<text>Problem laboratory studies Vasiliev. About a week ago they, together with a Stalker named Ghost, tried to enter the lab. After a few hours we jolted procedure and radiation time was gone, and after another hour we received a signal from Vasiliev. The signal came from swamps, but then disappeared. Apparently, Vasilyev died. He had accurate information on the laboratory where it is, how to get it... Try to find his body. Might find and information about how to turn off the radiation. All the coordinates I'm thrown off.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_41112">
+		<text>Anything else?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_41113">
+		<text>To begin with the search for the body Vasilyeva - only in this case there is a chance to obtain accurate information about the location of the lab. Somewhere there must be the body of a Ghost. By the way, I thought he knew about the X16 is much more than talking, and if your colleague miraculously survived... Although, of course, hope is stupid.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_41114">
+		<text>Well, I'll try.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_51">
+		<text>Why did he die? After all, you're supposed to protect?!</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_511">
+		<text>Semenov shot a zombie, there was nothing I could do. There were many of them.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_5111">
+		<text>Oh... well, how could this happen?... Damn, it all goes awry.... Will have to call in more staff...And we have bigger problems.... Damn!</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_51111">
+		<text>Listen... Semenov died but I'm alive. Give me the prototype. I will make it to X16.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_511111">
+		<text>Here is the prototype, but be careful: it is not configured properly – but then you are to blame: did not save our colleague – so the device will not be able to provide maximum protection, although it will weaken the radiation. You'll have to hurry on the way to the radiator.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_5111111">
+		<text>How to get to the lab X16? Where exactly is the entrance?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_511111111">
+		<text>Problem laboratory studies Vasiliev. About a week ago they, together with a Stalker named Ghost, tried to enter the lab. After a few hours we jolted procedure and radiation time was gone, and after another hour we received a signal from Vasiliev. The signal came from swamps, but then disappeared. Apparently, Vasilyev died. He had accurate information on the laboratory where it is, how to get it... Try to find his body. Might find and information about how to turn off the radiation. All the coordinates I'm thrown off.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_51112">
+		<text>Hmmm..of Course it would be interesting to look at these documents. Ie do You think they Vasilyev?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_51113">
+		<text>Possible. In any case, you should begin with the search for the body Vasilyeva - only in this case there is a chance to obtain accurate information about the location of the lab. Somewhere there must be a body of Your colleagues a Ghost. You know, I thought he knew about the X16 is much more than talking, and if he somehow miraculously survived... Although, of course, hope is stupid.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_51114">
+		<text>Well, I'll try.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_61">
+		<text>Yes, Bullseye?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_71">
+		<text>Yes, Bullseye?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_81">
+		<text>Too bad that Kruglov died... however, it did not return. First we need the results of the measurements. You brought them?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_811">
+		<text>Yes, here they are.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_8111">
+		<text>Okay, I'll do the setup of the prototype. Wait for me here.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_81111">
+		<text>Understood.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_812">
+		<text>No.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_8121">
+		<text>So get them quick! Without them I would not be able to configure the prototype.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_91">
+		<text>You did a great job! If the measurement is correct, then the prototype will provide maximum protection against radiation.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_911">
+		<text>Can you be more precise?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_9111">
+		<text>Bullseye, now you can get to the lab, but if you do not disconnect the emitter, even with psi-protection for a long time there did not last long. We calculated the approximate location of the emitter, it is in the underground room. I noted on the map.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_9112">
+		<text>How to get into X16? Where exactly is the entrance?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_9113">
+		<text>Problem laboratory studies Vasiliev. About a week ago they, together with a Stalker named Ghost, tried to enter the lab. After a few hours we jolted procedure and radiation time was gone, and after another hour we received a signal from Vasiliev. The signal came from swamps, but then disappeared. Apparently, Vasilyev died. He had accurate information on the laboratory where it is, how to get it... Try to find his body. Might find and information about how to turn off the radiation. All the coordinates I'm thrown off.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_9114">
+		<text>Hmmm..of Course it would be interesting to look at these documents. Ie do You think they Vasilyev?</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_9115">
+		<text>Possible. In any case, you should begin with the search for the body Vasilyeva - only in this case there is a chance to obtain accurate information about the location of the lab. Somewhere there must be a body of Your colleagues a Ghost. You know, I thought he knew about the X16 is much more than talking, and if he somehow miraculously survived... Although, of course, hope is stupid.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_9116">
+		<text>Well, I'll try.</text>
+	</string>
+	
+	<string id="yantar_help_scientist_101">
+		<text>There's no time...</text>
+	</string>
+	<string id="yantar_help_scientist_11">
+		<text>Yes, Bullseye?</text>
+	</string>
+	<string id="yantar_help_scientist_111">
+		<text>The Professor asked me to walk to the place of measurement. Yes, and I brought the fucking psi-emitter.</text>
+	</string>
+	<string id="yantar_help_scientist_1111">
+		<text>That's the case! Let's go now. One there is nothing to do, but with you... I Think we'll get it done fast and - most importantly, don't let him near the cadavers. Are you ready?</text>
+	</string>
+	<string id="yantar_help_scientist_11111">
+		<text>Ready.</text>
+	</string>
+	<string id="yantar_help_scientist_111111">
+		<text>You know what... go, probably the first. The experience you have about-go-go - not that I have, and cadavers again stirred up.</text>
+	</string>
+	<string id="yantar_help_scientist_1111111">
+		<text>Okay.</text>
+	</string>
+	<string id="yantar_help_scientist_21">
+		<text>Wow! Labeled himself! You finally got to us. Talk to Professor Sakharov, he wants to thank you for saving me.</text>
+	</string>
+	<string id="yantar_help_scientist_31">
+		<text>Then, then!</text>
+	</string>
+	<string id="yantar_help_scientist_41">
+		<text>Hey, Bullseye! How's it going?</text>
+	</string>
+	<string id="yantar_help_scientist_51">
+		<text>Yes, Bullseye?</text>
+	</string>
+	<string id="yantar_help_scientist_511">
+		<text>The Professor asked me to walk to the place of measurement. Yes, and I brought the fucking psi-emitter.</text>
+	</string>
+	<string id="yantar_help_scientist_512">
+		<text>That's the case! Let's go now. One there is nothing to do, but with you... I Think we'll get it done fast and - most importantly, don't let him near the cadavers. Are you ready?</text>
+	</string>
+	<string id="yantar_help_scientist_513">
+		<text>Ready.</text>
+	</string>
+	<string id="yantar_help_scientist_514">
+		<text>You know what... go, probably the first. The experience you have about-go-go - not that I have, and cadavers again stirred up.</text>
+	</string>
+	<string id="yantar_help_scientist_515">
+		<text>Okay.</text>
+	</string>
+	<string id="yantar_help_scientist_61">
+		<text>Sorry, I have now eventually quite tight.</text>
+	</string>
+	<string id="yantar_help_scientist_71">
+		<text>Hey, Bullseye! How do you do?</text>
+	</string>
+	<string id="yantar_help_scientist_81">
+		<text>Wait a bit... we need to finish.</text>
+	</string>
+	<string id="yantar_help_scientist_91">
+		<text>Wait! I'm still with measurements not done yet!</text>
+	</string>
+	<string id="yantar_wounded_scientist_11">
+		<text>Oh, Mama... Oh... m-m-m...</text>
+	</string>
+	<string id="yantar_wounded_scientist_111">
+		<text>Alive? Well, get up, get up slowly. It's all over. Ended.</text>
+	</string>
+	<string id="yantar_wounded_scientist_21">
+		<text>Hi, Tagged. How do you do?</text>
+	</string>
+	<string id="yantar_wounded_scientist_211">
+		<text>Ready! Chock-full measurements, it's time to move back!</text>
+	</string>
+	<string id="yantar_wounded_scientist_31">
+		<text>Hey, Bullseye! How do you do?</text>
+	</string>
+	
+	<string id="yantar_join_ecolog_dialog_0">
+                <text>Tell me, can I get a job in Your lab?</text>
+	</string>
+        <string id="yantar_join_ecolog_dialog_check">
+                <text>At the moment I can offer the position of security guard.</text>
+	</string>
+        <string id="yantar_join_ecolog_dialog_true">
+                <text>I agree. That's fine with me.</text>
+	</string>
+	<string id="yantar_join_ecolog_dialog_wellcome">
+                <text>Okay, you're recruited. Get equipment and sign here.</text>
+	</string>
+        <string id="yantar_join_ecolog_dialog_false">
+                <text>Sorry, I first have to think about it.</text>
+	</string>
+	<string id="yantar_join_ecolog_dialog_1">
+                <text>I can't help you. You're cyclessa in "Debt"? "Debt" of our allies and I promised them not to recruit their people in order to avoid confusion in the chain of command.</text>
+	</string>
+	<string id="yantar_join_ecolog_dialog_2">
+                <text>There is one problem. You cilissa in the group that is at war with our allies "Dolgozni". They obviously won't like it if I will take the work of their enemy.</text>
+	</string>
+	<string id="yantar_join_ecolog_dialog_3">
+                <text>So because of you more harm than good. No what kind of employment can not be and speeches!</text>
+	</string>
+	<string id="yantar_join_ecolog_dialog_4">
+                <text>Clear. Thank you.</text>
+	</string>
+	
+	<string id="yantar_special_task_dialog_0">
+                <text>Are there any other special assignments.</text>
+	</string>
+	<string id="yantar_special_task_dialog_1">
+                <text>In the vicinity of Jupiter, there is another research station, which is headed by my colleague, Professor zhupikov. According to information available to him somewhere in the Eastern Part of Pripyat is a secret X8 lab, which houses a PDA with a description of the production technology monolitnosti exoskeleton of the second generation. Remember monolitische exoskeletons significantly superior to all other. You need to find the lab and bring out this PDA. The way to get to Jupiter is possible only through the Eastern part of Pripyat. There you can conduct S. Tomato that is usually found in the Western part of the Pripyat river at the base of hunters. If successful, I will be able to produce and provide you to test a prototype of this exoskeleton. Are you ready to do this job?</text>
+	</string>
+	<string id="yantar_special_task_dialog_2">
+                <text>Ready.</text>
+	</string>
+	<string id="yantar_special_task_dialog_3">
+                <text>Yet.</text>
+	</string>
+	
+	<string id="yantar_labx8_pda_dialog_0">
+                <text>I'm about the CPC from the laboratory X8...</text>
+	</string>
+	<string id="yantar_labx8_pda_dialog_1">
+                <text>Did you manage to get it?</text>
+	</string>
+	<string id="yantar_labx8_pda_dialog_2">
+                <text>Yes. Here it is.</text>
+	</string>
+	<string id="yantar_labx8_pda_dialog_3">
+                <text>Yet.</text>
+	</string>
+	
+	<string id="yantar_help_scientist_011">
+		<text>Bullseye, you must first find a portable psi-emitter!</text>
+	</string>
+	<string id="yantar_help_scientist_0111">
+		<text>Well.</text>
+	</string>
+</string_table>

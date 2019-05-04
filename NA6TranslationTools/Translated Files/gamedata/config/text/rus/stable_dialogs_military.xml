@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mil_bodyguard_dialog_0">
+		<text>What do you want?</text>
+	</string>
+	<string id="mil_bodyguard_dialog_1">
+		<text>I need the leader of "Freedom". Extremely important information.</text>
+	</string>
+	<string id="mil_bodyguard_dialog_2">
+		<text>And how is it important?</text>
+	</string>
+	<string id="mil_bodyguard_dialog_5">
+		<text>I met the squad of "Debt" near your base.</text>
+	</string>
+	<string id="mil_bodyguard_dialog_6">
+		<text>Oops... looks Like "Debt" are again trying to win...\nSo, coming into the territory, just put the gun away. Do not we have a fire lift: feet stand.</text>
+	</string>
+	<string id="mil_bodyguard_dialog_7">
+		<text>Well.</text>
+	</string>
+	<string id="mil_cook_common1_0">
+		<text>Good day.</text>
+	</string>
+	<string id="mil_cook_common1_101">
+		<text>Aha!..</text>
+	</string>
+	<string id="mil_cook_common1_102">
+		<text>That is?</text>
+	</string>
+	<string id="mil_cook_common1_103">
+		<text>Yes, no question...</text>
+	</string>
+	<string id="mil_cook_common1_104">
+		<text>What's the joke?</text>
+	</string>
+	<string id="mil_cook_common1_105">
+		<text>Oh, man! Healthy!</text>
+	</string>
+	<string id="mil_cook_common1_106">
+		<text>Hello.</text>
+	</string>
+	<string id="mil_cook_common1_107">
+		<text>Long time no see!</text>
+	</string>
+	<string id="mil_cook_common1_108">
+		<text>Do I know you?</text>
+	</string>
+	<string id="mil_cook_common1_109">
+		<text>Uh-Uh... n-Yes! Hehe...</text>
+	</string>
+	<string id="mil_cook_common1_110">
+		<text>Honestly, I don't remember.</text>
+	</string>
+	<string id="mil_cook_common1_111">
+		<text>Hmm... Yes, okay, okay...</text>
+	</string>
+	<string id="mil_cook_common2_0">
+		<text>What the fuck is this?</text>
+	</string>
+	<string id="mil_cook_common2_201">
+		<text>Place... place on... Yes this must be the place... in pale, hehe...</text>
+	</string>
+	<string id="mil_cook_common2_202">
+		<text>But all the same?</text>
+	</string>
+	<string id="mil_cook_common2_203">
+		<text>... Well, you ask questions, kind stranger!..</text>
+	</string>
+	<string id="mil_cook_common2_204">
+		<text>And if in fact?</text>
+	</string>
+	<string id="mil_cook_common2_205">
+		<text>Just relax! SchA-a... Yes... a normal place! Calm. All nishtyak! Yes... You just relax, huh? Not in a hurry...</text>
+	</string>
+	<string id="mil_cook_common3_0">
+		<text>And you yourself, who will?</text>
+	</string>
+	<string id="mil_cook_common3_301">
+		<text>I?</text>
+	</string>
+	<string id="mil_cook_common3_302">
+		<text>Exactly. You. Not me.</text>
+	</string>
+	<string id="mil_cook_common3_303">
+		<text>Well you and al!.. I... I-I, fantastish!.. Well, I... cook a Meal... here. Cook I! Master knife and seasonings! Parsley there... fennel, herbs... well, grass... Bread too... huh?</text>
+	</string>
+	<string id="mil_cook_common3_304">
+		<text>Clear.</text>
+	</string>
+	<string id="mil_cook_common3_305">
+		<text>And canned... the condensed milk... the canned meat... bulls in tomatoes... Yes...</text>
+	</string>
+	<string id="mil_cook_common3_306">
+		<text>I understand.</text>
+	</string>
+	<string id="mil_cook_common3_307">
+		<text>Baton... ketchup... eggs... bread... a loaf... cheese. Well, there is. Sausages! The sausage-a! The game... dead...</text>
+	</string>
+	<string id="mil_cook_common3_308">
+		<text>Okay, got it! At least tell me your name.</text>
+	</string>
+	<string id="mil_cook_common3_309">
+		<text>Hmm?.. Ah! My name is Slavik... it's because of the label... Not! Apron!.. I have a white apron... And yeah... You sit down, out... And then another sniper... ka-AK will shoot!.. They, you know... Yes, they are...</text>
+	</string>
+	<string id="mil_cook_common4_0">
+		<text>The kind of village nearby?</text>
+	</string>
+	<string id="mil_cook_common4_401">
+		<text>Well...</text>
+	</string>
+	<string id="mil_cook_common4_402">
+		<text>What is "well"?</text>
+	</string>
+	<string id="mil_cook_common4_403">
+		<text>Huh?</text>
+	</string>
+	<string id="mil_cook_common4_404">
+		<text>Village.</text>
+	</string>
+	<string id="mil_cook_common4_405">
+		<text>Ah... There's a village. Products there... condensed milk...</text>
+	</string>
+	<string id="mil_cook_common4_406">
+		<text>How to get there?</text>
+	</string>
+	<string id="mil_cook_common4_407">
+		<text>Huh? SchA. SchA think... No, look, it is necessary to you? Relax... Sit down... Sit down, have a smoke, yeah?</text>
+	</string>
+	<string id="mil_cook_common4_408">
+		<text>I need to go to the village.</text>
+	</string>
+	<string id="mil_cook_common4_409">
+		<text>Okay... here right now, sit down, Yes... smoke... and normally, Yes... I will take you. No question.</text>
+	</string>
+	<string id="mil_cook_common4_410">
+		<text>Don't sweat it. Just tell me how to get there.</text>
+	</string>
+	<string id="mil_cook_common4_411">
+		<text>Yeah... No, well, you problem is given!.. Conductive fine we'll go back together. Here we sit, and Yes...</text>
+	</string>
+	<string id="mil_cook_common5_0">
+		<text>I don't know where you can get hold of equipment?</text>
+	</string>
+	<string id="mil_cook_common5_501">
+		<text>Equipment? Et, my brother, the ciphers... cipher!..</text>
+	</string>
+	<string id="mil_cook_common5_502">
+		<text>Equipment. Weapons. Artifacts.</text>
+	</string>
+	<string id="mil_cook_common5_503">
+		<text>Weapons... no... my knife... Want a knife? Not? Yeah, but... Artifacts. And what for? Don't sweat it. Let's sit down. Smoke. Let's talk... about the artifacts...</text>
+	</string>
+	<string id="mil_cook_common5_504">
+		<text>Where in the County you can find the artifacts?</text>
+	</string>
+	<string id="mil_cook_common5_505">
+		<text>Yes, no question! Artifacts... the roof of the artifacts!.. The swamp is radioactive you know? Not? Well, do not care. There. I mean artifacts. There. In General, you do not hurry. Do not strain. Huh? Artifacts... hehe... artifacts-artifacts...</text>
+	</string>
+	<string id="mil_cook_common6_0">
+		<text>Okay. Be healthy.</text>
+	</string>
+	<string id="mil_cook_common6_601">
+		<text>Yeah... you sit down, if you did.</text>
+	</string>
+	<string id="mil_cook_common6_602">
+		<text>I'm leaving.</text>
+	</string>
+	<string id="mil_cook_common6_603">
+		<text>Huh? Not a question... relax... yeah? Close the door behind me... I'm leaving... ... tadam...</text>
+	</string>
+	<string id="mil_cook_dialog_0">
+		<text>Yes, sit down!.. Sit them...</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_0">
+		<text>Come on, something, pull, huh?</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_1">
+		<text>Not a question, brother! Pour!</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_2">
+		<text>Well, Well... Well, slapped!..</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_3">
+		<text>Wow, good move!.. Keep a bottle... there's still something left.</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_4">
+		<text>Well, another pile?</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_5">
+		<text>Ah... the thrill! Sorry, the bottle is already agreed. Still there?</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_6">
+		<text>I'll have a look.</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_0">
+		<text>Yeah, that's it! Keep the stack evenly.</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_1">
+		<text>Hehe... and you're quite good at it!.. R-R-times and the new bottle. You have a warehouse?</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_2">
+		<text>You... drink, drink. I have a long time practice was not.</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_3">
+		<text>For our victory! From...\nOh's, fit well!</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_4">
+		<text>Yes... for our victory!</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_5">
+		<text>Come on, Come on... There is a Yesh, Yesh... school... huh?</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_6">
+		<text>Now I will look...</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_3_0">
+		<text>So... this is the last, okay?.. And I'm n-not master more...</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_3_1">
+		<text>Give it with-Syu-Syu... here!..</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_3_2">
+		<text>Well, you... give... What are you her myself obrigado... fall?..</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_3_3">
+		<text>IK!.. Uh-this bra at the bottom... days!.. M-M-M... yeah, but...</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_0">
+        <text>I heard "Freedom" is armed with a modified RG-6. I would like to look at this thing.</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_1">
+		<text>Where are you even getting at, man? So I... that you took... and all the ins and outs?.. Yes, you think I am?!</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_2">
+		<text>Calmer. I didn't know it was that serious.</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_3">
+		<text>Nothing about gun nosy, okay? Who the hell are you, huh?! The first time you see it!..</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_4">
+		<text>Come on! I was just asking...</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_5">
+		<text>Hush!.. And be careful with him, okay?</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_6">
+		<text>Done.</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_0">
+        <text>I've... it's... I Heard you have RG-6 is modified... I used one eye to look, huh? Well, really want... N-well glazochkom would be... one...</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_1">
+		<text>What about...? You have this... go to... damn, what is it... I forgot!.. What did you ask?</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_2">
+		<text>G-R... gramota... grato... ugh! Gra-at-the-met would... I would... look!</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_3">
+		<text>No... this is impossible... that's all you want, friend, but it's not... here. Well, not you...</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_4">
+		<text>Oh well... I, uh... just! Just ask...</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_3_0">
+		<text>IK!.. The bulldogs, eh?</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_3_1">
+		<text>W-what?.. Ah! So... in the village he! We have them at all... just two... and these... d-woodpeckers! Sowed its... about... brotherali!..</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_3_2">
+		<text>Yeah? Well, it's... b-Boobs...</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_100">
+		<text>Hello, brother. I'm from the "Debt", to be run on this site. Do not want to join us?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1001">
+		<text>There is no special desire.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1002">
+		<text>Then under his feet give way... alone.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_101">
+		<text>Don't mind.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_102">
+		<text>Great. Here, behind the hill, the main breeding ground of those bastards - the "free" that the boys gonna shake and to stir.\nThere is, however, a small problem. The entrance to The base one and is well protected. We thought to punch a hole in the fence, but theirs a sniper on the tower prevents us. Don't want to send guys to the bullets... and you let it close, just shoot definitely will not. Take it off - we owe you one, and even the equipment on the base will take what I want, if things work out.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_103">
+		<text>Keep going.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_104">
+		<text>Yes, I already said: all you have to do is shoot the sniper in the tower behind the fence.\nWell, so what?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1041">
+		<text>No, I'm not ready yet.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1042">
+		<text>Then under the feet do not interfere.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_105">
+		<text>I'll try it.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1051">
+		<text>That's fine! As soon As you take it off and we'll start the concert.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_106">
+		<text>There is a small problem. Since the input to the base of one and well guarded, without thinking we were going to do another one, but..</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_107">
+		<text>But?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_108">
+		<text>I sent a night fighter to undermine the fence. But, whether the sniper had a good one, if not our day, in General, had stopped it. So now the explosives installed on the fence, and blow it up we can't.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_109">
+		<text>Why?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_110">
+		<text>I don't want to send guys to the bullets that asshole, but you are unable to remove it. In you he will not fire. What do you say?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_111">
+		<text>How much will I get for this?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_112">
+		<text>That is the right approach. 2000 from us for the sniper and a heap of equipment on the basis of the corpses there will be many, I promise you. And we will help and he will be pleased. So how?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_120">
+		<text>Agreed.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_121">
+		<text>Good luck.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_130">
+		<text>First I have to see and then say.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_131">
+		<text>Wait. But not for long.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_200">
+		<text>Thanks for the help, Labeled. Here, you take your fee.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_201">
+		<text>Thank you.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_300">
+		<text>We seem to have agreed ?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_400">
+		<text>So the sniper you failed. Get your legal.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_401">
+		<text>Understood.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_402">
+		<text>A little, okay? We should prepare...</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_403">
+		<text>Okay.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_411">
+		<text>Another time.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_412">
+		<text>As you know.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_413">
+		<text>Prior to the meeting.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_420">
+		<text>Well, continue?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_421">
+		<text>What?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_450">
+		<text>Thank you.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_451">
+		<text>We're going to blow the fence and get this party started. You see, the guy is good - so can you do the snipers on the towers? Well, no snipers will be easier for us to get to that freak, Lukas.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_501">
+		<text>Sniper You failed?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_502">
+		<text>Yes.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_503">
+		<text>Good job! Was out of the way... here, take over the work.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_504">
+		<text>Thank you.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_506">
+		<text>What to do?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_507">
+		<text>While we deal with these goats, and speak to the remaining snipers, eh? You're in this business, I look good.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_5070">
+		<text>Another time.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_5071">
+		<text>Well, look. Will not forcibly.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_508">
+		<text>Good.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_5080">
+		<text>That's fine.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_601">
+		<text>Do not bother, Labeled.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_602">
+		<text>Okay.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_701">
+		<text>Go your own way.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_702">
+		<text>Well.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_801">
+		<text>What else?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_802">
+		<text>Nothing.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_0">
+		<text>So three assholes less! You did a great job and we are not burned, and he was left whole. I think so, nobody will know about it, huh?</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_1">
+		<text>I don't think.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_2">
+		<text>That's okay. Have a desire to earn, a Stalker?</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_20">
+		<text>It is difficult to say.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_21">
+		<text>What do you want to die?</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_22">
+		<text>No.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_3">
+		<text>As without it.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_30">
+		<text>Maybe.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_4">
+		<text>Then follow us, talk to our commanding officer.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_5">
+		<text>Commander?</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_6">
+		<text>And then. Skull you everything and tell.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_7">
+		<text>Well.</text>
+	</string>
+	<string id="mil_freedom_commander_1001">
+		<text>Hey, Stalker! At the time you! We idiots monolitnosti slugger, now will be the next wave to go! We have, you know, the last sniper shot! Can you help? And after the battle pans out, you will not regret!</text>
+	</string>
+	<string id="mil_freedom_commander_10011">
+		<text>No, I will not be able to help.</text>
+	</string>
+	<string id="mil_freedom_commander_10012">
+		<text>This is a pity. Look, come on, if you change your mind.</text>
+	</string>
+	<string id="mil_freedom_commander_1002">
+		<text>Help.</text>
+	</string>
+	<string id="mil_freedom_commander_1003">
+		<text>Great! Let's blow the tower, there is Svdm 2 and ammo pile. Hit them from the top down don't go down, and then accidentally treat themselves. The goal is obvious?</text>
+	</string>
+	<string id="mil_freedom_commander_1004">
+		<text>Two and Two together.</text>
+	</string>
+	<string id="mil_freedom_commander_1005">
+		<text>And correctly. I hope we will talk in the morning. Yeah, don't go too far... and they'll think that running away decided. With all the consequences, think of it, mind you! Well, get yourself into position.</text>
+	</string>
+	<string id="mil_freedom_commander_1007">
+		<text>That's right. Okay, down to business. There is speculation that soon here will break the detachment of the monolith. So soon it will be hot.</text>
+	</string>
+	<string id="mil_freedom_commander_1008">
+		<text>Clear.</text>
+	</string>
+	<string id="mil_freedom_commander_1009">
+		<text>You're right. I hope they will not be too much...</text>
+	</string>
+	<string id="mil_freedom_commander_1010">
+		<text>Where's my place?</text>
+	</string>
+	<string id="mil_freedom_commander_1011">
+		<text>Go to the tower, there is Svdm 2 and cartridges. You can beat them up and not down, and that under our bullets will fall. The task is clear?</text>
+	</string>
+	<string id="mil_freedom_commander_1012">
+		<text>Yes.</text>
+	</string>
+	<string id="mil_freedom_commander_2001">
+		<text>Forget it a place, and then the once would be!</text>
+	</string>
+	<string id="mil_freedom_commander_3001">
+		<text>It seems all sealed. As for me, enough for today. Thanks for the help! Here you go - here is some money a little more fun with them.</text>
+	</string>
+	<string id="mil_freedom_commander_3002">
+		<text>Thank you.</text>
+	</string>
+	<string id="mil_freedom_commander_3003">
+		<text>Good Luck, Bullseye!</text>
+	</string>
+	<string id="mil_freedom_commander_4001">
+		<text>Great, Bullseye. Lucas sent you?</text>
+	</string>
+	<string id="mil_freedom_commander_4002">
+		<text>Yes. To help you asked.</text>
+	</string>
+	<string id="mil_freedom_commander_4003">
+		<text>At the time you! We just idiots monolitnosti slugger, now the next wave will go. We have, you know, the last sniper shot! Can you help? And after the battle pans out, you will not regret!</text>
+	</string>
+	<string id="mil_freedom_commander_5001">
+		<text>It seems all sealed. As for me, enough for today. Thanks for the help! Here you go - here is some money a little more fun with them.</text>
+	</string>
+	<string id="mil_freedom_commander_5002">
+		<text>Thank you.</text>
+	</string>
+	<string id="mil_freedom_commander_5003">
+		<text>Good Luck, Labeled.</text>
+	</string>
+	<string id="mil_freedom_commander_common2_0">
+		<text>What is this place?</text>
+	</string>
+	<string id="mil_freedom_commander_common2_1">
+		<text>We call it the Barrier... Yes, it is, in principle, is. It's basically the last normal checkpoint before the center of the Zone. A buffer like this, you know, between humans and Wild territory.</text>
+	</string>
+	<string id="mil_freedom_commander_common2_2">
+		<text>And then there's what?</text>
+	</string>
+	<string id="mil_freedom_commander_common2_3">
+		<text>Then only death... or serving the Monolith. "Our Monolith! In thy name!.." Ugh!..\nin short, go there, no one should. Here we are standing here do not give a shit any flood Zone... the Jedi, damn it. More detainees particularly stupid - at least, I try to center something.</text>
+	</string>
+	<string id="mil_freedom_commander_common2_4">
+		<text>Why do you need it?</text>
+	</string>
+	<string id="mil_freedom_commander_common2_5">
+		<text>And then who, if not us? "Debt"? They, of course, docks for part of the extermination of monsters and unwanted stalkers, but just try to get them something really useful to do! Here you see them? No? Here I am about that. And we, for example, set a goal to destroy the creatures that live here. Barrier, normal Barrier, it will be enough. The main thing is the line, none of the parties crossed...</text>
+	</string>
+	<string id="mil_freedom_commander_common2_6">
+		<text>Well, if you crossed?</text>
+	</string>
+	<string id="mil_freedom_commander_common2_7">
+		<text>Anything can happen. All. I don't want...</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_1000">
+		<text>Wait! Access to the Armory is restricted to members of "Freedom".</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_2000">
+		<text>Well, now you can in the Arsenal to enter. There is, however, one problem...</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_2001">
+		<text>What?</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_2002">
+		<text>So you do not strain, do not worry. The lock is jammed, that's all. If the wait is unbearable, blow his fucking, and I new later hanged.</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_2003">
+		<text>Clear.</text>
+	</string>
+	<string id="mil_hunter_dialog_1">
+		<text>Miser sent Me here to bloodsuckers to fill up.</text>
+	</string>
+	<string id="mil_hunter_dialog_101">
+		<text>And you, Stalker, as in this godforsaken place? Get better legs!</text>
+	</string>
+	<string id="mil_hunter_dialog_2">
+		<text>Ah, well then another thing... Then fuck knows what's going on! A couple of us went to the village and never returned. Well, we reluctant to die! I sit here until then - decide what to do next.</text>
+	</string>
+	<string id="mil_hunter_dialog_201">
+		<text>Well, brother, you yesterday and did!</text>
+	</string>
+	<string id="mil_hunter_dialog_202">
+		<text>I mean?</text>
+	</string>
+	<string id="mil_hunter_dialog_203">
+		<text>We are sitting here, looking around, and then you you're going, drunk in zyuzyu! And Prem, most importantly, right in the village, to the bloodsuckers! Well at least you have someone to hold and to put to sleep.</text>
+	</string>
+	<string id="mil_hunter_dialog_204">
+		<text>And why are you sitting here?</text>
+	</string>
+	<string id="mil_hunter_dialog_205">
+		<text>Then fuck knows what's going on! A couple of us went to the village and never returned. Well, we reluctant to die! I sit here until then - decide what to do next.</text>
+	</string>
+	<string id="mil_hunter_dialog_3">
+		<text>You bloodsuckers seen?</text>
+	</string>
+	<string id="mil_hunter_dialog_301">
+		<text>What? How's it going?</text>
+	</string>
+	<string id="mil_hunter_dialog_302">
+		<text>I flunked them.</text>
+	</string>
+	<string id="mil_hunter_dialog_303">
+		<text>Wow! Well, you give! Well, man, you owe me, time to be alive!..</text>
+	</string>
+	<string id="mil_hunter_dialog_304">
+		<text>Thank you.</text>
+	</string>
+	<string id="mil_hunter_dialog_4">
+		<text>No. Our guys had to go to the old water tower is probably out there somewhere and perished. Since you're a Miser agreed, go to it and see the Address...-then drop me a line! If anything, the letter to relatives your send.</text>
+	</string>
+	<string id="mil_hunter_dialog_401">
+		<text>What are you prowling like a Ghost?</text>
+	</string>
+	<string id="mil_hunter_dialog_402">
+		<text>Have a look around.</text>
+	</string>
+	<string id="mil_hunter_dialog_5">
+		<text>Hello you, I see... Okay, I'll go.</text>
+	</string>
+	<string id="mil_hunter_dialog_501">
+		<text>And what brought you here?</text>
+	</string>
+	<string id="mil_hunter_dialog_502">
+		<text>Have a look around.</text>
+	</string>
+	<string id="mil_hunter_dialog_503">
+		<text>A better place is not found? Here, maybe the most fucked up place in the Area...</text>
+	</string>
+	<string id="mil_hunter_dialog_504">
+		<text>What's the harm?</text>
+	</string>
+	<string id="mil_hunter_dialog_505">
+		<text>Then fuck knows what's going on... Bloodsuckers, apparently, in the village of start. A couple of us went to the village and never returned. Well, we reluctant to die! I sit here until then - decide what to do next.</text>
+	</string>
+	<string id="mil_hunter_dialog_506">
+		<text>That is, you do not know?</text>
+	</string>
+	<string id="mil_hunter_dialog_507">
+		<text>Well! If you do nothing and the head is not in order, you can go for a walk around the village. Flood creatures - Miser fork, that's for sure. Hey, the address is drop me a line! If anything, the letter to relatives your send.</text>
+	</string>
+	<string id="mil_hunter_dialog_508">
+		<text>Okay, I'll go take a look.</text>
+	</string>
+	<string id="mil_hunter_dialog_601">
+		<text>You through the village going?!</text>
+	</string>
+	<string id="mil_hunter_dialog_602">
+		<text>Yes.</text>
+	</string>
+	<string id="mil_hunter_dialog_603">
+		<text>There's a couple of our left and never came back. Saw them?</text>
+	</string>
+	<string id="mil_hunter_dialog_604">
+		<text>No, not seen. Just like the corpses whose.</text>
+	</string>
+	<string id="mil_hunter_dialog_605">
+		<text>And bloodsuckers seen?</text>
+	</string>
+	<string id="mil_hunter_dialog_606">
+		<text>Seen. Go and see by yourselves, it is already possible: I had stopped them.</text>
+	</string>
+	<string id="mil_hunter_dialog_607">
+		<text>Wow! Here is the number! You know what... you go to the Miser on our database. It is for a good cause pays the money.</text>
+	</string>
+	<string id="mil_hunter_dialog_7">
+		<text>Okay, I'll go take a look.</text>
+	</string>
+	<string id="mil_hunter_dialog_701">
+		<text>What? How's it going?</text>
+	</string>
+	<string id="mil_hunter_dialog_702">
+		<text>I filled up those things.</text>
+	</string>
+	<string id="mil_hunter_dialog_703">
+		<text>Wow, that was exceptional! You know what... you go to the Miser on our database. It is for a good cause pays.</text>
+	</string>
+	<string id="mil_hunter_dialog_704">
+		<text>Go.</text>
+	</string>
+	<string id="mil_hunter_dialog_80">
+		<text>As you wish...</text>
+	</string>
+	<string id="mil_hunter_dialog_801">
+		<text>And what brought you here?</text>
+	</string>
+	<string id="mil_hunter_dialog_802">
+		<text>Have a look around...</text>
+	</string>
+	<string id="mil_hunter_dialog_803">
+		<text>A better place is not found? Brings you to the most disgusting place.</text>
+	</string>
+	<string id="mil_hunter_dialog_804">
+		<text>What's the harm?</text>
+	</string>
+	<string id="mil_hunter_dialog_805">
+		<text>Yes hell knows. Looks like the bloodsuckers in the village of start. A couple of us went to the village and never returned. Well, we have to die a reluctance.</text>
+	</string>
+	<string id="mil_hunter_dialog_806">
+		<text>That is, you do not know?</text>
+	</string>
+	<string id="mil_hunter_dialog_807">
+		<text>Well! If you do nothing and the head is not in order, you can go for a walk around the village. Flood creatures - Miser fork, that's for sure. Hey, the address is drop me a line! If anything, the letter to relatives your send.</text>
+	</string>
+	<string id="mil_hunter_dialog_808">
+		<text>Okay, I'll go take a look.</text>
+	</string>
+	<string id="mil_hunter_dialog_901">
+		<text>What? How's it going?</text>
+	</string>
+	<string id="mil_hunter_dialog_902">
+		<text>I filled up those things.</text>
+	</string>
+	<string id="mil_hunter_dialog_903">
+		<text>Oh Yes! Well, accept my congratulations! And then - most importantly, alive...</text>
+	</string>
+	<string id="mil_hunter_dialog_904">
+		<text>Thank you.</text>
+	</string>
+	<string id="mil_leader_start_dialog_10001">
+		<text>Once you've helped the guys at the Barrier, you can count on the rest of our site and our help. Well, from me personally - a few banknotes...</text>
+	</string>
+    <string id="mil_leader_start_dialog_100011">
+        <text>Once you've helped the guys at the Barrier, you can count on the rest of our site and our help. Well, from me personally - a few banknotes...</text>
+    </string>
+	<string id="mil_leader_start_dialog_1001">
+		<text>Hey, Stalker. What do you need?</text>
+	</string>
+	<string id="mil_leader_start_dialog_10011">
+		<text>Yes anything, in General.</text>
+	</string>
+	<string id="mil_leader_start_dialog_10012">
+		<text>Then ran away, huh? Time is money.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1100">
+		<text>I saw a squad of "Debt" on a farm near your base. Eight people, well armed.</text>
+	</string>
+	<string id="mil_leader_start_dialog_11001">
+		<text>What the hell you escaped from the Barrier?! Go do with my base, and I never saw you again...</text>
+	</string>
+	<string id="mil_leader_start_dialog_1101">
+		<text>Damn, I did these goats do not get enough of it! Okay, have to punish them... Well, Stalker, if you help us - we would be grateful. Max - he's the main fighter. To assemble the people and to weed out those elks.</text>
+	</string>
+	<string id="mil_leader_start_dialog_11011">
+		<text>Well.</text>
+	</string>
+	<string id="mil_leader_start_dialog_11012">
+		<text>Good luck, Stalker.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1200">
+		<text>I have already sorted them out.</text>
+	</string>
+	<string id="mil_leader_start_dialog_12001">
+		<text>With a Snitch, so is not formed and a Barrier too? Get off base and that your spirit was not here!</text>
+	</string>
+	<string id="mil_leader_start_dialog_1210">
+		<text>Seriously? How many did you say there were?</text>
+	</string>
+	<string id="mil_leader_start_dialog_1221">
+		<text>Eight people.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1222">
+		<text>Frisky are you, a Stalker... if so, then maybe something else that we benefits? Sad to admit, but we had a Snitch... Pavlik name. Information is transmitted to the side, and this thing has got to stop.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1223">
+		<text>How?</text>
+	</string>
+	<string id="mil_leader_start_dialog_1300">
+		<text>Your task is to follow him to the farm and see to whom it sends information. You don't know about our conversation, too, so...</text>
+	</string>
+	<string id="mil_leader_start_dialog_13001">
+		<text>Do you think I have a job for you?</text>
+	</string>
+	<string id="mil_leader_start_dialog_13002">
+		<text>Possible.</text>
+	</string>
+	<string id="mil_leader_start_dialog_13003">
+		<text>We have, on the basis of a mole by the name of Pavlik, which transmits the information to the side. Although we know this, but know little - it is necessary to prove. Your task is to follow him and learn who he's passing information. I think that today he goes to meet a contact. Go quietly behind him. Carefully so he didn't see - he is very careful. How do you know who he's seeing, then smack him, but at the same time with anyone he meets.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1301">
+		<text>Taken.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1302">
+		<text>We have, on the basis of a mole by the name of Pavlik, which transmits the information to the side. Although we know this, but know little - it is necessary to prove. Your task is to follow him and learn who he's passing information. I think that today he goes to meet a contact. Go quietly behind him. Carefully so he didn't see - he is very careful. How do you know who he's seeing, then smack him, but at the same time with anyone he meets.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1391">
+		<text>No, not now.</text>
+	</string>
+	<string id="mil_leader_start_dialog_14001">
+		<text>There is one thing that I would like to ask you.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1500">
+		<text>He recently retired, so I have to catch up. Remember: to slap, it can and should, but not before he marred someone is leaking information. The second is also necessary to remove.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1501">
+		<text>Clear.</text>
+	</string>
+	<string id="mil_leader_start_dialog_2001">
+		<text>I'm telling you - go to max.</text>
+	</string>
+	<string id="mil_leader_start_dialog_3001">
+		<text>The task was to be performed... not Bad. And I got one too!</text>
+	</string>
+	<string id="mil_leader_start_dialog_3002">
+		<text>Hmm... And what?</text>
+	</string>
+	<string id="mil_leader_start_dialog_30021">
+		<text>Sad to admit, but we had a Snitch... Pavlik name. Information is transmitted to the side, and this thing has got to stop.</text>
+	</string>
+	<string id="mil_leader_start_dialog_3003">
+		<text>So. I think he will try to go to a meeting somewhere between 22:00 and 23:00. At this time dark enough so few people saw it, and the night mutants't poyavivshis. Go ahead, Stalker. On the job you can consider yourself a member of our group. Remember, the Snitch will get hot ! That is, you need to slap him during a meeting; otherwise, the task will be failed.</text>
+	</string>
+	<string id="mil_leader_start_dialog_4001">
+		<text>Are you still here?</text>
+	</string>
+	<string id="mil_leader_start_dialog_5001">
+		<text>Great job, Marked! Here here... a fee for the Snitch. Are invited to relax on our territory whenever they want, and for us to help you, too, can count. There is Only one thing that I'd like to charge. Not tired yet?</text>
+	</string>
+    <string id="mil_leader_start_dialog_5001x">
+        <text>Great job, Marked! Here here... a fee for the Snitch. Are invited to relax on our territory whenever they want, and for us to help you, too, can count. There's just one more thing.</text>
+    </string>
+    <string id="mil_leader_start_dialog_500111">
+        <text>What is it?</text>
+    </string>
+    <string id="mil_leader_start_dialog_500112">
+        <text>You warned us and helped to deal with the group Debt plus get rid of the Snitch. For this I think you deserve to be enrolled in our group.</text>
+    </string>
+    <string id="mil_leader_start_dialog_5001121">
+        <text>From now on, I enroll you in our group.</text>
+    </string>
+    <string id="mil_leader_start_dialog_5001122">
+        <text>Great.</text>
+    </string>
+    <string id="mil_leader_start_dialog_50011">
+        <text>Thanks, I'd love to be one of you.</text>
+    </string>
+    <string id="mil_leader_start_dialog_50012">
+        <text>No offense but I really like something in itself.</text>
+    </string>
+	<string id="mil_leader_start_dialog_5002">
+		<text>What?</text>
+	</string>
+	<string id="mil_leader_start_dialog_5003">
+		<text>If you feel strong enough, you can go to the Outpost near the exit on the Radar for some signs there will be another attempt to break the mutants or Monolith. Need help guys.</text>
+	</string>
+	<string id="mil_leader_start_dialog_5004">
+		<text>Well, you guys on the "Barrier" helped, so relax.</text>
+	</string>
+	<string id="mil_leader_start_dialog_6001">
+		<text>Rest. No work yet.</text>
+	</string>
+	<string id="mil_leader_start_dialog_7001">
+		<text>Yes, the task you failed... this is bad. Okay, the chance is always there!</text>
+	</string>
+	<string id="mil_leader_start_dialog_7002">
+		<text>And what?</text>
+	</string>
+	<string id="mil_leader_start_dialog_7003">
+		<text>Something indicates that in the near future "monolith" again will try to break from the Radar. Need to go to the Cap - he is the commander on the Barrier to see if he needed any help. Although there and find out it is not necessary, and so all is clear...</text>
+	</string>
+	<string id="mil_leader_start_dialog_7004">
+		<text>Okay, I will.</text>
+	</string>
+	<string id="mil_leader_start_dialog_7006">
+		<text>No, I will not yet undertake.</text>
+	</string>
+	<string id="mil_leader_start_dialog_7007">
+		<text>Think, what our guys have! I mean, I send something other than you, nobody...</text>
+	</string>
+	<string id="mil_leader_start_dialog_8001">
+		<text>You failed, and now these documents we can not see as their ears. We don't need such losers.</text>
+	</string>
+	<string id="mil_leader_start_dialog_8004">
+		<text>Yes, the task you failed... this is bad. Okay, since you helped the guys on the Barrier, so be it - the rest is on our site. If that we the case can help you.</text>
+	</string>
+	<string id="mil_leader_start_dialog_8005">
+		<text>There are some work?</text>
+	</string>
+	<string id="mil_leader_start_dialog_8006">
+		<text>Yet.</text>
+	</string>
+	<string id="mil_leader_start_dialog_9001">
+		<text>I told you - go to the Barrier.</text>
+	</string>
+	<string id="mil_max_dialog_10001">
+		<text>Flunk "dolgovtsev" - then we'll talk.</text>
+	</string>
+	<string id="mil_max_dialog_10002">
+		<text>Well.</text>
+	</string>
+	<string id="mil_max_dialog_1001">
+		<text>Lucas reported that you go. Seen these... on the farm?</text>
+	</string>
+	<string id="mil_max_dialog_1100">
+		<text>No.</text>
+	</string>
+	<string id="mil_max_dialog_1101">
+		<text>Sucks... Again "Debt" in the ass is itchy! Well, okay. Come with us, huh?</text>
+	</string>
+	<string id="mil_max_dialog_1102">
+		<text>Well.</text>
+	</string>
+	<string id="mil_max_dialog_1200">
+		<text>Yes.</text>
+	</string>
+	<string id="mil_max_dialog_1201">
+		<text>And many of them are there?</text>
+	</string>
+	<string id="mil_max_dialog_1210">
+		<text>Just do not tell. I don't think very much.</text>
+	</string>
+	<string id="mil_max_dialog_1220">
+		<text>People six to eight. Well equipped.</text>
+	</string>
+	<string id="mil_max_dialog_2001">
+		<text>Go to Lukas.</text>
+	</string>
+	<string id="mil_max_dialog_3001">
+		<text>Have questions?</text>
+	</string>
+	<string id="mil_max_dialog_3002">
+		<text>Yes. Lucas has set the task - to intercept the courier "Debt" on the path from the Radar to the Dead city. Will not prompt where better to do it ?</text>
+	</string>
+	<string id="mil_max_dialog_3003">
+		<text>Hmm. Better to intercept him before he reaches the village of passage to Dead city. There obviously will have to wait and you can hardly cope. And through the village will have to go, and there better not show up. Move to the East village and faster.</text>
+	</string>
+	<string id="mil_max_dialog_3004">
+		<text>And what is there in the village ?</text>
+	</string>
+	<string id="mil_max_dialog_3005">
+		<text>Believe me - nothing good. Creatures are many climbs, anomalies are also missing. I'll tell you later.</text>
+	</string>
+	<string id="mil_max_dialog_4001">
+		<text>You can congratulate?</text>
+	</string>
+	<string id="mil_max_dialog_4002">
+		<text>.</text>
+	</string>
+	<string id="mil_max_dialog_4003">
+		<text>You look like the guy does not miss! Won't you do me a job? Will do - I'm my Desert eagle will give. Great gun, powerful!..</text>
+	</string>
+	<string id="mil_max_dialog_4004">
+		<text>And what do you want?</text>
+	</string>
+	<string id="mil_max_dialog_4005">
+		<text>Here in the swamp I sat down one guy. The guys watched as he raced out of the village, not seeing the road. Obviously saw something that blew off the roof - now bombarding everyone I know. Need to know what he's such a nadybal, and that our fear in village walk.</text>
+	</string>
+	<string id="mil_max_dialog_40051">
+		<text>No, not this time.</text>
+	</string>
+	<string id="mil_max_dialog_400511">
+		<text>Well, as you wish.</text>
+	</string>
+	<string id="mil_max_dialog_40052">
+		<text>Here is a flash drive. I got her from freaking out guy.</text>
+	</string>
+	<string id="mil_max_dialog_400521">
+		<text>Well, thank you, Stalker! Here's the trunk - earned.</text>
+	</string>
+	<string id="mil_max_dialog_400522">
+		<text>And the ammunition?</text>
+	</string>
+	<string id="mil_max_dialog_400523">
+		<text>Only those in the clip. Sorry, there are no more. Go to the Miser he may be, will be.</text>
+	</string>
+	<string id="mil_max_dialog_4006">
+		<text>I'll try.</text>
+	</string>
+	<string id="mil_max_dialog_4007">
+		<text>Well, good luck. Keep in mind - there's an old minefield, but with the help of old faithful bolt the mines can be worked around.</text>
+	</string>
+	<string id="mil_max_dialog_5001">
+		<text>So, did you know? Well there did they find this psycho?</text>
+	</string>
+	<string id="mil_max_dialog_5002">
+		<text>Here is a flash drive that were freaking out the guy.</text>
+	</string>
+	<string id="mil_max_dialog_6001">
+		<text>What, already?</text>
+	</string>
+	<string id="mil_max_dialog_7001">
+		<text>What do you want to know?</text>
+	</string>
+	<string id="mil_max_dialog_8001">
+		<text>Hey, Stalker! Here?</text>
+	</string>
+	<string id="mil_max_dialog_8002">
+		<text>Affairs agent. Do you know where is your home?</text>
+	</string>
+	<string id="mil_max_dialog_8003">
+		<text>To Lukas - he's the oldest. Go to the main building.</text>
+	</string>
+	<string id="mil_max_dialog_9001">
+		<text>See, coped with the task. Give Lukas the documents.</text>
+	</string>
+	<string id="mil_max_dialog_9100">
+		<text>Go to Lukas, doloris, and then we'll talk, okay?</text>
+	</string>
+	<string id="mil_max_dialog_9101">
+		<text>Well.</text>
+	</string>
+	<string id="mil_patrol_dialog1_0">
+		<text>Dude,you on the basis of "Freedom"! Make yourself at home!..</text>
+	</string>
+	<string id="mil_patrol_dialog1_1">
+		<text>Clear.</text>
+	</string>
+	<string id="mil_patrol_dialog1_2">
+		<text>Only within, right? Understand? You'll be much pamper - blame yourself. There was one dull, so when all got, we beggar a minefield is allowed to walk. Here are a Cheapskate mother, when he was on a head arm of this type fell is something special... yeah... get it?</text>
+	</string>
+	<string id="mil_patrol_dialog1_3">
+		<text>Understood.</text>
+	</string>
+	<string id="mil_patrol_dialog1_4">
+		<text>Well done! Free.</text>
+	</string>
+	<string id="mil_patrol_dialog2_0">
+		<text>And the fresh fish... Go here.</text>
+	</string>
+	<string id="mil_patrol_dialog2_1">
+		<text>Do not understand.</text>
+	</string>
+	<string id="mil_patrol_dialog2_10">
+		<text>Where? Stay! We have a good... lunch again today.</text>
+	</string>
+	<string id="mil_patrol_dialog2_11">
+		<text>Yes, I tasteless.</text>
+	</string>
+	<string id="mil_patrol_dialog2_12">
+		<text>What?! Damn, why didn't you say so! Only time in vain spent. Fuck off, you tasteless... I'm seriously telling you, man.</text>
+	</string>
+	<string id="mil_patrol_dialog2_2">
+		<text>What do you not understand? Ah, the story of slow-witted I have not heard yet, I guess?</text>
+	</string>
+	<string id="mil_patrol_dialog2_3">
+		<text>Not heard.</text>
+	</string>
+	<string id="mil_patrol_dialog2_4">
+		<text>So. Judge for yourself: the times now are hungry...</text>
+	</string>
+	<string id="mil_patrol_dialog2_5">
+		<text>I mean?</text>
+	</string>
+	<string id="mil_patrol_dialog2_6">
+		<text>Yes, directly! A hungry fighter is a bad fighter. And we here in it how many...</text>
+	</string>
+	<string id="mil_patrol_dialog2_7">
+		<text>What?</text>
+	</string>
+	<string id="mil_patrol_dialog2_8">
+		<text>Where so much meat to attack? And then, as ordered, you!</text>
+	</string>
+	<string id="mil_patrol_dialog2_9">
+		<text>Clear.</text>
+	</string>
+	<string id="mil_screw_dialog_1000">
+		<text>Man, what happened to that?</text>
+	</string>
+	<string id="mil_screw_dialog_1001">
+		<text>Broken?</text>
+	</string>
+	<string id="mil_screw_dialog_1002">
+		<text>So you, not me? Wow! And I zadolbali already. How that breaks down, immediately fled here and moan.</text>
+	</string>
+	<string id="mil_screw_dialog_1003">
+		<text>And who are you?</text>
+	</string>
+	<string id="mil_screw_dialog_1004">
+		<text>I'm a mechanic. Samodelkin... Trunks repaired and everything that will bring. Wait I decided in order to bring.</text>
+	</string>
+	<string id="mil_screw_dialog_1005">
+		<text>It?</text>
+	</string>
+	<string id="mil_screw_dialog_1006">
+		<text>What! All junk. Zadolbali already. Listen, you have vodka there? I would you... want, the sight is good ladies? The optics are top grade!</text>
+	</string>
+	<string id="mil_screw_dialog_1100">
+		<text>No.</text>
+	</string>
+	<string id="mil_screw_dialog_1101">
+		<text>It you in vain. So if you go in, don't be shy.</text>
+	</string>
+	<string id="mil_screw_dialog_1102">
+		<text>Well.</text>
+	</string>
+	<string id="mil_screw_dialog_1200">
+		<text>Here you go.</text>
+	</string>
+	<string id="mil_screw_dialog_1201">
+		<text>Well, thank you! Honored. Now at least will have something a bit later to relax.</text>
+	</string>
+	<string id="mil_screw_dialog_1202">
+		<text>Good luck.</text>
+	</string>
+	<string id="mil_screw_dialog_2000">
+		<text>I'm trying to think...</text>
+	</string>
+	<string id="mil_screw_dialog_4">
+		<text>It really brought the vodka?</text>
+	</string>
+	<string id="mil_trader_dialog_1001">
+		<text>What do you want ?</text>
+	</string>
+	<string id="mil_trader_dialog_1002">
+		<text>Tricky question - where can I get some artifacts, weapons ?</text>
+	</string>
+	<string id="mil_trader_dialog_1003">
+		<text>I have, for the money. Or in the village for free, but more risk.</text>
+	</string>
+	<string id="mil_trader_dialog_1004">
+		<text>In the village ?</text>
+	</string>
+	<string id="mil_trader_dialog_1005">
+		<text>In the village. There are a lot of anomalies and all sorts of beginners often fall. Where our guys went, want, join them.</text>
+	</string>
+	<string id="mil_trader_dialog_1006">
+		<text>Clear.</text>
+	</string>
+	<string id="mil_trader_dialog_2001">
+		<text>And what are interesting bring?</text>
+	</string>
+	<string id="mil_trader_dialog_3001">
+		<text>What were pleased?</text>
+	</string>
+	<string id="mil_trader_dialog_3002">
+		<text>Nothing... just looking around.</text>
+	</string>
+	<string id="mil_trader_dialog_3003">
+		<text>You better business loans. Moreover, I have something in mind... to Earn extra money interest you?</text>
+	</string>
+	<string id="mil_trader_dialog_3004">
+		<text>Interesting.</text>
+	</string>
+	<string id="mil_trader_dialog_3005">
+		<text>I can give you "Crystal", if you have one service. Here the situation is unpleasant... the last time from the village artifacts are not - afraid. They say the bloodsuckers where they got. And these days especially, and nobody to send - even "Duty" invite.</text>
+	</string>
+	<string id="mil_trader_dialog_3006">
+		<text>Keep going.</text>
+	</string>
+	<string id="mil_trader_dialog_3007">
+		<text>A couple of guys left the village and never returned, and the remaining three are on the outskirts and sit. If you kill the bloodsuckers, I tell you, "Crystal" ladies. Come from?</text>
+	</string>
+	<string id="mil_trader_dialog_30071">
+		<text>Not this time.</text>
+	</string>
+	<string id="mil_trader_dialog_30072">
+		<text>See, the thing is... Sooner or later someone will still fill up. A "Crystal" thing is rare and expensive.</text>
+	</string>
+	<string id="mil_trader_dialog_3008">
+		<text>Taken.</text>
+	</string>
+	<string id="mil_trader_dialog_3009">
+		<text>That's good. But if even to find, so get take at a good price.</text>
+	</string>
+	<string id="mil_trader_dialog_3101">
+		<text>What ?</text>
+	</string>
+	<string id="mil_trader_dialog_3110">
+		<text>Sitting, looking around.</text>
+	</string>
+	<string id="mil_trader_dialog_3111">
+		<text>Well, if you will help them in the hunt, I'll give you the artifact called "Crystal". Well ?</text>
+	</string>
+	<string id="mil_trader_dialog_3200">
+		<text>We talked and went through the village - a mutant of some catch...</text>
+	</string>
+	<string id="mil_trader_dialog_3201">
+		<text>What ? Do not pull the cat's tail !</text>
+	</string>
+	<string id="mil_trader_dialog_3300">
+		<text>We Filled up some bitch, but the guys were killed. As the approached the tower, they head pohvatali, and I have a bloody mist before my eyes... a Creature that acts on the brain. I flunked it, but guys it has not helped.</text>
+	</string>
+	<string id="mil_trader_dialog_3301">
+		<text>Shitty deal... Sullen - a skilled Stalker. Sorry. Okay, take the artifact for what you guys helped...</text>
+	</string>
+	<string id="mil_trader_dialog_3310">
+		<text>Well, the guys went hunting, I was back...</text>
+	</string>
+	<string id="mil_trader_dialog_3311">
+		<text>Clear.</text>
+	</string>
+	<string id="mil_trader_dialog_3400">
+		<text>You can gear to get?</text>
+	</string>
+	<string id="mil_trader_dialog_3401">
+		<text>For a fee, everything is possible.</text>
+	</string>
+	<string id="mil_trader_dialog_3500">
+		<text>I have already sorted them out.</text>
+	</string>
+	<string id="mil_trader_dialog_3501">
+		<text>Come on, Stalker! Sharp, diarrhea... Okay, a deal''s a deal - keep the "Crystal".</text>
+	</string>
+	<string id="mil_trader_dialog_4001">
+		<text>So, how was the hunt?</text>
+	</string>
+	<string id="mil_trader_dialog_4002">
+		<text>I killed creatures.</text>
+	</string>
+	<string id="mil_trader_dialog_4003">
+		<text>Hard for it?</text>
+	</string>
+	<string id="mil_trader_dialog_4004">
+		<text>Medium.</text>
+	</string>
+	<string id="mil_trader_dialog_4005">
+		<text>That's interesting... Rushing dirtiest of the Central Zone - where do you get?.. Keep; it's you for work.</text>
+	</string>
+	<string id="mil_trader_dialog_5001">
+		<text>I asked you - yokochi bloodsuckers in the village!</text>
+	</string>
+	<string id="mil_trader_dialog_5002">
+		<text>I changed my mind.</text>
+	</string>
+	<string id="mil_trader_dialog_5003">
+		<text>No question. Only then there is no reward.</text>
+	</string>
+	<string id="mil_trader_dialog_5004">
+		<text>Yeah, okay.</text>
+	</string>
+	<string id="mil_trader_dialog_5010">
+		<text>I'll try it.</text>
+	</string>
+	<string id="mil_trader_dialog_6001">
+		<text>So is the problem that you do... Artifact, therefore, I will not give you.</text>
+	</string>
+	<string id="mil_trader_dialog_6002">
+		<text>Who can argue.</text>
+	</string>
+	<string id="mil_trader_dialog_7001">
+		<text>Here people are told, you bloodsuckers in the village decided to do. Though, no?</text>
+	</string>
+	<string id="mil_trader_dialog_7002">
+		<text>It was the case.</text>
+	</string>
+	<string id="mil_trader_dialog_7003">
+		<text>Had a hard time?</text>
+	</string>
+	<string id="mil_trader_dialog_7004">
+		<text>Medium.</text>
+	</string>
+	<string id="mil_trader_dialog_7005">
+		<text>That's interesting... Rushing dirtiest of the Central Zone - where do you get?.. Keep; it's you for work.</text>
+	</string>
+	<string id="mil_trader_dialog_8001">
+		<text>Well, what'd you bring ?</text>
+	</string>
+	<string id="mil_zoneguard_common1_0">
+		<text>You got the cook in there?</text>
+	</string>
+	<string id="mil_zoneguard_common1_1">
+		<text>Is how not to be! And why the fuck did he do?</text>
+	</string>
+	<string id="mil_zoneguard_common1_2">
+		<text>Oh, I'm eating a little to get hold of.</text>
+	</string>
+	<string id="mil_zoneguard_common1_3">
+		<text>So he's in the kitchen its. As usual, sits and mumbles.</text>
+	</string>
+	<string id="mil_zoneguard_common1_4">
+		<text>Mutters?</text>
+	</string>
+	<string id="mil_zoneguard_common1_5">
+		<text>What do you want? Drunk - drunk she is. If cook didn't know how long it would have got rid on all four sides. On nohne it. I'll give you a reference - find.</text>
+	</string>
+	<string id="mil_zoneguard_common1_6">
+		<text>Thanks for the info.</text>
+	</string>
+	<string id="mil_zoneguard_common1_7">
+		<text>Not for that.</text>
+	</string>
+	<string id="mil_zoneguard_common2_0">
+		<text>Who are you in charge here?</text>
+	</string>
+	<string id="mil_zoneguard_common2_1">
+		<text>And why should you?</text>
+	</string>
+	<string id="mil_zoneguard_common2_2">
+		<text>Information for it is.</text>
+	</string>
+	<string id="mil_zoneguard_common2_3">
+		<text>Lucas we have a commander. Go to the main building.</text>
+	</string>
+	<string id="mil_zoneguard_common2_4">
+		<text>Understood. Thank you.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_10">
+		<text>The same to you. What brings you here ?\n</text>
+	</string>
+	<string id="mil_zoneguard_dialog_100">
+		<text>Who are you here senior ? Case to him there.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_1000">
+		<text>Senior have Lucas, located in the main building. But when he comes, hide the weapon, and then they can shoot.\n</text>
+	</string>
+	<string id="mil_zoneguard_dialog_10000">
+		<text>Why is that ?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_100000">
+		<text>Yes there was a precedent - Lukas almost got killed by some mercenary. Since then reinsured.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_1000000">
+		<text>Clear.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_10000000">
+		<text>Okay, go ahead.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_20">
+		<text>Yes so-so. Do not bother...</text>
+	</string>
+	<string id="mil_zoneguard_dialog_3">
+		<text>Welcome.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_30">
+		<text>Wait! Password?!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_31">
+		<text>South African swallow!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_32">
+		<text>Ha ha! Well done! Come on in.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_4">
+		<text>What is the swamp next?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_41">
+		<text>Absolutely a radioactive puddle. It is better not to go: pick up x-rays so that the navel unleash. There stuck in the middle of some type and did not let on. In principle, it is possible to understand: who wants fools talk? And normal there Fig climb.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_42">
+		<text>That at least?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_43">
+		<text>Who the hell knows. They say that one of our own, which is in the village visited.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_44">
+		<text>What kind of village?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_45">
+		<text>Yes there is near the village... one is full of Mutants, anomalies. I myself was not yet, only recently got to the base. Ask max - he's been here for years already.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_5">
+		<text>Where to buy ammo? And then to "Sprout" a bit of a hike, shove don't really want to...</text>
+	</string>
+	<string id="mil_zoneguard_dialog_51">
+		<text>Go to the main building on the first floor you will find.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6">
+		<text>Privatise, tramp! Decided to taxi us to the light?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_601">
+		<text>Something like.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_602">
+		<text>Want to join us or what?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_603">
+		<text>Or. I'm on the case.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_604">
+		<text>Yeah, well, join the best! We have a lot of fun.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_605">
+		<text>I'll think about it.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_607">
+		<text>Talking horse?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_608">
+		<text>By.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_609">
+		<text>And 9?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_610">
+		<text>Hurt, ugh damn. Hare the runaround. Yet there are options?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_611">
+		<text>Yourself.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_612">
+		<text>Point. Damn again. Well, you and the beetle. Okay, I understand, the password you don't know?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_613">
+		<text>Prompt?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_614">
+		<text>Schasss.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_615">
+		<text>Well let me, not in a field am I going to sleep?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_616">
+		<text>And th weather is good, summer can say. Well take the test - let not - free.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_617">
+		<text>Test?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_618">
+		<text>Yeah, only three questions are to be answered by a real man.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_619">
+		<text>I'm not afraid, ask your questions.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_620">
+		<text>The first is the easiest. Ready? Listen: the breast size of Pamela Anderson?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6200">
+		<text>Third.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6201">
+		<text>No shit you don't know. Get out of here!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6202">
+		<text>Tree.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6203">
+		<text>Fifth.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6204">
+		<text>No shit you don't know. Get out of here.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6205">
+		<text>Seventh.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6206">
+		<text>Well done! Immediately evident - the correct orientation man!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6207">
+		<text>There is such a thing.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6208">
+		<text>The second heavier! So... the Number of rounds in the horn of Russian submachine gun "Bizon"?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6300">
+		<text>Twenty-five.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6301">
+		<text>Sixty-eight.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6302">
+		<text>Fifty-four.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6400">
+		<text>Great! I like you more and more... don't get me wrong!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6401">
+		<text>Okay.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6402">
+		<text>Went third! The speed with which flies the South African swallow?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6403">
+		<text>Who?!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6404">
+		<text>Swallow!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6405">
+		<text>How do I know this?! You yourself even know?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6406">
+		<text>No, of course. The fact of the matter is that in any way can not figure out... Oh. Okay, come on in.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6407">
+		<text>Well, you give!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_81">
+		<text>I want to try? Come on. Question: breast size Dottie Strangelove?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_91">
+		<text>What a stubborn you! I repeat: the number of rounds in the horn of Russian submachine gun "Bizon"?</text>
+	</string>
+</string_table>

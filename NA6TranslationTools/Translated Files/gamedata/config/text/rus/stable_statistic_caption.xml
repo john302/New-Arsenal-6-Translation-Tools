@@ -1,0 +1,304 @@
+
+	<string id="bandit_experienced">
+		<text>bandit, an experienced</text>
+	</string>
+	<string id="bandit_master">
+		<text>the bandit, master</text>
+	</string>
+	<string id="bandit_novice">
+		<text>bandit, newbie</text>
+	</string>
+	<string id="bandit_veteran">
+		<text>bandit, a veteran</text>
+	</string>
+	<string id="bloodsucker_normal">
+		<text>underground bloodsucker</text>
+	</string>
+	<string id="bloodsucker_strong">
+		<text>black bloodsucker</text>
+	</string>
+	<string id="bloodsucker_weak">
+		<text>bloodsucker</text>
+	</string>
+	<string id="boar_normal">
+		<text>adult boar</text>
+	</string>
+	<string id="boar_strong">
+		<text>mater Kaban</text>
+	</string>
+	<string id="boar_weak">
+		<text>young wild boar</text>
+	</string>
+	<string id="burer_weak">
+		<text>burer</text>
+	</string>
+	<string id="burer_normal">
+		<text>burer</text>
+	</string>
+	<string id="burer_strong">
+		<text>burer</text>
+	</string>
+	<string id="controller_weak">
+		<text>the controller</text>
+	</string>
+	<string id="dog_normal">
+		<text>dog crystal</text>
+	</string>
+	<string id="dog_strong">
+		<text>dog albino</text>
+	</string>
+	<string id="dog_black">
+		<text>black dog</text>
+	</string>
+	<string id="dog_weak">
+		<text>wild dog</text>
+	</string>
+	<string id="dolg_experienced">
+		<text>"Duty" experienced</text>
+	</string>
+	<string id="dolg_master">
+		<text>"Debt", master</text>
+	</string>
+	<string id="dolg_veteran">
+		<text>"Duty," the veteran</text>
+	</string>
+	<string id="ecolog_experienced">
+		<text>a scientist, experienced</text>
+	</string>
+	<string id="ecolog_novice">
+		<text>scientist, newbie</text>
+	</string>
+	<string id="flesh_normal">
+		<text>forest flesh</text>
+	</string>
+	<string id="flesh_strong">
+		<text>swamp flesh</text>
+	</string>
+	<string id="flesh_weak">
+		<text>steppe flesh</text>
+	</string>
+	<string id="freedom_experienced">
+		<text>"Freedom" experienced</text>
+	</string>
+	<string id="freedom_master">
+		<text>"Freedom", master</text>
+	</string>
+	<string id="freedom_veteran">
+		<text>"Freedom" veteran</text>
+	</string>
+	<string id="killer_experienced">
+		<text>mercenary, experienced</text>
+	</string>
+	<string id="killer_master">
+		<text>mercenary, master</text>
+	</string>
+	<string id="killer_veteran">
+		<text>mercenary, veteran</text>
+	</string>
+	<string id="military_experienced">
+		<text>military, Sergeant</text>
+	</string>
+	<string id="military_master">
+		<text>military, captain</text>
+	</string>
+	<string id="military_novice">
+		<text>military, soldier</text>
+	</string>
+	<string id="military_veteran">
+		<text>military, Lieutenant</text>
+	</string>
+	<string id="monolith_experienced">
+		<text>Monolit, experienced</text>
+	</string>
+	<string id="monolith_master">
+		<text>"Monolith", master</text>
+	</string>
+	<string id="monolith_novice">
+		<text>"Monolith", a beginner</text>
+	</string>
+	<string id="monolith_veteran">
+		<text>"Monolith", a veteran</text>
+	</string>
+	<string id="wermacht_experienced">
+		<text>Fascist, experienced</text>
+	</string>
+	<string id="wermacht_master">
+		<text>A fascist master</text>
+	</string>
+	<string id="wermacht_novice">
+		<text>Fascist newbie</text>
+	</string>
+	<string id="wermacht_veteran">
+		<text>Fascist veteran</text>
+	</string>
+	<string id="neutral_experienced">
+		<text>Stalker, experienced</text>
+	</string>
+	<string id="neutral_master">
+		<text>Stalker, master</text>
+	</string>
+	<string id="neutral_novice">
+		<text>Stalker, newbie</text>
+	</string>
+	<string id="neutral_veteran">
+		<text>Stalker, veteran</text>
+	</string>
+	<string id="stranger_master">
+		<text>hunter, master</text>
+	</string>
+	<string id="stranger_novice">
+		<text>hunter, rookie</text>
+	</string>
+	<string id="stranger_veteran">
+		<text>hunter, a veteran</text>
+	</string>
+	<string id="stranger_experienced">
+		<text>hunter, experienced</text>
+	</string>
+	<string id="poltergeist_weak">
+		<text>poltergeist</text>
+	</string>
+	<string id="pseudo_gigant_weak">
+		<text>psevdogigant</text>
+	</string>
+	<string id="pseudodog_normal">
+		<text>seasoned pseudodog</text>
+	</string>
+	<string id="pseudodog_strong">
+		<text>grey pseudodog</text>
+	</string>
+	<string id="pseudodog_weak">
+		<text>the pseudodog</text>
+	</string>
+	<string id="psy_dog">
+		<text>twilight the pseudodog</text>
+	</string>
+	<string id="snork_weak">
+		<text>Snork scavenger</text>
+	</string>
+	<string id="snork_normal">
+		<text>Snork scavenger</text>
+	</string>
+	<string id="snork_strong">
+		<text>Snork eater</text>
+	</string>
+	<string id="tushkano_weak">
+		<text>tushkan</text>
+	</string>
+	<string id="tushkano_normal">
+		<text>experienced tushkan</text>
+	</string>
+	<string id="tushkano_strong">
+		<text>black tushkan</text>
+	</string>
+	<string id="tushkano_metro">
+		<text>ghoul</text>
+	</string>
+	<string id="ratlike_weak">
+		<text>Cryovac</text>
+	</string>
+	<string id="ratlike_normal">
+		<text>experienced Cryovac</text>
+	</string>
+	<string id="ratlike_strong">
+		<text>mater Cryovac</text>
+	</string>
+	<string id="zombie_normal">
+		<text>zombies not dead yet</text>
+	</string>
+	<string id="zombie_strong">
+		<text>a zombie, a corpse</text>
+	</string>
+	<string id="zombie_zombie_immortal">
+		<text>zombie warlock</text>
+	</string>
+	<string id="zombie_weak">
+		<text>zombies, fresh</text>
+	</string>
+	<string id="zombied_experienced">
+		<text>zombie, experimental</text>
+	</string>
+	<string id="zombied_master">
+		<text>zombie master</text>
+	</string>
+	<string id="zombied_novice">
+		<text>zombie beginner</text>
+	</string>
+	<string id="zombied_veteran">
+		<text>zombie veteran</text>
+	</string>
+	<string id="zanoza_strong">
+		<text>pain</text>
+	</string>
+	<string id="bibliotekar">
+		<text>librarian</text>
+	</string>
+	<string id="bibliotekar_black">
+		<text>black librarian</text>
+	</string>
+	<string id="tarakan">
+		<text>cockroach</text>
+	</string>
+	<string id="tarakan_normal">
+		<text>cockroach</text>
+	</string>
+	<string id="tarakan_strong">
+		<text>black cockroach</text>
+	</string>
+	<string id="rat_normal">
+		<text>experienced rat</text>
+	</string>
+	<string id="rat_strong">
+		<text>seasoned rat</text>
+	</string>
+	<string id="rat_weak">
+		<text>rat</text>
+	</string>
+	<string id="cat_weak">
+		<text>cat-Baiyun, young</text>
+	</string>
+	<string id="cat_normal">
+		<text>cat-Baiyun, experienced</text>
+	</string>
+	<string id="cat_strong">
+		<text>tiger</text>
+	</string>	
+	<string id="wolf_strong">
+		<text>coyote</text>
+	</string>
+	<string id="fox_weak">
+		<text>Fox</text>
+	</string>
+	<string id="fox_normal">
+		<text>experienced Fox</text>
+	</string>
+	<string id="wolf_red">
+		<text>red wolf</text>
+	</string>
+	<string id="wolf_grey">
+		<text>grey wolf</text>
+	</string>
+	<string id="wolf_white">
+		<text>white wolf</text>
+	</string>
+	<string id="wolf_black">
+		<text>black wolf</text>
+	</string>
+	<string id="chimera_weak">
+		<text>Chimera</text>
+	</string>
+	<string id="chimera_normal">
+		<text>Medvedeva</text>
+	</string>
+	<string id="chimera_strong">
+		<text>Chimera</text>
+	</string>
+	<string id="fracture_weak">
+		<text>kink</text>
+	</string>
+	<string id="fracture_normal">
+		<text>experienced kink</text>
+	</string>
+	<string id="fracture_strong">
+		<text>mater kink</text>
+	</string>

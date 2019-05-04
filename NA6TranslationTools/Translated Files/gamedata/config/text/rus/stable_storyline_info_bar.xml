@@ -1,0 +1,55 @@
+	<string id="descr_bar_crazy_veterans_quest">
+		<text>Bartender: "it is the Duty values its reputation. So they want to be considerate. You have to destroy the leader, nicknamed "Lucky" and bring his PDA as evidence."</text>
+	</string>
+	<string id="descr_bar_dolg_community_quest">
+		<text>In order to enter into "Debt" you need to get the approval of one of the most respected members of the group. And to prove to the leader of the "Debt" that you are worthy to be one of them.</text>
+	</string>
+	<string id="descr_bar_dolg_svoboda_ambush_quest">
+		<text>Bartender: "Your task is the destruction of the Tyrant, the leader of a group of Mercenaries. A squad of Mercenaries burst into the wild and sat down on the construction site. Be careful, some militants are sitting in ambush at the approaches to the site. As soon As I bring my PDA Tyrant, the reward is yours."</text>
+	</string>
+	<string id="descr_bar_dolg_svoboda_leader_kill_quest">
+		<text>General Voronin: "the War with Freedom is coming to an end, Labeled. You've made a contribution and now I want to put an end to this war. I want you to destroy the leader of Freedom."</text>
+	</string>
+	<string id="descr_bar_dolg_test_quest">
+		<text>Captain Ivantsov: "...before you draw conclusions, pass a little test. You should get a backup folder from an abandoned building across the street. The job is easy, just go inside, take the file and bring it to me. What could be easier, right? When the folder I have, and then decide you're fit for duty or not."</text>
+	</string>
+	<string id="descr_bar_hunter_rifle">
+		<text>Hunter: "Give me back the gun. I lost him near the home of the bloodsuckers now so I'll text you the coordinates of the place. And be careful out there, these creatures are very vicious."</text>
+	</string>
+	<string id="descr_bar_kill_professor">
+		<text>Wolfhound: "we Have a bit of hunting. Clamped scientists, there is a helicopter. My guys are slowly fired at them, not to run away. You let's get connected, now we are going to finish. If it helps, I will give you a space suit science, from a downed helicopter pulled out. Your goal is Professor Kruglov and kill him, otherwise he will run away during the fight, I know their breed. If you kill him, the suit's yours, no means no luck."</text>
+	</string>
+	<string id="descr_bar_radar_deactivate">
+		<text>Bartender: "Protective prototype you have to "cautery" to hide behind, the coordinates of the bunker I know. Don't forget that the prototype will not be able indefinitely to protect you from radiation, so you should as soon as possible to break into the bunker beneath the antennas and disable the "burner." What we need to get to the antenna, and disable them."</text>
+	</string>
+	<string id="descr_bar_resque_information">
+		<text>Kruglov: "Stalker, help! We were attacked by mercenaries, half of us were killed. Help us, we are not in debt will remain"\nT_NL "...you be careful out there, them fifteen, exactly we don't know"</text>
+	</string>
+	<string id="descr_bar_resque_information_2">
+		<text>Kruglov: "We came back with Amber when we got mercenaries. They say that the information that they need, but I know they will shoot us. Take me to Amber and I will share with you what you know about your "brain burner", and the bartender you are well paid for it. Fighter I'm a bad, but I know the way, so I'll lead, you cover us on the way."</text>
+	</string>
+	<string id="descr_bar_x16_documents">
+		<text>Bartender: "we Have to get to scientists and find out where the lab X16 to get the missing part."</text>
+	</string>
+	<string id="journal_after_agroprom_documents">
+		<text>Reviewed documents found in a former military research Institute. The conclusion is that this institution, the last years before the accident, was a cover of a private laboratory X-18, which apparently held a mysterious experiment. Where the lab documents don't give the answer. Military about this lab is also, apparently, know nothing. Hmmm...the Mysteries are multiplying... But perhaps this thread, which is necessary to the traders. Well, now we have the path further to the North, to the dealer named Bartender.</text>
+	</string>
+	<string id="journal_bar_darklab_documents">
+		<text>Hmmm...not a healthy place lab X18...and its current inhabitants...did not even think that such evil can exist in the world. Found some documents...Of those few that understand are some technical specifications on some units to emitters Kaimanawa. But interestingly these units were intended for another laboratory with code X16 and apparently also classified.</text>
+	</string>
+	<string id="journal_bar_x16_documents">
+		<text>Hmm..Merchants really dug on these laboratories. For the bartender was not unexpected information about the speakers and about X16. And now he is sure that this "brain burner" is man-made. He thinks this lab X16 is near the camp of the scientists near lake Yantar. They are studying the radiation, which is similar to the effect of "burner." So now my path lies to the scientific fraternity Zone.</text>
+	</string>
+	<string id="journal_before_darklab_documents">
+		<text>Met with the Bartender. Having looked through the documents from Agroprom, he suggested that this X-18 is in the so-called Dark Valley and offers me to pay a visit to search for information and documents. Says already sent scouts dolgovtsev on a mission to infiltrate in that dungeon. But they were gone. The bartender suggested that they were captured by the bandits - those where the base near. And if so, then all that got dolgovtsev will be the leader of the bandits is a Hog. The bartender, urged caution, and -- and clearly something not telling about that dungeon. Anyway, for the work: first, to communicate with a hog, but if the conversation is successful, then go into the ground.</text>
+	</string>
+	<string id="journal_before_radar_task">
+		<text>Well I'm ready to go on the Burner. From a Psycho I learned while lowering radiation power and a safe place where I can wait for this time. Another time my psi-protection will not help. I'll have to find the entrance to the underground bunker of lab X19, and inside, the path to the antennas are controlled by the Brain Burner.</text>
+	</string>
+	<string id="st_gordon_diary">
+		<text>PDAs Gordon</text>
+	</string>
+	
+	<string id="descr_warlab_floppy_disketka">
+		<text>Bartender: "we Need to get to the Generators and find the entrance to the weapons lab. The access code in the dungeon: 120307. Then act according to circumstances, for it is not excluded that in the laboratory there will be more combination locks. Once you get the floppy, just come get me."</text>
+	</string>

@@ -1,0 +1,36 @@
+	<string id="mil_actor_blockpost">
+		<text>Stalker, you're come to the Barrier, don't indulge, but we are happy to accept any help.</text>
+	</string>
+	<string id="mil_after_sniper_dead">
+		<text>"Bullseye, come to us for calculation and further instructions"</text>
+	</string>
+	<string id="mil_fblockpost_warning">
+		<text>Labeled, go back and take a stand</text>
+	</string>
+	<string id="mil_info_freedom_radio">
+		<text>If the whole spending the night in the village on the Tower - then be SURE something is gonna happen...</text>
+	</string>
+	<string id="mil_info_max_mines">
+		<text>Remember the mine - sapper wrong twice...</text>
+	</string>
+	<string id="mil_info_max_village">
+		<text>Tagged be careful - they say in the village there is a new anomaly is moving very quickly, besides, the bastard is not visible.</text>
+	</string>
+	<string id="mil_info_to_all">
+		<text>The attention of all wishing to thin out the brains - pass Radar guards detachment of the Monolith, I think you know that they shoot at all. Good luck.</text>
+	</string>
+	<string id="mil_max_attack_signal">
+		<text>In attack, the lads. Soak the lawyers.</text>
+	</string>
+	<string id="mil_mission_complete">
+		<text>Our mission will be accomplished. Go back to the farm and there will be a reckoning!</text>
+	</string>
+	<string id="mil_scull_attack_signal">
+		<text>Come on, guys. The path is clear.</text>
+	</string>
+	<string id="mil_scull_info">
+		<text>Labeled, get the snipers !!!</text>
+	</string>
+	<string id="mil_sniper_to_player_warning">
+		<text>Labeled, be careful, and then another in the head with a bullet catch...</text>
+	</string>

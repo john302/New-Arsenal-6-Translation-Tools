@@ -1,0 +1,48 @@
+	<string id="gar_car_graveyard_quest">
+		<text>To answer the call for help</text>
+	</string>
+	<string id="gar_defend_garbage">
+		<text>To destroy a RAID of bandits</text>
+	</string>
+	<string id="gar_dialog_hellcar">
+		<text>To offer assistance to the leader of the neutrals</text>
+	</string>
+	<string id="gar_dialog_hellcar_1">
+		<text>To offer your help to BES</text>
+	</string>
+	<string id="gar_hellcar_alive">
+		<text>Talk to the Devil</text>
+	</string>
+	<string id="gar_help_dymon">
+		<text>Repel a RAID of bandits</text>
+	</string>
+	<string id="gar_help_tunnel_newbie">
+		<text>To help the beginner from the landfill</text>
+	</string>
+	<string id="gar_kill_bandits">
+		<text>To destroy a RAID of bandits</text>
+	</string>
+	<string id="gar_kill_boars">
+		<text>To help the Outpost Debt</text>
+	</string>
+	<string id="gar_kill_boars_1">
+		<text>Kill boars</text>
+	</string>
+	<string id="gar_kill_boars_2">
+		<text>Talk to the commander of the Outpost</text>
+	</string>
+	<string id="gar_kill_boars_descr">
+		<text>Debt: "All welcome, says an Outpost of the Debt on the landfill. From the dark Valley towards the bar there is a wave of mutants. Anyone who will help to shoot vermin, appreciation from our side we guarantee. The Word Debt."</text>
+	</string>
+	<string id="gar_kill_boars_main">
+		<text>Quest for passage to the Bar</text>
+	</string>
+	<string id="garbage_meet_stalker_1">
+		<text>Find out on the Gray Arrow</text>
+	</string>
+	<string id="graveyard_raid_text">
+		<text>Demon: "Bandit spawn is trying to gain control over the Dump. Here half an hour ago there was a fight. Three other guys we put. The rest of The lads stepped back, but obviously that's coming back with reinforcements. We have a little extra barrel will not interfere. If you help us destroy their reinforcements, then I'll stay."</text>
+	</string>
+	<string id="help_for_neitrals_text">
+		<text>In a graveyard of machinery skirmish between the neutrals and the bandits. Neutrals strayed, but call for help.</text>
+	</string>

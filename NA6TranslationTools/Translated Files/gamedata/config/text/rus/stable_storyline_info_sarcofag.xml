@@ -1,0 +1,12 @@
+	<string id="sar_command_center_text">
+		<text>The doctor: "Everything you said about the Monolith is true is just illusion, which induces some of the laboratory next to the Sarcophagus... apparently, this is the only way to get to this secret Area...you always tried to solve."</text>
+	</string>
+	<string id="sar_monolith_call_text">
+		<text>I heard the call of the Monolith. He asked me to join her. Should go to him and get answers to all the questions.</text>
+	</string>
+	<string id="sar_secret_lab_text">
+		<text>Doctor: "In General, there is a decoder to open the door leading to the control Monolith. Decoder hidden in a stash in Pripyat. The coordinates of the cache and the key I give you. Take the decoder, found in the sarcophagus of the door, and there...well, there is - according to the situation."</text>
+	</string>
+	<string id="zones_mystery_text">
+		<text>You still came, Stalker. And you were much stronger than we first thought. Well, it's time to talk. Go signal, we'll wait for you.</text>
+	</string>

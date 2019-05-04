@@ -1,0 +1,48 @@
+	<string id="gar_angar">
+		<text>An abandoned hangar.</text>
+	</string>
+	<string id="gar_bandit_agr">
+		<text>The camp of bandits at the Agroprom.</text>
+	</string>
+	<string id="gar_bandit_post">
+		<text>Fortified bandits on the way to Agroprom.</text>
+	</string>
+	<string id="gar_bandits_leader">
+		<text>A RAID by bandits led by tillage.</text>
+	</string>
+	<string id="gar_boars_nest">
+		<text>The accumulation of wild boars.</text>
+	</string>
+	<string id="gar_car_graveyard">
+		<text>A cemetery of abandoned equipment.</text>
+	</string>
+	<string id="gar_dogs_in_forest">
+		<text>The forest where many dogs.</text>
+	</string>
+	<string id="gar_dolg_blokpost">
+		<text>Checkpoint Debt on the way to the Bar.</text>
+	</string>
+	<string id="gar_hellcar">
+		<text>A group of stalkers-neutrals calling for help.</text>
+	</string>
+	<string id="gar_newbie">
+		<text>Newbie, scared and tired.</text>
+	</string>
+	<string id="gar_secret1">
+		<text>The cache left by the newcomer.</text>
+	</string>
+	<string id="gar_seriy">
+		<text>Gray.</text>
+	</string>
+	<string id="gar_swamp">
+		<text>The great grimpen mire.</text>
+	</string>
+	<string id="gar_trash1">
+		<text>Piles of garbage with anomalies and artifacts.</text>
+	</string>
+	<string id="gar_tunnel">
+		<text>The railway tunnel.</text>
+	</string>
+	<string id="gar_wounded_help">
+		<text>The SOS signal. Obviously, a wounded Stalker.</text>
+	</string>

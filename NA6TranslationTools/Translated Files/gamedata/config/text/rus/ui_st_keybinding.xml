@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="kb_active_jobs">
+		<text>Active tasks in PDA</text>
+	</string>
+	<string id="kb_always_run">
+		<text>Step</text>
+	</string>
+	<!--
+	<string id="kb_artefact">
+		<text>Binoculars</text>
+	</string>
+	-->
+	<string id="kb_backward">
+		<text>Ago</text>
+	</string>
+	<string id="kb_binoculars">
+		<text>Binoculars</text>
+	</string>
+	<string id="kb_buy_menu">
+		<text>Binoculars</text>
+	</string>
+	<string id="kb_chat">
+		<text>Chat</text>
+	</string>
+	<string id="kb_chat_team">
+		<text>Spec. the function of the weapon</text>
+	</string>
+	<string id="kb_console">
+		<text>Console</text>
+	</string>
+	<string id="kb_contacts">
+		<text>Contacts to PDA</text>
+	</string>
+	<string id="kb_crouch">
+		<text>Sit down</text>
+	</string>
+	<string id="kb_crouch_toggle">
+		<text>Always presage</text>
+	</string>
+	<string id="kb_down">
+		<text>Down</text>
+	</string>
+	<string id="kb_drop">
+		<text>Spread</text>
+	</string>
+	<string id="kb_fire">
+		<text>Fire</text>
+	</string>
+	<string id="kb_firemode_next">
+		<text>Shooting mode mark.</text>
+	</string>
+	<string id="kb_firemode_prev">
+		<text>Shooting mode pre.</text>
+	</string>
+	<string id="kb_forward">
+		<text>Forward</text>
+	</string>
+	<string id="kb_func">
+		<text>Underbarrel grenade launcher</text>
+	</string>
+	<string id="kb_grp_common">
+		<text>Total</text>
+	</string>
+	<string id="kb_grp_direction">
+		<text>Direction</text>
+	</string>
+	<string id="kb_grp_inventory">
+		<text>Inventory</text>
+	</string>
+	<string id="kb_grp_movement">
+		<text>Movement</text>
+	</string>
+	<string id="kb_grp_multiplayer">
+		<text>Multiplayer</text>
+	</string>
+	<string id="kb_grp_weapons">
+		<text>Weapons</text>
+	</string>
+	<string id="kb_inventory">
+		<text>Inventory</text>
+	</string>
+	<string id="kb_jump">
+		<text>Jump</text>
+	</string>
+	<string id="kb_left">
+		<text>Left</text>
+	</string>
+	<string id="kb_left_lookout">
+		<text>Look to the left</text>
+	</string>
+	<string id="kb_left_strafe">
+		<text>Step to the left</text>
+	</string>
+	<string id="kb_map">
+		<text>Map in a PDA</text>
+	</string>
+	<string id="kb_next_slot">
+		<text>Weapons of the next slot</text>
+	</string>
+	<string id="kb_night_vision">
+		<text>A night vision device</text>
+	</string>
+	<string id="kb_pause">
+		<text>Pause</text>
+	</string>
+	<string id="kb_pda">
+		<text>PDA</text>
+	</string>
+	<string id="kb_prev_slot">
+		<text>Weapons from the previous slot</text>
+	</string>
+	<string id="kb_quit">
+		<text>Output</text>
+	</string>
+	<string id="kb_reload">
+		<text>Recharge</text>
+	</string>
+	<string id="kb_repair">
+		<text>To fix</text>
+	</string>
+	<string id="kb_right">
+		<text>Right</text>
+	</string>
+	<string id="kb_right_lookout">
+		<text>Look to the right</text>
+	</string>
+	<string id="kb_right_strafe">
+		<text>Step right</text>
+	</string>
+	<string id="kb_scores">
+		<text>Glasses</text>
+	</string>
+	<string id="kb_screenshot">
+		<text>Screenshot</text>
+	</string>
+	<string id="kb_skin_menu">
+		<text>Menu model selection</text>
+	</string>
+	<string id="kb_sprint">
+		<text>Running</text>
+	</string>
+	<string id="kb_team_menu">
+		<text>Selection menu commands</text>
+	</string>
+	<string id="kb_torch">
+		<text>Flashlight</text>
+	</string>
+	<string id="kb_turn_engine">
+		<text>To start the car</text>
+	</string>
+	<string id="kb_up">
+		<text>Up</text>
+	</string>
+	<string id="kb_use">
+		<text>Use</text>
+	</string>
+	<string id="kb_use_bandage">
+		<text>A quick use. bandage</text>
+	</string>
+	<string id="kb_use_medkit">
+		<text>A quick use. kits</text>
+	</string>
+	<string id="kb_vote_begin">
+		<text>A quick use. of antirad</text>
+	</string>
+	<string id="kb_vote_menu">
+		<text>To eat</text>
+	</string>
+	<string id="kb_vote_no">
+		<text>Make spec. drugs</text>
+	</string>
+	<string id="kb_vote_yes">
+		<text>To drink energy drink</text>
+	</string>
+	<string id="kb_weapon1">
+		<text>Weapons 1</text>
+	</string>
+	<string id="kb_weapon2">
+		<text>Weapons 2</text>
+	</string>
+	<string id="kb_weapon3">
+		<text>Weapons 3</text>
+	</string>
+	<string id="kb_weapon4">
+		<text>Weapons 4</text>
+	</string>
+	<string id="kb_weapon5">
+		<text>Weapons 5</text>
+	</string>
+	<string id="kb_weapon6">
+		<text>Weapons 6</text>
+	</string>
+	<string id="kb_wpn_next">
+		<text>To change the type of ammunition</text>
+	</string>
+	<string id="kb_na_use_detector">
+		<text>Detector</text>
+	</string>
+	<string id="kb_wpn_prev">
+		<text>Previous weapon of this type</text>
+	</string>
+	<string id="kb_zoom">
+		<text>Zoom</text>
+	</string>
+	<string id="speech_menu_group">
+		<text>The mode of the exoskeleton</text>
+	</string>
+	<string id="kb_cam_1">
+		<text>The view of The camera (1)</text>
+	</string>
+	<string id="kb_cam_2">
+		<text>Camera view (2)</text>
+	</string>
+	<string id="kb_cam_3">
+		<text>Camera view (3)</text>
+	</string>
+	<string id="kb_na_weapon_func">
+		<text>Spec. the function of the weapon</text>
+	</string>
+	<string id="kb_na_use_binoc">
+		<text>Binoculars</text>
+	</string>
+	<string id="kb_na_exo_func">
+		<text>The mode of the exoskeleton</text>
+	</string>
+	<string id="kb_na_use_antirad">
+		<text>A quick use. of antirad</text>
+	</string>
+	<string id="kb_na_use_food">
+		<text>To eat</text>
+	</string>
+	<string id="kb_na_use_drink">
+		<text>To drink energy drink</text>
+	</string>
+	<string id="kb_na_use_chemical">
+		<text>Make spec. drugs</text>
+	</string>
+	<string id="kb_na_save_on_level">
+		<text>To preserve</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="pri_followers_start_dlg_21">
+		<text>Move down the street. In which case - back.</text>
+	</string>
+	<string id="pri_followers_start_dlg_211">
+		<text>Well.</text>
+	</string>
+	<string id="pri_followers_start_dlg_31">
+		<text>Thank you Tagged for all the help. It was a tough fight. We will make camp here tonight.\nIf you go further, it will tell you about the area. If you return back to transition and go right to reach the bus station. But there hurt the ground is open and unsafe.\nIf you go forward, you will be in front of the hotel. The right base of the monolith. The guys without a roof.\nFor the base stadium. We were planning on using him to the station to get. That's all.</text>
+	</string>
+	<string id="pri_followers_start_dlg_311">
+		<text>Thank you.</text>
+	</string>
+	<string id="pri_followers_start_dlg_41">
+		<text>Thanks for the help. Good luck.</text>
+	</string>
+	<string id="pri_followers_start_dlg_411">
+		<text>Yet.</text>
+	</string>
+	<string id="pri_join_monolith_dialog_0">
+                <text>I want to join the cast</text>
+	</string>
+        <string id="pri_join_monolith_dialog_check">
+                <text>You hurt us, but now we need soldiers, Yes, and something tells me that you're a valiant warrior. Are you really ready to enter into a "Monolith"?</text>
+	</string>
+        <string id="pri_join_monolith_dialog_true">
+                <text>Yeah, I'm thinking this through.</text>
+	</string>
+	<string id="pri_join_monolith_dialog_wellcome">
+                <text>Well, you're in men "the Monolith". Get your gear and I suggest you to read our Charter.</text>
+	</string>
+        <string id="pri_join_monolith_dialog_false">
+                <text>Sorry, I changed my mind.</text>
+	</string>
+</string_table>

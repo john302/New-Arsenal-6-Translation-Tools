@@ -1,0 +1,48 @@
+	<string id="agr_find_ghost_descr">
+		<text>... Found out that one of the group shooter's name is Ghost. At least some clue. If you can find the Ghost, will be able to find the shooter.</text>
+	</string>
+	<string id="agr_journal_cache">
+		<text>Well the stash has given me further direction. I found a flash drive that Arrow group was used as a "logbook". Messages it wasn't much, but it was enough to understand - in the Arrow group, besides him, consisted of the 2nd: Ghost and Fang. Has been discussed a "mutual acquaintance", but included in the group is unknown. But the fact that he had a significant support to the group, Arrow - fact. Further, according to the message of the Ghost, Fang was killed when they were ambushed. So now we have the name of one person who knows the Arrow is a Ghost. Finally something concrete. And the Arrow, judging by the correspondence, really need to look in the Northern parts of the Zone.</text>
+	</string>
+	<string id="agr_journal_krot">
+		<text>Well the meeting with the Mole was productive - apparently a cache group is a reality, and it is located in the Agroprom catacombs... way to the dungeons. What awaits me there is unknown... I Hope this cache will reveal my secret...</text>
+	</string>
+	<string id="agr_krot_secret_info">
+		<text>The mole: ".. down a spiral staircase into a room with columns, then to the exit, get into the big room with pipes on the ceiling. From there down to the second exit, exit the tunnel and turn left. At the end of the course to the right. There is a small room, cross it and turn right. Looking at the left wall of the hole, next to the inscription "do Not get - kill!". This is the entrance to the hiding place an Arrow."</text>
+	</string>
+	<string id="agr_krot_secret_info_name">
+		<text>The Cache Pointer</text>
+	</string>
+	<string id="agr_military_case">
+		<text>\nReport of the investigation team.\nFor official use.\nHead of project "TRUTH"\nto SBU Colonel V. M. Kruglikova\nFrom the head of the group "Poisk-2",\ncaptain D. F. Maksimenko\nT_NL memo.\nOur group consisting of 3 investigators and Department of special troops of SBU in the period from 12.05.2012 till 25.05.2012 conducted a survey of the premises of the former research Institute of agriculture on radioactively contaminated soils research Institute "agriculture". Most of the equipment and the documentation disappeared in an unknown direction, but even the little that managed to find, allows to conclude the following: in the period from 2005 to 2008, the Institute of scientific researches in his field did. All the results of his "work" to the Ministry of Agriculture, fabricated. At the same time, getting under the state program funding, equipment and supplies of the Institute leadership, in the person of Dr. Swift Pyotr Danilovich, fake invoices has sent all this in a laboratory X-18 under the guise of conducting experiments at the farm Institute. Apparently the code name adopted by a group of persons involved in the case, as laboratory with a similar number in our database. Based on the analysis of the found documents it can be assumed that it is at a distance of one hour drive from the Institute Agroprom. Most likely we are talking about a deep secret lab, so I suggest to connect to search for it, our analytical Department. What did this lab to understand from the available information it is not possible. In the found documents talking about well-known Professor Chubko and mentioned a certain Group. In my opinion this time we found the end of the thread and the analytical Department will be, than itself to occupy.\nT_NL IN the application zip file with patch transfer consumables and equipments in a farm of the Institute and a portion of the correspondence of Swift with Chubko.\nT_NL captain D. F. Maksimenko 26.05.2012\nProf. Zubko V. M. From the head of Agroprom research Institute, Doctor of agricultural Sciences, P. D. Strizh Hello, Vadim Mikhailovich, As we agreed, sent to our test farm once the party supplies and equipment for Your much needed for agriculture experiments. Funding for the experiments I conducted, as field experiments on topics of our Institute, so the Ministry will have no problems. How goes the experiments? I'm still under the impression that You showed me last time. Sincerely yours, P. D. Strizh. d. a. n. a Swift, P. D. thank you very Much, Petr Danilovich, all received. My guys are in awe of the laser spectrometer, if not for You, I would have long fired through his this model. Well, the Ministry of agriculture, of course, will gratefully receive OUR results... rasmeshil the old man. Experiments go your way, and what You saw last time, pales in comparison to what we have already achieved. Come often - always happy to see You. However, the car from "our experimental economy", as You put it, You go an hour, no more. Yes, I forgot, I have news for You - next Monday I will be discussing Your candidacy with the Group. I think they will support me. Sincerely Yours, Prof. Zubko V. M.\nProf. Zubko V. M. From the head of Agroprom research Institute, Doctor of agricultural Sciences, P. D. Swift Vadim Mikhailovich, thank you for your trust. I am touched and try to justify it. To participate in a similar experiment, I think, is the dream of any scientist, and if I get accepted to the Group, I'll just be happy. Sincerely yours, P. D. Strizh P. S. I got in the Ministry two of the latest Japanese broadband oscilloscope and will forward them to You with the first convenient opportunity.</text>
+	</string>
+	<string id="agr_military_case_name">
+		<text>Report of the investigation team</text>
+	</string>
+	<string id="agr_nii_security_plan">
+		<text>In the diagram marked patrols, sentries, towers. On the third floor of the Institute staff. There documents are stored. By day the area is patrolled completely. Night patrols less. After eleven at night there is a change of guard, at this time in the main building, almost no one. If you want to climb to the base, then through the gate will not pass the real path through the catacombs.</text>
+	</string>
+	<string id="agr_nii_security_plan_name">
+		<text>Map-scheme protection research Institute</text>
+	</string>
+	<string id="agr_rats_n_soldiers_text">
+		<text>Military pestering rats, who climb out of the sewers. The guilty troops are being sent to collectors.</text>
+	</string>
+	<string id="agr_task_case">
+		<text>Salesman: "as soon as someone stole the case with the former Sri Agroprom, refer it to the Bartender. He runs things in the Stalker bar "100 x-ray" that the territory of the former factory Rostock"</text>
+	</string>
+	<string id="article_agr_krot_sos">
+		<text>SOS, military cut our brother Stalker, guys, all who can hear me, help!</text>
+	</string>
+	<string id="article_agr_krot_sos_name">
+		<text>Meeting with the Mole</text>
+	</string>
+	<string id="article_agr_krot_sos1">
+		<text>The Mole : "Help. Now I'll kill you!"</text>
+	</string>
+	<string id="st_operation_agroprom">
+		<text>Operation "Agroprom"</text>
+	</string>
+	<string id="storyline_gunslinger_flash_info">
+		<text>Obtained from the Ghost:\nShooter I'll tell you. Fang died. We waited in the village near the Depots. And I waited a long time. Three. A common sight on the neutrals. Fang somehow sensed. You know he sense that it was necessary. Two, we had stopped - clearly the punks, but the third turned out to be smarter - sat with Vintorez in the 100 meters. In General no more Fang. So, next time I go to the Center let's go together. So what else... these two have been our description. I don't know who exactly we ordered. Actually a tooth we have. The third I missed. In my opinion - one of the mercenaries. In the face of strong scar. The eyes are bright. I will try to find it.\nSuch things here. Be careful and good Luck.\nGhost\nT_NL Ghost\nT_NL "Hey buddy.\nLeave you old. The link won't cross. Noticed surveillance.\nDude, I went to the North... where we were... will Try to slip alone... I'm Sorry but wait no... I'll explain Later.\nAND the freak who killed Fang still regret that were born On the straps... cut... do You know yet who he is, and I'll be back soon - we will understand.\nMeet at our mutual friend. You know what and where.:)\nLuck.\nShooter"\nT_NL Arrow.\nT_NL "hi. Was. You are not caught. You should not single to center went. However it's up. Who and where to find you know:)\nGhost"</text>
+	</string>

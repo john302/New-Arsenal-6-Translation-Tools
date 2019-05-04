@@ -1,0 +1,48 @@
+	<string id="descr_yan_find_ghost_task">
+		<text>Vasiliev: "...this is the location of the entrance to lab X16. The entrance is in the basement of the Central building, the challenges of this building is unknown. Presumably the technical provision of underground emitters: a study of the documentation from N*** reveals the purpose of this project is a large - scale psychotropic development for mass exposure...\nT_NL ...all necessary documents from us, we know how to disable the emitter. We continue to descend with the Ghost in the lab. Zombies everywhere climb into the light...\nT_NL ...it all goes to hell, the Ghost is absolutely insane, carries some nonsense. It looks like it was covered with radiation. I dropped everything and go through the tunnels...\nT_NL ...I'm in a swamp where the bunker is? Damn, damn, damn!!! I can't tell where I am! Sugars a coward, not responding!!! What's going on??? ...around zombies, I'm running out of ammo..."</text>
+	</string>
+	<string id="descr_yan_find_lab">
+		<text>Sakharov: "All you have to do is find the corpse Vasiliev and to obtain accurate information about the location of the lab. Then, entering the lab to find the Ghost. The Ghost knew how to turn off the radiation and then get out."</text>
+	</string>
+	<string id="descr_yan_find_scientist">
+		<text>Sakharov: "If you, together with our staff will make the measurements, I'll give the customized prototype, which will allow you to enter the lab. The access code to the vault: 330429."</text>
+	</string>
+	<string id="descr_yan_find_scientist_semenov">
+		<text>Sakharov: "If you, together with our staff will make the measurements, I'll give the customized prototype, which will allow you to enter the lab. First, you must get a portable psi-emitter Monolith, this device is stored in the underground base of the Monolith in the caves in the area of the Forest. The access code to the vault: 330429."</text>
+	</string>
+	<string id="descr_yan_kill_brain">
+		<text>Sugars: "well Done, Labeled, did you get to the lab. It is imperative for us to learn the installation that is there. Try to disable it, so we were able to explore.\nT_NL Listen, Bullseye, this prototype will be protected from strong radiation. I have provided such a case, so, when you're under a strong impact, turn on the timer. When the time expires, the prototype will cease to protect you. Be careful, and not forget about the timer."</text>
+	</string>
+	<string id="descr_yan_kill_brain_2">
+		<text>The unit has been disconnected. It remains the case for small - to get out alive.</text>
+	</string>
+	<string id="descr_yan_provodnik_task">
+		<text>Ghost: "Conductor, I will send you something, we have important information for the Doctor, facilitate to him"\nT_NL Conductor: "Okay. Only a Ghost, not like last time. And you better come, want to talk to you. Waiting as usual in the camp near the bridge. Keep in touch and see army patrols don't get caught."</text>
+	</string>
+	<string id="descr_yan_scientist_return_task">
+		<text>Sakharov: "What happened?! He died?! Take the measurements and get back here!"</text>
+	</string>
+	<string id="journal_after_find_ghost">
+		<text>I'm in shock! The Ghost and the man in the picture in PDA, attached to the job to kill the Arrow, it is one and the same person. I don't understand. So there must be some mistake. But who made it? While there is no answer. From the records of the Ghost I found out the name of the "common friend" and the fourth in the Arrow group Is a Doctor. For a long time he helped the band and was, apparently, the role of "staff." You can find him via Stalker nicknamed "the Conductor" - which often happens at the Cordon. Well Conductor, don't die by accident... prior to our meeting. On the body of a Ghost is also found documents on the installation of "psy-Brain." The whole district was influenced by this crap - she's a zombie all within the area of its action. I learned that there is another installation in lab X19 and most likely it is a "brain burner". I also found out that these units are not always operating at full strength. There are periods when they lower the radiation power for cooling units.</text>
+	</string>
+	<string id="journal_after_find_ghost_name">
+		<text>Another mystery</text>
+	</string>
+	<string id="journal_after_kill_brain">
+		<text>Disabling this disgusting "brain in a bottle" and lost consciousness. Apparently it affected the tension of the past days. While I was unconscious I had a dream...a Photograph. It keeps the white-haired man at his feet a huge dog. Man looks into the distance, but only around the swamp and the landscape is nothing like what is depicted in the photo. In the fog you can barely see the retreating figure. The man mutters, as if talking to himself: "If it's that important, why did I never properly explained what this place was and where did you get this photo"... then...I see a young guy smiling on the threshold of the hut which cheerily announces: "If you knew where I visit and what I saw there!" He holds out some amazing thing which is the radiance at the hut. The dog starts to growl and hammered in the corner, and the white-haired man mumbles: "You ever play the game. ...flash... that's the same guy with a horribly disfigured bloody face staggered in the door of the hut and lands on the doorstep...with the door get struck by lightning, lashing rain ...the flash... the Bed in the hut - it is the same guy but his face is all scars and bandages. The guy unconscious, and the white-haired man mumbles: "Hold on son..." In the corner stacked things and among them is that strange photo...flash...the photo in the hands of gray. People from Shaw scars on the face going away. Gray asked Yegor, "Where are you now?" follows the dark response "To the North of the" flash... and I woke up.</text>
+	</string>
+	<string id="journal_after_kill_brain_name">
+		<text>The second dream</text>
+	</string>
+	<string id="journal_before_vasilyev_pda">
+		<text>Well, I almost step from one of the people Arrow. Ghost, one of the scientists went into the underground lab X16. One "but" - I hardly find him alive. The scientist came back and one died on the way to the camp. The scientists gave me some kind of protective device for protection from this unknown radiation. I hope it will justify itself. They want me to be penetrated and turn off the radiation source, then they will be able to explore all over the place. Well, with God.</text>
+	</string>
+	<string id="journal_before_vasilyev_pda_name">
+		<text>Step away from the Ghost</text>
+	</string>
+	<string id="storyline_ghost_info">
+		<text>Запись N257\n >>Проводник, я отправлю к тебе человека, у нас есть важная информация для Доктора, посодействуй ему\n >>Хорошо. Только, Призрак, не как в прошлый раз. А лучше сам давай, давно хочу с тобой потолковать. Жду как обычно, в лагере возле моста. Не пропадай и смотри армейским патрулям не попадись.\n\n Запись N384\n …Васильев в последний момент струсил и вместо того чтобы отключить нижние пульты, просто сбежал, когда открылась дверь. Не надо было на него полагаться, правильно Стрелок не доверял этим лживым собакам. Мой единственный шанс, добраться до двери раньше контроллера...</text>
+	</string>
+	<string id="storyline_vasilyev_info">
+		<text>...this is the location of the entrance to lab X16. The entrance is in the basement of the Central building, the challenges of this building is unknown. Presumably the technical provision of underground emitters: a study of the documentation from N*** reveals the purpose of this project is a large - scale psychotronic development for mass exposure...\n\n ...all necessary documents from us, we know how to disable the emitter. We continue to descend with the Ghost in the lab. Zombies everywhere climb into the light...\n\n ...it all goes to hell, the Ghost is absolutely insane, carries some nonsense. It looks like it was covered with radiation. I dropped everything and go through the tunnels...\n\n ...I'm in a swamp where the bunker is? Damn, damn, damn!!! I can't tell where I am! Sugars a coward, not responding!!! What's going on??? ...around zombies, I'm running out of ammo...</text>
+	</string>

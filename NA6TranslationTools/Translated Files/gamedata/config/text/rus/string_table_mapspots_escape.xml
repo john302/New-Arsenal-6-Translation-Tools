@@ -1,0 +1,48 @@
+	<string id="blokpost_case">
+		<text>The case documents</text>
+	</string>
+	<string id="esc_fox">
+		<text>A Wounded Fox.</text>
+	</string>
+	<string id="esc_mill">
+		<text>Abandoned mill. Somewhere here the last time you saw the missing brother</text>
+	</string>
+	<string id="escape_trader">
+		<text>Trader.</text>
+	</string>
+	<string id="factory_bandits">
+		<text>The bandits at the factory.</text>
+	</string>
+	<string id="killers_team">
+		<text>A group of unknown mercenaries.</text>
+	</string>
+	<string id="novice_leader">
+		<text>The leader of The camp newcomers.</text>
+	</string>
+	<string id="soldiers_bridge">
+		<text>The post the military at the broken bridge. Sometimes the passage through the bridge taking a bribe.</text>
+	</string>
+	<string id="tutorial_artefact">
+		<text>Artifact.</text>
+	</string>
+	<string id="tutorial_bandits">
+		<text>The bandits on the scout.</text>
+	</string>
+	<string id="tutorial_secret">
+		<text>Cache left dead Stalker.</text>
+	</string>
+	<string id="tutorial_secret_place1">
+		<text>Cache left dead Stalker.</text>
+	</string>
+	<string id="tutorial_secret_shustryi">
+		<text>Stash left Fast.</text>
+	</string>
+	<string id="tutorial_wounded">
+		<text>The Prisoner "Nimble".</text>
+	</string>
+	<string id="volk">
+		<text>Wolf, the leader of the camp newcomers.</text>
+	</string>
+	<string id="wolfs_rangers">
+		<text>Scouts from the group of a Wolf.</text>
+	</string>

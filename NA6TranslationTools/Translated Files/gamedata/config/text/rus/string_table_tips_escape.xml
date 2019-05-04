@@ -1,0 +1,60 @@
+	<string id="esc_direction_fire">
+		<text>Not twitch, attack strictly on my command.</text>
+	</string>
+	<string id="esc_fanat_victory">
+		<text>Victory!!! Everyone who is alive - come to me. Bullseye - go here, we will talk.</text>
+	</string>
+	<string id="esc_return_dv">
+		<text>Great Spot, glad you're alive, and even looked to us at the light. Swing by and chat. Another thing afoot.</text>
+	</string>
+	<string id="esc_tutorial_end">
+		<text>Excellent, job completed. We assume that the courses "takeoff-landing" you've been through.</text>
+	</string>
+	<string id="esc_wolf_thanks">
+		<text>Tagged, now you have the entrance to the camp opened. Come, let's talk.</text>
+	</string>
+	<string id="escape_fox_quest">
+		<text>Labeled, the way of the Arrow. Stalker came out of the deep roads, they call a Fox. It seems plenty bad enough - asking for help. He is on the tail of some creatures brought, said that will not last long. He may know about the Arrow. So run to him, give coordinates.</text>
+	</string>
+	<string id="escape_stalker_death">
+		<text>You screwed up, Labeled. Even though that's not your fault, but the guys were killed. In the area so often happens. Anyway - you passed. Go back, talk on the merits.</text>
+	</string>
+	<string id="escape_stalker_helped">
+		<text>Well Done, Labeled. If you continue, you will make plenty of friends. Come to me, let's talk some business.</text>
+	</string>
+	<string id="escape_stalker_killed">
+		<text>Well, Bullseye, you're so vain. Anyway, you passed, but with Wolf and his team now he understands how you know. In General, I'm waiting, it's there.</text>
+	</string>
+	<string id="info_esc_give_agroprom_task">
+		<text>Labeled. The military dug up something in the research Institute "agriculture". And this interested me, and probably you too. Need to get information and to include the bartender in the bar stalkers. Act.</text>
+	</string>
+	<string id="tips_esc_trader_about_anomalies">
+		<text>Be careful! You're near anomalies. Use the bolts to determine their boundaries.</text>
+	</string>
+	<string id="tips_esc_trader_about_pda">
+		<text>Click on Contacts ($$ACTION_CONTACTS$$). In contacts and on the mini-map on the front of the visor you see people in a radius of 250 meters-enabled PDA. It indicates their relation to you. Be careful if there are enemies appear. However bandits and Gee-ahh, the mutants didn't include the usual CPC so that you be careful in the Area.</text>
+	</string>
+	<string id="tips_esc_trader_activate_map">
+		<text>In order to activate the card, press '$$ACTION_MAP$$'.</text>
+	</string>
+	<string id="tips_esc_trader_activate_pda">
+		<text>In order to activate the PDA, press '$$ACTION_ACTIVE_JOBS$$'.</text>
+	</string>
+	<string id="tips_esc_trader_how_to_talk">
+		<text>In order to speak with someone, move your sight and press the '$$ACTION_USE$$'.</text>
+	</string>
+	<string id="tips_esc_trader_quest_1">
+		<text>Find the artifact in the place marked on the map, and take it to a dealer.</text>
+	</string>
+	<string id="tutorial_flash_anomaly_alarm">
+		<text>Bullseye, look closer. Next time it could be you!</text>
+	</string>
+	<string id="tutorial_trader_give_medikit">
+		<text>Give first aid to this idiot.</text>
+	</string>
+	<string id="tutorial_trader_look_vagon">
+		<text>Tagged!!! To hell with it, with the artifact later. Go to the trailer near the road, where my people need help! Thought jerks the helicopter to fire. The coordinates I'm thrown off.</text>
+	</string>
+	<string id="tutorial_trader_search_corpses">
+		<text>Search the corpses, there might be something useful.</text>
+	</string>

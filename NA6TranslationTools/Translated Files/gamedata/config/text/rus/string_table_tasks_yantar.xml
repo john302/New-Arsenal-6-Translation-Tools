@@ -1,0 +1,78 @@
+	<string id="yan_find_ghost">
+		<text>Take the documents from Ghost</text>
+	</string>
+	<string id="yan_find_ghost_task">
+		<text>Take the documents</text>
+	</string>
+	<string id="yan_find_vasilyev_task">
+		<text>To enter the lab</text>
+	</string>
+	<string id="yan_find_labX16">
+		<text>To enter the lab X16</text>
+	</string>
+	<string id="yan_find_scientist">
+		<text>To make measurements of radiation</text>
+	</string>
+	<string id="yan_find_vasilyev">
+		<text>Search Vasiliev''s corpse</text>
+	</string>
+	<string id="yan_kill_brain">
+		<text>To disable psionic radiation</text>
+	</string>
+	<string id="yan_kill_brain_task">
+		<text>Power off setup</text>
+	</string>
+	<string id="yan_kill_brain_task_2">
+		<text>Out of the lab</text>
+	</string>
+	<string id="yan_provodnik_about_doctor">
+		<text>Talk to the conductor</text>
+	</string>
+	<string id="yan_provodnik_task">
+		<text>Meet the conductor</text>
+	</string>
+	<string id="yan_psi_zone_find">
+		<text>Escort Kruglov to the measurement location</text>
+	</string>
+	<string id="yan_psi_zone_find_semenov">
+		<text>To accompany Semenova to the measuring location</text>
+	</string>
+	<string id="yan_return_to_bunker">
+		<text>To bring the results to Sakharov</text>
+	</string>
+	<string id="yan_scientist_return">
+		<text>Talk to Sakharov</text>
+	</string>
+	<string id="yan_scientist_return_task">
+		<text>Talk to Sakharov</text>
+	</string>
+	<string id="yan_secret_tonnel">
+		<text>To escape through a secret tunnel</text>
+	</string>
+	<string id="yan_switcher_off_1">
+		<text>Disable 1-th control unit</text>
+	</string>
+	<string id="yan_switcher_off_2">
+		<text>Disable the 2nd control unit</text>
+	</string>
+	<string id="yan_switcher_off_3">
+		<text>Disable 3rd control unit</text>
+	</string>
+	<string id="yan_talk_to_kruglov">
+		<text>Talk to Kruglov</text>
+	</string>
+	<string id="yan_talk_to_semenov">
+		<text>To talk with Semenov</text>
+	</string>
+	<string id="yan_vasilyev_pda">
+		<text>PDA Vasiliev</text>
+	</string>
+	<string id="yan_zombie_zone">
+		<text>Estimated location of lab X16</text>
+	</string>
+	<string id="yan_find_avp_secret_device">
+		<text>Find portable psi-emitter</text>
+	</string>
+	<string id="yan_find_avp_secret_device_hint">
+		<text>Find portable psi-emitter. The access code to the vault: 330429</text>
+	</string>

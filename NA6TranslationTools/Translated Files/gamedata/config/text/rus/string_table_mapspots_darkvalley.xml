@@ -1,0 +1,54 @@
+	<string id="bar_darklab_documents_1_hint">
+		<text>Hog</text>
+	</string>
+	<string id="bar_darklab_documents_2_hint">
+		<text>The tunnel</text>
+	</string>
+	<string id="bar_darklab_documents_3_hint">
+		<text>The entrance to The lab</text>
+	</string>
+	<string id="bar_darklab_documents_4_hint">
+		<text>Pipe</text>
+	</string>
+	<string id="bar_darklab_documents2_1_hint">
+		<text>The documents from the laboratory</text>
+	</string>
+	<string id="bar_darklab_documents2_2_hint">
+		<text>The bartender</text>
+	</string>
+	<string id="val_captive_help_1_hint">
+		<text>Bullet</text>
+	</string>
+	<string id="val_captive_help_2_hint">
+		<text>The prisoner</text>
+	</string>
+	<string id="val_come_to_trader_1_hint">
+		<text>South gate</text>
+	</string>
+	<string id="val_come_to_trader_2_hint">
+		<text>Dealer</text>
+	</string>
+	<string id="val_prisoner_help_main_hint">
+		<text>Captive member considers</text>
+	</string>
+	<string id="val_sos_help_main_hint">
+		<text>A wounded Stalker</text>
+	</string>
+	<string id="val_zone_bandits_hint">
+		<text>A camp of bandits</text>
+	</string>
+	<string id="val_zone_farm_hint">
+		<text>Farm.\nto Buy Gauss.</text>
+	</string>
+	<string id="val_zone_monolith_hint">
+		<text>Old factory</text>
+	</string>
+	<string id="val_zone_pipe_hint">
+		<text>Sewer pipe</text>
+	</string>
+	<string id="val_zone_robbers_hint">
+		<text>The abandoned pig farm</text>
+	</string>
+	<string id="val_zone_south_gate_hint">
+		<text>Gate</text>
+	</string>

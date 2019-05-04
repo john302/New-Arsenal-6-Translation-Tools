@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_activate_artefact">
+		<text>activate the artifact</text>
+	</string>
+	<string id="st_attach_addon_to_wpn_in_slot_1">
+		<text>to attach %s to %s in the first slot</text>
+	</string>
+	<string id="st_attach_addon_to_wpn_in_slot_2">
+		<text>to attach %s to %s in the second slot</text>
+	</string>
+	<string id="st_attach_addon_to_wpn_in_slot_4">
+		<text>to attach %s to %s in the third slot</text>
+	</string>
+	<string id="st_base_cost">
+		<text>price</text>
+	</string>
+	<string id="st_condition">
+		<text>condition</text>
+	</string>
+	<string id="st_detach_gl">
+		<text>disconnect the grenade launcher</text>
+	</string>
+	<string id="st_detach_scope">
+		<text>disconnect sight</text>
+	</string>
+	<string id="st_detach_silencer">
+		<text>disconnect kit</text>
+	</string>
+	<string id="st_dress_outfit">
+		<text>to wear a suit</text>
+	</string>
+	<string id="st_drop">
+		<text>throw</text>
+	</string>
+	<string id="st_drop_all">
+		<text>throw all</text>
+	</string>
+	<string id="st_move">
+		<text>move</text>
+	</string>
+	<string id="st_move_all">
+		<text>move all</text>
+	</string>
+	<string id="st_eat">
+		<text>to eat</text>
+	</string>
+	<string id="st_move_on_belt">
+		<text>to hang on the belt</text>
+	</string>
+	<string id="st_move_to_bag">
+		<text>to put it in the backpack</text>
+	</string>
+	<string id="st_move_to_slot">
+		<text>move in the slot</text>
+	</string>
+	<string id="st_move_to_slot_1">
+		<text>move in the first slot</text>
+	</string>
+	<string id="st_move_to_slot_2">
+		<text>move in the second slot</text>
+	</string>
+	<string id="st_move_to_slot_4">
+		<text>move in the third slot</text>
+	</string>
+	<string id="st_sell_item">
+		<text>to sell the subject</text>
+	</string>
+	<string id="st_undress_outfit">
+		<text>to get the suit off</text>
+	</string>
+	<string id="st_unload_magazine">
+		<text>discharge</text>
+	</string>
+	<string id="st_use">
+		<text>use</text>
+	</string>
+	<string id="st_weight">
+		<text>weight</text>
+	</string>
+	<string id="ui_inv_accuracy">
+		<text>Precision</text>
+	</string>
+	<string id="ui_inv_bag">
+		<text>Backpack</text>
+	</string>
+	<string id="ui_inv_belt">
+		<text>Belt</text>
+	</string>
+	<string id="ui_inv_cancel">
+		<text>Cancel</text>
+	</string>
+	<string id="ui_inv_clear">
+		<text>Clean</text>
+	</string>
+	<string id="ui_inv_damage">
+		<text>Damage</text>
+	</string>
+	<string id="ui_inv_description">
+		<text>Description</text>
+	</string>
+	<string id="ui_inv_drop">
+		<text>Spread</text>
+	</string>
+	<string id="ui_inv_equipment">
+		<text>Equipment</text>
+	</string>
+	<string id="ui_inv_exit">
+		<text>Output</text>
+	</string>
+	<string id="ui_inv_granades_rifle">
+		<text>Buy grenades for grenade launcher (E)</text>
+	</string>
+	<string id="ui_inv_handling">
+		<text>Reliability</text>
+	</string>
+	<string id="ui_inv_heavy_weapons">
+		<text>Heavy</text>
+	</string>
+	<string id="ui_inv_items_list">
+		<text>The list of things</text>
+	</string>
+	<string id="ui_inv_money">
+		<text>Money</text>
+	</string>
+	<string id="ui_inv_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<text>Burn</text>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>Chem. burn</text>
+	</string>
+	<string id="ui_inv_outfit_explosion_protection">
+		<text>The explosion</text>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>Bullet resistance</text>
+	</string>
+	<string id="ui_inv_outfit_params">
+		<text>Settings</text>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>Radiation</text>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<text>Ect</text>
+	</string>
+	<string id="ui_inv_outfit_strike_protection">
+		<text>Blow</text>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>Psychic.</text>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<text>The gap</text>
+	</string>
+    <string id="ui_inv_additional_weight">
+        <text>Max. weight</text>
+    </string>
+    <string id="ui_inv_additional_weight2">
+        <text>Weight</text>
+    </string>
+    <string id="ui_inv_additional_speed">
+        <text>Sprint</text>
+    </string>
+    <string id="ui_inv_additional_jump">
+        <text>Jump</text>
+    </string>
+    <string id="ui_inv_additional_run">
+        <text>Running</text>
+    </string>
+	<string id="ui_inv_outfits">
+		<text>Costumes</text>
+	</string>
+	<string id="ui_inv_personal">
+		<text>Costume</text>
+	</string>
+	<string id="ui_inv_pistols">
+		<text>Guns</text>
+	</string>
+	<string id="ui_inv_primary_weapons">
+		<text>Main</text>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<text>Rate</text>
+	</string>
+	<string id="ui_inv_rest">
+		<text>Relax</text>
+	</string>
+	<string id="ui_inv_rifles">
+		<text>Machines</text>
+	</string>
+	<string id="ui_inv_shop">
+		<text>Shop</text>
+	</string>
+	<string id="ui_inv_shotguns">
+		<text>Guns</text>
+	</string>
+	<string id="ui_inv_sniper_rifles">
+		<text>Sniper</text>
+	</string>
+	<string id="ui_inv_time">
+		<text>Time</text>
+	</string>
+	<string id="ui_inv_total_money">
+		<text>Just money</text>
+	</string>
+	<string id="ui_inv_weight">
+		<text>Weight</text>
+	</string>
+	<string id="ui_inv_ammo_pistol">
+		<text>Buy basic ammunition for the pistol (Q)</text>
+	</string>
+	<string id="ui_inv_ammo_rifle">
+		<text>Buy cartridges for rifles (W)</text>
+	</string>
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>Buy grenade launcher for a rifle (D)</text>
+	</string>
+	<string id="ui_inv_granades">
+		<text>Grenades</text>
+	</string>
+	<string id="ui_inv_scope_rifle">
+		<text>Optical sight for rifle (S)</text>
+	</string>
+	<string id="ui_inv_silencer_pistol">
+		<text>To buy a silencer for a gun (A)</text>
+	</string>
+	<string id="ui_inv_silencer_rifle">
+		<text>To purchase a silencer for the rifle (F)</text>
+	</string>
+	<string id="ui_inv_last_buy">
+		<text>To purchase last purchased a set</text>
+	</string>
+	<string id="ui_inv_sell_items(X)">
+		<text>To sell items from a backpack (X)</text>
+	</string>
+	<string id="ui_st_preset_stored_to">
+		<text>Purchased a set of saved as</text>
+	</string>
+	<string id="ui_inv_preset1(F1)">
+		<text>Set 1 (F1)</text>
+	</string>
+	<string id="ui_inv_preset2(F2)">
+		<text>Set 2 (F2)</text>
+	</string>
+	<string id="ui_inv_preset3(F3)">
+		<text>Set 3 (F3)</text>
+	</string>
+	<string id="ui_inv_last_buy(F4)">
+		<text>Previous (F4)</text>
+	</string>
+	<string id="ui_inv_default(F5)">
+		<text>Start (F5)</text>
+	</string>
+	<string id="ui_st_preset_def">
+		<text>Starter set</text>
+	</string>
+	<string id="ui_inv_reset_items(C)">
+		<text>Clean (C)</text>
+	</string>
+	<string id="ui_inv_cant_buy_item">
+		<text>It is impossible to buy a gun</text>
+	</string>
+	<string id="ui_inv_rank_restr">
+		<text>Rank limitation</text>
+	</string>
+	<string id="ui_inv_not_enought_money">
+		<text>Not enough money</text>
+	</string>
+	<string id="ui_inv_count_restr">
+		<text>A limitation on the number</text>
+	</string>
+	<string id="ui_inv_has">
+		<text>now</text>
+	</string>
+	<string id="ui_inv_need">
+		<text>you need</text>
+	</string>
+	<string id="ui_inv_you_already_have">
+		<text>Already have</text>
+	</string>
+	<string id="ui_st_err_gs_not_available">
+		<text>Online services S. T. A. L. K. E. R. not available.</text>
+	</string>
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>It is impossible to join the master server</text>
+	</string>
+	<string id="ui_st_exit_hint">
+		<text>Out</text>
+	</string>
+	<string id="ui_st_cannot_install_lastochka">
+		<text>To install the attachment, remove the weapons all обweightы!</text>
+	</string>
+	<string id="ui_st_cannot_install_noz">
+		<text>To install the bayonet remove from the weapons grenade launcher!</text>
+	</string>
+	<string id="ui_st_cannot_install_grenade_launcher">
+		<text>To install remove the grenade launcher from the weapon a bayonet!</text>
+	</string>
+	<string id="st_duplet_enabled">
+		<text>Shooting doublet</text>
+	</string>
+	<string id="st_duplet_disabled">
+		<text>Shooting single</text>
+	</string>
+	<string id="st_duplet_default">
+		<text>Duplet default</text>
+	</string>
+	<string id="st_g36_zoom">
+		<text>Changed the aiming mode</text>
+	</string>
+	<string id="exo_in_power_mode">
+		<text>The exoskeleton is in the cargo mode</text>
+	</string>
+	<string id="exo_in_combat_mode">
+		<text>The exoskeleton in combat mode</text>
+	</string>
+	<string id="na_use_chemical">
+		<text>Used:</text>
+	</string>
+	<string id="na_eat_food">
+		<text>Eaten:</text>
+	</string>
+	<string id="na_drink_drink">
+		<text>Drunk:</text>
+	</string>
+	<string id="na_pda_tiran_scan">
+		<text>Scanning artifacts</text>
+	</string>
+</string_table>

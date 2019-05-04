@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_map_desc_mp_agroprom_large">
+		<text>Strange place. The silent building keeps its secrets, certainly, but not it's distance stalkers, and artifacts, generously produced in the area. Here you can get some good artifacts and you can easily part with life... Be quick and precise, and luck will smile to you.</text>
+	</string>
+	<string id="ui_map_desc_mp_agroprom_short">
+		<text>Strange place. The silent building keeps its secrets, certainly, but not it's distance stalkers, and artifacts, generously born.</text>
+	</string>
+	<string id="ui_map_desc_mp_atp_large">
+		<text>Bus-trolleybus Park, located in the dressing room Area. Frozen forever tractors, buses and trucks...of Artifacts was observed, but this place is popular among experienced stalkers who shoot newbies and take from them what little they have. Seek shelter in buildings and for appliances, beware of the enemies on the rooftops.</text>
+	</string>
+	<string id="ui_map_desc_mp_atp_short">
+		<text>Bus-trolleybus Park, located in the dressing room Area. Frozen forever tractors, buses and trucks...</text>
+	</string>
+	<string id="ui_map_desc_mp_bath_large">
+		<text>Mysterious place, which has a strange attraction... the Pool for experiments, by whom and for what is built will forever remain a mystery. Artifacts is not here, so stalkers can draw here is that the remains of strange units and devices. Carefully watch the rooftops and remember that the radiation level here is extremely high.</text>
+	</string>
+	<string id="ui_map_desc_mp_bath_short">
+		<text>Mysterious place, which has a strange attraction... the Pool for experiments, by whom and for what is built will forever remain a mystery.</text>
+	</string>
+	<string id="ui_map_desc_mp_factory_large">
+		<text>Gloomy, an abandoned factory. How many stalkers then were killed, not countless. There are Anomalies all very much, but this place distance stalkers like a magnet. And all because of the valuable artifacts here to get... Caution, radiation!</text>
+	</string>
+	<string id="ui_map_desc_mp_factory_short">
+		<text>Gloomy, an abandoned factory. How many stalkers then were killed, not countless.</text>
+	</string>
+	<string id="ui_map_desc_mp_garbage_large">
+		<text>It's part of the big smelly dump where after the accident in ' 86 dumped mountains of radioactive debris... broken faucets, appliances... you Can find the remains of old buildings and a huge hangar....All this is not far from the entrance to the Zone and artifacts there are many distance that stalkers who are looking for easy money.</text>
+	</string>
+	<string id="ui_map_desc_mp_garbage_short">
+		<text>It's part of the big smelly dump where after the accident in ' 86 dumped mountains of radioactive debris... broken faucets, appliances...</text>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_large">
+		<text>Abandoned, forgotten by God the trees in the deep Zone. Small, Small rusty lake filled with remains of cars, instills some kind of subconscious fear of the reality Zone. Beware of snipers, but remember, the Area favors the bold.</text>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_short">
+		<text>Abandoned, forgotten by God the trees in the deep Zone. Small, Small rusty lake filled with remains of cars, instills some kind of subconscious fear of the reality Zone.</text>
+	</string>
+	<string id="ui_map_desc_mp_military_1_large">
+		<text>Abandoned army base - forever frozen trucks and Armoured personnel carriers, destroyed headquarters and barracks. But this solitude and desolation is deceptive - there is a treasure trove of artifacts, so the enemy can wait for you anywhere...Prove you're the best!</text>
+	</string>
+	<string id="ui_map_desc_mp_military_1_short">
+		<text>Abandoned army base - forever frozen trucks and Armoured personnel carriers, destroyed headquarters and barracks.</text>
+	</string>
+	<string id="ui_map_desc_mp_military_2_large">
+		<text>The old village - the place is creepy and twisted. But once ventured to get here, be prepared to get a bullet in the forehead. There is nowhere you can feel safe, but keep you optics and silencer.</text>
+	</string>
+	<string id="ui_map_desc_mp_military_2_short">
+		<text>The old village - the place is creepy and twisted. But once ventured to get here, be prepared to get a bullet in the forehead.</text>
+	</string>
+	<string id="ui_map_desc_mp_prypiat_large">
+		<text>The city of Pripyat, the former residence of the employees of the plant, or rather what's left of it. The ruins of this industrial skeleton are fraught with very real danger. Here we should really cherish life.</text>
+	</string>
+	<string id="ui_map_desc_mp_prypiat_short">
+		<text>The city of Pripyat near nuclear power plants - the legacy of the Chernobyl disaster.</text>
+	</string>
+	<string id="ui_map_desc_mp_railraod_short">
+		<text>A small train station at the plant "germ."</text>
+	</string>
+	<string id="ui_map_desc_mp_railroad_large">
+		<text>A small train station at the plant "germ." Rusted cars and locomotives now stand on the eternal joke. Many artifacts lures here desperate of stalkers from all over the Area.</text>
+	</string>
+	<string id="ui_map_desc_mp_rostok_large">
+		<text>This plant under piles of metal and concrete walls holds a special kind of silence. In the last century there was in full swing, the workflow, the workers hurried to shift under the slogans of the speakers... But now the factory worked.</text>
+	</string>
+	<string id="ui_map_desc_mp_rostok_short">
+		<text>Abandoned old factory under piles of metal and concrete walls keeps a profound silence.</text>
+	</string>
+	<string id="ui_map_desc_mp_workshop_large">
+		<text>The edge of The plant sprout before the arrival of the Debt. Dark places is, however, very rich in artifacts. Empty hangars and warehouses are fraught with danger at every step. Be very careful and more often pay attention to the white tower....</text>
+	</string>
+	<string id="ui_map_desc_mp_workshop_short">
+		<text>The edge of The plant sprout before the arrival of the Debt. Dark places is, however, very rich in artifacts.</text>
+	</string>
+</string_table>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="item test1">
+		<text>This is a test string for knapsack</text>
+	</string>
+	<string id="item test2">
+		<text>This is another test string for knapsack</text>
+	</string>
+	<string id="item_case_esc_desc">
+		<text>The case documents. Made of refractory material.</text>
+	</string>
+	<string id="item_decoder_desc">
+		<text>Something like a powerful electronic lockpick. It looks like she was created to hack any specific electronic lock. Oddly enough the design does not imply universality - it was created for a specific lock and are not able to crack any other codes.</text>
+	</string>
+	<string id="item_decoder_name">
+		<text>Decoder</text>
+	</string>
+	<string id="item_detector_yantar_desc">
+		<text>Device for measurement of psy-radiation.</text>
+	</string>
+	<string id="item_detector_yantar_name">
+		<text>Sensor PP-4A</text>
+	</string>
+	<string id="item_doc_x16_desc">
+		<text>Plastic file with documents. Without a degree in biology, something difficult to understand.</text>
+	</string>
+	<string id="item_doc_x16_name">
+		<text>Documents from lab X16</text>
+	</string>
+	<string id="item_doc_x18_desc">
+		<text>A thick stack of scientific papers. Solid terms, formulas, and charts.</text>
+	</string>
+	<string id="item_doc_x18p1_name">
+		<text>The documents from X18 part1</text>
+	</string>
+	<string id="item_doc_x18p2_name">
+		<text>The documents from X18 part2</text>
+	</string>
+	<string id="item_doc_x18p3_name">
+		<text>The documents from X18 part3</text>
+	</string>
+	<string id="item_doc_x18p4_name">
+		<text>The documents from X18 часть4</text>
+	</string>
+	<string id="item_doc_x18p5_name">
+		<text>The documents from X18 часть5</text>
+	</string>
+	<string id="item_docs_hiden_pri_desc">
+		<text>Worn manuscript in a leather cover. Written by the Shooter. Judging by the titles, it reveals some of the mysteries of the Zone.</text>
+	</string>
+	<string id="item_docs_hiden_pri_name">
+		<text>Documents from Pripyat</text>
+	</string>
+	<string id="item_dynamite_esc_desc">
+		<text>Heavy wooden box, with the words "Explosive" in several languages.</text>
+	</string>
+	<string id="item_dynamite_esc_name">
+		<text>A box of dynamite</text>
+	</string>
+	<string id="item_flash_crazy_mil_desc">
+		<text>The flash drive is a convenient device for transferring information.</text>
+	</string>
+	<string id="item_flash_crazy_mil_name">
+		<text>USB flash drive crazy</text>
+	</string>
+	<string id="item_flash_eco_rost_desc">
+		<text>The flash drive is a convenient device for transferring information.</text>
+	</string>
+	<string id="item_flash_eco_rost_name">
+		<text>The Professor Kruglov's flash drive</text>
+	</string>
+	<string id="item_flash_esc_desc">
+		<text>The flash drive is a convenient device for transferring information.</text>
+	</string>
+	<string id="item_flash_esc_name">
+		<text>Stick prisoner</text>
+	</string>
+	<string id="item_flash_gslinger_agro_desc">
+		<text>The flash drive is a convenient device for transferring information.</text>
+	</string>
+	<string id="item_flash_gslinger_agro_name">
+		<text>The Flash Arrow</text>
+	</string>
+	<string id="item_key_x18_desc">
+		<text>E-the key to the underground lab X-18.</text>
+	</string>
+	<string id="item_key_x18_name">
+		<text>The Key Hog</text>
+	</string>
+	<string id="item_krot_flash">
+		<text>Stick The Mole</text>
+	</string>
+	<string id="item_PDA_lucky_desc">
+		<text>Pocket personal computer. An indispensable device in the Zone.</text>
+	</string>
+	<string id="item_PDA_lucky_name">
+		<text>PDA Lucky</text>
+	</string>
+	<string id="item_PDA_tiran_desc">
+		<text>Pocket personal computer. An indispensable device in the Zone.</text>
+	</string>
+	<string id="item_PDA_tiran_name">
+		<text>PDA Tyrant</text>
+	</string>
+	<string id="item_quest_case_02_desc">
+		<text>The case documents. Made of refractory material.</text>
+	</string>
+	<string id="item_quest_case_02_name">
+		<text>The documents of the war</text>
+	</string>
+	<string id="item_case_esc_name">
+		<text>Documents from the checkpoint</text>
+	</string>
+	<string id="yan_bad_psy_helmet_desc">
+		<text>Untuned prototype developed by scientists to protect from PSI-radiation</text>
+	</string>
+	<string id="yan_bad_psy_helmet_name">
+		<text>Unadjusted psi-helmet</text>
+	</string>
+	<string id="yan_good_psy_helmet_desc">
+		<text>Configured a prototype developed by scientists to protect from PSI-radiation</text>
+	</string>
+	<string id="yan_good_psy_helmet_name">
+		<text>Tuned psi-helmet</text>
+	</string>
+	<string id="harmonica_a">
+		<text>Harmonica</text>
+	</string>
+	<string id="harmonica_a_desc">
+		<text>Is very popular among stalkers, as it takes little space and it easy to learn to play.</text>
+	</string>
+	<string id="guitar_a">
+		<text>Guitar</text>
+	</string>
+	<string id="guitar_a_desc">
+		<text>Simply an indispensable tool in the Area. Helps to while away the long evenings by the fire and good cheer.</text>
+	</string>
+</string_table>

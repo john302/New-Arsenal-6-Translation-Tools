@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="bar_rostok">
+		<text>Wild territory - Rostok</text>
+	</string>
+	<string id="car_character_use">
+		<text>Open door ($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>Say ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>Search corpse ($$ACTION_USE$$)\nto Drag the corpse (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>Search corpse ($$ACTION_USE$$)</text>
+	</string>
+    <string id="inventory_item_use_or_drag">
+    	<text>To lift the object ($$ACTION_USE$$)\nto Drag the item (SHIFT+$$ACTION_USE$$)</text>
+    </string>
+    <string id="game_object_drag">
+    	<text>Drag the object (SHIFT+$$ACTION_USE$$)</text>
+    </string>
+	<string id="general_complete_task">
+		<text>Job done:</text>
+	</string>
+	<string id="general_fail_task">
+		<text>The job failed:</text>
+	</string>
+	<string id="general_help">
+		<text>Urgently need first aid, die!!!</text>
+	</string>
+	<string id="general_in_item">
+		<text>The resulting object:</text>
+	</string>
+	<string id="general_in_money">
+		<text>The money:</text>
+	</string>
+	<string id="general_new_diary">
+		<text>A new entry in the diary.</text>
+	</string>
+	<string id="general_new_encyclopedy">
+		<text>A new article in the encyclopedia.</text>
+	</string>
+	<string id="general_new_task">
+		<text>New job:</text>
+	</string>
+	<string id="general_out_item">
+		<text>Lost item:</text>
+	</string>
+	<string id="general_out_money">
+		<text>Lost money:</text>
+	</string>
+	<string id="general_update_task">
+		<text>Job updated:</text>
+	</string>
+	<string id="physic_shell_use">
+		<text>To move the object ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_codelock">
+		<text>Code lock ($$ACTION_USE$$)</text>
+	</string>
+	<string id="to_aes">
+		<text>At Chernobyl</text>
+	</string>
+	<string id="to_agroprom">
+		<text>On Agroprom</text>
+	</string>
+	<string id="to_agroprom_underground">
+		<text>In the catacombs</text>
+	</string>
+	<string id="to_bar">
+		<text>In Rostock</text>
+	</string>
+	<string id="to_darkvalley">
+		<text>In dark valley</text>
+	</string>
+	<string id="to_escape">
+		<text>The cordon</text>
+	</string>
+	<string id="to_garbage">
+		<text>To the dump</text>
+	</string>
+	<string id="to_military">
+		<text>Warehouses</text>
+	</string>
+	<string id="to_pripyat">
+		<text>To Pripyat</text>
+	</string>
+	<string id="to_radar">
+		<text>"Brain Burner"</text>
+	</string>
+	<string id="to_rostok">
+		<text>Into the wild</text>
+	</string>
+	<string id="to_yantar">
+		<text>Amber</text>
+	</string>
+	<string id="st_helmet_countdown">
+		<text>Cut-off protection</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>Critical levels of psy-radiation. Leave the area immediately.</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>Dangerous levels of radiation. Protection is needed to pass.</text>
+	</string>
+	<string id="st_found_new_pda">
+		<text>I found the information:</text>
+	</string>
+	<string id="aver">
+		<text>Covert</text>
+	</string>
+	<string id="to_aver">
+		<text>In the thicket</text>
+	</string>
+	<string id="av_peshera">
+		<text>The cave-maze</text>
+	</string>
+	<string id="to_av_peshera">
+		<text>The cave-maze</text>
+	</string>
+	<string id="marsh">
+		<text>Swamp</text>
+	</string>
+	<string id="to_marsh">
+		<text>In the swamp</text>
+	</string>
+	<string id="peshera">
+		<text>Cave</text>
+	</string>
+	<string id="puzir">
+		<text>The forgotten forest</text>
+	</string>
+	<string id="limansk">
+		<text>Limansk</text>
+	</string>
+	<string id="hospital">
+		<text>Hospital</text>
+	</string>
+	<string id="generators">
+		<text>Generators</text>
+	</string>
+	<string id="warlab">
+		<text>Military laboratory</text>
+	</string>
+	<string id="red_forest">
+		<text>Red forest</text>
+	</string>
+	<string id="lost_village">
+		<text>An abandoned village</text>
+	</string>
+	<string id="to_peshera">
+		<text>In the cave</text>
+	</string>
+	<string id="to_puzir">
+		<text>In the forgotten forest</text>
+	</string>
+	<string id="to_limansk">
+		<text>At Limansk</text>
+	</string>
+	<string id="to_hospital">
+		<text>To the hospital</text>
+	</string>
+	<string id="to_generators">
+		<text>On generators</text>
+	</string>
+	<string id="to_warlab">
+		<text>In a military laboratory</text>
+	</string>
+	<string id="to_red_forest">
+		<text>In the red forest</text>
+	</string>
+	<string id="to_lost_village">
+		<text>In the forsaken village</text>
+	</string>
+	<string id="dead_city">
+		<text>Dead city</text>
+	</string>
+	<string id="zaton">
+		<text>Zaton</text>
+	</string>
+	<string id="jupiter">
+		<text>Surrounding Jupiter</text>
+	</string>
+	<string id="pripyat">
+		<text>East Of Pripyat</text>
+	</string>
+	<string id="jupiter_underground">
+		<text>Overpass</text>
+	</string>
+	<string id="labx8">
+		<text>Lab X-8</text>
+	</string>
+	<string id="cs_agroprom_underground">
+		<text>Catacombs</text>
+	</string>
+	<string id="to_dead_city">
+		<text>Dead city</text>
+	</string>
+	<string id="to_zaton">
+		<text>Creek</text>
+	</string>
+	<string id="to_jupiter">
+		<text>On the outskirts of Jupiter</text>
+	</string>
+	<string id="to_pripyat2">
+		<text>To the East of Pripyat</text>
+	</string>
+	<string id="to_jupiter_underground">
+		<text>The overpass</text>
+	</string>
+	<string id="to_labx8">
+		<text>In the lab X-8</text>
+	</string>
+	<string id="to_cs_agroprom_underground">
+		<text>In the catacombs</text>
+	</string>
+	<string id="predbannik">
+		<text>Dressing room</text>
+	</string>
+	<string id="garbage_old">
+		<text>Cemetery equipment</text>
+	</string>
+	<string id="yantar_old">
+		<text>The portal</text>
+	</string>
+	<string id="swamp_old">
+		<text>The dead marshes</text>
+	</string>
+	<string id="to_predbannik">
+		<text>In the dressing room</text>
+	</string>
+	<string id="to_garbage_old">
+		<text>The cemetery equipment</text>
+	</string>
+	<string id="to_yantar_old">
+		<text>On the portal</text>
+	</string>
+	<string id="to_swamp_old">
+		<text>The dead marshes</text>
+	</string>
+	<string id="atp_for_test22">
+		<text>Site of ATP</text>
+	</string>
+	<string id="to_atp_for_test22">
+		<text>On-site ATP</text>
+	</string>
+	<string id="k01_darkscape">
+		<text>Dark Hollow</text>
+	</string>
+	<string id="to_darkscape">
+		<text>Dark hollow</text>
+	</string>
+	<string id="promzone">
+		<text>Industrial zone</text>
+	</string>
+	<string id="to_promzone">
+		<text>In the industrial area</text>
+	</string>
+	<string id="hiding_road">
+		<text>Hidden Valley</text>
+	</string>
+	<string id="to_hiding_road">
+		<text>At hidden valley</text>
+	</string>
+	<string id="deadcity">
+		<text>Dead city</text>
+	</string>
+	<string id="to_deadcity">
+		<text>Dead city</text>
+	</string>
+	<string id="digger_stash">
+		<text>Stash Digger</text>
+	</string>
+	<string id="to_digger_stash">
+		<text>In a cache digger</text>
+	</string>
+	<string id="lab_x14">
+		<text>Laboratory X14</text>
+	</string>
+	<string id="to_lab_x14">
+		<text>In the lab x14</text>
+	</string>
+	<string id="level_f-1">
+		<text>The farm</text>
+	</string>
+	<string id="to_level_f-1">
+		<text>The farm</text>
+	</string>
+	<string id="dark_forest">
+		<text>Dark Forest</text>
+	</string>
+	<string id="to_dark_forest">
+		<text>In the dark forest</text>
+	</string>
+	<string id="l04_pogost">
+		<text>Cemetery</text>
+	</string>
+	<string id="to_l04_pogost">
+		<text>At The Cemetery</text>
+	</string>
+	<string id="l03_rinok">
+		<text>Market</text>
+	</string>
+	<string id="to_l03_rinok">
+		<text>On The Market</text>
+	</string>
+	<string id="l02_dd">
+		<text>City Of Villains</text>
+	</string>
+	<string id="to_l02_dd">
+		<text>In City Of Villains</text>
+	</string>
+	<string id="general_use_item">
+		<text>Used:</text>
+	</string>
+	<string id="car_trunk_owerweight">
+		<text>You have exceeded the weight limit of this trunk!</text>
+	</string>
+	<string id="inv_box_is_full">
+		<text>Store</text>
+	</string>
+	<string id="my_tresure_activated">
+		<text>Stash incorporated.</text>
+	</string>
+	<string id="my_tresure_name">
+		<text>My nychka for swag</text>
+	</string>
+	<string id="homyak_detected">
+		<text>Stalker, good hamster!</text>
+	</string>
+	<string id="lucky_homyak_found">
+		<text>Discovered hamster happiness!</text>
+	</string>
+	<string id="csund_exit_failed">
+		<text>Who or what hinders to pass to the exit.</text>
+	</string>
+</string_table>

@@ -1,0 +1,51 @@
+	<string id="sar_monolith">
+		<text>Wishmaster</text>
+	</string>
+	<string id="sar_monolith_hint">
+		<text>Wishmaster</text>
+	</string>	
+	<string id="sar_monolith_0">
+		<text>Come to the Monolith</text>
+	</string>
+	<string id="sar_monolith_1">
+		<text>To enter the sarcophagus</text>
+	</string>
+	<string id="sar_monolith_2">
+		<text>Find Wishmaster</text>
+	</string>
+	<string id="sar_monolith_destroy">
+		<text>The Mystery Of The Monolith</text>
+	</string>
+	<string id="sar_monolith_destroy_0">
+		<text>To infiltrate a secret laboratory</text>
+	</string>
+	<string id="sar_monolith_destroy_1">
+		<text>To unravel the mystery of the Monolith</text>
+	</string>
+	<string id="sar_monolith_destroy_2">
+		<text>Destroy power generators Monolith</text>
+	</string>
+	<string id="sar_perception">
+		<text>Mystery Zone</text>
+	</string>
+	<string id="sar_perception_1">
+		<text>Will meet with those who were behind the Monolith</text>
+	</string>
+	<string id="sar_perception_2">
+		<text>Find the secret laboratory and meet the "puppeteers"</text>
+	</string>
+	<string id="sar_secret_lab">
+		<text>Secret lab</text>
+	</string>
+	<string id="sar_secret_lab_0">
+		<text>To get into the secret bunker</text>
+	</string>
+	<string id="sar_secret_lab_1">
+		<text>To find the secret door</text>
+	</string>
+	<string id="sar_secret_lab_2">
+		<text>Open it with the decoder</text>
+	</string>
+	<string id="sar_secret_lab_3">
+		<text>To find out what is behind the door</text>
+	</string>

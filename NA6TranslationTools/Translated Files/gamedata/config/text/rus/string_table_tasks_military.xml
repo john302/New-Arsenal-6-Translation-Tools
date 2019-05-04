@@ -1,0 +1,150 @@
+	<string id="mil_blockpost_job">
+		<text>To assist the Outpost of Freedom "Barrier"</text>
+	</string>
+	<string id="mil_courier">
+		<text>Snitch</text>
+	</string>
+	<string id="mil_courier_job">
+		<text>To deal with a Snitch</text>
+	</string>
+	<string id="mil_courier_phase1">
+		<text>To get To the farm</text>
+	</string>
+	<string id="mil_courier_phase2">
+		<text>Wait until the Snitch will cause the informant</text>
+	</string>
+	<string id="mil_courier_phase3">
+		<text>Destroy informer</text>
+	</string>
+	<string id="mil_courier_phase4">
+		<text>To destroy the informant</text>
+	</string>
+	<string id="mil_courier_phase5">
+		<text>Lukas to report on the implementation</text>
+	</string>
+	<string id="mil_crazy">
+		<text>Mad Stalker</text>
+	</string>
+	<string id="mil_dolg">
+		<text>Group "Debt"</text>
+	</string>
+	<string id="mil_dolg_assault_freedom">
+		<text>To help the detachment of the Debt in removing Lukas</text>
+	</string>
+	<string id="mil_kill_lukash">
+		<text>To Kill Lukas</text>
+	</string>
+	<string id="mil_dolg_assault_support">
+		<text>To kill the sniper</text>
+	</string>
+	<string id="mil_dolg_return_to_khutor">
+		<text>To return to the farm Debt and to receive a fee</text>
+	</string>
+	<string id="mil_dolg_return_to_skull">
+		<text>Return to the Skull</text>
+	</string>
+	<string id="mil_fblockpost_commander">
+		<text>The commander of the checkpoint "Kep"</text>
+	</string>
+	<string id="mil_fblockpost_phase2">
+		<text>To help in the destruction erupting detachment of the Monolith</text>
+	</string>
+	<string id="mil_fblockpost_phase3">
+		<text>Talk to the commander of the checkpoint Barrier</text>
+	</string>
+	<string id="mil_find_cook">
+		<text>Find the chefs on the basis of Liberty</text>
+	</string>
+	<string id="mil_freedom_rg6_task">
+		<text>To get a modified Bulldog 6 from Freedom</text>
+	</string>
+	<string id="mil_go_max">
+		<text>To Report Max</text>
+	</string>
+	<string id="mil_go_to_miser_task">
+		<text>To go to the base of Liberty to the Miser for a reward</text>
+	</string>
+	<string id="mil_go_to_miser_task_main">
+		<text>Get rewarded for slain bloodsuckers</text>
+	</string>
+	<string id="mil_hunters_phase1">
+		<text>Find Moody in the village</text>
+	</string>
+	<string id="mil_hunters_phase2">
+		<text>To destroy the bloodsuckers</text>
+	</string>
+	<string id="mil_hunters_phase3">
+		<text>Back to the Cheapskate behind the artifact</text>
+	</string>
+	<string id="mil_hunters_task">
+		<text>To destroy the bloodsuckers in the village</text>
+	</string>
+	<string id="mil_kill_controller">
+		<text>To kill suckers</text>
+	</string>
+	<string id="mil_kill_controller_main">
+		<text>To kill suckers</text>
+	</string>
+	<string id="mil_kill_dolg">
+		<text>To destroy a group</text>
+	</string>
+	<string id="mil_lukash">
+		<text>Lucas</text>
+	</string>
+	<string id="mil_max">
+		<text>Max</text>
+	</string>
+	<string id="mil_put_flash_to_max">
+		<text>To give the stick a blunder</text>
+	</string>
+	<string id="mil_kill_sniper">
+		<text>Kill the sniper in the tower</text>
+	</string>
+	<string id="mil_quest_report_dolg">
+		<text>Report on the implementation of the group's Debt</text>
+	</string>
+	<string id="mil_return_lukash">
+		<text>Back to Lucasó</text>
+	</string>
+	<string id="mil_return_to_ugrumy">
+		<text>To report Gloomy on the implementation</text>
+	</string>
+	<string id="mil_return_to_voronin">
+		<text>Include the Bulldog-6 General Voronin</text>
+	</string>
+	<string id="mil_rg6">
+		<text>Find a modified Bulldog-6</text>
+	</string>
+	<string id="mil_secret">
+		<text>A cache of bandits</text>
+	</string>
+	<string id="mil_sniper">
+		<text>Sniper</text>
+	</string>
+	<string id="mil_mad_job">
+		<text>To get the flash drive from the crazy sniper</text>
+	</string>
+	<string id="mil_talk_cook">
+		<text>Speak with the chef</text>
+	</string>
+	<string id="mil_talk_with_cap">
+		<text>Talk to the commander of the checkpoint of Liberty Cap</text>
+	</string>
+	<string id="mil_test_task_phase1">
+		<text>Go to the restrictor 1</text>
+	</string>
+	<string id="mil_test_task_phase2">
+		<text>Go to the restrictor 2</text>
+	</string>
+	<string id="mil_test_task_phase3">
+		<text>To raise Bulldog-6 to complete the task or TRS 301 for failure</text>
+	</string>
+	<string id="mil_test_task_title">
+		<text>Test problem</text>
+	</string>
+	<string id="mil_ugrumy">
+		<text>Moody</text>
+	</string>
+	<string id="mil_lukash_job">
+		<text>To destroy a group of Debt</text>
+	</string>

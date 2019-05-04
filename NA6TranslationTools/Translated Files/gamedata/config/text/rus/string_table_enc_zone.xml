@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="af-ameba-mica">
+		<text>"Mica"</text>
+	</string>
+	<string id="af-ameba-slime">
+		<text>"Slime"</text>
+	</string>
+	<string id="af-ameba-slug">
+		<text>"Slug"</text>
+	</string>
+	<string id="af-blood">
+		<text>"The blood stone"</text>
+	</string>
+	<string id="af-cristall">
+		<text>"Crystal"</text>
+	</string>
+	<string id="af-cristall-flower">
+		<text>"Stone flower"</text>
+	</string>
+	<string id="af-drops">
+		<text>"Drops"</text>
+	</string>
+	<string id="af-dummy-battery">
+		<text>"Battery"</text>
+	</string>
+	<string id="af-dummy-dummy">
+		<text>"Dummy"</text>
+	</string>
+	<string id="af-dummy-glassbeads">
+		<text>"Mama's beads"</text>
+	</string>
+	<string id="af-dummy-pellicle">
+		<text>"Film"</text>
+	</string>
+	<string id="af-dummy-spring">
+		<text>"Spring"</text>
+	</string>
+	<string id="af-electra-flash">
+		<text>Flash</text>
+	</string>
+	<string id="af-electra-moonlight">
+		<text>"Moonlight"</text>
+	</string>
+	<string id="af-electra-sparkler">
+		<text>"Sparkler"</text>
+	</string>
+	<string id="af-fireball">
+		<text>"Fireball"</text>
+	</string>
+	<string id="af-fuzz-kolobok">
+		<text>"Kolobok"</text>
+	</string>
+	<string id="af-gold-fish">
+		<text>"Goldfish"</text>
+	</string>
+	<string id="af-gravi">
+		<text>"Gravity"</text>
+	</string>
+	<string id="af-medusa">
+		<text>"Medusa"</text>
+	</string>
+	<string id="af-mincer-meat">
+		<text>"Hunk of meat"</text>
+	</string>
+	<string id="af-night-star">
+		<text>"Night star"</text>
+	</string>
+	<string id="af-rusty-kristall">
+		<text>"Crystal thorn"</text>
+	</string>
+	<string id="af-rusty-sea-urchin">
+		<text>"Sea urchin"</text>
+	</string>
+	<string id="af-rusty-thorn">
+		<text>"Thorn"</text>
+	</string>
+	<string id="af-soul">
+		<text>"Soul"</text>
+	</string>
+	<string id="af-vyvert">
+		<text>"Twist"</text>
+	</string>
+	<string id="Agroprom">
+		<text>"Agroprom"</text>
+	</string>
+	<string id="Ameba">
+		<text>"Aspic"</text>
+	</string>
+	<string id="Anomalies">
+		<text>Anomalies</text>
+	</string>
+	<string id="Artifacts">
+		<text>Artifacts</text>
+	</string>
+	<string id="Bald">
+		<text>Tramplin</text>
+	</string>
+	<string id="Bar">
+		<text>Bar</text>
+	</string>
+	<string id="Darkdolina">
+		<text>Dark valley</text>
+	</string>
+	<string id="Deadcity">
+		<text>Removed</text>
+	</string>
+	<string id="Electra">
+		<text>"ELEKTRA"</text>
+	</string>
+	<string id="af-compass">
+		<text>"Compass"</text>
+	</string>
+	<string id="af-piramidka">
+		<text>"Pyramid"</text>
+	</string>
+	<string id="af-ice">
+		<text>"Ice"</text>
+	</string>
+	<string id="af-plant">
+		<text>The tree</text>
+	</string>
+	<string id="af-electra-green">
+		<text>"Plasma"</text>
+	</string>
+	<string id="enc_zone_anomalies_ameba">
+		<text>Education is not clear to the end of nature. Upon contact with the body causes injury, similar to the effect of strong acids. Forms three types of artifacts: "Slime", "Ooze", "Mica".</text>
+	</string>
+	<string id="enc_zone_anomalies_bald">
+		<text>One of the first recorded anomalies. Deals shock damage variable gravitational field. In one place is in the middle of the week for "life" changing the force of the impact. The result of The meeting with the "jump" can be different - from small bruises and bruises to sudden death. In the daytime quite easily detected by the distortion of the air above her, swirling the leaves, and the characteristic spots on the ground, the red-brown color. Fixed all types of detectors, and with the help of thrown into it various items. Forms three types of artifacts: the "Medusa", "Stone flower" and "Night star".</text>
+	</string>
+	<string id="enc_zone_anomalies_electra">
+		<text>The anomalous formation with a diameter of about 10 meters, nakaplivaetsya static electricity. Disturbed erupts dozens of mini-lightning, and electric shock for any live creature is almost always fatal. A characteristic feature of "electra" is visible over the bluish mist day. Night is easily detected by any detectors or by throwing metal objects. Forms three types of artifacts: "the Sparkler, Flash and Moonlight."</text>
+	</string>
+	<string id="enc_zone_anomalies_fuzz">
+		<text>Abnormally transformed vegetation. With the rapid approach of a living creature emits a cloud of particles, which in case of contact with exposed or poorly protected skin to seriously injure the latter. For slow moving objects does not respond. Forms three types of artifacts (possibly the seeds): "the Thorn", "Crystal thorn", "Sea urchin".</text>
+	</string>
+	<string id="enc_zone_anomalies_gravi">
+		<text>The anomaly of presumably gravitational nature. At the moment of activation with great force sucks in everything that is in radius of 10-15 meters. When hit in the center of the "funnel" likely to survive there: the body and the animal, and the person will be compressed into a dense lump, and then disconnected at the time of the so-called discharge. During the whole period of existence - the average is about a week - anomaly does not change the places of manifestation; it can be visually discovered in the afternoon by the characteristic movement of air above her, swirling the leaves, fragments of dismembered corpses and a distinctive dark stain on the ground in the center. Night is extremely dangerous because it is detected only by the detectors or by throwing metal objects. Forms three types of artifacts: "the Twist", "Gravity" and "goldfish".</text>
+	</string>
+	<string id="enc_zone_anomalies_lift">
+		<text>Healthy gravitational anomaly that allows for some time to forget about the laws of gravity. In a local volume with a diameter several meters of earth's gravity is significantly reduced. The artifact forms a "Film".</text>
+	</string>
+	<string id="enc_zone_anomalies_meat">
+		<text>The name is due to the effect of raising into the air of any living creature and subsequent promotion to high speed. The nature of "carousel" is not yet fully understood. The light is detected by a dust whirlwind and scattered the body parts around. It is very important not to miss the beginning of the retraction in abnormal vortex and not be in the area a strong effect in the center - only then has a chance to get away with minimal injuries. Forms three types of artifacts: "the Blood stone", "Piece of meat" and "Soul".</text>
+	</string>
+	<string id="enc_zone_anomalies_radioactive">
+		<text>The heightened level of over 50 Mr/HR radiation. It is necessary to avoid a prolonged stay in such places.</text>
+	</string>
+	<string id="enc_zone_anomalies_time">
+		<text>An anomaly can truly be called a small miracle: in a volume with a diameter several meters in a period of time slows down repeatedly. Negative impact on health, apparently, does not have, but to get out of it easily. Interestingly, in the centre of the "time machine" is usually an artifact "Mama's beads" for withdrawal which the anomaly ceases to exist.</text>
+	</string>
+	<string id="enc_zone_anomalies_zharka">
+		<text>In the inactive state looks like a barely visible cloud of hot air, but if it enters the zone of action of any object or living being forms a compact zone, heated to a temperature of about 1500 K. The night can only be discovered by powerful detectors or by throwing metal objects. Forms three types of artifacts: "Drop", "fireball" and "Crystal".</text>
+	</string>
+	<string id="enc_zone_artifact_af-ameba-mica">
+		<text>The anomaly "a jelly" is able to produce such an artifact at the rarest, most extreme collection of physical conditions. The result is a translucent solid object. The artifact is expensive and rare.</text>
+	</string>
+	<string id="enc_zone_artifact_af-ameba-slime">
+		<text>It is known that the artifact generated by the anomaly "a jelly". When wearing it on the belt, the wounds bleed less, although the body of the host becomes vulnerable to various burns.</text>
+	</string>
+	<string id="enc_zone_artifact_af-ameba-slug">
+		<text>Is formed by the anomaly "a jelly". Negative properties of this artifact kompensiruet the fact that it increases blood clotting. This artifact is rare and fetch a good price.</text>
+	</string>
+	<string id="enc_zone_artifact_af-blood">
+		<text>To find this artifact near the anomaly can be "Carousel." Is a rather ugly reddish formation of compressed and whimsical polimertsementnyj remnants of plants, soil and bones. Quite common and are not effective.</text>
+	</string>
+	<string id="enc_zone_artifact_af-cristall">
+		<text>It turns out when you hit heavy metal anomaly "Roasting". This wonderful artifact displays radiation. This artifact is highly valued by stalkers, and a few places it can be obtained.</text>
+	</string>
+	<string id="enc_zone_artifact_af-cristall-flower">
+		<text>Born in the anomaly "springboard". This artifact can be found in a few areas. Inclusions of metal compounds give a beautiful play of light. Examining this artifact in the light of the bonfire night remarkably soothing.</text>
+	</string>
+	<string id="enc_zone_artifact_af-drops">
+		<text>Formed anomaly "Cooking" at high temperatures. Looks like a blackened teardrop-shaped formation with a glossy surface, covered in cracks.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-battery">
+		<text>The origin of this thing is shrouded in scientific mystery. It is clear that its composition includes dielectric elements, but under what physical conditions it is formed - science is not known.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-dummy">
+		<text>When wearing this artifact, the denaturalization of proteins is slower. In other words, the flesh is more resistant to high temperatures and burns less. Itself is expensive and rare thing.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-glassbeads">
+		<text>A wonderful artifact. Take care of it - it is good because it has only positive qualities. Scientists scratching their hoary heads over how such a property can be retrieved in the laboratory.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-pellicle">
+		<text>This artifact is so rare that many researchers are not even aware that such a substance can exist in vivo. Rejects corrosive chemical components.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-spring">
+		<text>According to some researchers-theorists, this artifact is a hybrid of Batteries and a "Dummy". However, some scientists believe that the artifact is some sort of artifact, "Gravity", because it also increases the carry weight by an average of 5 kg.</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-flash">
+		<text>ELEKTRA occasionally gives rise to this artifact. Stalkers use it willingly because of his good qualities. Good price and nice appearance makes it interesting for collectors.</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-moonlight">
+		<text>A degenerate case of the activity anomalies "ELEKTRA". Apparently, such a wonderful rounded shape you can get if you expose the anomaly of the thermal impact. Expensive artifact.</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-sparkler">
+		<text>Is about anomalies of type "ELEKTRA". A very common and cheap artifact. Nevertheless prized among researchers of the Area for his properties.</text>
+	</string>
+	<string id="enc_zone_artifact_af-fireball">
+		<text>Kristallizuetsya anomalies "Roasting". Fights well with radioactivity, though the rapid energy exchange wears out the muscles of your musculoskeletal system. Long run will not work. The artifact emits heat.</text>
+	</string>
+	<string id="enc_zone_artifact_af-fuzz-kolobok">
+		<text>When you hold this mystery of the Zone in the hands, feel the skin coarsens and becomes less sensitive. Ball bullet it is still easy, but cut is much more difficult.</text>
+	</string>
+	<string id="enc_zone_artifact_af-gold-fish">
+		<text>Generated anomaly "Funnel". Aktiviziruyutsya warm body. Has the property to reduce the feeling of hunger and to reflect the psy-emission. The artifact could be expensive to sell.</text>
+	</string>
+	<string id="enc_zone_artifact_af-gravi">
+		<text>You can discover about the anomalies of type "Funnel", or another Stalker. When wearing some portion of the radioactive rays accumulates in the body, while the main beams radiate out from the body, apparently reducing the effects of gravity and thereby increasing the carry weight by an average of 5 kg. the Price is average.</text>
+	</string>
+	<string id="enc_zone_artifact_af-medusa">
+		<text>Formed in the anomaly "springboard". Forms a weak protective field whose side effect is the slight radiation. The artifact is widely available and inexpensive.</text>
+	</string>
+	<string id="enc_zone_artifact_af-mincer-meat">
+		<text>Produced by the anomaly of "Carousel." Stimulated the growth of cells. On the other hand, young cells are more susceptible to many kinds of physical damage. The artifact comes infrequently, but it is hardly unique.</text>
+	</string>
+	<string id="enc_zone_artifact_af-night-star">
+		<text>This wonderful artifact is formed by the anomaly "springboard". The use of the artifact requires the neutralization of lethal radiation. Expensive and rare, it is extremely interesting for scientific expeditions and other research activity Areas.</text>
+	</string>
+	<string id="enc_zone_artifact_af-rusty-kristall">
+		<text>Kristallizuetsya the anomaly "Burning down". Displays radiation from the body naturally. That is, through the ears along with some blood. Possible loss of blood and through the other hole. Comes infrequently and quite effective, earning a stable price on the market artifacts.</text>
+	</string>
+	<string id="enc_zone_artifact_af-rusty-sea-urchin">
+		<text>Anomaly "Burning down" very rarely gives rise to this artifact. Increased blood pressure, the body gets rid of a large number of red blood cells. But along with them comes the body of accumulated radiation. Sakharov in his seminal work, "Ionization and polarization of the components of rare artifacts" noticed that the composition of this formation has a critical stability, and to create such an artifact in lab conditions in the next decades is unrealistic.</text>
+	</string>
+	<string id="enc_zone_artifact_af-rusty-thorn">
+		<text>The result of The interaction anomaly "Burning down" and bodies careless Stalker. Spiked artifact stabs the body of the owner, would not attach. But it also helps to cleanse the body from radionuclides. A very common and cheap.</text>
+	</string>
+	<string id="enc_zone_artifact_af-soul">
+		<text>Very rarely get near the anomaly "Carousel." To find such an artifact only a few succeed, and few people ever see. It has a nice shape and at least a nice price.</text>
+	</string>
+	<string id="enc_zone_artifact_af-vyvert">
+		<text>Is about anomalies of the type "Vortex". Upon contact with the body distributes directional radiation, protecting from scratches or wounds inflicted by cold weapons. This artifact is not difficult to find, because the money for it give a little.</text>
+	</string>
+	<string id="enc_zone_artifact_af-compass">
+		<text>A very rare artifact. Many stalkers and even scientists doubt its existence. The artifact has only positive properties. It literally changes the trajectory of metallic objects, moving in his direction – hence probably got its name. The price is very high.</text>
+	</string>
+	<string id="enc_zone_artifact_af-piramidka">
+		<text>Quite a rare artifact, which has very interesting properties and are, most likely, a variety of artifact Spring. Apparently, this artifact is somehow neutralizes the effects of gravity, resulting in a carried weight increased by an average of 20 kg. the Price is very high.</text>
+	</string>
+	<string id="enc_zone_artifact_af-ice">
+		<text>The artifact, apparently, is poradami anomaly "ELEKTRA" a kind of artifact, "Kolobok", as it has similar properties, namely, to increase resistance to bites and cuts. The artifact is rare and is not cheap.</text>
+	</string>
+	<string id="enc_zone_artifact_af-plant">
+		<text>A very rare artifact that represents a hybrid of the plant and anomalous particles. Has a very specific effect on the organism – on the one hand increases the strength of the mobilization resource of fast muscle fibers, and on the other hand reduces the endurance due to the fact that increasing energy is also absorbed from slow muscle fibers. A long run with this artifact on the belt will not work. The artifact is rare and is not cheap.</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-green">
+		<text>Very rare and expensive artifact. Generated anomaly "ELEKTRA". Stalkers called it the "Athlete" - running with it is a much easier and faster. However, indefinitely to accelerate still not work...</text>
+	</string>
+	<string id="enc_zone_locations_agroprom">
+		<text>Strange place. If you delve into it, they will come out on heavily contaminated by radiation plain. Located there's the small lake to the brim full of the debris of technology. You can still visit the old Institute and factory, recently, however, there is something too often began to flash the military.</text>
+	</string>
+	<string id="enc_zone_locations_bar">
+		<text>The grouping of "Debt" was cleared on the edge of the wilderness place itself under the database and allows stalkers to rest here. A sort of oasis in the desert - no anomalies or mutants. There is a vault, which housed a bar "100 x-ray": it is going stalkers from all over the Area. The bar runs the local dealer, so you can not only communicate, but also to sell to buy almost anything. To the North of the bar is the military base, to the South is a Dump.</text>
+	</string>
+	<string id="enc_zone_locations_darkdolina">
+		<text>Here is always gloomy and foggy, it rains. In the Dark valley you can get hold of good artifacts as you can and quickly take their own life. Here a lot of experienced stalkers - they come here for valuable artifacts; there are bandits. You can look for the entrance located somewhere here underground laboratory, only no one back there, and what's hiding in there, anyone like to be not known.</text>
+	</string>
+	<string id="enc_zone_locations_escape">
+		<text>A kind of dressing room Area, the first place where beginners Olivas a little. In the cellar behind the village near the army checkpoint inhabited by a dealer - it is useful to speak to. To go to the checkpoint and catch the eye of the soldiers do not reason: they have orders to shoot without warning; on the other hand, some money instantly to lighten up, especially if there are no superiors. Killing soldiers is not recommended, except in case of direct threat to life.</text>
+	</string>
+	<string id="enc_zone_locations_garbage">
+		<text>Huge technical cemetery: here again after the first accident was taken to the mountain of radioactive junk. There are remains of old buildings, there are mutants. Here, as at the perimeter, a lot of newcomers - and the next spinning the bandits, always looking for a piece of meatier, and that without much hassle. You can find some artifacts, but it is better not to linger for a long time - there are places more interesting. If you go North, then exit to the Wild territory; in the West the passage to the Dark valley; to the East the road to the Institute "Agroprom".</text>
+	</string>
+	<string id="enc_zone_locations_military-loc">
+		<text>Deserted army base next to a crumbling village and a small swamp. Village - the place is quite creepy: mutants and is full of some bloodsuckers go and count. Here is the rare stalkers dream, often bypass the tenth road. And on the military base, the anarchists of the Liberty group settled. If you continue into the Area from the base to go, I will go straight to the brain Burner: it is the way to Pripyat and Chernobyl tightly overlaps.</text>
+	</string>
+	<string id="enc_zone_locations_pripiat">
+		<text>It was a city of power - it was built together with disaster. Big was the town... Only now there is no one lives - except, of course, any kind of evil mutants and zombies. Go there, apparently, do not: brain Burner path closes.</text>
+	</string>
+	<string id="enc_zone_locations_radar">
+		<text>Scary place. Nothing to do for nothing to disappear even if life were lucky. Anyone who has the brains Cautery close, goes crazy, turns into a zombie and then wanders through the Area, restless. Some shell people are, and no one out with his mind did not return.</text>
+	</string>
+	<string id="enc_zone_locations_rostok">
+		<text>The Wild territory had a fairly large plant was, which is now in ruins. They found their end many stalkers: divorced there any evil, like she fits there with the entire Zone. According to rumors, however, something very important in this plant is, so wishing luck is always in abundance.</text>
+	</string>
+	<string id="enc_zone_locations_stancia">
+		<text>The former nuclear station, which once heard by everyone. This is the heart of the Zone. According to legend, somewhere there is certain thing that is able to fulfill any desire - it is called the Monolith.</text>
+	</string>
+	<string id="enc_zone_locations_yantar">
+		<text>The legendary lake in the same sector for a long time already dried up is one small swamp remained. Bad this place is saturated with death. To go there is especially dangerous because anyone who is too far finds itself, once the mind is damaged. And throughout the sector a zombie dummy and wandering if anyone will see, so go to it, and not with peaceful intent. If you bypass the lake and a group of zombies, you will fall science camp: there scientists - their helicopters brought - learn something. With them to talk, they buy artifacts, and even some job can give.</text>
+	</string>
+	<string id="enc_zone_zone-story_story-2006">
+		<text>The exclusion zone was illuminated by the brightest, almost unbearable light, and could see the sky begin to evaporate clouds. After moments of complete silence came the roar and earthquake. The people fell to the ground, clamping his eyes and ears; who could, he fled for his life. From the outside it looked as if all buried under the Sarcophagus nuclear fuel at once blown up. The army sealed off the Area. With the help of satellites found out that the epicenter of the explosion was not in units of the nuclear plant and a kilometer away from them. It is believed that everybody was killed immediately, but inside the ring cordon left a lot of other people. To arrange a rescue operation was not possible because the groups of people and equipment sent into the affected area, almost immediately died. Some time after the accident, the Zone diameter abruptly increased by several kilometers. Most of the government troops guarding the perimeter, and there were scientific laboratories instantly killed. I started to panic; residents of neighboring villages and towns were hastily evacuated or fled. The world is in danger, the size of which so far we can only guess.</text>
+	</string>
+	<string id="enc_zone_zone-story_story-2008">
+		<text>Two years have passed since then, as has happened a terrible catastrophe in the exclusion zone around Chernobyl. A large number of dead and missing people, fallen cattle, blackened buildings, shattered forest... Scientists still can't explain what happened. And the Area within which was discovered an absolutely fantastic anomaly, meanwhile, is growing. Expeditions faced mutant animals with amazing features.</text>
+	</string>
+	<string id="enc_zone_zone-story_story-2010">
+		<text>On the trail of desperate loners-stalkers for a large-scale study Zone again undertake a scientific expedition. However, inside the protected perimeter of the army you already have a lot of "unaccounted for persons" up to poachers and bandits. The bulk of stalkers traveling through the Area in search of various anomalous formations, i.e. artifacts, which often help out a lot of money.</text>
+	</string>
+	<string id="enc_zone_zone-story_story-raid">
+		<text>Army units, including special purpose, headed by squads of military stalkers, launched a major expedition into the Zone with the aim to break through to the Chernobyl nuclear power plant and destroy the supposed cause of the deadly anomalous fields or finally get reliable information about what is happening there processes. The company, which was attended by over a thousand people and a lot of technology, completely failed. Separate groups of survivors have settled in the Zone without hope of salvation.</text>
+	</string>
+	<string id="Escape">
+		<text>Zastava</text>
+	</string>
+	<string id="Fuzz">
+		<text>"Burning fluff"</text>
+	</string>
+	<string id="Garbage">
+		<text>Dump</text>
+	</string>
+	<string id="Gravi">
+		<text>The "funnel"</text>
+	</string>
+	<string id="Lift">
+		<text>"Elevator"</text>
+	</string>
+	<string id="Locations">
+		<text>Locations</text>
+	</string>
+	<string id="Meat">
+		<text>"Carousel"</text>
+	</string>
+	<string id="Military-loc">
+		<text>Army base</text>
+	</string>
+	<string id="Pripiat">
+		<text>Pripyat</text>
+	</string>
+	<string id="Radar">
+		<text>Cautery</text>
+	</string>
+	<string id="Radioactive">
+		<text>A source of radioactivity</text>
+	</string>
+	<string id="Rostok">
+		<text>Wild territory</text>
+	</string>
+	<string id="Stancia">
+		<text>Chernobyl</text>
+	</string>
+	<string id="Story-2006">
+		<text>2008, April 12, 14:33.</text>
+	</string>
+	<string id="Story-2008">
+		<text>Two thousand ten</text>
+	</string>
+	<string id="Story-2010">
+		<text>Two thousand eleven</text>
+	</string>
+	<string id="Story-raid">
+		<text>A breakthrough in the Area. 2011</text>
+	</string>
+	<string id="Time_machine">
+		<text>"The time machine"</text>
+	</string>
+	<string id="Yantar">
+		<text>Amber</text>
+	</string>
+	<string id="Zharka">
+		<text>"Roasting"</text>
+	</string>
+	<string id="Zone">
+		<text>Area</text>
+	</string>
+	<string id="Zone-story">
+		<text>The History Of The Area</text>
+	</string>
+</string_table>

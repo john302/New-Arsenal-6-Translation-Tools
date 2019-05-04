@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="actor_break_dialog_0">
+		<text>See you soon!</text>
+	</string>
+	<string id="actor_help_wounded_0">
+		<text>How are you?</text>
+	</string>
+	<string id="actor_help_wounded_1">
+		<text>I'm in pain! Need a medkit or a bandage.</text>
+	</string>
+	<string id="actor_help_wounded_11">
+		<text>Take this medkit!</text>
+	</string>
+	<string id="actor_help_wounded_111">
+		<text>Thank you, will not forget.</text>
+	</string>
+	<string id="actor_help_wounded_12">
+		<text>Have a bandage.</text>
+	</string>
+	<string id="actor_help_wounded_13">
+		<text>I'm sorry, nothing.</text>
+	</string>
+	<string id="actor_help_wounded_131">
+		<text>As you are in the Area? You have to cure yourself, I cannot.</text>
+	</string>
+	<string id="actor_help_wounded_14">
+		<text>Heh, what are you doing? Sorry, I have nothing.</text>
+	</string>
+	<string id="actor_help_wounded_141">
+		<text>Your business, but don't mention it.</text>
+	</string>
+	<string id="hello_dialog_2">
+		<text>Hi!</text>
+	</string>
+	<string id="hello_dialog_3">
+		<text>Brother, help!</text>
+	</string>
+	<string id="sleep_title_1">
+		<text>How long?</text>
+	</string>
+	<string id="sleep_title_2">
+		<text>Need to sleep .</text>
+	</string>
+	<string id="sleep_title_3">
+		<text>The damage was done. Sleep impossible.</text>
+	</string>
+	<string id="sleep_title_4">
+		<text>To sleep, you must disable the emitter.</text>
+	</string>
+	<string id="sleep_title_5">
+		<text>To sleep, to rid your radiation.</text>
+	</string>
+</string_table>

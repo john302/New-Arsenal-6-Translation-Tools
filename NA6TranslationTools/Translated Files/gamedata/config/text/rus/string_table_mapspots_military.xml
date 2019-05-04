@@ -1,0 +1,60 @@
+	<string id="mil_cap_hint">
+		<text>Talk to the commander of the checkpoint Barrier</text>
+	</string>
+	<string id="mil_courier_hint1">
+		<text>To follow the Snitch</text>
+	</string>
+	<string id="mil_courier_hint2">
+		<text>Wait for the call, Snitch informant</text>
+	</string>
+	<string id="mil_courier_hint3">
+		<text>To kill the Snitch</text>
+	</string>
+	<string id="mil_courier_hint4">
+		<text>To kill informant</text>
+	</string>
+	<string id="mil_crazy_hint">
+		<text>Take the flash drive from the crazy Stalker</text>
+	</string>
+	<string id="mil_dolg_khutor">
+		<text>Farm Debt</text>
+	</string>
+	<string id="mil_freedom_sniper">
+		<text>Kill the sniper</text>
+	</string>
+	<string id="mil_hunters_hint1">
+		<text>Talk to Sullen</text>
+	</string>
+	<string id="mil_hunters_hint2">
+		<text>Back to the Hunks</text>
+	</string>
+	<string id="mil_kill_dolg_hint">
+		<text>Destroy the detachment of the Debt</text>
+	</string>
+	<string id="mil_kill_lukash_hint">
+		<text>To Kill Lukas</text>
+	</string>
+	<string id="mil_miser_hint">
+		<text>Hunks</text>
+	</string>
+	<string id="mil_report_to_max_hint">
+		<text>To Report Max</text>
+	</string>
+	<string id="mil_return_to_lukash_hint">
+		<text>To Report Lukas</text>
+	</string>
+	<string id="mil_return_to_max_hint">
+		<text>To give the stick to max</text>
+	</string>
+	<string id="mil_rg6_hint1">
+		<text>Find the chefs on the basis of "Freedom"</text>
+	</string>
+	<string id="mil_rg6_hint2">
+		<text>Speak with the chef</text>
+	</string>
+	<string id="mil_rg6_hint3">
+		<text>Take the Bulldog 6 from caches in the village</text>
+	</string>
+	<string id="mil_watertower_hint">
+		<text>Water tower</text>
+	</string>

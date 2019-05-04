@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="actor_btn_hint">
+		<text>Center on Tagged</text>
+	</string>
+	<string id="add_spot_btn_hint">
+		<text>To add a new mark</text>
+	</string>
+	<string id="Contacts">
+		<text>Contacts</text>
+	</string>
+	<string id="Encyclopedia">
+		<text>Help</text>
+	</string>
+	<string id="global_map_btn_hint">
+		<text>On a map of the area</text>
+	</string>
+	<string id="level_changer_invitation">
+		<text>Go to another location?</text>
+	</string>
+	<string id="Name">
+		<text>Name</text>
+	</string>
+	<string id="pda_btn_accomplished">
+		<text>Made</text>
+	</string>
+	<string id="pda_btn_accomplished_hint">
+		<text>Show completed jobs</text>
+	</string>
+	<string id="pda_btn_active">
+		<text>Active</text>
+	</string>
+	<string id="pda_btn_active_hint">
+		<text>Show active jobs</text>
+	</string>
+	<string id="pda_btn_contacts">
+		<text>Contacts</text>
+	</string>
+	<string id="pda_btn_contacts_hint">
+		<text>To show the contact list of stalkers</text>
+	</string>
+	<string id="pda_btn_diary">
+		<text>Journal</text>
+	</string>
+	<string id="pda_btn_diary_hint">
+		<text>Show diary of a player</text>
+	</string>
+	<string id="pda_btn_encyclopedia">
+		<text>Help</text>
+	</string>
+	<string id="pda_btn_encyclopedia_hint">
+		<text>Show encyclopedia the Area</text>
+	</string>
+	<string id="pda_btn_failed">
+		<text>Failed</text>
+	</string>
+	<string id="pda_btn_failed_hint">
+		<text>Show failed jobs</text>
+	</string>
+	<string id="pda_btn_info">
+		<text>Information</text>
+	</string>
+	<string id="pda_btn_journal">
+		<text>Journal</text>
+	</string>
+	<string id="pda_btn_journal_hint">
+		<text>Show record player</text>
+	</string>
+	<string id="pda_btn_map">
+		<text>Plan</text>
+	</string>
+	<string id="pda_btn_map_hint">
+		<text>Show a map of the Area</text>
+	</string>
+	<string id="pda_btn_news">
+		<text>History</text>
+	</string>
+	<string id="pda_btn_news_hint">
+		<text>Show message history</text>
+	</string>
+	<string id="pda_btn_off_hint">
+		<text>Off</text>
+	</string>
+	<string id="pda_btn_own">
+		<text>Your</text>
+	</string>
+	<string id="pda_btn_own_hint">
+		<text>Show your mark on the map</text>
+	</string>
+	<string id="pda_btn_quests">
+		<text>Tasks</text>
+	</string>
+	<string id="pda_btn_quests_hint">
+		<text>Show info on quests</text>
+	</string>
+	<string id="pda_btn_ranking">
+		<text>Grades</text>
+	</string>
+	<string id="pda_btn_ranking_hint">
+		<text>Show the rating of the best stalkers</text>
+	</string>
+	<string id="pda_btn_reputation">
+		<text>Reputation</text>
+	</string>
+	<string id="pda_btn_statistics">
+		<text>Data</text>
+	</string>
+	<string id="pda_btn_statistics_hint">
+		<text>Show statistics on passing</text>
+	</string>
+	<string id="pda_edit_user_task_btn_hint">
+		<text>You can edit the description</text>
+	</string>
+	<string id="pda_remove_btn_hint">
+		<text>To remove the mark</text>
+	</string>
+	<string id="pda_show_descr_btn_hint">
+		<text>Go</text>
+	</string>
+	<string id="pda_show_location_btn_hint">
+		<text>Show markers on the map</text>
+	</string>
+	<string id="pda_show_pointer_btn_hint">
+		<text>To make a mark active</text>
+	</string>
+	<string id="pda_switch_description_btn_hint">
+		<text>Toggle map/text</text>
+	</string>
+	<string id="Rank">
+		<text>Rank</text>
+	</string>
+	<string id="remove_spot_btn_hint">
+		<text>To remove the mark</text>
+	</string>
+	<string id="st_detail_list_for_artefacts">
+		<text>The extracted artifacts</text>
+	</string>
+	<string id="st_detail_list_for_community_relations">
+		<text>Relations with the factions</text>
+	</string>
+	<string id="st_detail_list_for_monsterkills">
+		<text>Mutant roadkill</text>
+	</string>
+	<string id="st_detail_list_for_quests">
+		<text>Made job</text>
+	</string>
+	<string id="st_detail_list_for_stalkerkills">
+		<text>Killing stalkers</text>
+	</string>
+	<string id="st_map_actor">
+		<text>Tagged</text>
+	</string>
+	<string id="st_news">
+		<text>News</text>
+	</string>
+	<string id="st_pda_artefacts">
+		<text>Artifacts</text>
+	</string>
+	<string id="st_pda_detail_info">
+		<text>Detailed information</text>
+	</string>
+	<string id="st_pda_monster_kills">
+		<text>Mutant roadkill</text>
+	</string>
+	<string id="st_pda_player_statistic">
+		<text>Player stats</text>
+	</string>
+	<string id="st_pda_quest_complete">
+		<text>Made quests</text>
+	</string>
+	<string id="st_pda_stalker_kills">
+		<text>Killing stalkers</text>
+	</string>
+	<string id="st_pda_statistic_reputation">
+		<text>Reputation:</text>
+	</string>
+	<string id="st_pda_statistic_score">
+		<text>Statistics</text>
+	</string>
+	<string id="st_pda_task_detail_information">
+		<text>Detailed information about the job</text>
+	</string>
+	<string id="st_pda_top20">
+		<text>The best 20 stalkers</text>
+	</string>
+	<string id="st_pda_total">
+		<text>Just</text>
+	</string>
+	<string id="st_tip">
+		<text>Message</text>
+	</string>
+	<string id="Tasks">
+		<text>Job</text>
+	</string>
+	<string id="Time">
+		<text>Time</text>
+	</string>
+	<string id="zoom_in_btn_hint">
+		<text>scale +</text>
+	</string>
+	<string id="zoom_out_btn_hint">
+		<text>scale -</text>
+	</string>
+</string_table>

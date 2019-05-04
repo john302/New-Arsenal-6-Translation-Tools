@@ -1,0 +1,145 @@
+	<string id="bar_bring_hunter_rifle">
+		<text>To return to the hunter family gun</text>
+	</string>
+	<string id="bar_bring_PDA_lucky">
+		<text>To bring the CCP leader to the bartender</text>
+	</string>
+	<string id="bar_crazy_veterans_quest">
+		<text>Destroy crazy veterans</text>
+	</string>
+	<string id="bar_dolg_base_rules">
+		<text>To report in to the head of security Debt</text>
+	</string>
+	<string id="bar_dolg_base_rules_fin">
+		<text>Back to the bartender</text>
+	</string>
+	<string id="bar_dolg_base_rules_talk">
+		<text>To find the head of security for the Debt and mark it</text>
+	</string>
+	<string id="bar_dolg_bring_rg6">
+		<text>To produce a modified Bulldog-6 for General Voronin</text>
+	</string>
+	<string id="bar_dolg_community_quest">
+		<text>The entry into the grouping of "Debt"</text>
+	</string>
+	<string id="bar_dolg_community_quest_prisyaga">
+		<text>To take the oath</text>
+	</string>
+	<string id="bar_dolg_community_quest_recomendation">
+		<text>To the recommendation of captain Ivantsov</text>
+	</string>
+	<string id="bar_dolg_community_quest_vernost">
+		<text>To prove their loyalty to the "Debt"</text>
+	</string>
+	<string id="bar_dolg_find_cook">
+		<text>To ingratiate himself to the cook of Freedom and to know where the Bulldog 6</text>
+	</string>
+	<string id="bar_dolg_find_rg6">
+		<text>To enter the territory of the group Freedom to find and steal a modified Bulldog-6</text>
+	</string>
+	<string id="bar_dolg_info_gain">
+		<text>Find the intercepted information about lab X18</text>
+	</string>
+	<string id="bar_dolg_kill_tiran">
+		<text>To kill a Tyrant, the leader of the group</text>
+	</string>
+	<string id="bar_dolg_return_info">
+		<text>To return information about lab X18 to General Voronin</text>
+	</string>
+	<string id="bar_dolg_return_rg6">
+		<text>To bring a modified Bulldog-6 General Voronin</text>
+	</string>
+	<string id="bar_dolg_rg6_quest">
+		<text>Job to join the Debt</text>
+	</string>
+	<string id="bar_dolg_svoboda_ambush_quest">
+		<text>Destroy the mercenaries</text>
+	</string>
+	<string id="bar_dolg_svoboda_ambush_return">
+		<text>To give stripe to General Voronin</text>
+	</string>
+	<string id="bar_dolg_tiran_PDA">
+		<text>To take PDA Tyrant</text>
+	</string>
+	<string id="bar_hunter_find_rifle">
+		<text>Find the family rifle</text>
+	</string>
+	<string id="bar_hunter_return_rifle">
+		<text>To return the gun to the hunter in the bar</text>
+	</string>
+	<string id="bar_hunter_rifle">
+		<text>Find the family rifle</text>
+	</string>
+	<string id="bar_kill_crazy_veterans">
+		<text>To kill the leader of the veterans</text>
+	</string>
+	<string id="bar_kill_crazy_veterans_PDA">
+		<text>To take PDA of their leader</text>
+	</string>
+	<string id="bar_kill_veterans">
+		<text>Destroy the camp of crazy veterans</text>
+	</string>
+	<string id="bar_radar_deactivate">
+		<text>To Turn Off The Brain Burner</text>
+	</string>
+	<string id="bar_resque_information">
+		<text>To meet Kruglov</text>
+	</string>
+	<string id="bar_resque_information_2">
+		<text>Bring Kruglov to Yantar</text>
+	</string>
+	<string id="bar_resque_scientific_follow">
+		<text>Bring Kruglov to Yantar</text>
+	</string>
+	<string id="bar_resque_scientific_information">
+		<text>...</text>
+	</string>
+	<string id="bar_resque_scientific_information_bring">
+		<text>Talk to Kruglov</text>
+	</string>
+	<string id="bar_resque_scientific_information_get">
+		<text>To get To Kruglov</text>
+	</string>
+	<string id="bar_resque_scientific_information_get_2">
+		<text>To talk To Professor Kruglov</text>
+	</string>
+	<string id="bar_x16_documents">
+		<text>To find the documents in lab X16</text>
+	</string>
+	<string id="bring_x16_documents">
+		<text>To bring the documents to the barkeep</text>
+	</string>
+	<string id="deactivate_radar_now">
+		<text>To disable the setting</text>
+	</string>
+	<string id="find_and_deactivate_radar">
+		<text>To find the entrance to the control bunker</text>
+	</string>
+	<string id="get_to_antennas">
+		<text>Access to antennas</text>
+	</string>
+	<string id="Kruglov_research">
+		<text>Research Kruglov</text>
+	</string>
+	<string id="look_for_x16_lab">
+		<text>To find documents X-16</text>
+	</string>
+	<string id="x16_yantar">
+		<text>To talk with scientists</text>
+	</string>
+	
+	<string id="bar_warlab_floppy_disketka">
+		<text>Download the diskette in a military lab</text>
+	</string>
+	<string id="gain_access_to_warlab">
+		<text>To break into a military laboratory</text>
+	</string>
+	<string id="talk_with_german">
+		<text>Find floppy disk</text>
+	</string>
+	<string id="look_for_warlab_floppy_disketka">
+		<text>Pick up a floppy</text>
+	</string>
+	<string id="bring_warlab_floppy_disketka">
+		<text>Bring a floppy disk to the bartender</text>
+	</string>

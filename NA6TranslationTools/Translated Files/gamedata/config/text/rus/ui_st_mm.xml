@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- ГЛАВНОЕ МЕНЮ -->
+	<!-- Первый экран (игра не загружена) -->
+	<string id="ui_mm_newgame">
+		<text>New Game</text>
+	</string>
+	<string id="ui_mm_load_game">
+		<text>Load Save</text>
+	</string>
+	<string id="ui_mm_last_save">
+		<text>Last Save</text>
+	</string>
+	<string id="ui_mm_options_n">
+		<text>Settings</text>
+	</string>
+	<string id="ui_mm_credits">
+		<text>Credits</text>
+	</string>
+	<string id="ui_mm_quit2windows">
+		<text>Exit to Windows</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>Are you sure?</text>
+	</string>
+	<!-- Первый экран (игра загружена, недостающие строки) -->
+	<string id="ui_mm_return_game">
+		<text>Continue</text>
+	</string>
+	<string id="ui_mm_quit_game">
+		<text>Quit</text>
+	</string>
+	<!-- Первый экран (после смерти, недостающие строки) -->
+	<string id="st_game_over_press_jump">
+		<text>Press ($$ACTION_JUMP$$) to exit to the main menu</text>
+	</string>
+	<!-- Окно выбора сложности -->
+	<string id="ui_mm_novice">
+		<text>Novice</text>
+	</string>
+	<string id="ui_mm_stalker">
+		<text>Stalker</text>
+	</string>
+	<string id="ui_mm_veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="ui_mm_master">
+		<text>Master</text>
+	</string>
+	<string id="ui_mm_back">
+		<text>Back</text>
+	</string>
+	<string id="gd_novice">
+		<text>Novice</text>
+	</string>
+	<string id="gd_stalker">
+		<text>Stalker</text>
+	</string>
+	<string id="gd_veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="gd_master">
+		<text>Master</text>
+	</string>
+	<!-- Окно загрузки -->
+	<string id="ui_mm_load">
+		<text>Load Game</text>
+	</string>
+	<!-- загрузка разное -->
+	<string id="ui_st_load_game_confirm">
+		<text>Loading the save will result in the loss of unsaved data. Continue?</text>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<text>Version mismatch or the savegame is corrupt.</text>
+	</string>	
+	<string id="ui_mm_delete_existing_file_q">
+		<text>Are you sure you want to delete the file?</text>
+	</string>
+	<string id="ui_load_press_any_key_to_start">
+		<text>Press any key to go to continue</text>
+	</string>
+	<!-- Окно сохранения -->
+	<string id="ui_mm_save_game">
+		<text>Save</text>
+	</string>
+	<string id="ui_mm_save">
+		<text>Save</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>A file with the same name already exists. Overwrite?</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>The file name is empty</text>
+	</string>
+	<!-- Запрос на прерывание игры -->
+	<string id="ui_mm_quit_game_message">
+		<text>Exit the game?</text>
+	</string>
+	<!-- Запрос на выход в Windows -->
+	<string id="ui_mm_quit_windows_message">
+		<text>Exit to Windows?</text>
+	</string>
+	<!-- Общие -->
+	<string id="ui_mm_cancel">
+		<text>Cancel</text>
+	</string>
+	<string id="ui_mm_apply">
+		<text>Apply</text>
+	</string>
+	<string id="ui_mm_delete">
+		<text>Delete</text>
+	</string>
+	<!-- Окно настроек -->
+	<string id="ui_mm_options">
+		<text>Settings</text>
+	</string>
+	<!-- Экран "Video" -->
+	<string id="ui_mm_video">
+		<text>Video</text>
+	</string>
+	<!-- Пресеты -->
+	<string id="Minimum">
+		<text>Very Low</text>
+	</string>
+	<string id="Low">
+		<text>Low</text>
+	</string>
+	<string id="Default">
+		<text>Medium</text>
+	</string>
+	<string id="High">
+		<text>High</text>
+	</string>
+	<string id="Extreme">
+		<text>Maximum</text>
+	</string>
+	<!-- базовые настройки видео -->
+	<string id="ui_mm_quality_presets">
+		<text>Quality Presets</text>
+	</string>
+	<string id="ui_mm_resolution">
+		<text>Resolution</text>
+	</string>
+	<string id="ui_mm_gamma">
+		<text>Gamma</text>
+	</string>
+	<string id="ui_mm_contrast">
+		<text>Contrast</text>
+	</string>
+	<string id="ui_mm_brightness">
+		<text>Brightness</text>
+	</string>
+	<string id="ui_mm_fullscreen">
+		<text>Fullscreen</text>
+	</string>
+	<string id="ui_mm_advanced">
+		<text>Advanced</text>
+	</string>
+	<!-- Окно расширенных настроек видео -->
+	<string id="qt_off">
+		<text>Off</text>
+	</string>
+	<string id="qt_low">
+		<text>Low</text>
+	</string>
+	<string id="qt_medium">
+		<text>Medium</text>
+	</string>
+	<string id="qt_high">
+		<text>High</text>
+	</string>
+	<string id="qt_extreme">
+		<text>Maximum</text>
+	</string>
+	<string id="ui_mm_need_restart">
+		<text>The changes will take effect only after you restart the game</text>
+	</string>
+	<string id="hint_name_text">
+		<text>Description of settings</text>
+	</string>
+	<string id="hint_caption_text">
+		<text>Click 'Advanced' to change the settings added by the mod</text>
+	</string>	
+	<string id="hint_caption_adv_text">
+		<text>Move the mouse cursor on the option and you will see its description here.</text>
+	</string>	
+	<string id="ui_mm_simply">
+		<text>Basic</text>
+	</string>
+	<string id="ui_mm_vis_distance">
+		<text>View Distance</text>
+	</string>
+	<string id="ui_mm_r2_ao">
+		<text>Ambient Occlusion</text>
+	</string>		
+	<string id="ui_mm_r2_ao_intensity">
+		<text>AO Intensity</text>
+	</string>	
+	<string id="ui_mm_r2_ssao_mode">
+		<text>SSAO Mode</text>
+	</string>	
+	<string id="ssdo">
+		<text>SSDO</text>
+	</string>
+	<string id="hbao">
+		<text>HBAO</text>
+	</string>	
+	<string id="ui_mm_r2_steep_parallax">
+		<text>Improved Parallax Surfaces</text>
+	</string>	
+	<string id="ui_mm_r2_dynamic_dof">
+		<text>Depth of Field</text>
+	</string>
+	<string id="ui_mm_r2_reload_dof">
+		<text>Reload DOF</text>
+	</string>
+	<string id="ui_mm_r2_zoom_dof">
+		<text>Zoom DOF</text>
+	</string>	
+	<string id="ui_mm_r2_dof_quality">
+		<text>DOF Quality</text>
+	</string>
+	<string id="ui_mm_geometry_lod">
+		<text>Object Detail LOD</text>
+	</string>
+	<string id="ui_mm_detail_density">
+		<text>Grass Density</text>
+	</string>
+	<string id="ui_mm_detail_distance">
+		<text>Grass Render Distance</text>
+	</string>	
+	<string id="ui_mm_r2_soft_water">
+		<text>Soft Water</text>
+	</string>	
+	<string id="ui_mm_texture_quality">
+		<text>Texture Quality</text>
+	</string>
+	<string id="ui_mm_anisotropic">
+		<text>Anistropic Filtering</text>
+	</string>
+	<string id="ui_mm_r2_aa_mode">
+		<text>Anti-Aliasing</text>
+	</string>	
+	<string id="fxaa">
+		<text>FXAA</text>
+	</string>
+	<string id="smaa">
+		<text>SMAA</text>
+	</string>	
+	<string id="ui_mm_r2_sun">
+		<text>Sun Settings</text>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<text>Grass Shadows</text>
+	</string>
+	<string id="ui_mm_r2_detail_bump">
+		<text>Detaile Bump</text>
+	</string>		
+	<string id="ui_mm_r2_sunshafts">
+		<text>Volumetric Rays</text>
+	</string>	
+	<string id="ui_mm_r2_sunshafts_mode">
+		<text>Volumetric Rays Mode</text>
+	</string>
+	<string id="volumetric">
+		<text>Clear Sky</text>
+	</string>
+	<string id="screen_space">
+		<text>Crysis</text>
+	</string>
+	<string id="ui_mm_light_distance">
+		<text>Lighting Distance</text>
+	</string>
+	<string id="ui_mm_npc_torch">
+		<text>NPC Flashlights</text>
+	</string>
+	<string id="ui_mm_sun_quality">
+		<text>Shadow Quality</text>
+	</string>
+	<string id="ui_mm_vsync">
+		<text>V-Sync</text>
+	</string>
+	<string id="ui_mm_60_hz">
+		<text>Frequency 60 Hz</text>
+	</string>
+	<string id="ui_mm_r2_sun_near">
+		<text>Shadow Render Distance</text>
+	</string>
+	<string id="ui_mm_r2_tf_mipbias">
+		<text>Mipbias</text>
+	</string>
+	<string id="ui_mm_r2_gloss_factor">
+		<text>Gloss Factor</text>
+	</string>
+	<string id="ui_mm_r2_true_sun_shadows">
+		<text>True Sun Shadows</text>
+	</string>	
+	<string id="ui_mm_r2_soft_shadows">
+		<text>Soft Shadows</text>
+	</string>
+	<string id="ui_mm_r2_lights_shadow_fade">
+		<text>Shadow Fade</text>
+	</string>	
+	<string id="ui_mm_r2_tonemap">
+		<text>Tonemap HDR</text>
+	</string>
+	<string id="ui_mm_r2_tonemap_middlegray">
+		<text>Middle Gray Level</text>
+	</string>
+	<string id="ui_mm_r2_sun_lumscale_amb">
+		<text>Ambient Illumination</text>
+	</string>
+	<string id="ui_mm_r2_sun_lumscale_hemi">
+		<text>Hemispheric lighting</text>
+	</string>
+	<string id="ui_mm_cam_inert">
+		<text>Camera Inertia</text>
+	</string>
+	<string id="ui_mm_r2_lens_flare">
+		<text>Lens Flare</text>
+	</string>
+	<string id="ui_mm_r2_lens_dirt">
+		<text>Lens Dirt</text>
+	</string>
+	<string id="ui_mm_r2_rain_drops">
+		<text>Rain on Glass</text>
+	</string>	
+	<string id="ui_mm_r2_puddles">
+		<text>Puddles</text>
+	</string>
+	<string id="ui_mm_r2_wet_surfaces">
+		<text>Wet Surfaces</text>
+	</string>
+	<string id="ui_mm_r2_volumetric_lights">
+		<text>Volumetric Lights</text>
+	</string>		
+	<string id="ui_mm_r2_reflections">
+		<text>Reflections</text>
+	</string>
+	<string id="ui_mm_r2_reflections_mode">
+		<text>Reflection Mode</text>
+	</string>
+	<string id="water">
+		<text>Water</text>
+	</string>
+	<string id="ground">
+		<text>Ground</text>
+	</string>
+	<string id="both">
+		<text>Water and Ground</text>
+	</string>
+	<string id="ui_mm_r2_image_sharpening">
+		<text>Image Sharpening</text>
+	</string>
+	<string id="ui_mm_r2_volumetric_fog">
+		<text>Volumetric Fog</text>
+	</string>
+	<!-- неактивные настройки видео -->
+	<string id="ui_mm_r2_ssao_base">
+		<text>SSAO</text>
+	</string>	
+	<string id="ui_mm_r2_soft_particles">
+		<text>Soft Particles</text>
+	</string>	
+	<string id="ui_mm_r__bloodmarks">
+		<text>Blood Splatters</text>
+	</string>	
+	<string id="ui_mm_r2_details_opt">
+		<text>Grass Optimizations</text>
+	</string>
+	<string id="ui_mm_r2_gbuffer_opt">
+		<text>Shader Optimizations</text>
+	</string>
+	<string id="ui_mm_supersample_check">
+		<text>Supersampling</text>
+	</string>	
+	<string id="ui_mm_supersample">
+		<text>Supersample Quality</text>
+	</string>
+	<string id="ui_mm_switch_torch">
+		<text>NPC Flashlights</text>
+	</string>
+	<string id="ui_mm_r2_sun_near_border">
+		<text>Shadow Render Range</text>
+	</string>
+		<string id="ui_mm_r2_sun_lumscale">
+		<text>Sun Brightness</text>
+	</string>
+	<string id="ui_mm_r2_aa">
+		<text>Anti-Aliasing</text>
+	</string>	
+	<string id="ui_mm_r2_gi">
+		<text>Global Illumination (Experimental)</text>
+	</string>
+	<string id="ui_mm_particles_distance">
+		<text>Particle Distance</text>
+	</string>
+	<string id="ui_mm_r2_sun_shafts">
+		<text>Volumetric Rays</text>
+	</string>
+	<string id="ui_mm_r2_ssao">
+		<text>SSAO Quality</text>
+	</string>		
+	<string id="ui_mm_r2_float32">
+		<text>Lighting Precision</text>
+	</string>
+	<string id="ui_mm_r2_dof">
+		<text>Dynamic DOF</text>
+	</string>	
+	<!-- Окно "Sound" -->
+	<string id="ui_mm_sound">
+		<text>Sound</text>
+	</string>
+	<string id="ui_mm_music_volume">
+		<text>Music Volume</text>
+	</string>
+	<string id="ui_mm_master_volume">
+		<text>Master Volume</text>
+	</string>
+	<string id="ui_mm_eax">
+		<text>EAX</text>
+	</string>
+	<string id="ui_mm_music_tracks">
+		<text>Ambient Music</text>
+	</string>
+	<!-- неактивные настройки звука -->
+	<string id="ui_mm_sound_quality">
+		<text>Sound Quality</text>
+	</string>
+	<!-- Окно "The game" -->
+	<string id="ui_mm_gameplay">
+		<text>Gameplay</text>
+	</string>
+	<string id="ui_mm_difficulty">
+		<text>Difficulty</text>
+	</string>
+	<string id="ui_mm_show_crosshair">
+		<text>Show Crosshair</text>
+	</string>
+	<string id="ui_mm_dyn_crosshair">
+		<text>Dynamic Crosshair</text>
+	</string>
+	<string id="ui_mm_show_weapon">
+		<text>Show Weapon</text>
+	</string>
+	<string id="ui_mm_crosshair_distance">
+		<text>Show Crosshair Distance</text>
+	</string>
+	<string id="ui_mm_tips">
+		<text>NPC Identification</text>
+	</string>
+	<!-- Окно "Management" -->
+	<string id="ui_mm_controls">
+		<text>Controls</text>
+	</string>
+	<string id="ui_mm_mouse_sense">
+		<text>Mouse Sensitivity</text>
+	</string>
+	<string id="ui_mm_invert_mouse">
+		<text>Invert Mouse</text>
+	</string>
+	<string id="ui_mm_keyboard_setup">
+		<text>Keybinds</text>
+	</string>
+	<string id="ui_mm_action">
+		<text>Action</text>
+	</string>
+	<string id="ui_mm_key">
+		<text>Button</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>Default</text>
+	</string>
+	<string id="ui_mm_ammo_on_belt">
+		<text>Ammo on the Belt</text>
+	</string>
+	<string id="ui_mm_r__smap_size">
+		<text>Shadow Map Resolution</text>
+	</string>
+	<string id="ui_mm_rs_mt_texload">
+		<text>Multithreaded Textures</text>
+	</string>
+	<string id="ui_mm_r2_actor_shadow">
+		<text>Actor Shadow</text>
+	</string>
+	<string id="ui_mm_r2_glows_use">
+		<text>Lamp Glow Effect</text>
+	</string>
+	<string id="ui_mm_r2_sun_limit">
+		<text>Sun Shadow Distance</text>
+	</string>
+	<string id="ui_mm_r_fps_lock">
+		<text>Limit FPS</text>
+	</string>
+	<string id="nofpslock">
+		<text>Unlocked</text>
+	</string>
+	<string id="fpslock60">
+		<text>60 FPS</text>
+	</string>
+	<string id="fpslock120">
+		<text>120 FPS</text>
+	</string>
+	<string id="fpslock144">
+		<text>144 FPS</text>
+	</string>
+	<string id="fpslock240">
+		<text>240 FPS</text>
+	</string>
+	<string id="ui_mm_g_3d_scopes">
+		<text>3-D Scopes</text>
+	</string> 
+
+	<string id="hint_string1">
+	    <text>Description of settings</text>
+	</string>
+	<string id="hint_string2">
+		<text>Click 'Advanced' to change the settings added by the mod.</text>
+	</string>
+	<string id="hint_string3">
+		<text>Move the mouse cursor on the option and you will see its description here.</text>
+	</string>
+
+
+	<string id="video_settings_name_1">
+	<text>Camera Inertia - cam_inert</text>
+	</string>
+	<string id="video_settings_name_2">
+		<text>View Distance - rs_vis_distance</text>
+	</string>
+	<string id="video_settings_name_3">
+		<text>Object Detail LOD - r__geometry_lod</text>
+	</string>
+	<string id="video_settings_name_4">
+		<text>Grass Density - r__detail_density</text>
+	</string>
+	<string id="video_settings_name_5">
+		<text>Grass Distance - r__detail_radius</text>
+	</string>
+	<string id="video_settings_name_6">
+		<text>Optimized Grass - r2_details_opt</text>
+	</string>
+	<string id="video_settings_name_7">
+		<text>Texture Quality - texture_lod</text>
+	</string>
+	<string id="video_settings_name_8">
+		<text>Texture Filtering - r__tf_aniso</text>
+	</string>
+	<string id="video_settings_name_9">
+		<text>Blood Splatters - r__bloodmarks</text>
+	</string>
+	<string id="video_settings_name_10">
+		<text>Supersampling - r__supersample</text>
+	</string>
+	<string id="video_settings_name_11">
+		<text>Sun Shadows - r2_sun</text>
+	</string>
+	<string id="video_settings_name_12">
+		<text>Grass Shadows - r2_sun_details</text>
+	</string>
+	<string id="video_settings_name_13">
+		<text>Sun Shadow Distance - r2_slight_fade</text>
+	</string>
+	<string id="video_settings_name_14">
+		<text>NPC Flashlights - ai_use_torch_dynamic_lights</text>
+	</string>
+	<string id="video_settings_name_15">
+		<text>Shadow Quality - r2_ls_squality</text>
+	</string>
+	<string id="video_settings_name_16">
+		<text>V-Sync - rs_v_sync</text>
+	</string>
+	<string id="video_settings_name_17">
+		<text>Frequency 60 Hz - rs_refresh_60hz</text>
+	</string>
+	<string id="video_settings_name_18">
+		<text>Anti-Aliasing - r2_aa</text>
+	</string>
+	<string id="video_settings_name_19">
+		<text>Anti-Aliasing Mode - r2_aa_mode</text>
+	</string>
+	<string id="video_settings_name_20">
+		<text>Mipmap Bias - r2_tf_mipbias</text>
+	</string>
+	<string id="video_settings_name_21">
+		<text>Gloss Factor - r2_gloss_factor</text>
+	</string>
+	<string id="video_settings_name_22">
+		<text>High Quality Shadow Distance - r2_sun_near</text>
+	</string>
+	<string id="video_settings_name_23">
+		<text>Degrees of Shadow Rendering - r2_sun_near_border</text>
+	</string>
+	<string id="video_settings_name_24">
+		<text>Sun Shadows - r2_true_sun_shadows</text>
+	</string>
+	<string id="video_settings_name_25">
+		<text>Tonemap HDR - r2_tonemap</text>
+	</string>
+	<string id="video_settings_name_26">
+		<text>Tonemap HDR Middle Gray - r2_tonemap_middlegray</text>
+	</string>
+	<string id="video_settings_name_27">
+		<text>Sun Brightness - r2_sun_lumscale</text>
+	</string>
+	<string id="video_settings_name_28">
+		<text>Ambient Illumination - r2_sun_lumscale_amb</text>
+	</string>
+	<string id="video_settings_name_29">
+		<text>Volumetric Rays - r2_sunshafts</text>
+	</string>
+	<string id="video_settings_name_30">
+		<text>Volumetric Rays Mode - r2_sunshafts_mode</text>
+	</string>
+	<string id="video_settings_name_31">
+		<text>Soft Water - r2_soft_water</text>
+	</string>
+	<string id="video_settings_name_32">
+		<text>Soft Particles - r2_soft_particles</text>
+	</string>
+	<string id="video_settings_name_33">
+		<text>Soft Shadows - r2_soft_shadows</text>
+	</string>
+	<string id="video_settings_name_34">
+		<text>Lamp Shadows Fade - r2_lights_shadow_fade</text>
+	</string>
+	<string id="video_settings_name_35">
+		<text>Ambient Occlusion - r2_ao</text>
+	</string>
+	<string id="video_settings_name_36">
+		<text>AO Intensity - r2_ao_intensity</text>
+	</string>
+	<string id="video_settings_name_37">
+		<text>SSAO - r2_ssao</text>
+	</string>
+	<string id="video_settings_name_38">
+		<text>SSAO Mode - r2_ssao_mode</text>
+	</string>
+	<string id="video_settings_name_39">
+		<text>Improved Parallax Surfaces - r2_steep_parallax</text>
+	</string>
+	<string id="video_settings_name_40">
+		<text>Depth of Field - r2_dof</text>
+	</string>
+	<string id="video_settings_name_41">
+		<text>Reload DOF - r2_dof_reload</text>
+	</string>
+	<string id="video_settings_name_42">
+		<text>Zoom DOF - r2_dof_zoom</text>
+	</string>
+	<string id="video_settings_name_43">
+		<text>DOF Quality - r2_dof_quality</text>
+	</string>
+	<string id="video_settings_name_44">
+		<text>Detail Bump - r2_detail_bump</text>
+	</string>
+	<string id="video_settings_name_45">
+		<text>Lens Flare - r2_lens_flare</text>
+	</string>
+	<string id="video_settings_name_46">
+		<text>Lens Dirt - r2_lens_dirt</text>
+	</string>
+	<string id="video_settings_name_47">
+		<text>Rain on Glass - r2_rain_drops</text>
+	</string>
+	<string id="video_settings_name_48">
+		<text>Dynamic Puddles - r2_puddles</text>
+	</string>
+	<string id="video_settings_name_49">
+		<text>Wet Surfaces - r2_wet_surfaces</text>
+	</string>
+	<string id="video_settings_name_50">
+		<text>Volumetric Lights - r2_volumetric_lights</text>
+	</string>
+	<string id="video_settings_name_51">
+		<text>Reflections - r2_reflections</text>
+	</string>
+	<string id="video_settings_name_52">
+		<text>Reflection Mode - r2_reflections_mode</text>
+	</string>
+	<string id="video_settings_name_53">
+		<text>Shader Optimization - r2_gbuffer_opt</text>
+	</string>
+	<string id="video_settings_name_54">
+		<text>Image Sharpening - r2_image_sharpening</text>
+	</string>
+	<string id="video_settings_name_55">
+		<text>Volumetric Fog - r2_volumetric_fog</text>
+	</string>
+	<string id="video_settings_name_56">
+		<text>Actor Shadowing - r__actor_shadow</text>
+	</string>
+	<string id="video_settings_name_57">
+		<text>Light Glow-Effect - r_glows_use</text>
+	</string>
+	<string id="video_settings_name_58">
+		<text>Sun Shadow Distance - r2_sun_limit</text>
+	</string>
+	<string id="video_settings_name_59">
+		<text>Shadow Map Resolution - r__smap_size</text>
+	</string>
+	<string id="video_settings_name_60">
+		<text>Multithreaded Textures - rs_mt_texload</text>
+	</string>
+	<string id="video_settings_name_61">
+		<text>FPS Lock - r_fps_lock</text>
+	</string>
+	<string id="video_settings_name_63">
+		<text>Hemispheric Lighting - r2_sun_lumscale_hemi</text>
+	</string>
+
+	<string id="video_settings_desc_1">
+		<text>Adjusts the inertia of the camera. The higher it is, the more it will wobble on the spot when walking and running, in the attacks, and the stronger will be the effect of a withdrawal of sight when the main character was exhausted after a long run. ATTENTION! This configuration of the discharge\"Amateur\", and if you don't know exactly what you are doing - leave it at the default value.</text>
+	</string>
+	<string id="video_settings_desc_2">
+		<text>This setting controls the amount, which is multiplied by the maximum distance of visibility that is set in the profile for the current weather. The range of values of this magnitude - from 0.4 (low slider) to 1.5 (max slider). For example, in the weather set the vision range of 150 meters. At a minimum the slider you will see at 60 metres, at the maximum at 225. ATTENTION! High sight range can greatly reduce the performance of older PCs.</text>
+	</string>
+	<string id="video_settings_desc_3">
+		<text>This setting controls the detail rendering and lighting models of people, monsters and weapons in the game. The farther the slider, the more smooth and detailed they are.</text>
+	</string>
+	<string id="video_settings_desc_4">
+		<text>This setting adjusts how tightly drawn the bushes of grass in the game. The farther the slider, the closer to each other will draw the elements of grass and the thicker it will be. ATTENTION! Excessive density of the grass leads to strong brakes, if you want to adjust this setting, do it slowly, each time checking what happened.</text>
+	</string>
+	<string id="video_settings_desc_5">
+		<text>This setting governs the maximum distance at which grass is rendered. The farther the slider, the more will the edge of the grass. The slider allows you to adjust the distance range from 48 (standard distance) 240 metres. ATTENTION! The algorithm for drawing grass game such that by increasing the radius of grass load on the graphics card increases in geometric progression. More or less acceptable values are in the range 150-200 meters (middle of slider).</text>
+	</string>
+	<string id="video_settings_desc_6">
+		<text>This setting allows you to enable optimized rendering of grass due to its 'thinning out' at large distances. Allows you to win a few fps for large values of the distance rendering, and the density of the grass. Requires restarting the game.</text>
+	</string>
+	<string id="video_settings_desc_7">
+		<text>This adjustment regulates the degree of texture detail the game. The farther the slider, the more pronounced textures and more VRAM they require. By reducing this setting, the textures will raspylivatelja, respectively, but to consume less memory.</text>
+	</string>
+	<string id="video_settings_desc_8">
+		<text>This setting adjusts the degree of anisotropic texture filtering. The minimum value of the slider corresponds to a single filter, maximum - shestnadtsatiletnej. The higher it is, the sharper look of the texture with increasing distance to them.</text>
+	</string>
+	<string id="video_settings_desc_9">
+		<text>This setting enables traces from bullet hits on the bodies.</text>
+	</string>
+	<string id="video_settings_desc_10">
+		<text>This setting adjusts the quality of the effect anti-aliasing engine of the game on static lighting.</text>
+	</string>
+	<string id="video_settings_desc_11">
+		<text>This setting enables dropping of objects in shadows from the sunlight. On slower PCs disable this setting, can give a major speed boost.</text>
+	</string>
+	<string id="video_settings_desc_12">
+		<text>This setting enables dropping of grass shadows from sunlight and other sources of dynamic lighting. Now this setup works - we got it fixed. ATTENTION! Setting just squander of HELL performance. Do not use it with a large radius of grass render or a high density of grass!</text>
+	</string>
+	<string id="video_settings_desc_13">
+		<text>This setting regulates the preservation of the accuracy of the calculation of illumination with increasing distance to them. Higher it is, the details will look like shadows from dynamic light sources in the distance.</text>
+	</string>
+	<string id="video_settings_desc_14">
+		<text>This setting allows the game to process the flashlights the NPCs as sources of dynamic light, i.e. to form an illuminated spot, throw objects, shadows from a light, etc. On the weak PC disabling this option can give a major speed boost at night, in camps with a large number of NPC.</text>
+	</string>
+	<string id="video_settings_desc_15">
+		<text>This setting adjusts the rendering quality of shadows in the game. Higher it is, the smoother will be the shadow region.</text>
+	</string>
+	<string id="video_settings_desc_16">
+		<text>This setting allows you to enable vertical sync, i.e. sync the framerate with the monitor refresh rate. When you enable lost effect small horizontal movements of parts of the screen with a sharp mouse movements, but may slightly decrease performance.</text>
+	</string>
+	<string id="video_settings_desc_17">
+		<text>This setting forces the game to always use a video mode with a refresh rate of 60 Hz. Setting is useful for owners of monitors, where the game starts incorrectly detects refresh rate of the screen.</text>
+	</string>
+	<string id="video_settings_desc_18">
+		<text>This setting enables Shader antialiasing on dynamic lighting.</text>
+	</string>
+	<string id="video_settings_desc_19">
+		<text>This setting switches the type of anti-aliasing with dynamic lighting. There are two types of smoothing - FXAA (Fast Approximate AntiAliasing) and SMAA (Subpixel Morphological AntiAliasing).</text>
+	</string>
+	<string id="video_settings_desc_20">
+		<text>This setting adjusts the detail of the MIP-levels of textures in the distance. The normal value for this slider - secondary, when it reduced the textures in the distance are less clear-cut, while increasing it more clear, but excessive increase may cause occurrence of moire and unpleasant to the eye flickering points on distant objects.</text>
+	</string>
+	<string id="video_settings_desc_21">
+		<text>This setting adjusts the degree of light reflection of shiny and matte surfaces, such as metal, leather, wood, etc! This configuration of the discharge\"Amateur\", and if you don't know exactly what you are doing - leave it at the default value. The farther the slider, the stronger the effect of reflection, but do not overdo it, for large values of the surface start to look like covered in plastic.</text>
+	</string>
+	<string id="video_settings_desc_22">
+		<text>This setting controls the distance to which dynamic shadows are drawn in full as. Above this distance they begin to move and the quality of the rendering decreases, as the rendering of the shadow switches to the simplified regime. The slider adjusts a value in the range from 1 to 60 meters. Set paramter slideit, together with the resolution of the shadows (in the Configurator). The more you put the slider, the more you need to set the resolution of the shadow map is of good quality.</text>
+	</string>
+	<string id="video_settings_desc_23">
+		<text>This setting adjusts the angle of view, which is rendered shade. If this angle is insufficient, the edges of the screen will see the extra triangular shadow.</text>
+	</string>
+	<string id="video_settings_desc_24">
+		<text>This setting enables the calculation of shadows from the real position of the sun. ATTENTION! The shadows look correct, however, because of the peculiarities of the calculation, in the morning and evening significantly reduced FPS.</text>
+	</string>
+	<string id="video_settings_desc_25">
+		<text>This setting enables HDR Tone mapping effect. It improves the image, accentuating its details, which without this effect would be insufficient contrast, small elements of the region, while not making the image too bright.</text>
+	</string>
+	<string id="video_settings_desc_26">
+		<text>This setting adjusts the intensity of the HDR Tone mapping effect. ATTENTION! This configuration of the discharge\"Amateur\", and if you don't know exactly what you are doing - leave it at the default value. Adjust in small steps, since excessive quantities of this setting, the image becomes surreal, and the bright areas are prespecialty. Raised it too high, you will get the HDR effect, reminiscent of Fallout 3.</text>
+	</string>
+	<string id="video_settings_desc_27">
+		<text>This setting adjusts the intensity of the sunlight. The higher it is, the brighter will the sunlit areas and the deeper will be the shade.</text>
+	</string>
+	<string id="video_settings_desc_28">
+		<text>This setting adjusts the intensity of the scattered light independent of the sun. The higher it is, the brighter will be all the shaded areas in the game, and the paler I look, shadows of the sun. ATTENTION! This configuration of the discharge\"Amateur\", and if you don't know exactly what you are doing - leave it at the default value. Increase if overall the game is too dark and the sliders adjust the brightness/contrast you can't achieve the desired effect. It is recommended not to screw up too much, the image will lose in volume, will look more flat.</text>
+	</string>
+	<string id="video_settings_desc_29">
+		<text>This setting adjusts the volume rendering (often the sun) rays on dust in the air.</text>
+	</string>
+	<string id="video_settings_desc_30">
+		<text>This setting switches the type of volumetric rays. You can choose a version from Crysis or version of STALKER: clear Sky. ATTENTION! Volumetric rays from a clear Sky can significantly reduce productivity.</text>
+	</string>
+	<string id="video_settings_desc_31">
+		<text>This setting enables the effect of softening the edges of water surfaces. When you turn it on the water at the edge of the ponds will gradually gain transparency up to full stealth, which allows to eliminate effect of a sharp and highly visible boundary between water and land. ATTENTION! Change of this setting will only apply after restarting the game.</text>
+	</string>
+	<string id="video_settings_desc_32">
+		<text>This setting enables the effect of soft particles. Turning it on greatly improves the appearance of such effects as fire, smoke, explosions, sparks, etc. it is Recommended to keep this setting enabled.</text>
+	</string>
+	<string id="video_settings_desc_33">
+		<text>This setting adjusts the effect of softening the edges of shadows in the game, with it the shadows look more realistic.</text>
+	</string>
+	<string id="video_settings_desc_34">
+		<text>This setting adjusts the effect of softening the shadows from the lamp distance from the lamp. The shadows look more realistic.</text>
+	</string>
+	<string id="video_settings_desc_35">
+		<text>This setting enables predpochtenie global illumination in the game. When you are ready to hemi-listmap that allows you to zoom the picture to photorealism. When you enable this setting, the inside areas will be significantly darker. Setting does not affect the performance, since the effect is calculated in advance, but keep in mind that the effects predpochitaesh global illumination and dynamic r2_ssao mutually overlap. Accordingly, if you want to use both effects, it makes sense to lower the force of effect of both not to get too dark pictures. Or, if you care about performance, use only predpochtenie lighting, dynamic global illumination will turn off.</text>
+	</string>
+	<string id="video_settings_desc_36">
+		<text>This setting adjusts the intensity predpochitaesh global illumination in the game. More high values yield a more realistic picture, but darken the scene.</text>
+	</string>
+	<string id="video_settings_desc_37">
+		<text>This setting enables global illumination in the game. This effect, when enabled, calculates additional shaded geometry models of areas, making the lighting more like the lighting in the real world, the models appear partial shade and shading from the elements of equipment, clothing, machine parts and other small parts of the geometry.</text>
+	</string>
+	<string id="video_settings_desc_38">
+		<text>This setting adjusts the operating mode of the effect of global illumination in the game.</text>
+	</string>
+	<string id="video_settings_desc_39">
+		<text>This setting adjusts the improved effect of the bump surfaces using the algorithm of Steep parallax mapping. This algorithm uses to calculate the prominence of ray tracing in the space maps, which gives a more realistic and qualitative effect. ATTENTION! Change of this setting will only apply after restarting the game.</text>
+	</string>
+	<string id="video_settings_desc_40">
+		<text>This setting includes the effect of the depth of field of view - the focusing of the eye in real time. Some of it is annoying, so we left it off.</text>
+	</string>
+	<string id="video_settings_desc_41">
+		<text>This setting includes the effect of the depth of field of view - the focusing of the eye on the weapon when reloading.</text>
+	</string>
+	<string id="video_settings_desc_42">
+		<text>This setting includes the effect of the depth of field of view, blurring the edges of the screen when aiming.</text>
+	</string>
+	<string id="video_settings_desc_43">
+		<text>This setting adjusts the quality of the effect the depth of field of view.</text>
+	</string>
+	<string id="video_settings_desc_44">
+		<text>This setting enables detailed bump - mapping small details and rough edges on objects. Requires restarting the game. ATTENTION! This setting does not work properly on some levels and can look strange, and if you don't know exactly what you are doing - ostane Villenoy.</text>
+	</string>
+	<string id="video_settings_desc_45">
+		<text>The inclusion Flerov from light bulbs.</text>
+	</string>
+	<string id="video_settings_desc_46">
+		<text>The setup includes a simulated 'dirt' on the lens of the camera lens.</text>
+	</string>
+	<string id="video_settings_desc_47">
+		<text>This setting enables the appearance of drops on the glass of helmets and gas masks in the rain.</text>
+	</string>
+	<string id="video_settings_desc_48">
+		<text>Configuration includes dynamic pools that appear in the rain.</text>
+	</string>
+	<string id="video_settings_desc_49">
+		<text>Configuration includes wet surfaces during rain. Requires restarting the game.</text>
+	</string>
+	<string id="video_settings_desc_50">
+		<text>Configuration includes volumetric light some lamps.</text>
+	</string>
+	<string id="video_settings_desc_51">
+		<text>As part of the configuration of the reflection on the water and wet surfaces (when wet).</text>
+	</string>
+	<string id="video_settings_desc_52">
+		<text>Mode reflections. You have the following options: on the water, on the pavement, on the water and on the pavement. ATTENTION! Reflection (especially on the pavement) can significantly reduce performance.</text>
+	</string>
+	<string id="video_settings_desc_53">
+		<text>Configuration enables shaders. Allows you to raise the FPS on graphics cards with a narrow tire or a small propusknaya memory ability. Requires restarting the game.</text>
+	</string>
+	<string id="video_settings_desc_54">
+		<text>Setting allows you to adjust the sharpness of the image. ATTENTION! This configuration of the discharge\"Amateur\", and normally SHOULD BE DISABLED. Include ONLY if you are a lover of granulated pictures. High values produces a noticeable halo around objects.</text>
+	</string>
+	<string id="video_settings_desc_55">
+		<text>The setup includes a surround of the fog. It is used to simulate muddy water, haze in the lowlands and for the like effects.</text>
+	</string>   
+	<string id="video_settings_desc_57">
+		<text>INCOMPATIBLE WITH BREAKABLE BULBS!</text>
+	</string>
+	<string id="video_settings_desc_58">
+		<text>Adjusts the distance of the sun. With this setting you can win some FPS in Sunny weather. It is possible to reduce, for example, by half. The picture does not particularly change, but FPS will be higher.</text>
+	</string>
+	<string id="video_settings_desc_59">
+		<text>It is recommended to set to maximum in order to be able to put normal r2_sun_near 25-30 meters or more, not 12, as in the original, so that shadows are not turned into the boxes next to GG. The standard value of the shadow map 2048 ? 2048 and r2_sun_near to 30 meters the shadows come out very blurry.</text>
+	</string>
+	<string id="video_settings_desc_60">
+		<text>Activates the simultaneous loading of textures from multiple threads. May slightly reduce the loading time of the save in the presence of SSD.</text>
+	</string>
+	<string id="video_settings_desc_61">
+		<text>Activates artificial restriction of frames to reduce the load on the graphics card</text>
+	</string>
+	<string id="video_settings_desc_63">
+		<text>This setting adjusts the intensity hemi light. The higher it is, the lighter. ATTENTION! This configuration of the discharge\"Amateur\", and if you don't know exactly what you are doing - leave it at the default value. Increase if overall the game is too dark and the sliders adjust the brightness/contrast you can't achieve the desired effect.</text>
+	</string>
+</string_table>

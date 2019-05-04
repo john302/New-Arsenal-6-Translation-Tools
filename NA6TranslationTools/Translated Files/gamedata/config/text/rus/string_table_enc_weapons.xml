@@ -1,0 +1,2586 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Ammo">
+		<text>Ammunition</text>
+	</string>
+	<string id="ammo-11.43x23-fmj">
+		<text>Ammo .45 ACP</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45 ACP</text>
+	</string>
+	<string id="ammo-11.43x23-hydro">
+		<text>Ammo .45 ACP Hydra-Shock</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>.45 HS</text>
+	</string>
+	<string id="ammo-12x70-buck">
+		<text>Ammo 12x70 buckshot</text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>12x70 CT.</text>
+	</string>
+	<string id="ammo-12x76-dart">
+		<text>Ammunition 12x76 dart</text>
+	</string>
+	<string id="ammo-12x76-dart_s">
+		<text>12x76 dt.</text>
+	</string>
+	<string id="ammo-12x76-zhekan">
+		<text>Ammunition 12x76 gecan</text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76 LCD.</text>
+	</string>
+	<string id="ammo-5.45x39-ap">
+		<text>Cartridges 5.45x39 mm BP</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45 BP</text>
+	</string>
+	<string id="ammo-5.45x39-fmj">
+		<text>Cartridges 5.45x39 mm</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45</text>
+	</string>
+	<string id="ammo-5.56x45-ap">
+		<text>Cartridges 5.56x45 mm AP</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56 AP</text>
+	</string>
+	<string id="ammo-5.56x45-ss190">
+		<text>Cartridges 5.56x45 mm SS109</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56</text>
+	</string>
+	<string id="ammo-5.56x45-box">
+		<text>Box with ribbon 5.56x45 mm</text>
+	</string>
+	<string id="ammo-5.56x45-box_s">
+		<text>5.56</text>
+	</string>
+	<string id="ammo-7.62x54-7h1">
+		<text>Cartridges 7.62x54 mm 7N1</text>
+	</string>
+	<string id="ammo-7.62x54-7h1_s">
+		<text>7.62 7N1</text>
+	</string>
+	<string id="ammo-7.62x54-7h14">
+		<text>Cartridges 7.62x54 mm 7N14</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_s">
+		<text>7.62 7N14</text>
+	</string>
+	<string id="ammo-7.62x54-ap">
+		<text>Cartridges 7.62x54 mm BP</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62 BP</text>
+	</string>
+	<string id="ammo-7.62x54-box">
+		<text>Cartridges 7.62x54 mm</text>
+	</string>
+	<string id="ammo-7.62x54-box_s">
+		<text>7.62</text>
+	</string>
+	<string id="ammo-9x18-fmj">
+		<text>Ammo 9x18 mm</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9x18</text>
+	</string>
+	<string id="ammo-9x18-pmm">
+		<text>Ammo 9x18 mm RMM</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>9x18 PMM</text>
+	</string>
+	<string id="ammo-9x19-fmj">
+		<text>Cartridges 9x19 mm Parabellum</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>9x19</text>
+	</string>
+	<string id="ammo-9x19-pbp">
+		<text>Ammo 9x19mm PBP</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19 PBP</text>
+	</string>
+	<string id="ammo-9x39-ap">
+		<text>Cartridges 9 x 39 mm SP-6</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>9 x 39 SP-6</text>
+	</string>
+	<string id="ammo-9x39-pab9">
+		<text>The 9 x 39 mm rounds PAB-9</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>9 x 39 PAB-9</text>
+	</string>
+	<string id="ammo-9x39-sp5">
+		<text>Cartridges 9 x 39 mm SP-5</text>
+	</string>
+	<string id="ammo-9x39-sp5_s">
+		<text>9 x 39 SP-5</text>
+	</string>
+	<string id="ammo-gauss">
+		<text>Plasma containers</text>
+	</string>
+	<string id="ammo-gauss_s">
+		<text>Plasma</text>
+	</string>
+	<string id="ammo-m209">
+		<text>Charge M209</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M209</text>
+	</string>
+	<string id="ammo-og-7b">
+		<text>Charge OG-7V</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+	<string id="ammo-vog-25">
+		<text>Charge VOG-25</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	<string id="ammo-vog-25p">
+		<text>Charge VOG-25P</text>
+	</string>
+	<string id="ammo-vog-25p_s">
+		<text>VOG-25P</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
+		<text>Basic cartridge pistols Colt M1911, SIG P220, HK USP45, FNP45, Glock 21, and and M1928 submachine guns UMP45. Simple core, the shell bullet.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-11.43x23-hydro">
+		<text>The so-called "Hydroshock" - cartridge with improved characteristics for pistols Colt M1911, SIG P220, HK USP45, FNP45, Glock 21, and and M1928 submachine guns UMP45. Expansive bullet with good stopping action.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x70-buck">
+		<text>A conventional cartridge 12-gauge, loaded with buckshot 8.5 mm. At close range has great stopping power, however, is ineffective at greater distances and against body armor. Designed for shotguns TOZ-34, TOZ-194, Mossberg 590, SPAS-12, saiga-12, Protecta, Remington 870, MP-153 and MP-133. The most effective at ranges up to 50 meters.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x76-dart">
+		<text>Feathered bullet is stabilized in flight, which positively affects accuracy. For shotguns TOZ-34, TOZ-194, Mossberg 590, SPAS-12, saiga-12, Protecta, Remington 870, MP-153 and MP-133. Increased range and armor-piercing - effective at ranges up to 100 meters.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x76-zhekan">
+		<text>The shell-less cartridge with a heavy bullet. Typically used for hunting large animals, but also suitable for other purposes. Its heavy bullet doesn't penetrate, and in fact pushes the body armor. Designed for shotguns TOZ-34, TOZ-194, Mossberg 590, SPAS-12, saiga-12, Protecta, Remington 870, MP-153 and MP-133. Effective at ranges up to 100 meters.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.45x39-ap">
+		<text>Armor-piercing bullets for the machine guns of the Soviet and Russian production of the AK-74, AEK-971, an-94, AK-105 and RPK medium machine Guns (RPK-74). Improved armor-piercing ability of the bullet.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
+		<text>Standard cartridge for assault rifle of the Soviet and Russian-made AK-74, AEK-971, an-94, AK-105 and RPK medium machine Guns (RPK-74). Simple core, the shell bullet.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
+		<text>The armour-piercing bullets for the guns of the NATO countries.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.56x45-ss190">
+		<text>The standard NATO cartridge, known as Belgian index SS190. Used in machines of the NATO countries.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.56x45-box">
+		<text>Box with 5 cartridge belts.For machine guns 56x45 NATO countries.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-7h1">
+		<text>Cheap to manufacture modification sniper cartridge for sniper rifles SVD and svu.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-7h14">
+		<text>Sniper cartridge for sniper rifles SVD and svu. Has improved features in terms of accuracy, range and armor-piercing.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-ap">
+		<text>Cartridge with armour piercing incendiary bullet. For sniper rifles SVD and svu.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-box">
+		<text>Box with cartridge belts 7.62x54 mm machine Gun Kalashnikov.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-fmj">
+		<text>The base cartridge for pistols and submachine guns caliber 9x18 mm. Simple core, the shell bullet. Weak armor-piercing effect.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-pmm">
+		<text>Cartridge with improved ballistic characteristics for pistols and submachine guns caliber 9x18 mm. due to the higher initial speed of a bullet is much more efficient than conventional cartridge, and its characteristics are about the level, caliber 9x19 mm. However, you should not use this ammunition in a weapon that was originally designed for the use of this cartridge, as this may cause premature wear. Therefore, this ammunition is recommended to use only in the arms with a reinforced construction: PMM, OTS-35, PP-19 Bizon, PP-9 "Klin".</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x19-fmj">
+		<text>The base cartridge for pistols and submachine guns caliber 9x19 mm Parabellum. Shell bullet. Weak armor-piercing effect.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x19-pbp">
+		<text>The 7N31 cartridge with improved characteristics for pistols and submachine guns caliber 9x19 mm. High speed and bullet design features ensures reliable penetration of armor of the 2nd class of protection. Was originally developed for GSH-18 pistol, and then under the use of this munition was developed by the PP-2000. Note that due to the increased power of this ammunition is not recommended to use it in a weapon that was originally designed for the use of this cartridge, as this may cause premature wear.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-ap">
+		<text>Armor-piercing bullets for rifles OC-14 "Groza", "Whirlwind", 9А91, as well as the as-Val, VSS and VSK-94. Has subsonic flight, but due to the bullets of a special design punches most body armor.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-pab9">
+		<text>The cartridge of the assault rifle OTS-14 "Groza", "Vortex", 9А91, as well as the as-Val, VSS and VSK-94. Later and cheap modification to manufacture armor-piercing bullets. Has subsonic flight, but due to the bullets of a special design punches most body armor.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-sp5">
+		<text>Sniper cartridge for assault rifle OTS-14 "Groza", "Vortex", 9А91, as well as the as-Val, VSS and VSK-94. Has subsonic flight, but due to the heavy bullet of special design punches most body armor.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-gauss">
+		<text>Energy capacity with ready killer elements in store for plazmometov. The energy source is an encapsulated piece of artifact "Flash".</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-m209">
+		<text>Grenade for the grenade launcher M203, M79 and an integrated grenade launcher to the F2000.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-og-7b">
+		<text>High-explosive grenade for RPG-7V. Equally effective against manpower, and against legkopodwijnaya technology.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-vog-25">
+		<text>The standard grenade for grenade launcher GP-25 "Bonfire", from a grenade launcher OTS-14 "Groza" and RG-6.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-vog-25p">
+		<text>Grenade for grenade launcher GP-25 "Bonfire", from a grenade launcher OTS-14 "Groza" and RG-6. Before the explosion the grenade bounces to a height of about a meter, which increases its lethality.</text>
+	</string>
+	<string id="enc_weapons1_grenade-f1">
+		<text>Defensive hand grenade with a large blast radius with shrapnel. Throw is only recommended from the shelter.</text>
+	</string>
+	<string id="st_grenade_gd5">
+		<text>Grenade DG-05</text>
+	</string>
+	<string id="enc_weapons1_grenade-gd05">
+		<text>Manual smoke grenade. Designed for installation of the flue cover. Duration - 10 seconds.</text>
+	</string>
+	<string id="enc_weapons1_grenade-rgd5">
+		<text>Offensive hand grenade with a small radius of splinter.</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan">
+		<text>Sample 1994 on the basis of Kalashnikov system. Was developed as a replacement for the outdated AK-74. In the "Abakan" moving not only internal mechanisms but also the entire receiver along with the barrel, which reduces recoil, thereby greatly increasing the accuracy of the battle. This machine can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan_m1">
+		<text>An-94 assault rifle equipped with a modified mount that allows you to install optical sight 1п59 "Giperon".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan_m2">
+		<text>The an-94 assault rifle equipped with a modified collimator sight PK-A modern store 60 rounds, which makes this model even more versatile offensive weapon.\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-grenade-launcher">
+		<text>Underbarrel grenade launcher for rifles used in the Warsaw Pact countries.\nAmmunition:\ngrenade VOG-25\ngrenade VOG-25P</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-grenade-launcher-m203">
+		<text>Underbarrel grenade launcher for assault rifle NATO.\nAmmunition:\ngrenade M209</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope">
+		<text>Widely used the telescopic sight of Soviet manufacture. To install on a standard weapon used in the countries of the Warsaw Pact mount type dovetail.</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope-susat">
+		<text>Optical 4x sight, manufactured in England. Installs on English machines L85.</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-silencer">
+		<text>Effective silencer, assembled in the Area by some craftsmen. With him comes with the adapter set at 9 mm pistols and submachine guns.</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74">
+		<text>Kalashnikov assault rifle of the sample of 1974 under the cartridge 5.45x39 mm. Is a simple and reliable weapon, although the cheapness of the production impacted on the usability and accuracy of the battle. In the Area this is the main weapon of the military stalkers and of many individuals. This machine can be installed a bayonet, underbarrel grenade launcher, and the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby" , 1ПН58 "NSPUM", after pre-fastening "Lastochkin the tail".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74m_m1">
+		<text>Kalashnikov assault rifle of the sample of 1974 upgraded chambered for 5.45x39 mm with camouflage coating and fastening "Lastochkin the tail". This machine can be installed a silencer, underbarrel grenade launcher, and the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74m">
+		<text>Kalashnikov assault rifle of the sample of 1974 upgraded chambered for 5.45x39 mm. Visually differs from its predecessor primarily black plastic fittings and fastening "Lastochkin the tail". In the Area this is the main weapon of the ranks of the group "Duty". Some merchants can repaint the weapon. This machine can be installed a silencer, underbarrel grenade launcher, and the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74m_sk1">
+		<text>Kalashnikov assault rifle of the sample of 1974 upgraded chambered for 5.45x39 mm with a very original drawing and fastening "Lastochkin the tail". This machine can be installed a silencer, underbarrel grenade launcher, and the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74_m1">
+		<text>The premium variant of the AK-74. Such machines were previously awarded the valiant border guards. Weapons rare, and therefore valuable, it is even a pity to scratch, trying to install a body kit. However, the brave fighters can attach to the bayonet.\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74_m2">
+		<text>A rare variant of the AK-74 with plastic furniture. The machine is equipped with the rare and highly convenient modified sight and a modern store 60 rounds. This machine can be installed a bayonet or underbarrel grenade launcher.\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74u">
+		<text>The dimensions and weight of the AKS-74U (short) is close to a submachine gun, but the principle of the mechanism of this weapon and used in this cartridge make it a representative of a class of machines. This machine can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", after pre-fastening "Lastochkin the tail".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74u_m1">
+		<text>The modified machine AKS-74U within the issue with a black plastic fore-end. Equipped with a modified rare sight on a special mount and the store for 45 rounds from The PKK-74.\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74u_m2">
+		<text>A relatively rare machine gun based on the AKS-74U, but under a more powerful caliber 9h39 mm. this machine can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", after pre-fastening "Lastochkin the tail".\nAmmunition:\nregular 9 x 39 mm PAB-9, armor-piercing\n9 x 39 mm SP-6, sniper\n9 x 39 mm SP-5</text>
+	</string>
+	<string id="enc_weapons1_wpn-beretta">
+		<text>Is in service with the armed forces and police of the USA, many of the paramilitary and law enforcement forces around the world. Equally popular among the representatives of the criminal world due to the powerful cartridge and a large capacity magazine.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="enc_weapons1_wpn-bm16">
+		<text>Shotgun BM-16. Much more compact and easier for a new shotgun, but is only effective in melee. One of the most common weapons at the newcomers. This gun also you can shoot a doublet, which significantly increases its firepower. At this edge, you can install a red dot sight Docter.\nAmmunition:\n16/70 shot, buckshot\n16/70, 16/70\nbullet</text>
+	</string>
+	<string id="enc_weapons1_wpn-bm16_m1">
+		<text>The gun BM-16 with a modified collimator sight PK-Sidorovich looks like to hunt, once mounted a scope on an old rifle. This gun also you can shoot a doublet, which significantly increases its firepower.\nAmmunition:\n16/70 shot, buckshot\n16/70, 16/70\nbullet</text>
+	</string>
+	<string id="enc_weapons1_wpn-bm16_full">
+		<text>Unremarkable shotgun sixteenth caliber with horizontal trunks. Most of these rifles has long been converted into rifles, but hunters still have a few copies. This gun also you can shoot a doublet, which significantly increases its firepower. This gun, you can install the telescopic sight PE.\nAmmunition:\n16/70 shot, buckshot\n16/70, 16/70\nbullet</text>
+	</string>
+	<string id="enc_weapons1_wpn-colt_m1">
+		<text>The legendary Colt M1911 pistol with camouflage application, "improved" based on the artisanal craft of gang 20-30 years of the last century. The gun is equipped with extended clips to 15 rounds, elongated barrel, a handle to hold from PP M1928, and his USM converted by firing continuous bursts. Weapons perfect for that to death to frighten recalcitrant opponents, but news of it aimed fire is very difficult because of the frenzied rate of fire.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="enc_weapons1_wpn-colt_m2">
+		<text>An upgraded version of the Colt M1911 pistol with improved sighting devices and a rail for mounting LCC. This gun can also be installed and a Docter reflex sight.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="enc_weapons1_wpn-colt1911">
+		<text>Classic "Colt" with honor passed all armed conflicts of the XX century and confidently entered the new century. Low capacity magazine to a certain extent kompensiruet using a powerful cartridge. Some merchants can chrome-plate the gun, thereby increasing its reliability. This gun, you can install a red dot sight Docter.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="enc_weapons1_wpn-colt_cr">
+		<text>Good old reliable Colt M1911 pistol in chrome. This gun, you can install a red dot sight Docter.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="enc_weapons1_wpn-desert-eagle">
+		<text>A real gun for real heroes. Big, heavy and extremely lethal. Because of the price and size very popular in the Area is still not every day hunting for an elephant. Some merchants can chrome-plate the gun, thereby increasing its reliability. This gun can be mounted reflex sight Docter.\nAmmunition: .50 AE\nusual</text>
+	</string>
+	<string id="enc_weapons1_wpn-desert-eagle_m1">
+		<text>Bronirovannyj option of a gun for real heroes. This gun can be mounted reflex sight Docter.\nAmmunition: .50 AE\nusual</text>
+	</string>
+	<string id="enc_weapons1_wpn-fn2000">
+		<text>The FN F2000 is a Belgian-automatic grenade launcher developed by Fabrique Nationale de Herstal. The FN F2000 was first introduced in 2001. This weapon is designed for combat tasks in modern local military conflicts. Developed in the late 90-ies, it has been made since 2001-2002. This machine can conduct aimed fire as through the optics and mechanical sights.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR\nfor grenade launcher - grenade M209</text>
+	</string>
+	<string id="enc_weapons1_wpn-fn2000_m1">
+		<text>The assault variant of the FN F2000 machine without pre-installed optical sight and grenade launcher, but with modern store 60 rounds. This machine can be set to the following sights: EOTech, PKS-07.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-fort">
+		<text>The purpose COP's gun Ukrainian production, replacing the PM. Is best compared to a "Makarov," accuracy of the battle, ergonomics and a larger store, but less reliable. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM 9x18 mm armor-piercing\nRVM</text>
+	</string>
+	<string id="enc_weapons1_wpn-fort_m1">
+		<text>Section-dummy.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM 9x18 mm armor-piercing\nRVM</text>
+	</string>
+	<string id="enc_weapons1_wpn-g36">
+		<text>The machine of German production, which is a first - class example of modern weapons-light, robust and ergonomic. On this machine, in addition to red-dot sight can be mounted lens Optics G36, then you can aim like through the lens of the collimator.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-gauss">
+		<text>The assault weapon of the future, developed by the Corporation "New Arsenal". Operates almost silently, as the fire uses the energy of the artifacts, not the propellant gases. Despite a decent power shot, recoil plazmometov very small. Accuracy and lethal force is superior to any of the classic assault weapons.\nAmmunition:\nplasma containers.</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza">
+		<text>-Automatic grenade launcher is very good in the Zone version of the machine: compact, reliable, and at the same time versatile and powerful. "The storm" I love the military stalkers. This machine can be mounted optical sight ПО4х34. Some merchants for a certain compensation can change the caliber of this machine.\nAmmunition:\nregular 9 x 39 mm PAB-9, armor-piercing\n9 x 39 mm SP-6, sniper\n9 x 39 mm SP-5,\ngrenade VOG-25\n, grenade VOG-25P</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza_m1">
+		<text>Army rifle-grenade launcher complex "Storm-2" under the cartridge 5.45x39 mm - light, compact, reliable, and at the same time, with reasonable returns. This machine can be mounted optical sight ПО4х34. Some merchants for a certain compensation can change the caliber of this machine.\nAmmunition: Ammunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP\nfor grenade launcher - grenades VOG-25 and VOG-25P</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza_m2">
+		<text>Army rifle-grenade launcher complex "Storm-1" chambered 7.62x39 mm - light, compact, comfortable and more successful in conditions of the Zone caliber. This machine can be mounted optical sight ПО4х34. Some merchants for a certain compensation can change the caliber of this machine.\nAmmunition:\nbase 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ\nfor grenade launcher - grenades VOG-25 and VOG-25P</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza_m3">
+		<text>Army rifle-grenade launcher complex "Storm-3" chambered 5.56х45 mm - light, compact, convenient, and even under NATO caliber. This machine can be mounted optical sight ПО4х34. Some merchants for a certain compensation can change the caliber of this machine.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR\nfor grenade launcher - grenades VOG-25 and VOG-25P</text>
+	</string>
+	<string id="enc_weapons1_wpn-hpsa">
+		<text>FN HP-SA is deservedly considered one of the best gun designs of Browning. Reliable, powerful with good accuracy. Magazine capacity 13 rounds. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="enc_weapons1_wpn-knife">
+		<text>Combat knife OTS-04</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85">
+		<text>After this machine was replaced by the army of Britain on the German G36, present in large numbers surfaced on the black market, and then in the Zone. The main advantage L85A1 are the standard optical sight and high accuracy of the first shot. When firing bursts the accuracy of the battle drops dramatically, and the reliability of the main mechanisms of the rifle is not high enough. A regular sight there are also mechanical sights for easy scope-aimed shots at short distances.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85_m1">
+		<text>The automatic version of the L85 with a longer barrel and a bipod that allows you to use the weapon as a sniper and as a light machine gun. A regular sight there are also mechanical sights for easy scope-aimed shots at short distances.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85_m2">
+		<text>The automatic version of the L85A1 with a carrying handle and a mechanical sighting devices instead of the standard SUSAT sight. If necessary, the carrying handle can be mounted optical sight for AR-15.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-lr300">
+		<text>A new stage in the development of the family of the famous M-16. The name literally means "light rifle with a range of effective fire in 300 meters." Due to the extremely flat slope, high ergonomics and low weight, this weapon has a high accuracy of the battle, although the high sensitivity to contamination makes it not always suitable for use in difficult field conditions. This machine can be configured with the following scopes: Barska АС10632, EOTech, PKS-07, C-more Railway, ACOG, Zenith.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-lr300_m1">
+		<text>Automatic M16 with unusual coloring. From the basic model, apparently, is a little different, but it is of some value for fans of unique weapons. This machine can be set to the following sights: AR-15, ПО4х34.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5">
+		<text>One of the best in the class of submachine guns weapon. During the last decades of the XX century was adopted by the special forces of the army and the police in many countries of the world. With the beginning of its gradual replacement by more modern models began to appear frequently on the black market, where large quantities were in the Area. This submachine gun can be fitted with a genuine optical sight the Heckler und Koch, as well as red dot sights Barska АС10632 and C-more Railway.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5k">
+		<text>MP5 compact modification 1976 year with short barrel and forend, equipped with additional handle for holding weapons. This submachine gun can be fitted with a genuine optical sight the Heckler und Koch, as well as red dot sights Barska АС10632 and C-more Railway.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5_m1">
+		<text>Lightweight, compact, and now converted by calibre 7.62х25 mm, with a modified USM, and even with a modified sight. This gun is a real boon for novice stalkers.\nAmmunition:\nprimary 7.62x25 mm P,\narmor-piercing 7.62x25 mm P-41</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5_m2">
+		<text>Modification of the basic model. Added non-removable silencer and bracket for mounting various sights. This submachine gun can be equipped with the following scopes: Barska АС10632, EOTech, PKS-07, C-more Railway, Zenith.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="enc_weapons1_wpn-pb">
+		<text>Silent pistol, once used by the Soviet special forces. Obsolete, but in skilled hands is still quite effective. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM 9x18 mm armor-piercing\nRVM</text>
+	</string>
+	<string id="enc_weapons1_wpn-pb_m1">
+		<text>This PB is equipped with an improved night sighting device and a modified non-removable silencer, which led to an increase in the initial speed of the bullet. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM 9x18 mm armor-piercing\nRVM</text>
+	</string>
+	<string id="enc_weapons1_wpn-pb_m2">
+		<text>Silent pistol, once used by the Soviet special forces. Obsolete, but in skilled hands is still quite effective. This gun is equipped with extended clips, for 16 rounds, and his USM converted by firing continuous bursts. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM 9x18 mm armor-piercing\nRVM</text>
+	</string>
+	<string id="enc_weapons1_wpn-pm">
+		<text>The most common in the area a gun - a legacy of the Soviet era. Fairly reliable and cheap, has a low magazine capacity when there is insufficient capacity and poor accuracy of the cartridge. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM\n9x18 mm armor-piercing sun</text>
+	</string>
+	<string id="enc_weapons1_wpn-pm_m1">
+		<text>Pistol OTS-35 is a modernized version of the Makarov pistol. Modernization of the gun was connected with the development cartridge 9x18 mm PMM. The cartridge was powerful for PM, often leading to breakage and significant reduction in resource gun. Pistol OTS-35 differs from the PM reinforced the barrel and the presence of a muzzle brake compensator. DTK reduces the recoil of the gun and greatly reduces the time aiming at the re-shot because there is less tossing trunk. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM\n9x18 mm armor-piercing sun</text>
+	</string>
+	<string id="enc_weapons1_wpn-pmm">
+		<text>Modernizirovannyi a Makarov pistol with a magazine for 12 rounds. The gun reinforced frame and the increased weight of the shutter. The chamber of RMM is equipped with a spiral grooves that allows for firing high-velocity round of ammunition 9x18 mm PMM. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM\n9x18 mm armor-piercing sun</text>
+	</string>
+	<string id="enc_weapons1_wpn-rg-6">
+		<text>A grenade launcher turret type. Sometimes it's just indispensable, particularly when cleaning large areas from mutants, the attack on a guarded stationary objects, in a battle with a particularly tenacious creatures.\nAmmunition:\ngrenade VOG-25,\ngrenade VOG-25P</text>
+	</string>
+	<string id="enc_weapons1_wpn-rg6_m1">
+		<text>Modification of a revolving grenade launcher. This model is adapted to fire grenades of the Western model.</text>
+	</string>
+	<string id="enc_weapons1_wpn-rpg7">
+		<text>Grenade sample 1960's, in a large quantity of remaining in army warehouses, whence were in the Area. Rare for stalkers weapons: the impressive dimensions and weight make it not too popular, although for some jobs it is simply irreplaceable. This weapon can be mounted optical sight PGO-7V.\nAmmunition:\ngrenade OG-7B</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig_m1">
+		<text>Compact and lightweight machine SIG-552. This machine can be configured with the following scopes: Barska АС10632, C-more Railway, EOTech, PKS-07, Zenit.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig_m2">
+		<text>Modification sniper rifle SIG SG550. Weapons equipped with telescopic sight high multiplicity.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig220">
+		<text>The model developed back in 1975 but still popular all over the world. The store is capacious enough, but the mechanism is reliable as a Swiss watch; the second advantage is the use of a powerful cartridge caliber .45 ACP. This gun is after replacing a few parts can be adapted to have better ballistics, but less powerful cartridge caliber 5.6x15 mm. Such alterations in the Area doing some traders. This gun can be mounted reflex sight Docter.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig220_m1">
+		<text>The model developed back in 1975 but still popular all over the world. This redesigned pistol chambered caliber 5.6x15 mm; after replacing several parts it can be adapted to the more powerful cartridge, .45 ACP. Such alterations in the Area doing some traders. This gun can be mounted reflex sight Docter.\nAmmunition:\nbasic 5.6x15 mm</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig550">
+		<text>One of the relatively new Swiss rifles chambered for 5.56x45 mm SS109. Accuracy, soft recoil and reliability of this weapon quickly gained him a very wide popularity. This machine can be configured with the following scopes: Barska АС10632, C-more Railway, EOTech, PKS-07, Zenit.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-spas12">
+		<text>Shotgun SPAS-12 was developed in the late 1970s as a universal military weapons for police and assault units of the army. This weapon is distinguished by high reliability and flexibility; on the other hand, it is quite massive, complicated device expensive. This shotgun can be fitted hunting optical sight.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="enc_weapons1_wpn-spas12_m1">
+		<text>Compact shotgun SPAS-12 with tritium illuminated front sight. This weapon is ideal for use on verbizkij distances, as it added fire mode with a cutoff of 2 cartridges. This shotgun can be fitted hunting optical sight.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="enc_weapons1_wpn-svd">
+		<text>Dragunov sniper rifle. Widely used in all combat operations by the Soviet and Russian armies since 1960. has Established itself as an exceptionally reliable and handy weapon. In the Area of it especially prefer the experienced stalkers of the group "Duty". Some merchants can repaint the weapon. This rifle can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1п59 "Giperon", 1ПН58 "NSPUM".\nAmmunition:\nusual 7.62x54 mm 7N1, armor-piercing 7.62x54 mm BP, sniper 7.62x54 mm 7Н14</text>
+	</string>
+	<string id="enc_weapons1_wpn-svu">
+		<text>A more modern version of the Dragunov rifle, made by the compact scheme "bullpup". The trigger mechanism of the rifle modified to provide automatic fire. This rifle can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1п59 "Giperon", 1ПН58 "NSPUM".\nAmmunition:\nusual 7.62x54 mm 7N1, armor-piercing 7.62x54 mm BP, sniper 7.62x54 mm 7Н14</text>
+	</string>
+	<string id="enc_weapons1_wpn-toz34">
+		<text>Widespread and does not particularly remarkable hunting rifle-"vertikalka". This gun also you can shoot a doublet, which significantly increases its firepower. This gun, you can install the telescopic sight PE.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="enc_weapons1_wpn-toz34_short">
+		<text>Shotgun widespread and does not particularly remarkable hunting rifle-"rifle". This gun also you can shoot a doublet, which significantly increases its firepower. At this edge, you can install a red dot sight Docter.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="enc_weapons1_wpn-usp">
+		<text>A solid trunk. German quality and reliability. A compact melee weapon. Particularly popular among veterans of the Zone. This gun can be mounted reflex sight Docter or LCC.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="enc_weapons1_wpn-val">
+		<text>Created on the basis of VSS "Vintorez", which differs from the folding stock, as well as a more capacious store. Originally intended for the use of special forces under attack that require noiseless and flameless firing. This machine can be set to the following sights: PSO-1, PSO-1M2-01, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby."\nAmmunition:\nregular 9 x 39 mm PAB-9, armor-piercing\n9 x 39 mm SP-6, sniper\n9 x 39 mm SP-5</text>
+	</string>
+	<string id="enc_weapons1_wpn-val_m1">
+		<text>Universal tactical artisanal modification of The as "Val". The machine is equipped with a tactical grip, integrated with sight and shop from SR-3 "Whirlwind" for 30 rounds. In addition, the muffler is mounted, which allow the automatic laser pointer. All of these improvements make installation of any additional sights unnecessary.\nAmmunition:\nregular 9 x 39 mm PAB-9, armor-piercing\n9 x 39 mm SP-6, sniper\n9 x 39 mm SP-5</text>
+	</string>
+	<string id="enc_weapons1_wpn-vintorez">
+		<text>Special sniper rifle designed for noiseless and flameless sniper fire and equipped with an integrated silencer. This rifle can be set to the following sights: PSO-1, PSO-1M2-01, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby."\nAmmunition:\nregular 9 x 39 mm PAB-9, armor-piercing\n9 x 39 mm SP-6, sniper\n9 x 39 mm SP-5</text>
+	</string>
+	<string id="enc_weapons1_wpn-walther">
+		<text>Great gun German manufacture, high reliability, capacious store and good accuracy of the battle, especially in this embodiment, under the 9mm Parabellum cartridge. Some merchants can repaint the weapon. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="enc_weapons1_wpn-wincheaster1300">
+		<text>Smoothbore shotgun of American manufacture, designed for use in the most adverse conditions and with high reliability. All parts are corrosion-resistant coating. This shotgun can be fitted hunting optical sight.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="enc_weapons1_wpn-toz194">
+		<text>Russian pump-action shotgun developed in the mid 1990-ies on the basis of the design of the gun TOZ-94. Made at the Tula arms factory. This shotgun can be fitted hunting optical sight.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="wpn-winchester_m1">
+		<text>"Shotgun Anomalous"</text>
+	</string>
+	<string id="enc_weapons1_wpn-winchester_m1">
+		<text>Modification of a shotgun made in the Area. On the weapon installed a modified muffler, in which is embedded a small piece of artifact "Gravity", aimed to increase the speed of a bullet.\nAmmunition: bullet\n16/70, 16/70\nbuckshot,\n16/70 fraction</text>
+	</string>
+	<string id="grenade-f1">
+		<text>F-1 Grenade</text>
+	</string>
+	<string id="grenade-gd05">
+		<text>GD-05</text>
+	</string>
+	<string id="grenade-rgd5">
+		<text>RGD-5 grenade</text>
+	</string>
+	<string id="Weapons1">
+		<text>Weapons</text>
+	</string>
+	<string id="wp_desert_eagle">
+		<text>Desert Eagle</text>
+	</string>
+	<string id="wpn_hpsa">
+		<text>FN HP-SA</text>
+	</string>
+	<string id="wpn_usp">
+		<text>HK USP45</text>
+	</string>
+	<string id="wpn-abakan">
+		<text>An-94 "Abakan"</text>
+	</string>
+	<string id="wpn-abakan_m1">
+		<text>The An-94 Sniper</text>
+	</string>
+	<string id="wpn-abakan_m2">
+		<text>The An-94 Assault</text>
+	</string>
+	<string id="wpn-addon-grenade-launcher">
+		<text>GP-25 "Koster"</text>
+	</string>
+	<string id="wpn-addon-grenade-launcher-m203">
+		<text>M203</text>
+	</string>
+	<string id="wpn-addon-scope">
+		<text>The PSO-1 sight</text>
+	</string>
+	<string id="wpn-addon-scope-susat">
+		<text>The SUSAT sight</text>
+	</string>
+	<string id="wpn-addon-silencer">
+		<text>Muffler</text>
+	</string>
+	<string id="wpn-ak74">
+		<text>AK-74</text>
+	</string>
+	<string id="wpn-ak74m">
+		<text>AK-74m</text>
+	</string>
+	<string id="wpn-ak74_m1">
+		<text>Premium AK-74 Border troops of the USSR</text>
+	</string>
+	<string id="wpn-ak74_m2">
+		<text>AK-74N</text>
+	</string>
+	<string id="wpn-ak74u">
+		<text>AKS-74U</text>
+	</string>
+	<string id="wpn-ak74u_m1">
+		<text>"Incredulous, Ksenia"</text>
+	</string>
+	<string id="wpn-ak74u_m2">
+		<text>OTS-12 Tiss</text>
+	</string>
+	<string id="wpn-beretta">
+		<text>Beretta 92FS</text>
+	</string>
+	<string id="wpn-bm16">
+		<text>Sawed-off BM-16</text>
+	</string>
+	<string id="wpn-bm16_m1">
+		<text>"The Gun Sidorovich"</text>
+	</string>
+	<string id="wpn-bm16_full">
+		<text>BM-16</text>
+	</string>
+	<string id="wpn-colt_m1">
+		<text>Colt "Chicago"</text>
+	</string>
+	<string id="wpn-colt_m2">
+		<text>Colt Kimber</text>
+	</string>
+	<string id="wpn-colt1911">
+		<text>Colt M1911</text>
+	</string>
+	<string id="wpn-fn2000">
+		<text>FN F2000</text>
+	</string>
+	<string id="wpn-fn2000_m1">
+		<text>"Assault Fenya"</text>
+	</string>
+	<string id="wpn-fort">
+		<text>Fort-17</text>
+	</string>
+	<string id="wpn-fort_m">
+		<text>Section-dummy</text>
+	</string>
+	<string id="wpn-g36">
+		<text>HK G36</text>
+	</string>
+	<string id="wpn-gauss">
+		<text>Plasma</text>
+	</string>
+	<string id="wpn-groza">
+		<text>OTS-14 "Groza"</text>
+	</string>
+	<string id="wpn-groza_m1">
+		<text>OTS-14 "Groza-2"</text>
+	</string>
+	<string id="wpn-groza_m2">
+		<text>OTS-14 "Groza-1"</text>
+	</string>
+	<string id="wpn-groza_m3">
+		<text>OTS-14 "Groza-3"</text>
+	</string>
+	<string id="wpn-l85">
+		<text>L85</text>
+	</string>
+	<string id="wpn-l85_m1">
+		<text>L86 LSW</text>
+	</string>
+	<string id="wpn-l85_m2">
+		<text>L85 "Camp"</text>
+	</string>
+	<string id="wpn-lr300">
+		<text>LR-300</text>
+	</string>
+	<string id="wpn-lr300_m1">
+		<text>"Desert storm"</text>
+	</string>
+	<string id="wpn-m16">
+		<text>M16</text>
+	</string>
+	<string id="wpn-m16_m1">
+		<text>M16A1</text>
+	</string>
+	<string id="wpn-m16_m2">
+		<text>M16A3</text>
+	</string>
+	<string id="wpn-mp5">
+		<text>HK MP5</text>
+	</string>
+	<string id="wpn-mp5k">
+		<text>HK MP5K</text>
+	</string>
+	<string id="wpn-mp5_m1">
+		<text>MPS-5</text>
+	</string>
+	<string id="wpn-mp5_m2">
+		<text>MP5SD</text>
+	</string>
+	<string id="wpn-pb">
+		<text>PB</text>
+	</string>
+	<string id="wpn-pb_m1">
+		<text>PB Night</text>
+	</string>
+	<string id="wpn-pb_m2">
+		<text>PB Assault</text>
+	</string>
+	<string id="wpn-pm">
+		<text>PM</text>
+	</string>
+	<string id="wpn-pm_m1">
+		<text>OTS-35</text>
+	</string>
+	<string id="wpn-pmm">
+		<text>RMM</text>
+	</string>
+	<string id="wpn-rg-6">
+		<text>RG-6</text>
+	</string>
+	<string id="wpn-rg6_m1">
+		<text>"The Bulldog Of Liberty"</text>
+	</string>
+	<string id="wpn-rpg7">
+		<text>RPG-7V</text>
+	</string>
+	<string id="wpn-sig_m1">
+		<text>SIG 552</text>
+	</string>
+	<string id="wpn-sig_m2">
+		<text>SIG 550 Sniper</text>
+	</string>
+	<string id="wpn-sig220">
+		<text>SIG P220</text>
+	</string>
+	<string id="wpn-sig550">
+		<text>SIG 550</text>
+	</string>
+	<string id="wpn-spas12">
+		<text>SPAS-12</text>
+	</string>
+	<string id="wpn-spas12_m1">
+		<text>"Spasskaya Paste"</text>
+	</string>
+	<string id="wpn-svd">
+		<text>SVD</text>
+	</string>
+	<string id="wpn-svu">
+		<text>SVU-A</text>
+	</string>
+	<string id="wpn-toz34">
+		<text>TOZ-34</text>
+	</string>
+	<string id="wpn-toz34_short">
+		<text>Sawed-off TOZ-34</text>
+	</string>
+	<string id="wpn-val">
+		<text>The as "Val"</text>
+	</string>
+	<string id="wpn-val_m1">
+		<text>The as "Val" Tactical</text>
+	</string>
+	<string id="wpn-vintorez">
+		<text>VSS "Vintorez"</text>
+	</string>
+	<string id="wpn-walther">
+		<text>Walther P99</text>
+	</string>
+	<string id="wpn-wincheaster1300">
+		<text>Mossberg 590</text>
+	</string>
+	<string id="wpn-toz194">
+		<text>TOZ-194</text>
+	</string>
+	<string id="ars-ppsh41">
+		<text>PPSH-41</text>
+	</string>
+	<string id="enc_arsenal_ppsh41">
+		<text>PPSH-41 (submachine Gun design Shpagin) - legendary Soviet submachine gun of the great Patriotic War. The advantages of PCA applies the high efficient range, simplicity and low cost. From disadvantages it is necessary to note considerable weight, dimensions and high rate of fire. This submachine gun can be mounted reflex sight C-more Railway.\nAmmunition:\nprimary 7.62x25 mm P,\narmor-piercing 7.62x25 mm P-41</text>
+	</string>
+	<string id="ars-pps43">
+		<text>PPS-43</text>
+	</string>
+	<string id="enc_arsenal_pps43">
+		<text>7.62-mm submachine guns of the samples of the 1942 and 1943 bolt carrier tilt system (PTS) — submachine gun developed by the Soviet designer Aleksey Agaevym in 1942. PPP is often regarded as the best submachine gun of world war II. This submachine gun can be mounted reflex sight Docter.\nAmmunition:\nprimary 7.62x25 mm P,\narmor-piercing 7.62x25 mm P-41</text>
+	</string>
+	<string id="ars-7.62x25_p">
+		<text>7.62x25 mm P</text>
+	</string>
+	<string id="ars-7.62x25_ps">
+		<text>7.62x25 mm P-41</text>
+	</string>
+	<string id="enc_arsenal_7.62x25_p">
+		<text>Soviet pistol cartridge of 7.62 mm for pistol TT-33 and submachine guns PPSH-41 and PPS-41. Simple all-metal bullet.</text>
+	</string>
+	<string id="enc_arsenal_7.62x25_ps">
+		<text>Soviet pistol cartridge of 7.62 mm for pistol TT-33 and submachine guns PPSH-41 and PPS-41. Improved armor-piercing bullets.</text>
+	</string>
+  <string id="ars-aps">
+		<text>APS</text>
+	</string>
+  <string id="enc_arsenal_aps">
+		<text>Gun APS was developed in the late 1940х - early 1950s designer I. Ya. and Stechkin adopted by the Soviet Army in 1951, along with the Makarov pistol PM. APS (Automatic Pistol Stechkin) was intended as a personal defense weapon of some categories of servicemen and officers, to whom the Charter was not put gun or a carbine. Despite his advanced age APS is still very popular and is probably the most efficient automatic gun due to the presence in its design of retarding the rate of fire, due to which the gun is quite controllable when firing bursts. This gun can be mounted reflex sight Docter or LCC.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM 9x18 mm armor-piercing\nRVM</text>
+	</string>
+	<string id="ars-tt33">
+		<text>TT-33</text>
+	</string>
+	<string id="enc_arsenal_tt33">
+		<text>TT pistol (Tula, Tokarev) was developed at the Tula arms factory, and adopted in 1933. For its time, the TT was represented by a perfect weapon, powerful and reliable, easy to maintain and repair. In the Area appreciated mainly due to the good penetration of the munition. This gun can be mounted reflex sight Docter.\nAmmunition:\nprimary 7.62x25 mm P,\narmor-piercing 7.62x25 mm P-41</text>
+	</string>
+	<string id="ars-tt33-m1">
+		<text>TT-42</text>
+	</string>
+	<string id="enc_arsenal_tt33_m1">
+		<text>Oity sample TT sample 1942 year with the extended clips to 15 rounds.\nAmmunition:\nprimary 7.62x25 mm P,\narmor-piercing 7.62x25 mm P-41</text>
+	</string>
+	<string id="ars-type54">
+		<text>Type 54</text>
+	</string>
+	<string id="enc_arsenal_type54">
+		<text>Chinese clone gun TT-33 chambered for 9x19 mm Parabellum magazine with 14 rounds. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+  <string id="ars-oc33">
+		<text>OTS-33 Mace</text>
+	</string>
+  <string id="enc_arsenal_oc33">
+		<text>Pistol OTS-33 was developed in the mid-1990s at the TsKIB COO (Central KB Sporting and Hunting Weapons) under the guidance of I. Ya Stechkin to replace the outdated and long-discontinued APS pistol design by the same author. Pistol OTS-33 - automatic weapon, built on the basis of automation with a free gate. To reduce felt recoil the gun is moving. At the end of the cycle the rollback, the bolt picks up the massive trunk, and because of its inertia there is a partial inhibition of the stopper prior to its impact with the frame in its rearmost position. This gun can be mounted reflex sight Docter or LCC.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM 9x18 mm armor-piercing\nRVM</text>
+	</string>
+	<string id="ars-bizon">
+		<text>PP-19 Bizon</text>
+	</string>
+	<string id="arsenal_mod-bizon">
+		<text>Submachine gun PP-19 "Bizon" under caliber 9x18 mm. the Main feature of this weapon is the auger, the store large capacity. The shop is located under the barrel, does not increase the dimensions of the submachine gun and performs the function of the forearm to hold the weapon when shooting. Some merchants for a certain compensation can change the caliber of this weapon in 9x19 mm. this submachine gun can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby."\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM 9x18 mm armor-piercing\nRVM</text>
+	</string>
+	<string id="ars-bizon_para">
+		<text>PP-19 Bizon-2-01</text>
+	</string>
+	<string id="arsenal_mod-bizon_para">
+		<text>Submachine gun PP-19 "Bizon" under caliber 9x19 mm. the Main feature of this weapon is the auger, the store large capacity. The shop is located under the barrel, does not increase the dimensions of the submachine gun and performs the function of the forearm to hold the weapon when shooting. Some merchants for a certain compensation can change the caliber of this weapon in 9x18 mm. this submachine gun can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby."\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-bizon_m1">
+		<text>PP-19 Bizon-2-07</text>
+	</string>
+	<string id="enc_weapons1_wpn-bizon_m1">
+		<text>Variant submachine gun PP-19 "Bizon" under the Soviet cartridge 7.62x25 mm, with a cone of the PCA by 35 bullets. This submachine gun can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", after pre-fastening "Lastochkin the tail".\nAmmunition:\nprimary 7.62x25 mm P,\narmor-piercing 7.62x25 mm P-41</text>
+	</string>
+	<string id="wpn-vityaz">
+		<text>PP-19-01 Vityaz-SN</text>
+	</string>
+	<string id="enc_weapons1_wpn-vityaz">
+		<text>Further development of the submachine gun PP-19 "Bizon" horn with 30 cartridges of caliber of 9x19 mm. This PP was designed so that it could fire even with ammo 9x18 mm PMM. Based on AK-105. This submachine gun can be equipped with the following scopes: Barska АС10632, C-more Railway, EOTech, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", PSO-1, PKS-07, Zenit.\nAmmunition:\nmain 9x19mm Parabellum,\narmor-piercing 9x19mm 7N31,\nimproved 9x18 mm PMM</text>
+	</string>
+	<string id="ars-pb">
+		<text>PB</text>
+	</string>
+	<string id="ars-sil_9_pb">
+		<text>Muffler 6П9</text>
+	</string>
+	<string id="enc_arsenal_sil_9_pb">
+		<text>The device silent shooting for the pistol PB (6П9).</text>
+	</string>
+	<string id="enc_arsenal_7.62x39_fmj">
+		<text>Soviet submachine gun cartridge 7.62 mm for AK series, AKM, Groza-1, AK-104, light machine Guns Kalashnikov (PKK) and light machine Guns Degtyareva (RPD-44). Simple all-metal bullet.</text>
+	</string>
+	<string id="enc_arsenal_7.62x39_ap">
+		<text>Soviet submachine gun cartridge 7.62 mm for AK series, AKM, Groza-1, AK-104, light machine Guns Kalashnikov (PKK) and light machine Guns Degtyareva (RPD-44). Bullet with steel core, improved armor.</text>
+	</string>
+	<string id="enc_arsenal_7.62x39_bz">
+		<text>Soviet submachine gun cartridge 7.62 mm for AK series, AKM, Groza-1, AK-104, light machine Guns Kalashnikov (PKK) and light machine Guns Degtyareva (RPD-44). Armor-piercing incendiary ammunition, improved ballistics.</text>
+	</string>
+	<string id="enc_arsenal_7.62x39_uz">
+		<text>Soviet submachine gun cartridge of caliber 7.62 mm. Designed to test the strength of the locking mechanism and weapons used in the manufacture of weapons and their repair. Use during shooting is strictly prohibited.</text>
+	</string>
+	<string id="enc_arsenal_7.62x51_fmj">
+		<text>Rifle ammunition of NATO standard. Caliber - 7.62 mm. Simple all-metal bullet.</text>
+	</string>
+	<string id="enc_arsenal_7.62x51_ap">
+		<text>Rifle ammunition of NATO standard. Caliber - 7.62 mm Bullet with steel core, improved armor.</text>
+	</string>
+	<string id="enc_arsenal_7.62x51_box">
+		<text>Box with cartridge belts 7.62x51 for the M60 machine gun.</text>
+	</string>
+	<string id="ars-50_ae">
+		<text>Ammo .50 AE</text>
+	</string>
+	<string id="ars-50_ae_s">
+		<text>.50 AE</text>
+	</string>
+	<string id="enc_arsenal_50_ae">
+		<text>Pistol cartridge with a bullet of large caliber for the Desert Eagle pistol.</text>
+	</string>
+	<string id="ars-357">
+		<text>Ammo .357 Magnum</text>
+	</string>
+	<string id="ars-357_s">
+		<text>.357 Magnum</text>
+	</string>
+	<string id="enc_arsenal_375">
+		<text>American revolver cartridge high power.</text>
+	</string>
+	<string id="ars-44mag">
+		<text>Ammo .44 Magnum</text>
+	</string>
+	<string id="ars-44mag_s">
+		<text>.44 Magnum</text>
+	</string>
+	<string id="enc_arsenal_44mag">
+		<text>American revolver cartridge extra large capacity.</text>
+	</string>
+	<string id="ars-45colt">
+		<text>Ammo .44 Magnum +P+</text>
+	</string>
+	<string id="ars-45colt_s">
+		<text>.44 Magnum +P+</text>
+	</string>
+	<string id="enc_arsenal_45colt">
+		<text>American revolver cartridge extra large capacity so even with a heavy load.</text>
+	</string>
+	<string id="ars-7.62x25_p">
+		<text>Cartridges 7.62x25 mm P</text>
+	</string>
+	<string id="ars-7.62x25_ps">
+		<text>Cartridges 7.62x25 mm RS</text>
+	</string>
+	<string id="ars-7.62x39_fmj">
+		<text>Cartridges 7.62x39 mm YEC</text>
+	</string>
+	<string id="ars-7.62x39_ap">
+		<text>Cartridges 7.62x39 mm BP</text>
+	</string>
+	<string id="ars-7.62x39_bz">
+		<text>Cartridges 7.62x39 mm BZ</text>
+	</string>
+	<string id="ars-7.62x39_uz">
+		<text>Cartridges 7.62x39 mm UZ</text>
+	</string>
+	<string id="ars-7.62x51_fmj">
+		<text>Cartridges 7.62x51 mm NATO</text>
+	</string>
+	<string id="ars-7.62x51_ap">
+		<text>Cartridges 7.62x51 mm NATO BP</text>
+	</string>
+	<string id="ars-7.62x51_box">
+		<text>Cartridges 7.62x51 mm</text>
+	</string>
+	<string id="ars-7.62x25_p_s">
+		<text>7.62x25 P</text>
+	</string>
+	<string id="ars-7.62x25_ps_s">
+		<text>7.62x25 RS</text>
+	</string>
+	<string id="ars-7.62x39_fmj_s">
+		<text>7.62x39 CME</text>
+	</string>
+	<string id="ars-7.62x39_ap_s">
+		<text>7.62x39 BP</text>
+	</string>
+	<string id="ars-7.62x39_bz_s">
+		<text>7.62x39 BZ</text>
+	</string>
+	<string id="ars-7.62x39_uz_s">
+		<text>7.62x39 UZ</text>
+	</string>
+	<string id="ars-7.62x51_fmj_s">
+		<text>7.62x51</text>
+	</string>
+	<string id="ars-7.62x51_ap_s">
+		<text>7.62x51 BP</text>
+	</string>
+	<string id="ars-7.62x51_box_s">
+		<text>7.62x51</text>
+	</string>
+	<string id="ars-ak47">
+		<text>AK-47</text>
+	</string>
+	<string id="enc_arsenal_ak47">
+		<text>Kalashnikov assault rifle of 1947, chambered in 7.62x39 mm. Machine-a classic, known throughout the world. Valued in the Area for reliability even in the most adverse conditions and at the same time for ease of use. Can be found have recently arrived in the area stalkers and veterans. This machine can be installed a bayonet, and the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM", after pre-fastening "Lastochkin the tail".\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="ars-ak47_m1">
+		<text>"Kalash Experienced"</text>
+	</string>
+	<string id="enc_arsenal_ak47_m1">
+		<text>Kalashnikov assault rifle of 1947, chambered in 7.62x39 mm. I have the feeling that this machine had to go in all the armed conflicts that have occurred since its production, and has been repeatedly repainted. The machine has a removable silencer, a rare red-dot sight and tactical grip.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="ars-ak47_m2">
+		<text>"Kalash Terminator"</text>
+	</string>
+	<string id="enc_arsenal_ak47_m2">
+		<text>The Kalashnikov assault rifle chambered for 7.62x39 mm with a drum magazine from The PKK 75 cartridges and a convenient sight. The perfect weapon for cleaning of the premises.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="ars-ak47_m3">
+		<text>AK Shooter</text>
+	</string>
+	<string id="enc_arsenal_ak47_m3">
+		<text>The legendary AK Shooter, which is a Kalashnikov chambered for 7.62x39 mm 1951 model year with a modified artisanal way locking mechanism, which increases the rate of fire and a convenient tritium illuminated sights. Also on the machine there is a seat for the grenade launcher.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="ars-akm">
+		<text>AKM</text>
+	</string>
+	<string id="enc_arsenal_akm">
+		<text>Kalashnikov modernized machine gun, adopted in 1959 to replace the AK-47 and is its further development. Valued in the Area for reliability even in the most adverse conditions and at the same time for ease of use. Can be found have recently arrived in the area stalkers and veterans. This machine can be installed a bayonet, underbarrel grenade launcher, and the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM", after pre-fastening "Lastochkin the tail".\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="ars-akm_m1">
+		<text>"Manual Kalashnikov"</text>
+	</string>
+	<string id="enc_arsenal_akm_m1">
+		<text>Kalashnikov modernized the artisanal refinement to the trunk and shop from The PKK, which significantly increased the accuracy of weapons. Also the machine is equipped with a special reinforced mount that allows you to install a powerful scope 1п59 "Giperon".\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="ars-akm_m2">
+		<text>AKMN</text>
+	</string>
+	<string id="enc_arsenal_akm_m2">
+		<text>Rare in the Area of the AKM variant with a factory-manufacturer of fastening "swallow tail". This machine can be installed on the silencer, barrel-attached grenade launcher, and the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="ars-aks">
+		<text>AKS</text>
+	</string>
+	<string id="enc_arsenal_aks">
+		<text>Kalashnikov folding under the cartridge 7.62x39 mm. is Valued in the Area for reliability even in the most adverse conditions and at the same time for ease of use, especially because of its compactness when folded. Can be found among recently arrived in the area stalkers and veterans. This machine can be installed a bayonet, and the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM", after pre-fastening "Lastochkin the tail".\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="ars-akms">
+		<text>AKMS</text>
+	</string>
+	<string id="enc_arsenal_akms">
+		<text>Kalashnikov modernized, collapsible, chambered for 7.62x39 mm. is Valued in the Area for reliability even in the most adverse conditions and at the same time for ease of use, especially because of its compactness when folded. Can be found among recently arrived in the area stalkers and veterans. This machine can be installed on the silencer, barrel-attached grenade launcher, and the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="ammo-9x18-pbp">
+		<text>Ammo 9x18 mm RVM</text>
+	</string>
+	<string id="ammo-9x18-pbp_s">
+		<text>9x18 PBM</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-pbp">
+		<text>7Н25 armor-piercing bullets for pistols and submachine guns caliber 9x18 mm. Thanks to the special design allows to increase the penetrative action of bullets to more powerful ammunition.</text>
+	</string>
+	<string id="ars-acog">
+		<text>The ACOG</text>
+	</string>
+	<string id="enc_arsenal_acog">
+		<text>Optical sight for weapons equipped with a Picatinny rail.</text>
+	</string>
+	<string id="ars-sil_545_ar">
+		<text>Muffler Tgp-</text>
+	</string>
+	<string id="ars-sil_556_ar">
+		<text>Muffler M5.56-A</text>
+	</string>
+	<string id="ars-sil_57">
+		<text>Muffler 5.7</text>
+	</string>
+	<string id="ars-sil_762_ar">
+		<text>Muffler RVS-1</text>
+	</string>
+	<string id="ars-sil_939_ar">
+		<text>Muffler 9 x 39</text>
+	</string>
+	<string id="ars-sil_45_acp">
+		<text>Muffler .45 ACP</text>
+	</string>
+	<string id="ars-sil_sniper">
+		<text>Muffler rifle</text>
+	</string>
+	<string id="ars-sil_pbs4">
+		<text>Muffler RVS-4</text>
+	</string>
+	<string id="ars-sil_ash12">
+		<text>Muffler 12 cal.</text>
+	</string>
+	<string id="enc_arsenal_sil_545_ar">
+	  <text>Muffler-plamegasiteli takticheski for AK series "Tgp-And-5.45". Can be installed in place of the regular compensator AK and machine guns for The PKK "series 74". Designed to reduce the volume of the shot when firing regular bullets from a machine gun AK74 and The PKK in the rear hemisphere, and camouflage arrow due to the distortion of the sound field in the forward hemisphere and absence of the flame shot.</text>
+	</string>
+	<string id="enc_arsenal_sil_556_ar">
+		<text>The device silent shooting for rifles of caliber 5.56 mm.</text>
+	</string>
+	<string id="enc_arsenal_sil_57">
+		<text>The device is noiseless firing caliber 5.7 mm.</text>
+	</string>
+	<string id="enc_arsenal_sil_762_ar">
+		<text>The device RCS-1 is intended to conduct a silent and flameless shooting of the 7.62-mm modernized Kalashnikov.</text>
+	</string>
+	<string id="enc_arsenal_sil_939_ar">
+		<text>The device is intended to conduct a silent and flashless of 9.39 mm weapons.</text>
+	</string>
+	<string id="enc_arsenal_sil_45_acp">
+	  <text>The device is noiseless firing the .45 ACP.</text>
+	</string>
+	<string id="enc_arsenal_sil_sniper">
+	  <text>The device silent shooting for rifles.</text>
+	</string>
+	<string id="enc_arsenal_sil_pbs4">
+	  <text>Soviet barrel-mounted multi-chamber muffler of the expansion type, designed chambered 5.. 45x39 mm.</text>
+	</string>
+	<string id="enc_arsenal_sil_ash12">
+	  <text>The device is noiseless firing a 12-gauge.</text>
+	</string>
+	<string id="ars-scope_oxot">
+		<text>Hunting scope</text>
+	</string>
+	<string id="enc_arsenal_scope_oxot">
+		<text>Removable optical sight Leapers 4-16x56 for shotguns, the MP-133, MP-153, Snipe-16, Remington 870 16-gauge, SPAS-12, TOZ-194, FORT-500, Mossberg 590. Also suitable for installation on machine Galil. Due to the particular mounting structure, the installation of the sight allows to use, if necessary, mechanical sights without removing the optics.</text>
+	</string>
+	<string id="ars-scope_k98">
+		<text>Optical rifle scope ZF39</text>
+	</string>
+	<string id="enc_arsenal_scope_k98">
+		<text>Removable optical sight for rifle ZF39 K98.</text>
+	</string>
+  <string id="ars-rpk">
+		<text>The PKK</text>
+	</string>
+	<string id="enc_arsenal_rpk">
+		<text>Machine gun Klashnikov sample 1961 with a drum magazine of 75 rounds. Serious and effective weapon for mass cleansing of the territories. This gun can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM", after pre-fastening "Lastochkin the tail".\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="ars-rpk_m1">
+		<text>"Keen Demoman"</text>
+	</string>
+	<string id="enc_arsenal_rpk_m1">
+		<text>Sniper-grenade launcher modification The PKK box magazine 40 rounds, tightly welded a grenade launcher with improved sights and a powerful optical sight PSO-3. The perfect weapon for a sniper-grenade attacks.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ,\ngrenade VOG-25\n, grenade VOG-25P</text>
+	</string>
+	<string id="ammo-7.92x57-fmj">
+		<text>Cartridges 7.92x57 mm</text>
+	</string>
+	<string id="ammo-7.92x57-ap">
+		<text>Cartridges 7.92x57 mm BP</text>
+	</string>
+	<string id="ammo-7.92x57-fmj_s">
+		<text>7.92x57</text>
+	</string>
+	<string id="ammo-7.92x57-ap_s">
+		<text>7.92x57 BP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.92x57-ap">
+		<text>Armor-piercing bullets for the machine gun Mg-42 rifles K98 and Gewehr 43. Improved armor-piercing ability of the bullet.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.92x57-fmj">
+		<text>The standard cartridge for a machine gun Mg-42 rifles K98 and Gewehr 43. Simple core, the shell bullet.</text>
+	</string>
+	<string id="ars-k98">
+		<text>K98</text>
+	</string>
+	<string id="enc_arsenal_k98">
+		<text>The K98 rifle was in service with the German army until the end of the Second World war and gained a reputation as simple and reliable weapons. Currently quite often used as hunting weapons.\nAmmunition:\nusual 7.92x57 mm,\narmor-piercing 7.92x57 mm BP</text>
+	</string>
+	<string id="ars-mp40">
+		<text>The MP-40</text>
+	</string>
+<string id="arsenal_mod-mp40">
+		<text>The MP-40 (full naimenovanie it. Maschinenpistole 40) - submachine gun used in the armed forces of Germany during the Second world war. Advantages of the MP-40 are compactness, ease of operation and high reliability with proper care, a relatively low rate of fire and good handling weapons. This submachine gun can be mounted optical sight Zf-43.\nAmmunition: 9x19 mm Parabellum\nprimary,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="addon_scope_zf4">
+		<text>The telescopic sight Zf-43</text>
+	</string>
+	<string id="enc_addon_scope_zf4">
+		<text>The telescopic sight Zf-43. Installed on the gun MR40, self-loading rifle Gewehr 43, and also machine guns StG-44 and the Mkb-42.</text>
+	</string>
+	<string id="ars-g43">
+		<text>Gewehr 43</text>
+	</string>
+	<string id="arsenal_mod-g43">
+		<text>Gewehr 43 - German semi-automatic rifle during the Second world war. Food ammunition is made from detachable box magazine 10 rounds. This weapon can be mounted optical sight Zf-43.\nAmmunition:\nusual 7.92x57 mm,\narmor-piercing 7.92x57 mm BP</text>
+	</string>
+	<string id="wpn-mg42">
+		<text>MG-42</text>
+	</string>
+	<string id="enc_weapons1_wpn-mg42">
+		<text>Maschinengewehr 42 German single gun during the Second world war. Reliable and with high firepower, achieved a high rate of fire. Though the service is expensive.\nAmmunition:\nusual 7.92x57 mm,\narmor-piercing 7.92x57 mm BP</text>
+	</string>
+	<string id="wpn-mg42_m1">
+		<text>"Ruthless Hans"</text>
+	</string>
+	<string id="enc_weapons1_wpn-mg42_m1">
+		<text>Maschinengewehr 42 German single gun during the Second world war. Reliable and with high firepower, achieved a high rate of fire. This makeshift machine gun installed a modified sight, which significantly increased accuracy.\nAmmunition:\nusual 7.92x57 mm,\narmor-piercing 7.92x57 mm BP</text>
+	</string>
+	<string id="ars-mg4">
+		<text>HK MG4</text>
+	</string>
+	<string id="arsenal_mod-mg4">
+		<text>Hand gun HK MG-4 was developed by the famous German company Heckler-Koch in the second half of the 1990s, and its prototype was first shown to the public in 2001. The new gun became a direct competitor of such a popular model, as the Belgian FN Minimi / M249 SAW, and is intended for the same role as light and mobile weapons fire support of the infantry branch. This machine gun can be mounted reflex sight EOTech.\nAmmunition:\nthe usual 5.56x45 mm (ribbon)</text>
+	</string>
+	<string id="ars-m249">
+		<text>M249 SAW</text>
+	</string>
+	<string id="arsenal_mod-m249">
+		<text>The M249 machine gun was developed by the Belgian company FN Herstal in the mid - to-late 1970s and early 1980s and is in mass production since about 1981. Is in service with many countries, including in Belgium, USA. This gun can be configured with the following scopes: Barska АС10632, C-more Railway.\nAmmunition:\nthe usual 5.56x45 mm (ribbon)</text>
+	</string>
+	<string id="wpn-saiga">
+		<text>Saiga-12</text>
+	</string>
+	<string id="enc_weapons1_wpn-saiga">
+		<text>Saiga-12 — semi-automatic shotgun, developed at the Izhevsk machine-building plant on the basis of the Kalashnikov assault rifle and is designed for commercial and Amateur hunting small, medium game and birds in areas with any climate. This shotgun can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="wpn-sks">
+		<text>SKS</text>
+	</string>
+	<string id="enc_weapons1_wpn-sks">
+		<text>The SKS is a Soviet semi-automatic carbine Simonov model year 1945. This carabiner can be mounted optical sight PU.\nAmmunition:\nbase 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="wpn-toz34_m1">
+		<text>TOZ-34 Hunter</text>
+	</string>
+	<string id="enc_weapons1_wpn-toz34_m1">
+		<text>Modified artisanal hunting rifle-"vertikalka". On the gun is set quite powerful scope. This gun also you can shoot a doublet, which significantly increases its firepower.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="wpn-g3">
+		<text>G3</text>
+	</string>
+	<string id="enc_weapons1_wpn-g3">
+		<text>HK G3 is a German automatic rifle adopted by the German army in 1959. A good alternative for those modern machines under maloimusciye ammo seem not powerful enough. This machine can be installed branded optical sight the Heckler und Koch, as well as red dot sights Barska АС10632 and C-more Railway.\nAmmunition:\nusual 7.62x51 mm NATO, armor-piercing 7.62x51 mm BP</text>
+	</string>
+	<string id="wpn-g3sg1">
+		<text>G3SG1</text>
+	</string>
+	<string id="enc_weapons1_wpn-g3sg1">
+		<text>German sniper rifle G3SG1 with the possibility of firing bursts. A serious barrel for the gun lovers out there "heavier". This weapon can be set to a proprietary optical sight the Heckler und Koch.\nAmmunition:\nusual 7.62x51 mm NATO, armor-piercing 7.62x51 mm BP</text>
+	</string>
+	<string id="wpn-beretta-m1">
+		<text>Beretta 93R</text>
+	</string>
+	<string id="enc_weapons1_wpn-beretta_m1">
+		<text>Italian automatic pistol developed for law enforcement and military. Given the emergence of cheaper compact submachine guns having no less effective, was discontinued. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-beretta-m2">
+		<text>Beretta Custom</text>
+	</string>
+	<string id="enc_weapons1_wpn-beretta_m2">
+		<text>The gun in appearance and functionality resembles Italian Beretta 93r and, most likely, which is a makeshift modification of the Beretta 92fs. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="ars-p90">
+		<text>FN P90</text>
+	</string>
+	<string id="arsenal_mod-p90">
+		<text>FN P90, a Belgian submachine gun developed in 1980-ies by the firm FN Herstal. Was designed primarily for tankers and drivers of combat vehicles. Despite the unusual appearance, it is pretty effective weapon. This submachine gun can be equipped with the following scopes: Barska АС10632, C-more Railway, EOTech, ACOG, PKS-07, Zenit.\nAmmunition:\nexpansive 5.Mm 7x28 SS195LF,\narmor-piercing 5.7x28 mm SS190</text>
+	</string>
+	<string id="ammo-5.7x28-fmj">
+		<text>Cartridges 5.7x28 mm SS197SR</text>
+	</string>
+	<string id="ammo-5.7x28-ap">
+		<text>Cartridges 5.7x28 mm SS190</text>
+	</string>
+	<string id="ammo-5.7x28-fmj_s">
+		<text>5.7x28 EP</text>
+	</string>
+	<string id="ammo-5.7x28-ap_s">
+		<text>5.7x28 BP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.7x28-fmj">
+		<text>Standard SS197SR cartridge for pistol-machine gun FN P90 and the FN 57 pistol. Expansive bullet has less penetrating ability than the SS190, but great stopping action and lethal force.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.7x28-ap">
+		<text>SS190 armor-piercing bullets for the pistol-machine gun FN P90 and the FN 57 pistol. Improved armor-piercing ability of the bullet.</text>
+	</string>
+	<string id="addon_scope_magnum">
+		<text>Collimator A Docter</text>
+	</string>
+	<string id="enc_addon_scope_magnum">
+		<text>Reflex sight Docter for some revolvers and pistols.</text>
+	</string>
+	<string id="ars-luger">
+		<text>Luger P08</text>
+	</string>
+	<string id="enc_arsenal_luger">
+		<text>Gun Р08 was developed in 1900. The main advantage of "Parabellumа" is a high accuracy, achieved through a convenient "anatomical" handle with a great angle and light (almost sporty) descent.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-pkm">
+		<text>PKM</text>
+	</string>
+	<string id="enc_weapons1_wpn-pkm">
+		<text>7.62 mm Kalashnikov machine gun (PK) — Soviet machine gun designed by Mikhail Kalashnikov as a single machine gun for the Armed Forces of the USSR. The PC has been adopted by the Armed forces of the USSR in 1961.\nAmmunition:\nusual 7.62x54 mm (ribbon) </text>
+	</string>
+	<string id="wpn-pkp">
+		<text>The control panel</text>
+	</string>
+	<string id="enc_weapons1_wpn-pkp">
+		<text>7.62-mm machine gun The control panel the "Pecheneg" is a Russian single machine gun, developed on the basis of PKM. Designed to defeat manpower, fire weapons and vehicles, air targets. This gun can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby."\nAmmunition:\nusual 7.62x54 mm (ribbon) </text>
+	</string>
+	<string id="wpn-pkp_m1">
+		<text>The control panel "Antiaircraft gun"</text>
+	</string>
+	<string id="enc_weapons1_wpn-pkp_m1">
+		<text>7.62-mm machine gun The control panel the "Pecheneg" is a Russian single machine gun, developed on the basis of PKM. Designed to defeat manpower, fire weapons and vehicles, air targets. This gun is equipped with a modified collimator sight PK-A mounted on a special rare bar.\nAmmunition:\nusual 7.62x54 mm (ribbon) </text>
+	</string>
+	<string id="enc_taurus">
+		<text>Revolver Taurus Raging Bull</text>
+	</string>
+	<string id="enc_taurus_desc">
+		<text>Revolver Taurus Raging Bull - six-a Brazilian revolver. A powerful and reliable weapon. This gun can be mounted reflex sight Docter.\nAmmunition: .44 Magnum,\n\n.44 Magnum +P+</text>
+	</string>
+	<string id="enc_taurus_m1">
+		<text>Revolver "Craftsman"</text>
+	</string>
+	<string id="enc_taurus_m1_desc">
+		<text>Revolver handicraft production. This weapon can be very useful in the harsh conditions of the Zone due to its reliability and powerful ammunition. This gun can be mounted reflex sight Docter.\nAmmunition: .44 Magnum,\n\n.44 Magnum +P+</text>
+	</string>
+	<string id="enc_swc">
+		<text>Revolver M340</text>
+	</string>
+	<string id="enc_swc_desc">
+		<text>Compact, lightweight, but at the same time, a powerful revolver caliber .357 Magnum.\nAmmunition: .357 Magnum\n</text>
+	</string>
+	<string id="enc_swc_m1">
+		<text>"Silent Killer"</text>
+	</string>
+	<string id="enc_swc_m1_desc">
+		<text>Compact, lightweight, but at the same time, a powerful revolver caliber .357 Magnum with an integrated silencer and red-dot sight.\nAmmunition: .357 Magnum\n</text>
+	</string>
+	<string id="enc_python">
+		<text>Colt Python</text>
+	</string>
+	<string id="enc_python_desc">
+		<text>American six-shot revolver in caliber .357 Magnum. Real guns for real tough guys On this revolver can be mounted reflex sight Docter..\nAmmunition: .357 Magnum\n</text>
+	</string>
+	<string id="enc_mp412">
+		<text>MP-412</text>
+	</string>
+	<string id="enc_mp412_desc">
+		<text>Russian six-shot revolver in caliber .357 Magnum. Was intended for export, but mass production never went and made copies were in the Area. This gun can be mounted reflex sight Docter.\nAmmunition: .357 Magnum\n</text>
+	</string>
+	<string id="enc_magnum">
+		<text>Colt Anaconda</text>
+	</string>
+	<string id="enc_magnum_desc">
+		<text>The American six-shooter. Weapons of the famous "Dirty Harry". This gun can be mounted reflex sight Docter.\nAmmunition: .44 Magnum,\n\n.44 Magnum +P+</text>
+	</string>
+	<string id="wpn-aek971">
+		<text>AEK-971</text>
+	</string>
+	<string id="enc_weapons1_wpn-aek971">
+		<text>Machine with balanced automatics recoil system made according to the traditional Assembly scheme (forward position) and structurally largely repeats the Kalashnikov assault rifle - is used the rotary valve and automatic recharge based on the gas engine. Machine designed for ammunition caliber 5.45x39 mm. this machine can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="wpn-aek972">
+		<text>AEK-972</text>
+	</string>
+	<string id="enc_weapons1_wpn-aek972">
+		<text>Machine with balanced automatics recoil system made according to the traditional Assembly scheme (forward position) and structurally largely repeats the Kalashnikov assault rifle - is used the rotary valve and automatic recharge based on the gas engine. Machine designed for ammunition caliber 5.56x45 mm. this machine can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="wpn-aek973">
+		<text>AEK-973</text>
+	</string>
+	<string id="enc_weapons1_wpn-aek973">
+		<text>Machine with balanced automatics recoil system made according to the traditional Assembly scheme (forward position) and structurally largely repeats the Kalashnikov assault rifle - is used the rotary valve and automatic recharge based on the gas engine. The machine is designed for cartridges with a caliber of 7.62x39 mm. this machine can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP</text>
+	</string>
+	<string id="wpn-striker">
+		<text>Protecta</text>
+	</string>
+	<string id="enc_weapons1_wpn-striker">
+		<text>Shotgun "Protecta" built by the revolving scheme, with trigger self-cocking trigger mechanism and power of the rotating drum integrally cast of 12 rounds. Some merchants can repaint the weapon. This shotgun can be configured with the following scopes: Barska АС10632, EOTech, PKS-07, C-more Railway, ACOG, Zenith.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="wpn-m79">
+		<text>M79</text>
+	</string>
+	<string id="enc_weapons1_wpn-m79">
+		<text>M79 — single shot 40-mm grenade launcher, adopted in 1961 by the U.S. army.\nAmmunition:\nCharge M209</text>
+	</string>
+	<string id="enc_1p78">
+		<text>Optical sight 1П78</text>
+	</string>
+	<string id="enc_1p78_desc">
+		<text>Sight 1П78 Kashtan is designed to equip machine guns and hand guns. The sight has a magnification of 2.8 X. For installation on a standard weapon used in the countries of the Warsaw Pact mount type dovetail.</text>
+	</string>
+	<string id="ammo-7.92x33-fmj">
+		<text>Cartridges 7.92x33 mm</text>
+	</string>
+	<string id="ammo-7.92x33-ap">
+		<text>Cartridges 7.92x33 mm BP</text>
+	</string>
+	<string id="ammo-7.92x33-fmj_s">
+		<text>7.92x33</text>
+	</string>
+	<string id="ammo-7.92x33-ap_s">
+		<text>7.BP 92x33</text>
+	</string>
+	<string id="enc_weapons1_ammo-7.92x33-ap">
+		<text>Armor-piercing bullets for German guns of world war II STG-44 and the MKB-42. Improved armor-piercing ability of the bullet.</text>
+	</string>
+	<string id="enc_weapons1_ammo-7.92x33-fmj">
+		<text>Standard cartridge for the German machine guns of world war II STG-44 and the MKB-42.</text>
+	</string>
+	<string id="wpn-m1928">
+		<text>PP M1928</text>
+	</string>
+	<string id="enc_weapons1_wpn-m1928">
+		<text>Submachine gun Thompson is an American submachine gun developed in the 1920s and actively used until 1976. This submachine gun can be mounted reflex sight Barska АС10632.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="wpn-aks74">
+		<text>AKS-74</text>
+	</string>
+	<string id="enc_weapons1_wpn-aks74">
+		<text>Automatic Klashnikov of the sample of 1974 with a folding stock. This machine can be installed a silencer, underbarrel grenade launcher and the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM", after pre-fastening "Lastochkin the tail".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="wpn-mp443">
+		<text>PYA Grach</text>
+	</string>
+	<string id="enc_arsenal_mp443">
+		<text>The Yarygin pistol (PYA "Grach") is a semi — automatic military pistol of Russian production. Manufactured at the Izhevsk mechanical plant. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-mp443_m1">
+		<text>PYA Night</text>
+	</string>
+	<string id="enc_arsenal_mp443_m1">
+		<text>The Yarygin pistol with night sights and magazine of 17 rounds. This gun can be mounted reflex sight Docter.\nAmmunition:\nbasic 9x19 mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="enc_1p29">
+		<text>Optical sight USP-1</text>
+	</string>
+	<string id="enc_1p29_desc">
+		<text>USP-1 "Tulip" — Soviet/Russian bespodvalnyh universal optical sight.</text>
+	</string>
+	<string id="wpn-aug">
+		<text>Steyr AUG A1</text>
+	</string>
+	<string id="enc_weapons1_wpn-aug">
+		<text>Austrian automatic rifle, with fixed optical sight multiplicity 1.5 x and made on a "bullpup". This machine can conduct aimed fire as through the optics and mechanical sights.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="wpn-aug_m1">
+		<text>"Good Austrians"</text>
+	</string>
+	<string id="enc_weapons1_wpn-aug_m1">
+		<text>The automatic variant of the Steyr AUG A1 (LMG) with the longer barrel, a bipod, a telescopic sight with increased magnification and the store 42 of the cartridge that allows you to use the weapon as a sniper and as a light machine gun. This gun can headshot like through the optics, or through mechanical sights.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="wpn-l96">
+		<text>L96A1</text>
+	</string>
+	<string id="enc_weapons1_l96">
+		<text>Accuracy International L96A1 Tross / Arctic Warfare sniper rifle is British made, designed in the company Accuracy International caliber under 7.62x51 mm. In the middle of 1980-ies the rifle was adopted by the British army under the designation of L96.\nAmmunition:\nprimary 7.62x51 mm FMJ, armor-piercing 7.62x51 mm AP</text>
+	</string>
+	<string id="wpn-l96_m1">
+		<text>L96 .338 LM</text>
+	</string>
+	<string id="enc_weapons1_l96_m1">
+		<text>Accuracy International L96A1 Tross / Arctic Warfare sniper rifle is British made, designed in the company Accuracy International caliber under .338 Lapua Magnum. In the mid 1980-ies the rifle was adopted by the British army under the designation of L96.\nAmmunition:\nregular .338 Lapua Magnum</text>
+	</string>
+	<string id="ars-rpd44">
+		<text>RPD-44</text>
+	</string>
+	<string id="enc_arsenal_rpd44">
+		<text>Soviet light machine gun, developed in 1944 under the cartridge 7.62x39 mm. this machine gun can be mounted riflescope Barska АС10632.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="ars-rpd44_m1">
+		<text>RPD-44 Tactical</text>
+	</string>
+	<string id="enc_arsenal_rpd44_m1">
+		<text>Soviet light machine gun, developed in 1944 under the cartridge 7.62x39 mm, with makeshift modifications: shortened the barrel and imported the reflex sight is a very original solution. As installed sight, remains a mystery, but it is impossible to remove.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="wpn-ks23">
+		<text>KS-23</text>
+	</string>
+	<string id="enc_weapons1_wpn-ks23">
+		<text>KS-23 (Carbine Special 23 mm) — Soviet pump-action shotgun with a rifled barrel caliber 23 mm. Weapons likely to treat small-caliber artillery, than to firearms. Nothing and no one can resist firepower Keys 23. This weapon can be set to the following sights: C-more Railway, АС10632 Barska, EOTech, PKS-07, ACOG, Zenith.\nAmmunition: Buckshot\n23x75 mm,\nBarricade 23x81 mm,\nBlank 23x81 mm</text>
+	</string>
+	<string id="wpn-ks23_m1">
+		<text>Super KS-23</text>
+	</string>
+	<string id="enc_weapons1_wpn-ks23_m1">
+		<text>Quite rare for the Area variant of the carabiner Keys 23. Due to the longer rifled barrel, and the butt could be used as sniper weapons are acceptable for this class. This weapon can be set to the following sights: C-more Railway, АС10632 Barska, EOTech, PKS-07, ACOG, Zenith.\nAmmunition: Buckshot\n23x75 mm,\nBarricade 23x81 mm,\nBlank 23x81 mm</text>
+	</string>
+	<string id="wpn_ks23_shrap">
+		<text>Buckshot 23x81 mm</text>
+	</string>
+	<string id="wpn_ks23_shrap_s">
+		<text>23x81 CT.</text>
+	</string>
+	<string id="ars_ks23_shrap">
+		<text>Cartridges with a charge of buckshot for the KS-23.</text>
+	</string>
+	<string id="wpn_ks23_dart">
+		<text>Barricade 23x81 mm</text>
+	</string>
+	<string id="wpn_ks23_dart_s">
+		<text>23x81 br.</text>
+	</string>
+	<string id="ars_ks23_dart">
+		<text>Made in the Area of bullet cartridges for KS-23. In fact, are analogues of the cartridge barricade intended for forced stopping of vehicles.</text>
+	</string>
+	<string id="wpn_ks23_slug">
+		<text>Blank 23x81 mm</text>
+	</string>
+	<string id="wpn_ks23_slug_s">
+		<text>23x75 BL.</text>
+	</string>
+	<string id="ars_ks23_slug">
+		<text>Made in the Area of bullet cartridges for KS-23. In fact, are analogues of the cartridge Wave. However, unlike the original, the bullet is not made of rubber, and metal.</text>
+	</string>
+	<string id="ars-aps_priklad">
+		<text>Holster-butt APS</text>
+	</string>
+	<string id="enc_arsenal_aps_priklad">
+		<text>Wooden holster-butt for an Automatic Pistol Stechkin (APS).</text>
+	</string>
+	<string id="ammo-16x70-buck">
+		<text>Cartridges 16/70 fraction</text>
+	</string>
+	<string id="ammo-16x70-buck_s">
+		<text>16/70.</text>
+	</string>
+	<string id="ammo-16x70-kart">
+		<text>16/70 buckshot Cartridges</text>
+	</string>
+	<string id="ammo-16x70-kart_s">
+		<text>16/70 CT.</text>
+	</string>
+	<string id="ammo-16x70-fost">
+		<text>Cartridges 16/70 bullet</text>
+	</string>
+	<string id="ammo-16x70-fost_s">
+		<text>16/70 PL.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-16x70-buck">
+		<text>A conventional cartridge 16-gauge filled with 5 mm fraction. At close range has a good stopping power. Designed for shotguns BM-16 and IZH-43. Ideal for mass shooting of small animals. The most effective at ranges up to 20 meters.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-16x70-kart">
+		<text>A conventional cartridge 16 gauge filled 8 mm buckshot. At close range has a huge stopping power. Designed for shotguns BM-16 and IZH-43. The most effective at ranges up to 40 meters.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-16x70-fost">
+		<text>Bullet cartridge 16 caliber. Typically used for hunting large animals, but also suitable for other purposes. Its heavy bullet doesn't penetrate, and in fact pushes the body armor. Designed for shotguns BM-16 and IZH-43. Effective at ranges up to 100 meters.</text>
+	</string>
+	<string id="ars-mp153">
+		<text>The gun of Mr-153</text>
+	</string>
+	<string id="enc_arsenal_wpn_mp153">
+		<text>MP-153 is a Russian semi-automatic smoothbore gun, which is used for various types of hunting, sports shooting, law enforcement and self defense. This shotgun can be fitted hunting optical sight.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="st_crowbar">
+		<text>Mount</text>
+	</string>
+	<string id="enc_weapons_crowbar">
+		<text>Due to its length and weight the mount significantly increases the melee range. Quite a formidable weapon, especially against zombies, but a bit hard...</text>
+	</string>
+	<string id="st_crowbar_punk">
+		<text>Mount "Tin"</text>
+	</string>
+	<string id="enc_weapons_crowbar_punk">
+		<text>An improved pry bar for fans of a particular sophistication in the field of bladed weapons.</text>
+	</string>
+	<string id="st_type30">
+		<text>Type 30</text>
+	</string>
+	<string id="enc_weapons1_wpn-type30">
+		<text>Type 30 bayonet, designed for the Japanese Arisaka rifle Type 30. The blade is rather long, which has a positive effect on the course of knife attacks.</text>
+	</string>
+	<string id="addon_po4x34">
+		<text>Target 4х34</text>
+	</string>
+  <string id="enc_addon_po4x34">
+		<text>Target 4х34. The Area is used primarily for installation on rifle-grenade launcher complex "Storm". Also, if there are certain skills that can be installed on handle for carrying American M16 and M4.</text>
+	</string>
+	<string id="wpn-izh43">
+		<text>IZH-43</text>
+	</string>
+	<string id="enc_weapons1_izh43">
+		<text>IZH-43 - shotgun for connoisseurs of classic hunting. This gun also you can shoot a doublet, which significantly increases its firepower. This gun, you can install the telescopic sight PE.\nAmmunition:\n16/70 shot, buckshot\n16/70, 16/70\nbullet</text>
+	</string>
+	<string id="wpn-izh43_short">
+		<text>Sawed-off IZH-43</text>
+	</string>
+	<string id="enc_weapons1_izh43_short">
+		<text>Sawed-off shotguns IZH-43. Much more compact and lighter full-fledged rifle, but is only effective in melee. This gun also you can shoot a doublet, which significantly increases its firepower. At this edge, you can install a red dot sight Docter.\nAmmunition:\n16/70 shot, buckshot\n16/70, 16/70\nbullet</text>
+	</string>
+	<string id="wpn-izh43_m1">
+		<text>"Izhevsk Is An Englishman"</text>
+	</string>
+	<string id="enc_weapons1_izh43_m1">
+		<text>The modified artisanal shotgun. On the gun mounted sight SUSAT from the English machine L85. Powerful enough optics, this sight allows you to use this gun as a cheap analog to the sniper rifle, although it is unclear what the Creator of this weapon cost the sight in General is not cheap imported arms. When shooting ammunition the gun is capable of a high degree of accuracy to hit a target at relatively large distances. Also on the gun artisanal was installed a couple mufflers that few allows you to lower the volume of your shot, as well as slightly increase muzzle velocity. This gun also you can shoot a doublet, which significantly increases its firepower.\nAmmunition:\n16/70 shot, buckshot\n16/70, 16/70\nbullet</text>
+	</string>
+	<string id="wpn-izh43_kh">
+		<text>IZH-43-1C</text>
+	</string>
+	<string id="enc_weapons1_izh43_kh">
+		<text>Option shotguns IZH-43 with one trigger and shorter barrel, which positively affects convenience, however, negatively affect the shooting accuracy. This gun also you can shoot a doublet, which significantly increases its firepower. This gun, you can install the telescopic sight PE.\nAmmunition:\n16/70 shot, buckshot\n16/70, 16/70\nbullet</text>
+	</string>
+	<string id="wpn-izh43_kh_short">
+		<text>Sawed-off IZH-43-1C</text>
+	</string>
+	<string id="enc_weapons1_izh43_kh_short">
+		<text>Sawed-off shotguns IZH-43-1C. Much more compact and lighter full-fledged rifle, but is only effective in melee. This gun also you can shoot a doublet, which significantly increases its firepower. At this edge, you can install a red dot sight Docter.\nAmmunition:\n16/70 shot, buckshot\n16/70, 16/70\nbullet</text>
+	</string>
+	<string id="wpn-vintorez_m1">
+		<text>"Vintorez Voronin"</text>
+	</string>
+	<string id="enc_weapons1_wpn-vintorez_m1">
+		<text>Special sniper rifle, equipped with a store from spetsavtomat the SHAFT 20 rounds of special fastening, allowing to establish an optical sight 1п59 "Giperon". The perfect weapon for silent snipers.\nAmmunition:\nregular 9 x 39 mm PAB-9, armor-piercing\n9 x 39 mm SP-6, sniper\n9 x 39 mm SP-5.</text>
+	</string>
+	<string id="wpn-gsh18">
+		<text>GSH-18</text>
+	</string>
+	<string id="enc_weapons1_wpn-gsh18">
+		<text>Russian pistol designed in the late 1990-ies in the Tula instrument Design Bureau. Some merchants can repaint the weapon. This gun can be mounted reflex sight Docter or LCC.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn_usp_m1">
+		<text>USP Match</text>
+	</string>
+	<string id="enc_weapons1_wpn-usp_m1">
+		<text>A sporty version of the HK USP pistol with special supply nozzle that reduces the throw of the barrel and magazine of 12 cartridges.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="wpn-fn57">
+		<text>FN Five-Seven</text>
+	</string>
+	<string id="enc_weapons1_wpn-fn57">
+		<text>FN Five-Seven is a Belgian pistol, developed in the 1990s by the firm FN Herstal. Was developed as a pistol-companion to the pistol-machine gun FN P90. This gun can be mounted reflex sight Docter or LCC.\nAmmunition:\nexpansive 5.Mm 7x28 SS195LF,\narmor-piercing 5.7x28 mm SS190</text>
+	</string>
+	<string id="wpn_fnp45">
+		<text>FN FNP</text>
+	</string>
+	<string id="enc_weapons1_wpn-fnp45">
+		<text>FN FNP semi-automatic pistol developed by FNH-USA. Produced since the beginning of 2006. This gun can be mounted reflex sight Docter or LCC.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="wpn-fnp45_m1">
+		<text>FN FNX</text>
+	</string>
+	<string id="enc_weapons1_wpn-fnp45_m1">
+		<text>The FN FNX pistol with an installed red-dot sight and an integrated silencer. The perfect weapon for carrying out noiseless operations. This gun can also be installed LCC.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="wpn-glock">
+		<text>Glock 18c</text>
+	</string>
+	<string id="enc_weapons1_wpn-glock">
+		<text>Glock 18c — automatic pistol of the Glock company with a standard store on the 19 cartridges and the possibility of doing automatic firing with a cutoff of 3 rounds. This gun can be mounted reflex sight Docter or LCC.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-glock_p80">
+		<text>Glock 18</text>
+	</string>
+	<string id="enc_weapons1_wpn-glock_p80">
+		<text>Automatic version of a Glock pistol with extended clips of 33 rounds and a very high rate of fire. On the one hand creates a high density of fire, but on the other hand, in the absence of skills in the use of such weapons leads to disproportionate waste of ammunition. This gun can be mounted reflex sight Docter or LCC.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-glock17">
+		<text>Glock 17</text>
+	</string>
+	<string id="enc_weapons1_wpn-glock17">
+		<text>The Glock 17 is an Austrian pistol designed by Glock for the needs of the Austrian army. He became the first weapons developed by this firm. The resulting sample turned out to be pretty good and easy to use. This gun can be mounted reflex sight Docter or LCC.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-glock21">
+		<text>Glock 21</text>
+	</string>
+	<string id="enc_weapons1_wpn-glock21">
+		<text>Glock 21 — Austrian pistol caliber .45 ACP, was developed by Glock for the American market. In the Zone is valued mainly due to its reliability and decent stopping action of a bullet. This gun can be mounted reflex sight Docter or LCC.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="ars-pp2000">
+		<text>PP 2000</text>
+	</string>
+	<string id="enc_arsenal_pp2000">
+		<text>PP-2000 — Russian 9mm submachine gun, developed by a team of designers Tula Instrument design Bureau. Some merchants can repaint the weapon. This submachine gun can be equipped with the following scopes: Barska АС10632, EOTech, C-more Railway, ACOG, PKS-07.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="ars-pp2000_m1">
+		<text>PP "Kindergarten"</text>
+	</string>
+	<string id="enc_arsenal_pp2000_m1">
+		<text>PP-2000 — Russian 9mm submachine gun with bright color application. This submachine gun can be equipped with the following scopes: Barska АС10632, EOTech, C-more Railway, ACOG, PKS-07.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="ars-hk416">
+		<text>HK 416</text>
+	</string>
+	<string id="enc_arsenal_hk416">
+		<text>Automatic HK 416 looks similar to the machines of the series AR15\M16\M4, but built on the basis of gas operated automatics with a short course located above the barrel, gas piston, zaimstvovanii the German G36. By this it became possible to achieve greater reliability and dependability of the sample. Some merchants can repaint the weapon. This machine can be configured with the following scopes: Barska АС10632, EOTech, PKS-07, Zenit, ACOG, PKS-07, C-more Railway.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-m16">
+		<text>By the early 1970s, the M16 rifle was a full-fledged combat weapon, having a number of significant advantages (and disadvantages, of course, she had). Compared to the main enemy M16 on the world stage - with a Kalashnikov assault rifle (AKM), M16 had better accuracy and the accuracy of firing single shots, were more comfortable and easy to handle. On the other hand, M16 demanded a much more thorough care, higher quality ammunition.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-m16_m1">
+		<text>One of the first versions of the M16 machine with a capacity of firing continuous bursts and a magazine of 20 rounds.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_weapons1_wpn-m16_m2">
+		<text>The automatic version of the M16 with a capacity of firing continuous bursts and modern store 60 rounds.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="ars-famas">
+		<text>FA MAS</text>
+	</string>
+	<string id="enc_arsenal_famas">
+		<text>French machine gun caliber 5.56 mm. High rate of fire and the scheme "bullpup" made him quite a popular sample of small arms. This machine can be configured with the following scopes: Barska АС10632, C-more Railway, EOTech, PKS-07, Zenit, ACOG.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="wpn-vihr">
+		<text>SR-3 "Whirlwind"</text>
+	</string>
+	<string id="enc_weapons1_wpn-vihr">
+		<text>SR-3 "Vikhr" compact Russian machine, which was supposed to combine the advantages of VSS and The as "Val". This machine can be set to the following sights: PSO-1, PSO-1M2-01, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby."\nAmmunition:\nregular 9 x 39 mm PAB-9, armor-piercing\n9 x 39 mm SP-6, sniper\n9 x 39 mm SP-5</text>
+	</string>
+	<string id="wpn-9a91">
+		<text>9A-91</text>
+	</string>
+	<string id="enc_weapons1_wpn-9a91">
+		<text>9A-91 is a compact machine, designed in the Tula instrument design Bureau in 1992 as a more sophisticated counterpart (and competitor) machine SR-3 "Whirlwind". This machine can be set to the following sights: PSO-1, PSO-1M2-01, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby."\nAmmunition:\nregular 9 x 39 mm PAB-9, armor-piercing\n9 x 39 mm SP-6, sniper\n9 x 39 mm SP-5</text>
+	</string>
+	<string id="wpn-vsk94">
+		<text>VSK-94</text>
+	</string>
+	<string id="enc_weapons1_wpn-vsk94">
+		<text>The VSK-94 is a Russian sniper rifle, created on the basis of small-sized machine 9A-91 is cheaper rounds PAB-9. The rifle is normally supplied complete with an eye, however, with regard to the local demand in the Area it is sold without a preinstalled optics. This rifle can be set to the following sights: PSO-1, PSO-1M2-01, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby."\nAmmunition:\nregular 9 x 39 mm PAB-9, armor-piercing\n9 x 39 mm SP-6, sniper\n9 x 39 mm SP-5</text>
+	</string>
+	<string id="ars-g36c">
+		<text>HK G36C</text>
+	</string>
+	<string id="enc_arsenal_g36c">
+		<text>Modification of the German G36 universal Picatinny rail strap and a short barrel / forend. This machine can be configured with the following scopes: Barska АС10632, C-more Railway, EOTech, PKS-07, Zenit, ACOG.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="ars-g36e">
+		<text>HK G36E</text>
+	</string>
+	<string id="enc_arsenal_g36e">
+		<text>The export version of the German G36. This machine can be installed branded reflex sight Heckler und Koch, after which you can aim like through the lens of the collimator.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="wpn-sv98">
+		<text>SV-98</text>
+	</string>
+	<string id="enc_weapons1_sv98">
+		<text>SV-98 Russian sniper rifle designed to engage emerging, moving, open and unmasked, unprotected and equipped with personal body armor of enemy manpower at ranges up to 1000 m. the weapon can adjust the degree of effort which the shooter presses the trigger.\nAmmunition:\nusual 7.62x54 mm 7N1, armor-piercing 7.62x54 mm BP, sniper 7.62x54 mm 7Н14</text>
+	</string>
+	<string id="wpn-svt">
+		<text>AVT-40</text>
+	</string>
+	<string id="enc_weapons1_wpn-svt">
+		<text>Automatic rifle Tokarev sample 1940. Combines the advantages of sniper rifles and light machine guns, although the effectiveness of automatic fire is very low, due to low capacity magazine and high recoil. This rifle can be mounted optical sight PU or PE.\nAmmunition:\nusual 7.62x54 mm 7N1, armor-piercing 7.62x54 mm BP, sniper 7.62x54 mm 7Н14</text>
+	</string>
+	<string id="ars-m4">
+		<text>M4</text>
+	</string>
+	<string id="enc_arsenal_m4">
+		<text>American automatic carbine, which is a shortened and lighter version of the M16A2 automatic. This machine can be set to the following sights: AR-15, ПО4х34.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="ars-m4_m1">
+		<text>M4A1</text>
+	</string>
+	<string id="enc_arsenal_m4_m1">
+		<text>The M4A1 carbine with modern store high-capacity 60 rounds and no handles for carrying, but with rare and very handy with the sight.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="ars-m4_m2">
+		<text>The "Cool Pepper"</text>
+	</string>
+	<string id="enc_arsenal_m4_m2">
+		<text>The M4A1 carbine shop with double-drum Beta C-Mag 100 ammo, tactical grip and comfortable with a sight. On this machine, in addition can be the LCC.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="wpn-rpk74">
+		<text>The PKK-74</text>
+	</string>
+	<string id="enc_weapons1_wpn-rpk74">
+		<text>Machine gun Klashnikov of the sample of 1974 with a single-column magazine for 45 rounds. Relatively often used as a cheap analog sniper rifles due to better accuracy of fire compared with the AK-74. This gun can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM", after pre-fastening "Lastochkin the tail".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="wpn-rpk74_m1">
+		<text>"Bad Bayonet"</text>
+	</string>
+	<string id="enc_weapons1_wpn-rpk74_m1">
+		<text>In relation to this gun is one hundred percent true saying, that "if the bullet fool, the bayonet well done." With the weapon disassembled bipod, making it possible to attach a bayonet. In General we can say that this gun is perfect for the most courageous fighters who don't need all sorts of modern - type silencers and different sights.\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="wpn-cz52">
+		<text>CZ 52</text>
+	</string>
+	<string id="enc_weapons1_wpn-cz52">
+		<text>CZ 52 is a semi-automatic pistol developed in the early 1950s for the Czechoslovak army. The gun after replacing the barrel can be adapted to the cartridge caliber 9x19 mm. Such alterations in the Area doing some traders. This gun can be mounted reflex sight Docter.\nAmmunition:\nprimary 7.62x25 mm P,\narmor-piercing 7.62x25 mm P-41</text>
+	</string>
+	<string id="enc_weapons1_wpn-cz52_m1">
+		<text>CZ 52 is a semi-automatic pistol developed in the early 1950s for the Czechoslovak army. The gun after replacing the barrel can be adapted to the caliber cartridge 7.62x25 mm. Such alterations in the Area doing some traders. This gun can be mounted reflex sight Docter.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-cz75">
+		<text>CZ 75 FA</text>
+	</string>
+	<string id="enc_weapons1_wpn-cz75">
+		<text>CZ-75 FA — pistol developed in Czechoslovakia in 1992 on the basis of the CZ 75 pistol with an extended 150mm barrel and the possibility of firing bursts. Some merchants can chrome-plate the gun, thereby increasing its reliability. This gun can be mounted reflex sight Docter or LCC.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="enc_weapons1_wpn-cz75_cr">
+		<text>Chrome-plated automatic pistol variant of the CZ 75 FA. This gun can be mounted reflex sight Docter or LCC.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-ump45">
+		<text>UMP45</text>
+	</string>
+	<string id="enc_weapons1_wpn-ump45">
+		<text>Universale Maschinenpistole — universal submachine gun, developed by German company Heckler and Koch in the 1990-ies as a Supplement to the family of submachine guns HK MP5. This submachine gun can be equipped with the following scopes: Barska АС10632, EOTech, PKS-07, Zenith, C-more Railway, and LCC.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="wpn-ump45_m1">
+		<text>UMP9</text>
+	</string>
+	<string id="enc_weapons1_wpn-ump45_m1">
+		<text>One of the options for UMP chambered for caliber 9x19 mm. In the Area does not enjoy great popularity, so it is possible that this instance is the only. This submachine gun set rare red dot sight. Can also be installed LCC.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="ars-rem870">
+		<text>Remington 870</text>
+	</string>
+	<string id="enc_arsenal_wpn_rem870">
+		<text>Remington 870 — the American rifle, thanks to its characteristic recharge is one of the most famous pump action shotguns in the world. Suitable for both military and police, and hunters and sportsmen and for self-defense. This gun can be set to the following sights: EOTech, PKS-07, Zenith, C-more Railway, Barska АС10632, ACOG.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="wpn-wa2000">
+		<text>WA2000</text>
+	</string>
+	<string id="enc_weapons1_wa2000">
+		<text>WA2000 (Walther Automat 2000) — a German sniper rifle layout bullpup. Was released in limited quantities, so it is quite a rare weapon.\nAmmunition:\nprimary 7.62x51 mm FMJ, armor-piercing 7.62x51 mm AP</text>
+	</string>
+	<string id="wpn-scar">
+		<text>FN SCAR-H</text>
+	</string>
+	<string id="enc_weapons1_wpn-scar">
+		<text>Weapons system developed by the American division of the Belgian company FN Herstal. A real find for lovers of artsy NATO weapons. This machine can be mounted optical sight PKS-07. This machine after replacing a few parts can be adapted to less powerful but more widespread and cheap Soviet caliber cartridge 7.62x39 mm. Such alterations in the Area doing some traders.\nAmmunition:\nprimary 7.62x51 mm FMJ, armor-piercing 7.62x51 mm AP</text>
+	</string>
+	<string id="wpn-scar_ak">
+		<text>FN SCAR-H 7.62x39 mm</text>
+	</string>
+	<string id="enc_weapons1_wpn-scar_ak">
+		<text>Weapons system developed by the American division of the Belgian company FN Herstal. A real find for lovers of artsy NATO weapons. This machine can be mounted optical sight PKS-07. This machine after replacing a few parts can be adapted to more powerful, but expensive and rare NATO caliber cartridge 7.62x51 mm. Such alterations in the Area doing some traders.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="wpn-flamer">
+		<text>Flamethrower</text>
+	</string>
+	<string id="enc_weapons1_wpn-flamer">
+		<text>A homemade flamethrower, made by scientists in the Zone for efficient cleaning the area from mutants.\nAmmunition:\nA main combustible mixture</text>
+	</string>
+	<string id="ammo-flame">
+		<text>A combustible mixture</text>
+	</string>
+	<string id="ammo-flame_s">
+		<text>GSM</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo_flame">
+		<text>The cylinder with a combustible mixture, made of artifacts fireball to flamethrower.</text>
+	</string>
+	<string id="wpn-addon-scope_pks">
+		<text>Optical sight PKS-07</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_pks">
+		<text>Collimator sniper PKS-07 is designed for aimed fire in daylight hours. Its main feature is that the increase of the collimator is 7 times. This is quite a respectable figure.</text>
+	</string>
+	<string id="wpn-ak12">
+		<text>AK-12</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak12">
+		<text>AK-12 is a Kalashnikov gun 2012, under caliber cartridge 5.45x39 mm. compared with the predecessors has the best accuracy, ergonomics and modularity. This machine can be configured with the following scopes: Barska АС10632, C-more Railway, EOTech, PKS-07, Zenit, ACOG.\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="wpn-ak15">
+		<text>AK-15</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak15">
+		<text>AK-15 — Kalashnikov gun 2012, under the cartridge of caliber 7.62x39 mm compared with the predecessors has the best accuracy, ergonomics and modularity. This machine can be configured with the following scopes: Barska АС10632, C-more Railway, EOTech, PKS-07, Zenit, ACOG.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="wpn-ak101">
+		<text>The AK-101</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak101">
+		<text>The AK-101 is designed for NATO ammo caliber 5.56x45 mm and is designed for export sales. However, this vending machine is relatively popular in the Area. This machine can be installed a bayonet, underbarrel grenade launcher, and the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="wpn-ak102">
+		<text>AK-102</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak102">
+		<text>AK-102 - a shortened version of the AK-101. This machine can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="wpn-ak103">
+		<text>AK-103</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak103">
+		<text>AK-103 is designed under the Soviet caliber cartridges 7.62x39 mm and is designed for export sales. However, this vending machine is relatively popular in the Area. This machine can be installed a bayonet, underbarrel grenade launcher, and the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="wpn-ak104">
+		<text>AK-104</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak104">
+		<text>AK-104 - the Kalashnikov "hundred" series with a short 101 inch barrel compared to the AKM. Machine designed for cartridges of caliber 7.62x39 mm. this machine can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="wpn-ak105">
+		<text>AK-105</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak105">
+		<text>AK-105 on the dimensions and the length of the barrel occupies an intermediate place between the AK-74m and AKS-74U. Machine designed for ammunition caliber 5.45x39 mm. this machine can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="wpn-ak107">
+		<text>AK-107</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak107">
+		<text>AK-107 is different from the AK-hundredth series by the presence of the balanced mechanism is used also in models of AL-7 and AEK-971. Balanced automation significantly improves the accuracy of fire bursts from the volatile situation. Machine designed for ammunition caliber 5.45x39 mm. this machine can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="wpn-ak108">
+		<text>AK-108</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak108">
+		<text>AK-108 is different from the AK-hundredth series by the presence of the balanced mechanism is used also in models of AL-7 and AEK-971. Balanced automation significantly improves the accuracy of fire bursts from the volatile situation. Machine designed for ammunition caliber 5.56x45 mm. this machine can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="wpn-ak109">
+		<text>Kalash "NWSG"</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak109">
+		<text>Kalash "on all occasions". Is a AK-109 in a very original tactical execution. The advantages of the machine are balanced automation, shop from The PKK at 40 rounds, the integrated red-dot sights, a comfortable grip and the butt, and also a special mount that can be set the sight PKS-07.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="wpn-ak9">
+		<text>AK-9</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak9">
+		<text>AK-9 is a machine, created by designers based on the AK-74M chambered for 9 x 39 mm caliber In mass production hit, and most of the copies produced were in the Area. This machine can be set to the following sights: PSO-1, PSO-1M2-01, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby."\nAmmunition:\nregular 9 x 39 mm PAB-9, armor-piercing\n9 x 39 mm SP-6, sniper\n9 x 39 mm SP-5</text>
+	</string>
+	<string id="wpn-galil">
+		<text>Galil</text>
+	</string>
+	<string id="enc_weapons1_wpn-galil">
+		<text>Galil — Israeli machine, developed on the basis of the Finnish machine Valmet Rk 62[3], in turn, is a variant of the Kalashnikov.\nAmmunition:\nusual 7.62x51 mm NATO, armor-piercing 7.62x51 mm BP</text>
+	</string>
+	<string id="wpn-galilace31">
+		<text>Galil ACE Pistol</text>
+	</string>
+	<string id="enc_weapons1_wpn-galilace31">
+		<text>Galil ACE Pistol is lightweight and compact, the Israeli gun-carbine under the Soviet caliber cartridge 7.62x39 mm. In the Zone most often used by mercenaries as auxiliary weapons. This machine can be configured with the following scopes: Barska АС10632, C-more Railway, EOTech, ACOG.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="st_knife_nato">
+		<text>Dagger</text>
+	</string>
+	<string id="enc_weapons1_wpn-knife_nato">
+		<text>Dagger Italian production. A good choice for fans of knife fight.</text>
+	</string>
+	<string id="st_wpn_machete">
+		<text>Machete</text>
+	</string>
+	<string id="enc_weapons1_wpn_machete">
+		<text>Machete - the right weapon in the post-Apocalypse. Due to the rather long blade, obtained extensive popularity among hunters of the Zone.</text>
+	</string>
+	<string id="st_knife_m9">
+		<text>Kabar</text>
+	</string>
+	<string id="enc_weapons1_wpn-knife_m9">
+		<text>Combat knife Kabar. A great choice for fans of knife fight.</text>
+	</string>
+	<string id="ars-type63">
+		<text>Type 63</text>
+	</string>
+	<string id="enc_arsenal_type63">
+		<text>Chinese automatic rifle, created on the basis of SKS. Instead of integrally cast shop SKS apply to pie shops for 20 or 30 rounds, however, the possibility of equipment empty magazine from clips without separation of weapons preserved. There was a possibility of firing bursts. This carabiner can be mounted optical sight PE or PU.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="ars-vz58">
+		<text>Sa vz. 58</text>
+	</string>
+	<string id="enc_arsenal_vz58">
+		<text>Czech machine looks like a Kalashnikov, but it has a completely different design. The machine is characterized by high quality workmanship. This machine can be configured with the following scopes: Barska АС10632, EOTech, C-more Railway.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="wpn-addon-scope_pu">
+		<text>Optical sight PU</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_pu">
+		<text>PU (Sight Shortened) — Soviet optical sight, created in 1940. The design was so successful and popular that the release was not stopped and after the war. Up to date copies of this sight are in steady demand in Russia and abroad. Of weapons, which can be found in the Area, established primarily on М1891 rifle, M1903, AVT-40, Type 38, as well as the SKS rifles, Type 63, Type 44.</text>
+	</string>
+	<string id="wpn-addon-scope_pe">
+		<text>Optical sight PE</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_pe">                                                                                                                                     
+		<text>Rifle optical sight of the sample in 1931. Of weapons, which can be found in the Area, established primarily on М1891 rifles, M1903's, K-98, AVT-40, Type 38, Type 63, Type 44, and shotguns TOZ-34 and Blaser B97.</text>
+	</string>
+	<string id="ars-m1891">
+		<text>М1891</text>
+	</string>
+	<string id="enc_arsenal_m1891">
+		<text>Legendary 7.62-mm (3-line) rifle model 1891. Actively used in the period from 1891 to the end of the Second world war, this period repeatedly modernized. Perfect for hunting, and for aimed fire at long range. This rifle can be mounted optical sight PE or PU.\nAmmunition:\nusual 7.62x54 mm 7N1, armor-piercing 7.62x54 mm BP, sniper 7.62x54 mm 7Н14</text>
+	</string>
+	<string id="wpn-vepr">
+		<text>Vepr-12 Molot</text>
+	</string>
+	<string id="enc_weapons1_wpn-vepr">
+		<text>Vepr-12 Molot — Russian smooth-bore semi-automatic carbine, designed based on the design of the Kalashnikov machine gun. Designed for hunting, sports competition, self defense and use as a service weapon. Is a direct competitor guns series "Saiga-12". This shotgun can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="wpn-vepr_m1">
+		<text>"Drum Roll"</text>
+	</string>
+	<string id="enc_weapons1_wpn-vepr_m1">
+		<text>Artisanal medicinale carbine Vepr-12 Molot with short barrel, comfortable with the sight, improvised drum magazine of 20 rounds and the ability to switch the fire modes. Just a great shotgun, a machine gun for Stripping rooms.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="wpn-addon-scope_eotech">
+		<text>EOTech Collimator</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_eotech">
+		<text>Very popular and suitable reflex sight EOTech firms.</text>
+	</string>
+	<string id="wpn-addon-scope_ekp">
+		<text>Collimator Kobra EKP-8-02</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_ekp">
+		<text>The sight serves to improve the accuracy and speed of aiming, has a solid mount and not break when fired and re-install.</text>
+	</string>
+	<string id="wpn-addon-scope_ac">
+		<text>Collimator Barska AC10632</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_ac">
+		<text>Pretty handy for shooting in dark sight.</text>
+	</string>
+	<string id="wpn-addon-scope_kobra">
+		<text>Collimator Kobra EKP-1S-03</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_kobra">
+		<text>Electronic collimator sight EKP-1S-03 Kobra - collimator sight of open type. The sight is illuminated and equipped with an electronic control circuit for the brightness and switching of sighting marks types. First collimator sight "Kobra" is designed to improve the accuracy and speed of aiming with small arms at various targets that appear for a short time. The sight provides the ability to fire in the natural illumination conditions from twilight to bright sunlight.</text>
+	</string>
+	<string id="wpn-addon-scope_cmore">
+		<text>Collimator C-more Railway</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_cmore">
+		<text>Compact and lightweight reflex sight, so can be installed even on some revolvers.</text>
+	</string>
+	<string id="wpn-addon-scope_1pn93">
+		<text>Sight 1ПН93 the Kid</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_1pn93">
+		<text>Russian night optical sight is designed for observation of battlefield and aimed shooting in the conditions of bad visibility. Thanks to a convenient form of sight if necessary, you can use mechanical sights on most weapons.</text>
+	</string>
+	<string id="ars-mp133">
+		<text>Shotgun MP-133</text>
+	</string>
+	<string id="enc_arsenal_wpn_mp133">
+		<text>Mr-133 — Russian smoothbore gun, which is used for various types of hunting, sport shooting, self defense and protection. The gun is supplied with extension cable shop. This shotgun can be fitted hunting optical sight.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="wpn-stg44">
+		<text>StG 44</text>
+	</string>
+	<string id="enc_weapons1_wpn-stg44">
+		<text>StG 44 (it. Sturmgewehr 44 — assault rifle, 1944) is a German machine gun developed during the Second world war. Among the machines of the modern type was the first design produced in large quantities. From pistols-machine guns of the Second world war has been much more effective range of fire, primarily through the use of so-called intermediate cartridge, more powerful, and with better ballistics than pistol rounds used in submachine guns. This machine can be mounted optical sight Zf-43.\nAmmunition:\nusual 7.92x33 mm,\narmor-piercing 7.92x33 mm BP</text>
+	</string>
+	<string id="wpn-mkb42">
+		<text>MKb.42</text>
+	</string>
+	<string id="enc_weapons1_wpn-mkb42">
+		<text>MKb.42 (it. MaschinenKarabiner 42 — automatic carbine, 1942) is a German machine, the predecessor of the machine gun StG 44. From pistols-machine guns of the Second world war has been much more effective range of fire, primarily through the use of so-called intermediate cartridge, more powerful, and with better ballistics than pistol rounds used in submachine guns. This machine can be mounted optical sight Zf-43.\nAmmunition:\nusual 7.92x33 mm,\narmor-piercing 7.92x33 mm BP</text>
+	</string>
+	<string id="wpn-fort500">
+		<text>Fort-500</text>
+	</string>
+	<string id="enc_weapons1_wpn-fort500">
+		<text>Ukrainian smoothbore shotgun NPO Fort. Is quite a compact and powerful weapon. This shotgun can be fitted hunting optical sight.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="ars-type38">
+		<text>Arisaka Type 38</text>
+	</string>
+	<string id="enc_arsenal_type38">
+		<text>Japanese semi-automatic rifle during the First and Second world wars, in service with the Imperial army. In the Zone is rare, mainly as hunting weapons. This rifle can be mounted optical sight PE or PU.\nAmmunition:\nthe usual 6.5x50 mm, armor-piercing\n6.5x50 mm BP</text>
+	</string>
+	<string id="ars-type44">
+		<text>Arisaka Type 44</text>
+	</string>
+	<string id="enc_arsenal_type44">
+		<text>Carbine Arisaka Type 44 was produced from 1911 to 1942, was in service with the Japanese Imperial army. In the Zone is rare, mainly as hunting weapons. This carabiner can be mounted optical sight PE or PU.\nAmmunition:\nthe usual 6.5x50 mm, armor-piercing\n6.5x50 mm BP</text>
+	</string>
+	<string id="ammo-6.5x50-fmj">
+		<text>Cartridges 6.5x50 mm</text>
+	</string>
+	<string id="ammo-6.5x50-ap">
+		<text>Cartridges 6.5x50 mm BP</text>
+	</string>
+	<string id="ammo-6.5x50-fmj_s">
+		<text>6.5x50</text>
+	</string>
+	<string id="ammo-6.5x50-ap_s">
+		<text>6.5x50 BP</text>
+	</string>
+	<string id="enc_weapons1_ammo-6.5x50-ap">
+		<text>Armor-piercing bullets for the Japanese rifle Type 38 carbine and Type 44. Improved armor-piercing ability of the bullet.</text>
+	</string>
+	<string id="enc_weapons1_ammo-6.5x50-fmj">
+		<text>The standard cartridge for a Japanese rifle Type 38 carbine and Type 44.</text>
+	</string>
+	<string id="ammo-4.6x30-fmj">
+		<text>The cartridges 4.6x30 mm SHP</text>
+	</string>
+	<string id="ammo-4.6x30-ap">
+		<text>The cartridges 4.6x30 mm AP SX</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_s">
+		<text>4.6x30 BP</text>
+	</string>
+	<string id="ammo-4.6x30-ap_s">
+		<text>4.6x30 EP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-4.6x30-fmj">
+		<text>Standard cartridge for submachine gun HK MP7. Expansive bullet has less penetrating ability than the piercing, but great stopping action and lethal force.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-4.6x30-ap">
+		<text>Cartridge with expansive bullet for submachine gun HK MP7. Improved armor-piercing ability of the bullet.</text>
+  </string>
+  <string id="ars-mp7">
+		<text>HK MP7</text>
+	</string>
+	<string id="enc_arsenal_mp7">
+		<text>MP7 - automatic weapons under developed specially for him caliber cartridge 4.6x30 mm. On the accuracy of fire weapons than many other submachine guns of the same size. This submachine gun can be equipped with the following scopes: Barska АС10632, EOTech, C-more Railway, ACOG, PKS-07.\nAmmunition:\nexpansive 4.6x30 mm SHP,\narmor-piercing 4.6x30 mm AP SX</text>
+	</string>
+	<string id="wpn-addon-scope_g36">
+		<text>Lens G36 Optics</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_g36">
+		<text>Lens optical sight of the G36 3.5 automta multiplicity NK. Supposed to come with a gun, but savvy traders have their politicial and sold separately for the extortionate price knowing the irrepressible desire of stalkers to get optics at any price.</text>
+	</string>
+	<string id="wpn-addon-scope_g36e">
+		<text>G36 Collimator</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_g36e">
+		<text>Red dot sight for rifle G36E.</text>
+	</string>
+	<string id="wpn-addon-grenade-launcher-ag36">
+		<text>AG36</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-grenade-launcher-ag36">
+		<text>Underbarrel grenade launcher for rifle HK G36.\nAmmunition:\ngrenade M209</text>
+	</string>
+	<string id="ars-vz61">
+		<text>Scorpion vz. 65</text>
+	</string>
+	<string id="arsenal_mod-vz61">
+		<text>Czechoslovak automatic pistol was developed for tank weapons, communications and soldiers of other specialties. This weapon is great for close combat and the small size and the possibility of concealed carry has made it a popular among criminals and terrorists. This weapon can be mounted reflex sight C-more Railway.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM 9x18 mm armor-piercing\nRVM</text>
+	</string>
+	<string id="ars-kiparis">
+		<text>OTS-02 Kiparis</text>
+	</string>
+	<string id="arsenal_mod-kiparis">
+		<text>Submachine gun the OTS-02 Kiparis was designed in the 1970-ies in the Tula TsKIB COO by order of the USSR Ministry of defense. However, while the theme of the submachine guns did not develop, and the design got on the shelf until the early 1990-ies, when the submachine gun was resumed. In 1995, the submachine gun the OTS-02 Kiparis was adopted by the Ministry of internal Affairs of Russia. This weapon can be installed LCC.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM 9x18 mm armor-piercing\nRVM</text>
+	</string>
+	<string id="ars-stick_noz">
+		<text>Bayonet 6x4</text>
+	</string>
+	<string id="enc_arsenal_stick_noz">
+		<text>Soviet bayonet. Can be installed on the AK-47, AKS-47, AKM, AK-74.</text>
+	</string>
+	<string id="ars-bayonet">
+		<text>Bayonet</text>
+	</string>
+	<string id="enc_arsenal_bayonet">
+		<text>German bayonet. Can be installed on machines STG-44 and the MKB-42.</text>
+	</string>
+	<string id="wpn-addon-lastochka">
+		<text>Dovetail</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-lastochka">
+		<text>Fastening "Lastochkin a tail" for rifles and Kalashnikov machine guns. The mount can be installed on the following weapons: AK-47, AKS-47, AKM, AK-74, AKS-74, AKS-74U, The PKK, The PKK-74, OC-12, PP-19-2-07. For the mounting of weapons you want to temporarily unmount all mounted optical sights, silencers, bayonet-knife and grenade launchers.</text>
+	</string>
+	<string id="wpn-addon-lcu">
+		<text>LCC</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-lcu">
+		<text>Set laser sights for pistols and submachine guns. Of weapons, which can be found in the Area, LCC is installed on Cypress PP, PP Wedge, UMP45, pistols APS, GSH-18, TC-23, TC-33, Colt 1911 Kimber, CZ-75 FA, FN 57, FNP45, Glock, and some other weapons. Included LCC significantly improves accuracy, even when firing "from the hip".</text>
+	</string>
+	<string id="wpn-addon-weapon_mod">
+		<text>Set</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-weapon_mod">
+		<text>Set for self-upgrading of weapons.</text>
+	</string>
+	<string id="wpn-vssk">
+		<text>VSSK "Exhaust"</text>
+	</string>
+	<string id="enc_weapons1_wpn-vssk">
+		<text>VSSK "Vykhlop" — the Russian silent anti-materiel rifle, designed in the layout of the bullpup. In the Area most often used in regular service very experienced hunters for hunting big monsters.\nAmmunition:\nthe usual 12.7x55 mm STS-130,\nimproved 12.7x55 mm STS-130 VPS</text>
+	</string>
+	<string id="wpn-ash12">
+		<text>AL-12</text>
+	</string>
+	<string id="enc_weapons1_wpn-ash12">
+		<text>AL-12 — Russian heavy assault gun developed for the needs of the units of special forces with a sniper rifle VSSK. In the Zone is rare. This machine can be configured with the following scopes: Barska АС10632, EOTech, PKS-07, Zenith, C-more Railway, ACOG.\nAmmunition:\nthe usual 12.7x55 mm STS-130,\nimproved 12.7x55 mm STS-130 VPS</text>
+	</string>
+	<string id="ammo-12.7x55-sc130">
+		<text>The cartridges 12.7x55 mm STS-130</text>
+	</string>
+	<string id="ammo-12.7x55-sc130_s">
+		<text>12.7x55 STS</text>
+	</string>
+	<string id="enc_weapons1_ammo-12.7x55-sc130">
+		<text>Russian rifle ammunition, designed for low noise and English flameless defeat protected targets and troops in heavy body armor at ranges up to 600 meters. Cartridges use specially made heavy bullet and a relatively short sleeve of a cylindrical shape with a length of 55 mm, the energy potential which is only enough for a subsonic shot.</text>
+  </string>
+  <string id="ammo-12.7x55-vps130">
+		<text>The cartridges 12.7x55 mm STS-130 VPS</text>
+	</string>
+	<string id="ammo-12.7x55-vps130_s">
+		<text>12.7x55 VPS</text>
+	</string>
+	<string id="enc_weapons1_ammo-12.7x55-vps130">
+		<text>Russian sniper cartridge SP-130 UPU (high penetration) designed to engage with a silent shot of the enemy, protected by heavy armor, as well as to engage lightly armored and unarmored vehicles.</text>
+  </string>
+  <string id="wpn-m98b">
+		<text>Barrett M98B</text>
+	</string>
+	<string id="enc_weapons1_wpn-m98b">
+		<text>American powerful sniper rifle. In the Area most often used in regular service snipers mercenaries.\nAmmunition:\nregular .338 Lapua Magnum</text>
+	</string>
+	<string id="ammo-338-lapua">
+		<text>Ammo .338 Lapua Magnum</text>
+	</string>
+	<string id="ammo-338-lapua_s">
+		<text>.338 LM</text>
+	</string>
+	<string id="enc_weapons1_ammo-338-lapua">
+		<text>American sniper special cartridge for firing over long distances. At the moment widely used by hunters and shooters-athletes.</text>
+  </string>
+  <string id="wpn-m82">
+		<text>Barrett M82</text>
+	</string>
+	<string id="enc_weapons1_wpn-m82">
+		<text>The Barrett M82 is an American large-caliber anti-material sniper rifle developed chambered for .50 BMG. Perhaps this is one of the most powerful rifles that can be found in the Area.\nAmmunition:\nnormal .50 BMG</text>
+	</string>
+  <string id="wpn-m95">
+		<text>Barrett M95</text>
+	</string>
+	<string id="enc_weapons1_wpn-m95">
+		<text>Barrett M95 — American large-caliber anti-material sniper rifle developed chambered for .50 BMG. Perhaps this is one of the most powerful rifles that can be found in the Area.\nAmmunition:\nnormal .50 BMG</text>
+	</string>
+  <string id="ammo-50-bmg">
+		<text>Ammo .50 BMG</text>
+	</string>
+	<string id="ammo-50-bmg_s">
+		<text>.50 BMG</text>
+	</string>
+	<string id="enc_weapons1_ammo-50-bmg">
+		<text>12.7x99 mm (12.7x99 mm NATO, .50 BMG) is a large-caliber cartridge of the NATO armies. This is probably one of the most powerful and one of the most expensive cartridges, which can be found in the Area.</text>
+  </string>
+  <string id="ars-rem-870_16">
+		<text>Remington 870-16</text>
+	</string>
+	<string id="enc_arsenal_wpn_rem870_16">
+		<text>An older version of shotguns Remington 870 16 gauge. The Area is mainly used by hunters. This shotgun can be fitted hunting optical sight.\nAmmunition:\n16/70 shot, buckshot\n16/70, 16/70\nbullet</text>
+	</string>
+	<string id="wpn-addon-scope-ar15">
+		<text>Colt scope 3x20</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope-ar15">
+		<text>Optical sight produced in the United States. Installs on machines series AR-15 carrying handle.</text>
+	</string>
+	<string id="ars-m60">
+		<text>M60</text>
+	</string>
+	<string id="arsenal_mod-m60">
+		<text>American single machine gun, which is a from the point of view of design hybrid of the two systems of German engineering during the Second world war automatic rifle FG-42 and MG-42.\nAmmunition:\nusual 7.62x51 mm (ribbon)</text>
+	</string>
+	<string id="wpn-m3">
+		<text>Benelli M3 Super 90</text>
+	</string>
+	<string id="enc_weapons1_wpn-m3">
+		<text>Benelli M3 Super 90 is an Italian combat shotgun Benelli production, developed on the basis of the design of shotguns Benelli M1 and Benelli M2. This shotgun can be mounted reflex sights C-more Railway, Barska АС10632.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="wpn-addon-scope_1pn58">
+		<text>Sight 1ПН58</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_1pn58">
+		<text>Soviet bespodvalnyh night optical sight, designed to improve the efficiency of shooting at natural night illumination.</text>
+	</string>
+	<string id="ars-scope_hk">
+		<text>Riflescope HK</text>
+	</string>
+	<string id="enc_arsenal_scope_hk">
+		<text>Removable optical sight for the G3 rifles, G3SG1 and a submachine gun MP5.</text>
+	</string>
+	<string id="ars-mc21">
+		<text>Shotgun Snipe-16</text>
+	</string>
+	<string id="enc_arsenal_wpn_mc21">
+		<text>Snipe-16 Russian pump-action shotgun classic layout. This shotgun can be fitted hunting optical sight.\nAmmunition:\n16/70 shot, buckshot\n16/70, 16/70\nbullet</text>
+	</string>
+	<string id="wpn-addon-scope_pso1">
+		<text>Sight 1П59</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_pso1">
+		<text>1П59 "Giperon" - pancratic sight is intended for reconnaissance purposes and aimed fire from sniper rifles SVD. Thanks to a convenient form of sight if necessary, you can use mechanical sights on most weapons.</text>
+	</string>
+	<string id="wpn-addon-scope_pso1m2">
+		<text>The PSO-1 sightМ2-01</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_pso1m2">
+		<text>Version of the PSO-1 sight, specially designed for aimed firing from sniper rifles VSS, machine SHAFT, as well as other weapons of the caliber 9h39 mm. Reticle scale is designed for firing from 100 m to 400 m.</text>
+	</string>
+	<string id="ars-kedr">
+		<text>PP-91 "Wedge"</text>
+	</string>
+	<string id="arsenal_mod-kedr">
+		<text>Submachine gun PP-9 "Klin" was established on the basis developed in the early 1990-ies by order of the Ministry of internal Affairs of the USSR PP Cedar, which is characterized by extremely simple and technological design. Unlike its predecessor, the PP-9 Klin adapted for the use of more powerful 9x18 PMM cartridge, in consequence of which has improved ballistics. This weapon can be installed LCC.\nAmmunition:\nmain 9x18 mm PM,\nimproved 9x18 mm PMM 9x18 mm armor-piercing\nRVM</text>
+	</string>
+	<string id="wpn-addon-scope_zenith">
+		<text>Optical sight "Zenit"</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_zenith">
+		<text>Optical sight produced in Germany.</text>
+	</string>
+	<string id="ars-oc33_m1">
+		<text>OTS-23 "Dart"</text>
+	</string>
+  <string id="enc_arsenal_oc33_m1">
+		<text>OTS-23 "Dart" — the Russian automatic pistol developed in the early 1990-ies by a team of designers TsKIB COO under the guidance of I. Ya Stechkin under small-caliber pistol cartridge with enhanced penetration bullet and very mild recoil. However, in the "Dart" impact ammunition 5.45x18 mm was insignificant, but because of the light weight of bullets, their effectiveness is rapidly falling with increasing distance, and the gun's popularity is not received. In the harsh conditions of the Zone, describes the only flaws are compounded and make this gun even less fit for use. This gun can be mounted reflex sight Docter or LCC.\nAmmunition:\nbasic 5.45x18 mm MPTS</text>
+	</string>
+	<string id="ammo-5.45x18_mpc">
+		<text>Cartridges 5.45x18 mm MPTS</text>
+	</string>
+	<string id="ammo-5.45x18_mpc_s">
+		<text>5.45x18 mm</text>
+	</string>
+	<string id="enc_weapons1-ammo_5.45x18_mpc">
+		<text>5.45x18 mm MPTS (small-caliber Pistol centre fire, GRAU Index — 7Н7) — Soviet small-caliber pistol cartridge with enhanced penetration bullet. Used pistol the OTS-23 a Dart.</text>
+  </string>
+  <string id="st_wpn_shorty">
+		<text>Serbu SUPER-SHORTY</text>
+	</string>
+	<string id="st_wpn_shorty_descr">
+		<text>Shotgun Serbu SUPER-SHORTY was originally designed by American mark the Serb custom, as a modification of the conventional shotgun Mossberg 500 with the aim of obtaining an extremely compact weapons for combat on small distances. This shotgun can be set to the following sights: C-more Railway, АС10632 Barska, EOTech, PKS-07, ACOG, Zenith.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="wpn-rgm40">
+		<text>RGM-40</text>
+	</string>
+	<string id="enc_weapons1_wpn-rgm40">
+		<text>40-mm a grenade RGM "Kastet" designed to defeat shrapnel ammunition VOG-25 and VOG-25P grazing and fire half unsheltered and located in the trenches, the trenches on the reverse slopes of the terrain manpower and other unarmored targets, inaccessible to small arms.\nAmmunition:\ngrenade VOG-25,\ngrenade VOG-25P</text>
+	</string>
+	<string id="wpn-rpk74m">
+		<text>The PKK-74m</text>
+	</string>
+	<string id="enc_weapons1_wpn-rpk74m">
+		<text>Machine gun Klashnikov of the sample of 1974 upgraded with a single-column magazine for 45 rounds. From its predecessor primarily features black plastic accessories and pre-fastening type "dovetail". This gun can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="wpn-vector">
+		<text>KRISS Vector</text>
+	</string>
+	<string id="enc_weapons1_wpn-vector">
+		<text>Test version.\nAmmunition: .45 ACP\nusual,\nimproved .45 ACP HydraShock</text>
+	</string>
+	<string id="wpn-m14">
+		<text>M14 "Modern"</text>
+	</string>
+	<string id="enc_weapons1_wpn-m14">
+		<text>M14 — an American automatic rifle, in service with the U.S. army in the 1950s and 1960s. Although M14 has largely been replaced by the M16 family of rifles, it remains on the marine corps and the U.S. Navy, and the armies of other States. This rifle can be configured with the following scopes: Barska АС10632, C-more Railway, ACOG, EOTech, PKS-07, Zenit.\nAmmunition:\nprimary 7.62x51 mm FMJ, armor-piercing 7.62x51 mm AP</text>
+	</string>
+	<string id="wpn-m14_m1">
+		<text>M14</text>
+	</string>
+	<string id="enc_weapons1_wpn-m14_m1">
+		<text>The older version of the M14 rifle, in service with the U.S. army in the 1950s and 1960s, with wooden furniture. In the Zone is the weapon most often used by hunters. This rifle can be mounted optical sight PU.\nAmmunition:\nprimary 7.62x51 mm FMJ, armor-piercing 7.62x51 mm AP</text>
+	</string>
+	<string id="ars-uzi">
+		<text>PP UZI</text>
+	</string>
+	<string id="enc_arsenal_uzi">
+		<text>PP UZI Israeli 9mm submachine gun, today has become one of the most popular weapons in the world. Submachine gun the UZI is inferior in popularity except that of the Soviet / Russian Kalashnikov. This submachine gun can be mounted reflex sight EOTech.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="ars-sr25">
+		<text>SR-25</text>
+	</string>
+	<string id="enc_arsenal_sr25">
+		<text>SR-25 — an American sniper rifle developed by Eugene Stoner in the 1990-ies based on the design of the AR-15 rifle.\nAmmunition:\nprimary 7.62x51 mm FMJ, armor-piercing 7.62x51 mm AP</text>
+	</string>
+	<string id="wpn-addon-scope_aug">
+		<text>AUG Lens Optics</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_aug">
+		<text>Lens optical sight of the AUG automta 3 ratio for those who are not satisfied with the integrated optical sight.</text>
+	</string>
+	<string id="ars-m134">
+		<text>M134</text>
+	</string>
+	<string id="arsenal_mod-m134">
+		<text>The gun is a small 20-mm aerogun M61 under the standard rifle ammunition for NATO 7.62 mm. the Perfect weapon for those who want to feel like Jesse Ventura.\nAmmunition:\nusual 7.62x51 mm (ribbon)</text>
+	</string>
+	<string id="wpn-addon-scope_fn2000">
+		<text>Lens Optics FN2000</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope_fn2000">
+		<text>Lens optical sight of automta FN2000 3 ratio for those who are not satisfied with the integrated optical sight.</text>
+	</string>
+	<string id="wpn-luger">
+		<text>Luger</text>
+	</string>
+	<string id="enc_weapons1_wpn-luger">
+		<text>The main advantage of "Luger Parabellum" is a high accuracy, achieved through a convenient "anatomical" handle with a great angle and light (almost sporty) descent. Complex and expensive in production "Parabellum", however, was very successful, and became an advanced weapon system for its time. Is present.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-walter38">
+		<text>Walther P38</text>
+	</string>
+	<string id="enc_weapons1_wpn-walter38">
+		<text>Walther P38 — German semi-automatic pistol of calibre of 9 mm. was Developed by company "Carl Walther of Waffenfabrik" in the city of Zella-Mehlis, Thuringia. Has high technical characteristics. The warranty service life is 10,000 shots.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-walter38_m1">
+		<text>Walther P38</text>
+	</string>
+	<string id="enc_weapons1_wpn-walter38_m1">
+		<text>Premium edition of Walther P38 awarded by the Fuhrer to Dr. Monolith for outstanding service to the Third Reich.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-ptrd">
+		<text>Ptrd</text>
+	</string>
+	<string id="enc_weapons1_wpn-ptrd">
+		<text>The Soviet single-shot anti-tank gun model 1941 system Degtyareva, accepted by the Soviet armed forces on 29 August 1941. In the Area most often used by hunters for hunting large and robust monsters. Power superior to all sniper rifles that can be found in the Area. This gun can be mounted optical sight PE.\nAmmunition: armor-piercing\n14.5х114 mm</text>
+	</string>
+	<string id="ammo-ammo_14.5x114_ap">
+		<text>The cartridges 14.5x114 mm</text>
+	</string>
+	<string id="ammo-ammo_14.5x114_ap_s">
+		<text>14.5x114</text>
+	</string>
+	<string id="enc_weapons1_ammo-ammo_14.5x114_ap">
+		<text>The Soviet cartridge for heavy machine guns and anti-tank guns.</text>
+  </string>
+  <string id="ars-cz805">
+		<text>CZ 805</text>
+	</string>
+	<string id="arsenal_mod-cz805">
+		<text>CZ 805 — a promising Czech weapon system, introduced in 2009 and designed to replace the CZ SA Vz.58. This weapon can be fitted with a EOTech sight PKS-07, or LCC. This machine after replacing a few parts can be adapted to more powerful Soviet caliber cartridge 7.62x39 mm. Such alterations in the Area doing some traders.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="ars-cz805_ak">
+		<text>CZ 805 7.62x39 mm</text>
+	</string>
+	<string id="arsenal_mod-cz805_ak">
+		<text>CZ 805 — a promising Czech weapons industry, adapted to the more powerful Soviet caliber cartridge 7.62x39 mm. this weapon can be fitted with a EOTech sight PKS-07, or LCC. This machine after replacing a few parts can be adapted to less powerful but with better ballistics to NATO caliber cartridge 5.56х45 mm. Such alterations in the Area doing some traders.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="wpn-mtar21">
+		<text>MTAR-21</text>
+	</string>
+	<string id="enc_weapons1_wpn-mtar21">
+		<text>The most compact model of the automatic modern Israeli TAR-21 the option for the caliber 5.. 45x39 mm. the name of the machine comes from the mountains of Tabor ("Tabor" in Russian transcription), in the North of Israel mentioned in the old Testament, and the index 21 refers to the focus weapons in the 21st century. This machine after replacing a few parts can be adapted to have better ballistics to NATO caliber cartridge 5.56х45 mm. Such alterations in the Area doing some traders.\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="enc_weapons1_wpn-mtar21_m1">
+		<text>The most compact model of the automatic modern Israeli TAR-21 the option for the caliber 5.56х45 mm. the name of the machine comes from the mountains of Tabor ("Tabor" in Russian transcription), in the North of Israel mentioned in the old Testament, and the index 21 refers to the focus weapons in the 21st century. This machine after replacing a few parts can be adapted to a cheaper caliber cartridge 5.. 45x39 mm. Such alterations in the Area doing some traders.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="enc_mateba">
+		<text>Mateba Autorevolver</text>
+	</string>
+	<string id="enc_mateba_desc">
+		<text>Italian automatic gun, in which the action mechanism is due to the use of the energy of the shot, which positively affects rate of fire. This gun can be mounted reflex sight Docter.\nAmmunition: .44 Magnum,\n\n.44 Magnum +P+</text>
+	</string>
+	<string id="enc_sw10">
+		<text>SW10</text>
+	</string>
+	<string id="enc_sw10_desc">
+		<text>Classic American police revolver.\nAmmunition: .38 Special\n</text>
+	</string>
+	<string id="ars-38sp">
+		<text>Ammo .38 Special</text>
+	</string>
+	<string id="ars-38sp_s">
+		<text>The .38 Sp.</text>
+	</string>
+	<string id="enc_arsenal_38sp">
+		<text>American revolver cartridge of moderate power. Its characteristics are similar to the pistol cartridges of caliber of 9 mm.</text>
+	</string>
+	<string id="enc_sw500">
+		<text>SW500</text>
+	</string>
+	<string id="enc_sw500_desc">
+		<text>The most powerful revolver that can be found in the Area. Holding this gun in his hands, feeling themselves safe even while hunting big game. This gun can be mounted reflex sight C-more Railway.\nAmmunition: .500 Magnum\n</text>
+	</string>
+	<string id="ars-500mag">
+		<text>Ammo .500 Magnum</text>
+	</string>
+	<string id="ars-500mag_s">
+		<text>.500 Magnum</text>
+	</string>
+	<string id="enc_arsenal_500mag">
+		<text>American revolver cartridge of immense power.</text>
+	</string>
+	<string id="ars-6.35x15_hr">
+		<text>Cartridges 6.35x15 mm</text>
+	</string>
+	<string id="ars-6.35x15_hr_s">
+		<text>6.35x15 mm</text>
+	</string>
+	<string id="enc_arsenal_6.35x15_hr">
+		<text>Caliber cartridge 6.35х15.5 is used exclusively in miniature "ladies" pistol. Has a very low stopping effect and penetrative ability of a bullet, and is therefore of little use in the harsh conditions of the Zone.</text>
+	</string>
+	<string id="ars-8x22_fmj">
+		<text>Cartridges 8x22 mm</text>
+	</string>
+	<string id="ars-8x22_fmj_s">
+		<text>8x22 mm</text>
+	</string>
+	<string id="enc_arsenal_8x22_fmj">
+		<text>8х22 mm Cartridge the pistol The Nambu Type-14. Characterized by high accuracy and precision shooting, however, is slightly inferior to the 9x19 mm ammunition for lethal force and stop action.</text>
+	</string>
+	<string id="wpn_type14">
+		<text>The Nambu Type-14</text>
+	</string>
+	<string id="enc_weapons1_wpn-type14">
+		<text>Pistols are the Nambu was the primary personal weapon of the Japanese Imperial army, 1920-1940-ies, they were produced until the end of the Second World war.\nAmmunition:\nmain 8x22 mm</text>
+	</string>
+	<string id="wpn-walther9">
+		<text>Walther 9</text>
+	</string>
+	<string id="enc_weapons1_wpn-walther9">
+		<text>One of the most compact and lightest pistols in the world. In the Area it can be found mostly in girls.\nAmmunition:\nbasic 6.35x15 mm</text>
+	</string>
+	<string id="ars-7.62x33_fmj">
+		<text>Cartridges 7.62x33 mm</text>
+	</string>
+	<string id="ars-7.62x33_fmj_s">
+		<text>7.62x33</text>
+	</string>
+	<string id="enc_arsenal_7.62x33_fmj">
+		<text>The standard rifle and machine gun unitary cartridge USA the first half of the twentieth century caliber 7.62х63 mm (.30-06 Springfield). Simple all-metal bullet.</text>
+	</string>
+	<string id="ars-m1903">
+		<text>M1903</text>
+	</string>
+	<string id="enc_arsenal_m1903">
+		<text>American repeating rifle, pinata into service in 1903. In the Area it can be found mainly hunters. This rifle can be mounted optical sight PE or PU.\nAmmunition:\nusual 7.62x33 mm</text>
+	</string>
+	<string id="wpn-blaser97">
+		<text>Blaser B97</text>
+	</string>
+	<string id="enc_weapons1_wpn-blaser97">
+		<text>German hunting rifle caliber 7.62x33 mm. On the range of substantially superior to their smoothbore counterparts. This gun also you can shoot a doublet, which significantly increases its firepower. Some merchants can repaint the weapon. This gun can be mounted optical sight PE.\nAmmunition:\nusual 7.62x33 mm</text>
+	</string>
+	<string id="ammo_5.6x15_lr">
+		<text>Cartridges 5.6x15 mm</text>
+	</string>
+	<string id="ammo_5.6x15_lr_s">
+		<text>5.6x15</text>
+	</string>
+	<string id="enc_weapons1-ammo_5.6x15_lr">
+		<text>American rimfire caliber cartridge 5.6x15 mm (.22 Long Rifle).</text>
+	</string>
+	<string id="wpn_ruger">
+		<text>Ruger MK.2</text>
+	</string>
+	<string id="enc_weapons1_wpn-ruger">
+		<text>Quiet American pistol caliber 5.6x15 mm (.22 Long Rifle). Features high accuracy and comfortable recoil. However, used in this low-power pistol ammunition are limiting the practical scope of application.\nAmmunition:\nbasic 5.6x15 mm</text>
+	</string>
+	<string id="wpn-usas12">
+		<text>USAS-12</text>
+	</string>
+	<string id="enc_weapons1_wpn-usas12">
+		<text>Automatic shotgun with a very moderate rate of fire that makes it relatively easy to control it even when shooting bursts. According to its characteristics it is a shotgun, perhaps, surpasses all smoothbore weapons, which can be found in the Area. This shotgun can be configured with the following scopes: AR-15, ПО4х34.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="wpn-scope-rpg">
+		<text>Ompetency sight PGO-7V</text>
+	</string>
+	<string id="enc_wpn-scope-rpg_desc">
+		<text>Soviet optical sight designed to improve accuracy of fire from grenade launchers RPG-7 and RPG-7D.</text>
+	</string>
+	<string id="wpn-railgun">
+		<text>Railgun</text>
+	</string>
+	<string id="enc_weapons1_wpn-railgun">
+		<text>Sniper weapon of the future, developed by the Corporation "New Arsenal". Operates almost silently, as the fire uses the energy of the artifacts, not the propellant gases. Despite a decent power shot, recoil of a railgun is very small. Accuracy and lethal force is superior to any classic sniper weapons.\nAmmunition:\nrail-capsules</text>
+	</string>
+	<string id="ammo-railgun">
+		<text>Rail-capsule</text>
+	</string>
+	<string id="ammo-railgun_s">
+		<text>Rail</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-railgun">
+		<text>Energy capacity with ready killer elements in store for the railgun. The energy source is an encapsulated piece of artifact "Flash".</text>
+	</string>
+	<string id="wpn-wunderwaffe">
+		<text>Gun-plasmanet</text>
+	</string>
+	<string id="enc_weapons1_wpn-wunderwaffe">
+		<text>Compact weapons of the future, developed by the Corporation "New Arsenal". Operates almost silently, as the fire uses the energy of the artifacts, not the propellant gases. Despite a decent power shot, recoil plazmometov very small. Accuracy and lethal force is superior to any classical compact weapon.\nAmmunition:\nplasma containers</text>
+	</string>
+	<string id="wpn_p12">
+		<text>Gun-shotgun P12</text>
+	</string>
+	<string id="enc_weapons1_wpn-p12">
+		<text>P12 - gun of the future, developed by the Corporation "New Arsenal". Combines the advantages of the pistol and shotgun. Firepower is far superior to all pistols. The only noticeable drawback of this weapon is the small magazine capacity.\nAmmunition: armor-piercing buckshot\n</text>
+	</string>
+	<string id="ammo-12x70-shrap">
+		<text>Armor-piercing buckshot 12 gauge</text>
+	</string>
+	<string id="ammo-12x70-shrap_s">
+		<text>12x70 BKT.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x70-shrap">
+		<text>An improved cartridge 12-gauge, loaded 9 mm armor-piercing buckshot. Has a huge killer and Bronevoy action. Designed for pistol-shotgun P12.</text>
+	</string>
+	<string id="wpn_p16">
+		<text>Gun-shotgun P16</text>
+	</string>
+	<string id="enc_weapons1_wpn-p16">
+		<text>P16 - the gun of the future, developed by the Corporation "New Arsenal". Combines the advantages of the pistol and shotgun. Firepower is far superior to all pistols. The only noticeable drawback of this weapon is the small magazine capacity.\nAmmunition: armor-piercing shot\n</text>
+	</string>
+	<string id="ammo-16x70-shrap">
+		<text>Armor-piercing shot 16 gauge</text>
+	</string>
+	<string id="ammo-16x70-shrap_s">
+		<text>16x70 BDR.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-16x70-shrap">
+		<text>An improved cartridge 16 caliber, curb 4 mm armor-piercing shot. Has a huge killer and Bronevoy action. Designed for pistol-shotgun P16.</text>
+	</string>
+	<string id="wpn_usp_m2">
+		<text>Colt Magnum</text>
+	</string>
+	<string id="enc_weapons1_wpn-usp_m2">
+		<text>The legendary Colt artisanal refinement. Gun redesigned for the more powerful .357 Magnum cartridge, and designed with decorative elements that give the weapon a little futuristic look.\nAmmunition: .357 Magnum\n</text>
+	</string>
+	<string id="wpn-fnc">
+		<text>FN FNC</text>
+	</string>
+	<string id="enc_weapons1_wpn-fnc">
+		<text>FN FNC (Fabrique Nationale Carabine carabiner firms FN) is a Belgian machine that has been sparked by the firm Fabrique Nationale de Herstal to replace the outdated FN FAL. This machine can be installed in a hunting riflescope.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="wpn-a545">
+		<text>A-545</text>
+	</string>
+	<string id="enc_weapons1_wpn-a545">
+		<text>A more modern version of the machine with a balanced automation AEK-971. Machine designed for ammunition caliber 5.45x39 mm and is equipped with a Picatinny rail for mounting sights. This machine can be configured with the following scopes: Barska АС10632, C-more Railway, EOTech, PKS-07, Zenit, ACOG.\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+	<string id="wpn-a762">
+		<text>A-762</text>
+	</string>
+	<string id="enc_weapons1_wpn-a762">
+		<text>A more modern version of the machine with a balanced automation AEK-973. The machine is designed for cartridges with a caliber of 7.62x39 mm and is equipped with a Picatinny rail for mounting sights. This machine can be configured with the following scopes: Barska АС10632, C-more Railway, EOTech, PKS-07, Zenit, ACOG.\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="wpn-addon-sil_comp">
+		<text>Compensator</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-sil_comp">
+		<text>Muzzle brake for guns, the Desert Eagle and Walther P99. Reduces the tossing of the barrel, which positively affects the accuracy of shooting.</text>
+	</string>
+	<string id="wpn-fnfal">
+		<text>FN FAL</text>
+	</string>
+	<string id="enc_weapons1_wpn-fnfal">
+		<text>FN FAL (FR. Fusil Automatique Leger — light automatic rifle) — the firearm NATO, manufactured in Belgium. One of the most recognized and popular automatic rifles. This weapon can be set to the following sights: EOTech, PKS-07.\nAmmunition:\nusual 7.62x51 mm NATO, armor-piercing 7.62x51 mm BP</text>
+	</string>
+	<string id="wpn-trg42">
+		<text>Sako TRG-42</text>
+	</string>
+	<string id="enc_weapons1_wpn-trg42">
+		<text>Sniper rifle production of the Finnish arms company SAKO. Is a repeating rifle with a longitudinally sliding rotary shutter. In the Area most often used in regular service snipers group "Freedom".\nAmmunition:\nregular .338 Lapua Magnum</text>
+	</string>
+	<string id="ars-m1014">
+		<text>Benelli M4 Super 90</text>
+	</string>
+	<string id="enc_arsenal_wpn_m1014">
+		<text>Benelli M4 Super 90 is an Italian semi-automatic self-loading smooth-bore-store gun. In the Area often meet hunters. This shotgun can be configured with the following scopes: Barska АС10632, EOTech, PKS-07, C-more Railway, ACOG.\nAmmunition:\n12x70 shot, 12x76\ngecan,\n12x76 dart</text>
+	</string>
+	<string id="wpn-m21">
+		<text>Zastava M21</text>
+	</string>
+	<string id="enc_weapons1_wpn-m21">
+		<text>Serbian clone of the Kalashnikov assault rifle chambered for 5,56х45 mm NATO. In the Area this weapon can be found, first of all, the stalkers of the Liberty group. This machine can be configured with the following scopes: Barska АС10632, C-more Railway, EOTech, PKS-07, ACOG.\nAmmunition:\nthe usual 5.56x45 mm SS109, armor-piercing 5.56x45 mm AR</text>
+	</string>
+	<string id="wpn-fpk">
+		<text>PSL</text>
+	</string>
+	<string id="enc_weapons1_wpn-fpk">
+		<text>Self-loading sniper rifle Romanian production (Pusca Semiautomata cu Luneta model 1974). Despite the obvious resemblance with the Soviet SVD rifle, the design of the weapon is based on The PKK. In the Area of it especially prefer the experienced stalkers of the Liberty group. This rifle can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1п59 "Giperon", 1ПН58 "NSPUM".\nAmmunition:\nusual 7.62x54 mm 7N1, armor-piercing 7.62x54 mm BP, sniper 7.62x54 mm 7Н14</text>
+	</string>
+	<string id="ars-mk11">
+		<text>M110 SASS</text>
+	</string>
+	<string id="enc_arsenal_mk11">
+		<text>M110 SASS — an American sniper rifle developed on the basis of Мк11 mod. 0. In the Zone is one of my favorite sniper rifles of mercenaries.\nAmmunition:\nprimary 7.62x51 mm FMJ, armor-piercing 7.62x51 mm AP</text>
+	</string>
+	<string id="ars-hk417">
+		<text>HK 417</text>
+	</string>
+	<string id="enc_arsenal_hk417">
+		<text>Very successful in the Zone of the machine, as it is designed under the powerful natonski cartridge caliber 7,62x51 mm. in addition, it can be attached to another grenade launcher. This machine can be configured with the following scopes: Barska АС10632, EOTech, PKS-07, Zenit, ACOG, PKS-07, C-more Railway.\nAmmunition:\nprimary 7.62x51 mm FMJ, armor-piercing 7.62x51 mm AP</text>
+	</string>
+	<string id="wpn-sig226">
+		<text>SIG P226</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig226">
+		<text>The SIG Sauer P226 was designed in 1981 to participate in the American contest ХМ9 new 9 mm pistol for the U.S. army, but lost to the Italian Beretta. This gun can be mounted reflex sight Docter or LCC.\nAmmunition:\nmain 9x19mm Parabellum,\n9x19 mm 7N31 armour piercing</text>
+	</string>
+	<string id="wpn-sok94">
+		<text>SOK-94</text>
+	</string>
+	<string id="enc_weapons1_wpn-sok94">
+		<text>Carbine for commercial and Amateur hunting medium and large animals, ultimately unified with The PKK. In the Area of this carabiner, you can often find hunters who appreciate its reliability and efficiency even when hunting large monsters. This carabiner can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nusual 7.62x39 mm armor-piercing\n7.62x39 mm BP,\narmor-piercing incendiary 7.62x39 mm BZ</text>
+	</string>
+	<string id="wpn-sok98">
+		<text>SOK-98</text>
+	</string>
+	<string id="enc_weapons1_wpn-sok98">
+		<text>Carbine for commercial and Amateur hunting, ultimately unified with The PKK. In the Area it can be found primarily at beginners who have not yet managed to acquire automatic weapons. This carabiner can be set to the following sights: PSO-1, 1П78 "Chestnut", USP-1 "Tulip" Kobra EKP-8-02 Kobra EKP-1S-03, 1ПН93 "Baby", 1ПН58 "NSPUM".\nAmmunition:\nthe usual 5.45x39 mm,\narmor-piercing 5.45x39 mm BP</text>
+	</string>
+</string_table>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="dar_explorer_dialog_1">
+		<text>The job I have.</text>
+	</string>
+	<string id="dar_explorer_dialog_11">
+		<text>Hmm. And what kind of job? Looking for something? Or maybe have already found? Heard here good full...</text>
+	</string>
+	<string id="dar_explorer_dialog_111">
+		<text>I'm sorry, I can not tell, and no time.</text>
+	</string>
+	<string id="dar_explorer_dialog_1111">
+		<text>Yes, you wait to run. Run more... And what have you found? I'm here too not just drag</text>
+	</string>
+	<string id="dar_explorer_dialog_11111">
+		<text>This is my case, what I found.</text>
+	</string>
+	<string id="dar_explorer_dialog_11112">
+		<text>Found the X18 documents, the bartender promised to pay well.</text>
+	</string>
+	<string id="dar_explorer_dialog_112">
+		<text>No, found nothing.</text>
+	</string>
+	<string id="dar_explorer_dialog_2">
+		<text>I do not know how to come back so, get out of here soon.</text>
+	</string>
+	<string id="dar_explorer_dialog_21">
+		<text>Nothing interesting was found by accident? They say here you can find information about the experiments. Well paid for it...</text>
+	</string>
+	<string id="dar_explorer_dialog_211">
+		<text>No, I have not found.</text>
+	</string>
+	<string id="dar_explorer_dialog_2111">
+		<text>Yes?.. And if you think well? Not telling me anything?</text>
+	</string>
+	<string id="dar_explorer_dialog_21111">
+		<text>No.</text>
+	</string>
+	<string id="dar_explorer_dialog_21112">
+		<text>What kind of questions?</text>
+	</string>
+	<string id="dar_explorer_dialog_21113">
+		<text>Are you threatening me?</text>
+	</string>
+	<string id="dar_explorer_dialog_212">
+		<text>To hell with all this information, I barely survived.</text>
+	</string>
+	<string id="dar_explorer_dialog_2121">
+		<text>Well, run. Suddenly you find - I'm not far...</text>
+	</string>
+	<string id="dar_explorer_dialog_25">
+		<text>Look, buddy, I'm in this area has passed through the fire, anomalies and monsters and was still alive, as you can see! So don't tell me what to say and what is not. I came for the documents. And not leaving without them. If they are in front of you, then I suggest you to give them, otherwise you will remain in this pit forever! Got it?</text>
+	</string>
+	<string id="dar_explorer_dialog_251">
+		<text>Clear.</text>
+	</string>
+	<string id="dar_explorer_dialog_2511">
+		<text>If you lie - you will have problems if you have something in mind - you will have problems if I throw some stuff - you will have problems. In short you have one big problem - you need to really try that would solve it! And now once again for the stupid: you found the documents?</text>
+	</string>
+	<string id="dar_explorer_dialog_2521">
+		<text>That's good and next time watch your mouth. Now go. Suddenly you find - I'm not far...</text>
+	</string>
+	<string id="dar_explorer_dialog_253">
+		<text>The conversation is over, get out of the way.</text>
+	</string>
+	<string id="dar_explorer_dialog_26">
+		<text>I don't have any documents.</text>
+	</string>
+	<string id="dar_explorer_dialog_271">
+		<text>That's better, buddy. Now give me all the information I found. Every one of the document. And don't joke with me - otherwise it will be your last joke...</text>
+	</string>
+	<string id="dar_explorer_dialog_51">
+		<text>Wait you say! I'm in this hole not just roam around. Don't fool around, out found. Share if that...</text>
+	</string>
+	<string id="dar_explorer_dialog_511">
+		<text>Share I'm not going to.</text>
+	</string>
+	<string id="dar_explorer_dialog_5111">
+		<text>Well, Well, piss off... but that's just one piece of advice - watch your step, don't trip, Stalker!</text>
+	</string>
+	<string id="dar_explorer_dialog_512">
+		<text>Are you threatening me?</text>
+	</string>
+	<string id="dar_explorer_dialog_5121">
+		<text>Okay, okay, simmer down... Just curious, you are quick to the gun. No more questioning. Just be careful and all.</text>
+	</string>
+	<string id="dar_explorer_dialog_61">
+		<text>Documents means... that Is exactly what I came for, FYI. And now you'll pay me back and run where ran. Do you understand me?</text>
+	</string>
+	<string id="dar_explorer_dialog_6111">
+		<text>game</text>
+	</string>
+	<string id="dar_explorer_dialog_6121">
+		<text>Listen, buddy, don't bother me. Let's make a deal. I normally roll you will not regret it.</text>
+	</string>
+	<string id="dar_explorer_dialog_6131">
+		<text>I listen to wkra need these documents. Let's see what you got - I think we agree...</text>
+	</string>
+	<string id="dar_explorer_dialog_8011">
+		<text>It's dark in here, can't see shit. Burer around... why did I agree?! How you got here?</text>
+	</string>
+	<string id="dar_explorer_dialog_8021">
+		<text>Go away Stalker</text>
+	</string>
+	<string id="dar_explorer_dialog_8031">
+		<text>I can't stand when the conversation is interrupted. In short, I came for important documents. If you ever find out, or you will have problems. If you didn't find anything - go away and don't take my time</text>
+	</string>
+	<string id="dar_explorer_dialog_8041">
+		<text>I can't stand when the conversation is interrupted! Out documents if you don't want to stay here forever</text>
+	</string>
+	<string id="dar_explorer_dialog_9">
+		<text>Will take into account.</text>
+	</string>
+</string_table>

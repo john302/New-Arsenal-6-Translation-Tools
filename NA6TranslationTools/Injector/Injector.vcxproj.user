@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>-exe "D:\Games\STALKER\New Arsenal 6\bin_x64\xrEngine.exe" -dll "C:\Users\Matt\Desktop\NA6TranslationTools\x64\Debug\LoaderDLL.dll" -folder "D:\Games\STALKER\New Arsenal 6\bin_x64" -args "test"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,39 @@
+	<string id="aes_btr1">
+		<text>Battleship 1</text>
+	</string>
+	<string id="aes_btr2">
+		<text>Battleship 2</text>
+	</string>
+	<string id="aes_btr3">
+		<text>Battleship 3</text>
+	</string>
+	<string id="aes_grif">
+		<text>Grif</text>
+	</string>
+	<string id="aes_korshun">
+		<text>Kite</text>
+	</string>
+	<string id="aes_kvartet">
+		<text>Quartet</text>
+	</string>
+	<string id="aes_lun">
+		<text>LUN</text>
+	</string>
+	<string id="aes_pustelga">
+		<text>Kestrel</text>
+	</string>
+	<string id="aes_sapsan">
+		<text>Peregrine</text>
+	</string>
+	<string id="aes_sarcofag_hint">
+		<text>The entrance to The sarcophagus</text>
+	</string>
+	<string id="aes_sokol">
+		<text>Falcon</text>
+	</string>
+	<string id="aes_sova">
+		<text>Owl</text>
+	</string>
+	<string id="aes_yastreb">
+		<text>Hawk</text>
+	</string>

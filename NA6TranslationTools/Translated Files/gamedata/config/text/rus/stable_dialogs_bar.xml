@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="bar_arena_man_job_0">
+		<text>Go on....</text>
+	</string>
+	<string id="bar_arena_man_job_11">
+		<text>Well, the first fight. Your adversary, the same piece of meat, just like you. Came here because of debts. He got a choice, either walk out and fight, or go to the nearest anomaly. So he will fight like a dog backed into a corner. From equipment today, let me see, yeah - fight to Pmah. Well, and two clips I think you have enough. Go and kick his ass, or go to the dogs to feed, the selection is not great. Forward.</text>
+	</string>
+	<string id="bar_arena_man_job_111">
+		<text>I'm ready.</text>
+	</string>
+	<string id="bar_arena_man_job_112">
+		<text>I'm not ready.</text>
+	</string>
+	<string id="bar_arena_man_job_12">
+		<text>Previous fight didn't mean anything. You're still a piece of meat, to which even decent people will not put and clips. If you want to earn not bad, you have yet time to speak. Your opponent also passed the first round and did it fast enough, and the enemy had more serious your. Well, to be honest, I don't like it, it kills very quickly, and the audience doesn't like it. So let's go ahead and show what you're capable of. After this fight, the stakes begin to rise, it remains only to survive. Go!</text>
+	</string>
+	<string id="bar_arena_man_job_121">
+		<text>I'm ready.</text>
+	</string>
+	<string id="bar_arena_man_job_122">
+		<text>I'm not ready.</text>
+	</string>
+	<string id="bar_arena_man_job_13">
+		<text>Well, Well. You were not so weak, what seemed at first sight. The time has come to test you in a fair fight. You are against two enemies, the first Swede, the second can not remember the name. They specifically put in a couple, they don't like. So team games they may not afraid. Rather, they are each other's shot. Of weapons today, the guns, so just focus not substitutes, and that in parts you will collect. The odds are against you ten to one if they win, well earned. Let's do this!</text>
+	</string>
+	<string id="bar_arena_man_job_131">
+		<text>I'm ready.</text>
+	</string>
+	<string id="bar_arena_man_job_132">
+		<text>I'm not ready.</text>
+	</string>
+	<string id="bar_arena_man_job_14">
+		<text>Now I can confidently say that you're a fighter. It's time for team performances. You will be performing two beginner, two brothers. They have not yet acted, but so the brothers had to shove it in team fights. For special assistance, can not count, so count only on themselves. You play against a cohesive team, contenders for the finals this season. Dangerous guys. Mixed weapons, one of them automatic shotgun - with him, be very careful. The rest of The AKS. Good luck, you're gonna need it.</text>
+	</string>
+	<string id="bar_arena_man_job_141">
+		<text>I'm ready.</text>
+	</string>
+	<string id="bar_arena_man_job_142">
+		<text>I'm not ready.</text>
+	</string>
+	<string id="bar_arena_man_job_15">
+		<text>Today you have an unusual battle. About your exploits even heard warriors and sent two of his men, but do not be surprised, the warriors also were involved. Among the spectators there is even General. These guys from the special forces, or rather of RIOT police. And they are armed accordingly. Be careful, they have a strong enough armor. I'm naked too will not leave. Get the armor, armorer sobolowski, what would they have to swallow the thing easy, so that run will not interfere. Show them our brother also no fool. Good luck!</text>
+	</string>
+	<string id="bar_arena_man_job_151">
+		<text>I'm ready.</text>
+	</string>
+	<string id="bar_arena_man_job_152">
+		<text>I'm not ready.</text>
+	</string>
+	<string id="bar_arena_man_job_16">
+		<text>Today you have an exhibition. Debt have caught a gang which for a long time in Rostock peace stalkers not allowed. Took them at night, so almost all remained alive. They still to the wall will be put, so I the Debt was convinced to give them a chance. Who will survive, will go to jail outside the Zone, everything is better than to die. They are armed with anything, mostly pistols and shotguns, but six of them, so don't get stupid. Let's go!</text>
+	</string>
+	<string id="bar_arena_man_job_161">
+		<text>I'm ready.</text>
+	</string>
+	<string id="bar_arena_man_job_162">
+		<text>I'm not ready.</text>
+	</string>
+	<string id="bar_arena_man_job_17">
+		<text>You've almost reached the final. You have to battle with a master Stalker. Yes, he's single, but he ekzoskeleta, and FN-2000, if you fall under the queue, you'll get killed. You are in for a surprise, which I can't tell you, but my advice to you - get ready, the fight will not be easy. The winner of this fight will take place in the final - a fight to the death. Forward!</text>
+	</string>
+	<string id="bar_arena_man_job_171">
+		<text>I'm ready.</text>
+	</string>
+	<string id="bar_arena_man_job_172">
+		<text>I'm not ready.</text>
+	</string>
+	<string id="bar_arena_man_job_18">
+		<text>I congratulate you! You've reached the final. It remains the last fight - Deadly battle. In this battle, every man for himself. In the past you in the battle take part 4 Stalker, all masters, all ekzoskeleta, all with G-36. Now everything is fair - you will have exactly the same equipment. No first-aid kits and bandages. Ready! Prove you're the best! GO!</text>
+	</string>
+	<string id="bar_arena_man_job_181">
+		<text>I'm ready.</text>
+	</string>
+	<string id="bar_arena_man_job_182">
+		<text>I'm not ready.</text>
+	</string>
+	<string id="bar_arena_man_start_11">
+		<text>Hey! There is a new battle for you.</text>
+	</string>
+	<string id="bar_arena_man_start_21">
+		<text>Take a walk for an hour or two, the arena is not ready yet!</text>
+	</string>
+	<string id="bar_arena_man_start_31">
+		<text>You've become the Master!!!\n</text>
+	</string>
+	<string id="bar_arena_man_start_41">
+		<text>You won! Here's your reward!</text>
+	</string>
+	<string id="bar_arena_man_start_51">
+		<text>You are not experienced enough for this fight!</text>
+	</string>
+	<string id="bar_bar_barman_ecolog_flash_done_0">
+		<text>Here is a flash drive with information, which I gave to Professor Kruglov.</text>
+	</string>
+	<string id="bar_bar_barman_ecolog_flash_done_21">
+		<text>Good job, I think the Debt will be grateful for this information. Here's your reward.</text>
+	</string>
+	<string id="bar_bar_barman_ecolog_flash_done_31">
+		<text>So-So. Information say? Directly from Professor Kruglov, right? Are you here to mock me? "I, Professor Kruglov, in the name of science and humanity, erase the records of our researches" - this is the information that you were supposed to get??? Yeah... I think the Debt will be very happy when he finds out about it.</text>
+	</string>
+	<string id="bar_bar_barman_killer_ambush_0">
+		<text>The job is done, here PDA Tyrant.</text>
+	</string>
+	<string id="bar_bar_barman_killer_ambush_1">
+		<text>Give, Labeled. Well done! What can I say!? Pleased, Yes. Honestly a little doubt that you'll handle it, and you look, and stayed alive, and decided to do all.</text>
+	</string>
+	<string id="bar_bar_barman_killer_ambush_2">
+		<text>What's the reward?</text>
+	</string>
+	<string id="bar_bar_barman_killer_ambush_3">
+		<text>Here you go, as promised your reward.</text>
+	</string>
+	<string id="bar_bar_barman_veterans_finish_0">
+		<text>Keep CCP Happy. I fulfilled your assignment.</text>
+	</string>
+	<string id="bar_bar_barman_veterans_finish_1">
+		<text>Give, Labeled. Well done! What can I say!? Pleased, Yes. Honestly a little doubt that you'll handle it, and you look, and stayed alive, and decided to do all.</text>
+	</string>
+	<string id="bar_bar_barman_veterans_finish_11">
+		<text>What's the reward?</text>
+	</string>
+	<string id="bar_bar_barman_veterans_finish_111">
+		<text>The hero is not a hero. Here you go. I think you wouldn't hurt our deal.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_0">
+		<text>Special missions are there?</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_111">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_21">
+		<text>More to the point. What you need to do?</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_221">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2311">
+		<text>There is one serious matter. On the "wild territory" again there was a group of veteran killers. To me people came out of Debt and asked to deal with these veterans. Have Debt there is overwhelming evidence of the involvement of veterans to the killing of individuals. The point here is that they have old Debt agreement that Debt can not break, and these guys are too impudent. In short, the Debt wants to be quietly removed. The job is challenging, but pays well.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_23111">
+		<text>Some additional conditions? And it is strange that the Debt all the leaks.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_231111">
+		<text>Duty cares about its reputation. So they want to be considerate. You have to destroy the leader, nicknamed "Lucky" and bring his PDA as evidence.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2311111">
+		<text>Taken. I hope that I will not regret it.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_23111111">
+		<text>Great solution and I'm sorry there's nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2311112">
+		<text>No, I will not undertake.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_23111121">
+		<text>Well, as you know, just remember that this is a good chance to obtain appreciation from dolgovtsev.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_24">
+		<text>More to the point. What you need to do?</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_241">
+		<text>Your task is the destruction of the Tyrant, the leader of a group of Mercenaries. A squad of Mercenaries burst into the wild and sat down on the construction site. Be careful, some militants are sitting in ambush at the approaches to the site. As soon As I bring my PDA Tyrant, the reward is yours.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2411">
+		<text>Taken. I hope that I will not regret it.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_24111">
+		<text>Great solution and I'm sorry there's nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2412">
+		<text>No, I will not undertake.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_24121">
+		<text>Well, as you know.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_251">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_261">
+		<text>Your task is the destruction of the Tyrant, the leader of a group of Mercenaries. A squad of Mercenaries burst into the wild and sat down on the construction site. Be careful, some militants are sitting in ambush at the approaches to the site. As soon As I bring my PDA Tyrant, the reward is yours.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2611">
+		<text>Taken. I hope that I will not regret it.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_26111">
+		<text>Great solution and I'm sorry there's nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2612">
+		<text>No, I will not undertake.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_26121">
+		<text>Well, as you know.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_266">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_271">
+		<text>Do not rush Labeled. You're still veterans not understood, and already eager to do something else.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_311">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_321">
+		<text>There is one serious matter. On the "wild territory" again there was a group of veteran killers. To me people came out of Debt and asked to deal with these veterans. Have Debt there is overwhelming evidence of the involvement of veterans to the killing of individuals. The point here is that they have old Debt agreement that Debt can not break, and these guys are too impudent. In short, the Debt wants to be quietly removed. The job is challenging, but pays well.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_3211">
+		<text>Any additional conditions?</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_32111">
+		<text>Duty cares about its reputation. So they want to be considerate. You have to destroy the leader, nicknamed "Lucky" and bring his PDA as evidence.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_32112">
+		<text>Taken.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_321121">
+		<text>Great solution and I'm sorry there's nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_32113">
+		<text>No, I will not undertake.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_321131">
+		<text>Well, as you know, just remember that this is a good chance to obtain appreciation from dolgovtsev.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_32121">
+		<text>the default text</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_331">
+		<text>Your task is the destruction of the Tyrant, the leader of a group of Mercenaries. A squad of Mercenaries burst into the wild and sat down on the construction site. Be careful, some militants are sitting in ambush at the approaches to the site. As soon As I bring my PDA Tyrant, the reward is yours.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_3312">
+		<text>Taken.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_33121">
+		<text>Great solution and I'm sorry there's nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_3313">
+		<text>No, I will not undertake.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_33131">
+		<text>Well, as you know.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_341">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_351">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_361">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_371">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_41">
+		<text>Yet, another time.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_441">
+		<text>There is work for veterans.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_442">
+		<text>More to the point. What you need to do?</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_443">
+		<text>Your task is the destruction of the Tyrant, the leader of a group of Mercenaries. A squad of Mercenaries burst into the wild and sat down on the construction site. Be careful, some militants are sitting in ambush at the approaches to the site. As soon As I bring my PDA Tyrant, the reward is yours.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_4431">
+		<text>Taken. I hope that I will not regret it.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_44311">
+		<text>Great solution and I'm sorry there's nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_4432">
+		<text>No, I will not undertake.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_44321">
+		<text>Well, as you know.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_444">
+		<text>No, now is not interested.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_52">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_531">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_541">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_62">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_72">
+		<text>No, today, nothing.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1111">
+		<text>Well, shall we? Ready?</text>
+	</string>
+	<string id="bar_bar_barmen_start_1131">
+		<text>Hmm... And you still?</text>
+	</string>
+	<string id="bar_bar_barmen_start_121">
+		<text>Well, Labeled, the documents from X16?</text>
+	</string>
+	<string id="bar_bar_barmen_start_1211">
+		<text>Yes, here they are.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1212">
+		<text>No.</text>
+	</string>
+	<string id="bar_bar_barmen_start_12121">
+		<text>From you damn. I'm here you know squirm, bend over backwards, he winds up. Fast for documents! Without them our business would not budge!</text>
+	</string>
+	<string id="bar_bar_barmen_start_121211">
+		<text>Okay.</text>
+	</string>
+	<string id="bar_bar_barmen_start_131">
+		<text>Well, Marked, with only a "burner" to understand and to the North the passage to open. Ready now to go?</text>
+	</string>
+	<string id="bar_bar_barmen_start_1312">
+		<text>Ready.</text>
+	</string>
+	<string id="bar_bar_barmen_start_13121">
+		<text>So Labeled, protective prototype you have to from cautery to hide behind. The coordinates of the bunker I know. Don't forget that the prototype will not be able indefinitely to protect you from radiation. You must get into the bunker beneath the antennas and turn off burner. Beyond that, I don't know, but I feel it was worth it. I do know one thing: the road to the center of the zone will be open.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1313">
+		<text>Keep going.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1314">
+		<text>All you need to do is just break into the bunker beneath the antennas and disable them. All clear?</text>
+	</string>
+	<string id="bar_bar_barmen_start_1315">
+		<text>Clear.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1316">
+		<text>Yes, here's another! The chief Duty, I noted you on the map looking for a volunteer to run some jobs in the Military warehouses, if interested, can visit him. With protection, I agree, they miss you. And finally. Those who had worked there before all this nonsense, they say that in the bunker there's a vault of some kind with a combination lock. Before the code was 1989. Check, perhaps, find it useful.</text>
+	</string>
+	<string id="bar_bar_barmen_start_132">
+		<text>No, I'm not ready yet.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1321">
+		<text>Get Ready, Labeled. Such a thing cannot wait.</text>
+	</string>
+	<string id="bar_bar_barmen_start_151">
+		<text>So. According to the documents that you brought with the Agricultural industry, something begins to dawn, but data is lacking. Mentioned a kind of laboratory X-18, similar to the abandoned underground premises in the Dark valley. You have to go and get the missing information. The laboratory is closed, and to open it, you will need two electronic keys. I'll give you one, and the second will take a Hog in the Dark valley.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1511">
+		<text>Keep going.</text>
+	</string>
+	<string id="bar_bar_barmen_start_15111">
+		<text>All you need to do is to get a second key to lab X-18, to penetrate it and get the missing part of the documents. Don't forget to get a suit that protects from radiation. Without it, you will not pass. Well Labeled, come from?</text>
+	</string>
+	<string id="bar_bar_barmen_start_15112">
+		<text>I'll try it.</text>
+	</string>
+	<string id="bar_bar_barmen_start_15113">
+		<text>That's fine. I'll be waiting.</text>
+	</string>
+	<string id="bar_bar_barmen_start_15114">
+		<text>No, I don't want to take on.</text>
+	</string>
+	<string id="bar_bar_barmen_start_15115">
+		<text>Your business, Labeled. Just know, while this is the only clue that will help us open the road to the North.</text>
+	</string>
+	<string id="bar_bar_barmen_start_161">
+		<text>What are you Labeled?</text>
+	</string>
+	<string id="bar_bar_barmen_start_162">
+		<text>Hi, Tagged. Time is running out and you don't change, still the same unsociable. Sit down have a drink, maybe a bit kinder.</text>
+	</string>
+	<string id="bar_bar_barmen_start_171">
+		<text>Well, Labeled, the documents from X18 bring?</text>
+	</string>
+	<string id="bar_bar_barmen_start_172">
+		<text>Yes, here they are.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1721">
+		<text>The situation is clear. As I suspected, a brain burner man-made. This is an experimental emitter kaymanova, d part of it was just made in a lab X18. In these documents there is a link to the X16 lab, where the finished blocks, it is situated on the territory of the production complex near lake Yantar. There near the camp of scientists, they will certainly tell you more precisely.</text>
+	</string>
+	<string id="bar_bar_barmen_start_17211">
+		<text>Keep going.</text>
+	</string>
+	<string id="bar_bar_barmen_start_17212">
+		<text>The situation is difficult: you have to go to the scientists and find out where the lab X16 to get the missing part of the documents. Well, are you ready?</text>
+	</string>
+	<string id="bar_bar_barmen_start_17213">
+		<text>Ready.</text>
+	</string>
+	<string id="bar_bar_barmen_start_172131">
+		<text>That's fine. I'll be waiting.</text>
+	</string>
+	<string id="bar_bar_barmen_start_17214">
+		<text>No, not ready yet.</text>
+	</string>
+	<string id="bar_bar_barmen_start_172141">
+		<text>Get Ready, Labeled. Such a thing cannot wait.</text>
+	</string>
+	<string id="bar_bar_barmen_start_173">
+		<text>No.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1731">
+		<text>So what are you doing? Get the documents! Without them our business would not budge!</text>
+	</string>
+	<string id="bar_bar_barmen_start_181">
+		<text>What are you Labeled?</text>
+	</string>
+	<string id="bar_bar_barmen_start_182">
+		<text>Hi, Tagged. Time is running out and you don't change, still the same unsociable. Sit down have a drink, maybe a bit kinder.</text>
+	</string>
+	<string id="bar_bar_barmen_start_2">
+		<text>Great, Bullseye. Brought the documents from Agroprom?</text>
+	</string>
+	<string id="bar_bar_barmen_start_21">
+		<text>No papers from Agroprom yet.</text>
+	</string>
+	<string id="bar_bar_barmen_start_211">
+		<text>Bad, Labeled, very bad. Do you know how much they are needed? And they are very much needed, believe me. We have at hand "brain burner", and we don't even know what it is. Immediately go over the documents. All the talk later.</text>
+	</string>
+	<string id="bar_bar_barmen_start_2111">
+		<text>I think I understand.</text>
+	</string>
+	<string id="bar_bar_barmen_start_22">
+		<text>Yes, here's the documents from Agroprom.</text>
+	</string>
+	<string id="bar_bar_barmen_start_221">
+		<text>Good job, Bullseye. Finally, the documents we have. Now I need to understand them, I can learn how to get to the North. By the way, if you need money, you can go fight in the Arena. The owner of the Arena name is Arnie, the coordinates I'm thrown off.</text>
+	</string>
+	<string id="bar_bar_barmen_start_2211">
+		<text>Well</text>
+	</string>
+	<string id="bar_bar_barmen_start_22111">
+		<text>Now listen!</text>
+	</string>
+	<string id="bar_bar_barmen_start_3">
+		<text>What are you Labeled?</text>
+	</string>
+	<string id="bar_bar_barmen_start_4">
+		<text>Hi, Tagged. Time is running out and you don't change, still the same unsociable. Sit down have a drink, maybe a bit kinder.</text>
+	</string>
+	
+	<string id="bar_bar_barmen_start_1974">
+		<text>Well Labeled, the documents from X16 we have. They mentioned some Military Laboratory, which is located on-site Generators. In this lab stored the floppy disk with the desired data for entry into the territory of the Burner. You need this diskette to extract. Ready?</text>
+	</string>
+	<string id="bar_bar_barmen_start_19741">
+		<text>Ready.</text>
+	</string>
+	<string id="bar_bar_barmen_start_19742">
+		<text>Yet.</text>
+	</string>
+	<string id="bar_bar_barmen_start_197411">
+		<text>Then listen closely. Need to reach the Generators and find the entrance to the weapons lab. The access code in the dungeon: 120307. Then act according to circumstances, for it is not excluded that in the laboratory there will be more combination locks. Once you get the floppy, just come get me. All clear?</text>
+	</string>
+	<string id="bar_bar_barmen_start_1974111">
+		<text>Yes.</text>
+	</string>
+	<string id="bar_bar_barmen_start_197422">
+		<text>Well, when you're ready, let me know.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1974222">
+		<text>Okay.</text>
+	</string>
+	<string id="bar_bar_barmen_start_01974">
+		<text>So what about the floppy?</text>
+	</string>
+	
+	<string id="bar_bar_barmen_start_19891">
+		<text>Well Labeled, brought a floppy?</text>
+	</string>
+	<string id="bar_bar_barmen_start_19892">
+		<text>Yes, here it is.</text>
+	</string>
+	<string id="bar_bar_barmen_start_19893">
+		<text>Yet.</text>
+	</string>
+	<string id="bar_bar_barmen_start_19894">
+		<text>Fig. You know how important it is to get this floppy disk?</text>
+	</string>
+	<string id="bar_bar_barmen_start_19895">
+		<text>Understand. Already hit the road.</text>
+	</string>
+	
+	<string id="bar_bar_barmen_talk_info_0">
+		<text>I would like to know something.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_1">
+		<text>What are you interested in?</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_10">
+		<text>Thank you.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_3">
+		<text>What do you know about the Arrow?</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_31">
+		<text>As far as I know an experienced Stalker. "Worked" through the Northern exits of the Zone. Here, few have seen it, but there were rumors that he and his band took to the center of the Zone.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_4">
+		<text>What do you know about a Stalker called Ghost?</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_41">
+		<text>Well, he's kind of one of a group Shooter. Can I say to get anywhere quietly. It was rumored that he killed the leader of one group is moved... what was her name? Oh, I remember! Last night called... Yes... Wild guys -- by the Way about the Ghost, saying he scientists now for some job...So if you want it - look for it at Yantar at the mobile lab scientists.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_51">
+		<text>Old Stalker, who retired. Lives in swamps, I will mention you on the map. At the time, was associated with the Arrow group.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_6">
+		<text>What do you know about the Stalker Fang?</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_61">
+		<text>There was a man, Burr much. Was not himself, he was talking to himself, and nothing...But I have been in the Bar seen.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_7">
+		<text>Tell us about mobile research laboratories.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_71">
+		<text>Scientists organize periodically. Isolated from the external environment of metal bins inside all that is necessary for life. We are in contact with one such lab at Yantar. Scientists are good guys reveal a lot of interesting information, and we also help them in the case... hehe... Mutually beneficial barter, you know.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_8">
+		<text>What is the "Wishmaster"?</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_81">
+		<text>OOO! This is a very interesting question, and I wish I had the right answer. You can only tell the legend of "the artist" and how much truth in it, up to you. Are you going to listen?</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_811">
+		<text>Yes, very interesting.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_8111">
+		<text>This is the legend about the Monolith, quite possibly being the cause of the Zone. In 2006, the Area exploded, measures have been taken and the population around it were evacuated and the Area cordoned off part of the army. No one knew what was going on, around the panic, the Area is growing, field laboratory powerless. A lot of people died inside. Everyone is afraid of radiation, which can cover half of Europe. Several years passed, the first desperate guys like you. They were called stalkers. They penetrated through the army lines, believing that in the Area, something there, something that will bring them wealth. Slowly began to pull out weird things, artifacts, which instantly began the race. Scientists have gone mad, natural hysteria. In one such specimen was paying big money, not what is now.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_81111">
+		<text>Keep going...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_811111">
+		<text>So, the first stories and legends about what's inside the Area near dilapidated nuclear power plants. Then one of the veterans told the story, heard from one of the local stalkers-timers about the Monolith, supposedly fulfilling desires. What started the hysteria, stalkers huddled in small groups and rushed to the center of the Zone, each wanted something from the Monolith. Appeared grim details about the first Stalker, to get to the Monolith...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_8111111">
+		<text>Then... come on...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_81111111">
+		<text>Even when the Zone first came out, many people were under her hood, cut off from the outside world. Most died immediately, but remained rare lucky ones not only surviving, but trying to do something. One of the survivors was near the station, inside he saw a strange glow, he had no choice, the way back was cut off and he was getting closer. He opened the picture of the hole in the roof of the sarcophagus from which it pulls out the glow. He climbed up the wall and he opened interior view, among a heap of metal wreckage and charred concrete pancakes rested a huge black shard of geometric shapes. It was a Monolith, Stalker finally woke up from a strange obsession and realized that he literally got scared fanusi the Sarcophagus. It sits in wild fear, through which monotonically fought the call of the Monolith. The monolith called him, and the Stalker's hair stood on end, his head exploded strange incredible pictures of the Monolith...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_811111111">
+		<text>Cool...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_811111112">
+		<text>I don't know what in this story is true, what is false. The point is that he made a wish and it came true, and the Area increased sharply for five miles. It seems that for every fulfilled desire Area eats up our Land. But that doesn't stop these brave guys like you. They continue to rush inside, carrying in their hearts innermost desires...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_812">
+		<text>I'm more interested in other information.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_8121">
+		<text>Well, as you know. What exactly are you interested in?</text>
+	</string>
+	<string id="bar_bar_drunk_dolg_start_11">
+		<text>IK... ugh, Holy shit. Drunk again, damn it. Me, you know, from "the Debt" I want to bulge, if I and the job will fail. And I'm not in the condition that it... the fact that...</text>
+	</string>
+	<string id="bar_bar_drunk_dolg_start_111">
+		<text>Understand</text>
+	</string>
+	<string id="bar_bar_drunk_dolg_start_21">
+		<text>Well, what is it? What's the news? There's not another bastard slapped. Ah, the life... Hey, did you at least drink with me.</text>
+	</string>
+	<string id="bar_bar_drunk_dolg_start_31">
+		<text>IK ...it helped so much. Well, here's to "Debt"? Eee... Ah!</text>
+	</string>
+	<string id="bar_bar_hunter_quest_finish_0">
+		<text>Found, keep your gun.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_finish_1">
+		<text>What? The gun found? Wow!!! Brother, brother, bratulich... I have no words. Thank you. THANK you, damn it! Oh, well, helped, well, helped!!! Yeah! Here, take my modest reward, that's all I have. I'm sorry, it is not as great as your help. And I won't forget, damn it, as you helped me. Hopefully I'll be able over time to help you, like you and me. Thank you. Look, I'll tell you. Near the place where you my gun pulled out, there is one more thing, a strange boarding house. There is no one knows, but through the window you can see that there are many anomalies. Maybe the artifacts are, only how to get there, I don't know.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_0">
+		<text>Keep going.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_1">
+		<text>All you give, my friend, just let go of the gun, I beg you. I lost him near the home of the bloodsuckers now so I'll text you the coordinates of the place. And be careful out there, these creatures are very evil.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_11">
+		<text>Well, I'll try to get a gun.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_111">
+		<text>I will not deceive you.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_1111">
+		<text>It's in your best interest.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_12">
+		<text>No. I have better things to do.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_121">
+		<text>It's your business, but I hope you change your mind.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_1212">
+		<text>View.</text>
+	</string>
+	<string id="bar_bar_hunter_start_11">
+		<text>Damn, lost the family rifle in the wild territory. Thought bloodsuckers to shoot, but he barely took away his legs. Damn! Listen, brother, if I bring my gun, thank you. I've earned a bit, I will give you everything, just give me back the gun. It is in our DNA, from father to son passed down. And to you - lost. I said to him, you're going to grow, akin, and here such ambush.</text>
+	</string>
+	<string id="bar_bar_hunter_start_21">
+		<text>Hi. Any news? Found???</text>
+	</string>
+	<string id="bar_bar_hunter_start_31">
+		<text>Thank you brother. I will not forget how you helped me.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_reward_0">
+		<text>The wolfhound said that you did something will give.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_reward_1">
+		<text>Yes. Because you helped him with Kruglov, hold the grenade launcher. Here's another thousand money. In the appendage can with you free to share regular information.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_reward_2">
+		<text>Thank you.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_reward_3">
+		<text>Now listen to what I tell you. You helped Freedom and made the right choice. Now you're linked with her, and the Debt took you to the note. I would advise you to go to an abandoned military base and join the ranks of Freedom. They need good fighters. Soon to be a number of skirmishes between Duty and Freedom and those who choose the right side, will be the winner.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_start_11">
+		<text>I'm an informant, trading information in the Area. Sell important information, to buy drawings, documents and records of the laboratory. My information is valuable and will benefit him who possesses it.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_start_21">
+		<text>Hello, Tagged. You helped Freedom and made the right choice. Now you're linked with her, and the Debt took you to the note. I would advise you to go to an abandoned military base and join the ranks of Freedom. They need good fighters.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_start_211">
+		<text>I'll think about it.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_start_2111">
+		<text>So Labeled. What brings you to me? Want to buy information? Or maybe to sell?</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_0">
+		<text>So you get associated with Freedom?</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_1">
+		<text>Now I'm not ready to answer this question. What I can say is that I am not in one of the factions.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_0">
+		<text>Tell me about the grouping of "Freedom".</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_1">
+		<text>Of course, what a question. "Freedom" is one of the oldest groups in the Area, and the only one that openly opposes government forces and research groups. Its founders were killed during major clashes with government troops during a large-scale army troops in the Area. The possibility of the government control was eliminated. And perhaps it has given the world cast into a new world war with the use of new technologies. According to some fragmentary information, the Area is a secret military testing ground, which were testing new military technology. And, at least, the result of the test is impressive. "Freedom" is the only group that opposed the return of the landfill to government forces. What happens if the polygon will be returned is unknown, it is necessary to keep him at any cost.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_2">
+		<text>And what does "Duty"?</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_3">
+		<text>Debt is part of government forces, which are controlled from the outside. Their goal is cleaning of the territory from the mutants and the destruction of a group "Freedom" than they do. As soon As the last obstacle will be removed in the Zone will reset many of the army troopers, who will take control of the Area.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_4">
+		<text>Thanks for the info</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_0">
+		<text>I want to buy information.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_21">
+		<text>At the moment I'm willing to sell information about the Arrow group. For quite a symbolic price of 4000 virtually any.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_211">
+		<text>Well, I buy. Keep 4000.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_2111">
+		<text>Located near Sri Agroprom stash in the dungeon. Most likely, there is information about the plans of the group and lists the group members. The cache coordinates are included.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_212">
+		<text>No, I changed my mind.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_2121">
+		<text>It's your business. How dare come, I always at the bar.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_31">
+		<text>At the moment I'm willing to sell information about the group that made it to the center of the Zone. For quite a symbolic price in 2000 virtually any.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_311">
+		<text>Well, I buy. Keep 2000.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_3111">
+		<text>Strelok, Ghost and Fang went to the center of the Zone. What they discovered next is unknown, we only know that the Shooter was gone, and the Ghost and Fang came back with some prichenennye. The last known information about the Phantom is that he went to amber in the mobile camp of scientists. Location of the camp of scientists is attached.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_312">
+		<text>No, I changed my mind.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_3121">
+		<text>It's your business. How dare come, I always at the bar.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_41">
+		<text>At the moment I'm willing to sell information about the mystery of lake Yantar. For quite a symbolic price of 3500 virtually any.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_411">
+		<text>Well, I buy. Keep 3500.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_4111">
+		<text>The mystery of Amber similar to the mystery of "cautery" of the brain, their effects are largely similar. Unknown radiation mesmerizes all who fall under its scope. The result is zombified stalkers move around the center of a "radiator", attacking all who are not "irradiated". There is information that a dungeon is the answer to the "Amber". Here are the coordinates of the "emitter" at lake Yantar and the "cautery of the brain."</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_412">
+		<text>No, I changed my mind.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_4121">
+		<text>It's your business. How dare come, I always at the bar.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_999">
+		<text>At the moment new.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_11">
+		<text>...it's high time to soak Hog. If I knew who did it, I would buy him a drink.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_111">
+		<text>Exactly, it's time.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_21">
+		<text>...someone really molested Free. I heard that "Wild territory" destroyed a group of militants of the Freedom. I wonder who that could be?</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_211">
+		<text>Yeah, if only I knew...</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_31">
+		<text>...finally someone had the strength to destroy the nest of bloodsuckers in the Wild territory... And where only Duty looks?</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_311">
+		<text>Debt is looking at Freedom, where else.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_41">
+		<text>...I heard someone has killed the leader of Freedom. Now they will begin the hard times, Debt will finally press them completely.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_411">
+		<text>Let's hope.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_51">
+		<text>So it was you who destroyed veterans??? Well, my friend. In the area where they were spinning, for the last time, he disappeared about six stalkers... all of these have long suspected freaking out... Well that finally little.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_511">
+		<text>It seems many wanted the veterans "left."</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_61">
+		<text>You cut the radiation at Yantar? Well, you're just a lucky lunatic, hell, I'm glad that at least someone was finally able to cope with it. Ah... how many of our men were killed there, you can't even imagine... but now, scientists will dig up what it was... now maybe with "brain burner" manage...</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_611">
+		<text>I would like to believe that "burner" is also possible to "disable".</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_71">
+		<text>What do you want? I do not see how trying to relax.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_711">
+		<text>What's new?</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_7111">
+		<text>I heard that the Shooter came back. Together with everything necessary for a breakthrough to a "contractor"... but that's hiding it, because many people are after him. Clearly someone, someone secretly. According to rumors, even Duty and Freedom joined in on the hunt... and everyone has a purpose.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_71111">
+		<text>It looks like the Shooter knowingly hiding.</text>
+	</string>
+	<string id="bar_bar_visitors_10_start_71">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_10_start_711">
+		<text>Can you tell us anything useful for a beginner?</text>
+	</string>
+	<string id="bar_bar_visitors_10_start_7111">
+		<text>For the beginner you say? Well, listen. In the North, not far from the "brain burner", the old army base is the grouping of "Freedom". Notorious nihilists, anarchists and criminals. Freedom fighters, fuck them left. Partisans are bad. All they do is sabotage against research groups, the firing of army units and the constant bickering with Debt recently passed in the small war for survival. I can only give you one piece of advice - never mess with them, there just is not lying take. If your head, no reward, will not accept... Ha ha ha... can you imagine?</text>
+	</string>
+	<string id="bar_bar_visitors_10_start_71111">
+		<text>Thanks for the advice</text>
+	</string>
+	<string id="bar_bar_visitors_12_start_71">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_12_start_711">
+		<text>Can you tell us anything useful for a beginner?</text>
+	</string>
+	<string id="bar_bar_visitors_12_start_7111">
+		<text>Yeah, that was the group... heh... all over the Area about her were legendary... Talked about them both good and bad, only a few people knew the truth. But the truth of it is that the Area they wanted to cope, dug out the reasons for its occurrence. What and hunted them military stalkers, just didnt know where to look. Government organization knew something that normal stalkers shouldn't know... so. At one point they found some very important information and part of the group, together with the Gunman, rushed to the center of the Zone. Half of the group were killed in the approaches, but they did get. What happened then, nobody knows. They disappeared like. And the rest of the group, meanwhile, caught Yes cut... and no one survived. Here's a story.</text>
+	</string>
+	<string id="bar_bar_visitors_12_start_71111">
+		<text>Yes, obviously, some people are very interested in that Area remains unknown.</text>
+	</string>
+	<string id="bar_bar_visitors_13_start_71">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_13_start_711">
+		<text>Can you tell us anything useful for a beginner?</text>
+	</string>
+	<string id="bar_bar_visitors_13_start_7111">
+		<text>Group of Mercenaries is something like Freedom, only worse. Freedom though the idea is, and these jackals any abomination I agree, just pay... Shoot them all and be done with it until something dangerous zone in the civilian world not be dragged. They are in the dead city sitting. In every skyscraper in the sniper, though. So that other people didn't.</text>
+	</string>
+	<string id="bar_bar_visitors_13_start_71111">
+		<text>Looks like you need to be careful in the dead city.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_71">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_711">
+		<text>Can you tell us anything useful for a beginner?</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_7111">
+		<text>If you have not been in the Arena, I advise you to try. Money can show themselves. Not everyone dares to go against another monster, but in vain. Eh... I'll save up for new armor, be sure to go.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_81">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_82">
+		<text>Are You Bald? I need to talk to you.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_83">
+		<text>Well, I, what?</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_84">
+		<text>Pockmarked pulled from the Radar, that's what. And the Hunchback killed, according to lumpy.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_85">
+		<text>Damn.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_86">
+		<text>Speckled in a very bad condition, could not think. You can't try to get him to talk? We need to know the work of the "brain burner"</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_87">
+		<text>No, No, No! Is it because I killed the Hunchback, and the Speckled went. In the most difficult moment I had betrayed them and fled. I can't now Pocked in the eye.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_88">
+		<text>Tell us more what happened.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_89">
+		<text>I, the Hunchback and pock-marked has long been ready to break to the North. We did not have enough time-only decay radiation "cautery", and the Speckled got this info from whom I have absolutely no idea. We walked the floor of the Radar as the "burner" suddenly came on. Speckled blown away, he lost consciousness and fell from the slope. I panicked, decided to drop everything and return. The hunchback insisted to get speckled, but it would be pure suicide to go down and haul pockmarked all the way back. I agreed with Him and he climbed down the slope to Lumpy, as another burst of "cautery" didn't cover us. I came to my senses already near a military base, until that time, I believed that they died, but it looks like a Hunchback with my life pulled out lumpy.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_90">
+		<text>Thanks for the story, Baldy. I try to talk to lumpy.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_91">
+		<text>I'm sorry, brother. Can't say any more, I better take one more drink...</text>
+	</string>
+	<string id="bar_bar_visitors_2_start_71">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_2_start_711">
+		<text>What's new?</text>
+	</string>
+	<string id="bar_bar_visitors_2_start_7111">
+		<text>Was such a humpbacked man, and Burr to the lump it was called a Hunchback. Was not himself, with himself but with the animals talking... and the rest like normal. Lost in the center, along with the Shooter, though they say the Shooter came back.</text>
+	</string>
+	<string id="bar_bar_visitors_2_start_71111">
+		<text>I wonder where he is now.</text>
+	</string>
+	<string id="bar_bar_visitors_3_start_71">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_3_start_711">
+		<text>What's new?</text>
+	</string>
+	<string id="bar_bar_visitors_3_start_7111">
+		<text>On the "wild territory" divorced bloodsuckers, you bastards. Already the nights started to creep in. And they are known to become stronger when blood drunk. But they say something important on this plant is something crucial. Recently poked out of Debt there, but the way it vanished, but the cries of them we spent all day around hear.</text>
+	</string>
+	<string id="bar_bar_visitors_3_start_71111">
+		<text>Thanks for the info.</text>
+	</string>
+	<string id="bar_bar_visitors_4_start_71">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_4_start_711">
+		<text>What's the word?</text>
+	</string>
+	<string id="bar_bar_visitors_4_start_7111">
+		<text>If you bypass the lake amber, the science camp will find, they're learning something... Their helicopter was brought in, he regularly food supplies, so they're well-entrenched... With them to talk, they buy artifacts, you can even ask for something to perform.</text>
+	</string>
+	<string id="bar_bar_visitors_4_start_71111">
+		<text>Thanks for the info.</text>
+	</string>
+	<string id="bar_bar_visitors_5_start_71">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_5_start_711">
+		<text>What's the word?</text>
+	</string>
+	<string id="bar_bar_visitors_5_start_7111">
+		<text>No one can break through cemeteries equipment from "brain Burner". There were several witnesses who saw some kind of Stalker crossed the invisible line and suddenly fell, and in a few minutes with him and without looking back went inside the cemeteries, never saw him again...</text>
+	</string>
+	<string id="bar_bar_visitors_5_start_71111">
+		<text>Interesting.</text>
+	</string>
+	<string id="bar_bar_visitors_6_start_71">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_6_start_711">
+		<text>What's the word?</text>
+	</string>
+	<string id="bar_bar_visitors_6_start_7111">
+		<text>From time to time return the missing stalkers. Creepy I tell you the sight grunt and the missing weapons drawn. Once dragged one to the Outpost Duty, a lot of people had gathered to watch. Like learned, even. Terrible, red eyes, covered in bruises, can not say anything, just grunts and walks in circles. His debt to itself took, only he died in a few days. Something is happening in the Area with people. Only here what?</text>
+	</string>
+	<string id="bar_bar_visitors_6_start_71111">
+		<text>I would like to know.</text>
+	</string>
+	<string id="bar_bar_visitors_7_start_71">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_7_start_711">
+		<text>What's the word?</text>
+	</string>
+	<string id="bar_bar_visitors_7_start_7111">
+		<text>Zombaki dummy wander around lake amber, to see if you begin for you to hunt, there could be legs to do, because a lot of them, Stalker ex. They disappeared on the lake, and now the dummy just roam.</text>
+	</string>
+	<string id="bar_bar_visitors_7_start_71111">
+		<text>Yeah, I would not want to fill their ranks.</text>
+	</string>
+	<string id="bar_bar_visitors_8_start_71">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_8_start_711">
+		<text>What's the word?</text>
+	</string>
+	<string id="bar_bar_visitors_8_start_7111">
+		<text>Traders say that in the center Area "Klondike artifacts"... like the one who'll sneak fabulously rich... heh. I have a different opinion, merchants and it is clear - about their benefits I think, but just go to some rumors. If there's something better than a scattering of artifacts, something that does not belong to our world, sort of alien, or even from some other dimension. Wishmaster is called in both! I even heard a legend about the Stalker that got to him. Only say the Area is growing, after each fulfilled the desires of those who got there didn't seem to make that Area disappear. You see, when we reach the artist has spit on the others, only its skin care.</text>
+	</string>
+	<string id="bar_bar_visitors_8_start_71111">
+		<text>Sad.</text>
+	</string>
+	<string id="bar_bar_visitors_9_start_71">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_bar_visitors_9_start_711">
+		<text>What's the word?</text>
+	</string>
+	<string id="bar_bar_visitors_9_start_7111">
+		<text>Believe in the Monolith - crazy. They scream about it, but no one knows what is in the center of the Zone. Invisible crystal fell from the sky... haha. I think it pulled one of the secret laboratories. Someone even said that you once worked there. But, of course, to bomb the Area not, moreover, that the radiation will spread worldwide, so more reaction Zones may deploy half of Europe... the Last time something really got them freaked out... I heard that ordinary stalkers began to kill, for nothing. How do you like that? Just a crazy, bloody fanatics.</text>
+	</string>
+	<string id="bar_bar_visitors_9_start_71111">
+		<text>I think it's worth noting.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_0">
+		<text>I want to join Duty? What should I do?</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_1">
+		<text>Pay the fee of 50,000 virtually any and receive a pass. With him down into the bunker to Voronin, he'll prescribe the test.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_11">
+		<text>Well, here's the money.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_111">
+		<text>That's fine, take the pass and go with him to the administrator Petrenko, I noted on the map.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_12">
+		<text>No, I changed my mind.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_121">
+		<text>Well, it's yours, cheers.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_21">
+		<text>Bandits Because Freedom has no place in the Area, they must be destroyed. If you're interested, ask the bartender, he'll explain everything, I'm too busy for this.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_31">
+		<text>Pay the fee of 1000 virtually any and get a pass. With him go to the administrator of the Debt, he'll appoint check.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_311">
+		<text>Well, here's the money.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_3111">
+		<text>That's fine, take the pass and go with him to the administrator Petrenko, I noted on the map.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_312">
+		<text>No, I changed my mind.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_3121">
+		<text>Well, it's yours, cheers.</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_0">
+		<text>The bartender told me that your boss got for me some task.</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_1">
+		<text>Yes, he told us about you, but before we skip you I must familiarize you with our rules. So, listen, the rules are simple. The first rule is to shoot on our property is prohibited. Two violations of our patrol opens fire on you. Even if you do legs more on our site will not appear, the guards will take care of you. Be calm and problems you will not.</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_2">
+		<text>Clear. Is that all?</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_3">
+		<text>Yes, that is enough. You can go through.</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_4">
+		<text>Clear. Is that all?</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_5">
+		<text>Yes, that is enough. If you want to try to join the group's Debt, so please, treat. We need good fighters. But I want to warn you before you are accepted you will have to complete a series of dangerous tasks. Wimps, we don't need, so everything is tested.</text>
+	</string>
+	<string id="bar_dolg_base_guard_start_11">
+		<text>Wait! The base Debt is no choice! Strangers there is nothing to do.</text>
+	</string>
+	<string id="bar_dolg_base_guard_start_21">
+		<text>What are you doing? Come in faster.</text>
+	</string>
+	<string id="bar_dolg_base_guard_start_31">
+		<text>Come on in, brother. And remember, the mission of the Debt - cleansing!</text>
+	</string>
+	<string id="bar_dolg_base_guard_talk_0">
+		<text>Why don't you let the outsiders?</text>
+	</string>
+	<string id="bar_dolg_base_guard_talk_1">
+		<text>Where you got, so naive? We have a war going, you know? With the bandits of Freedom. Regular skirmishes with their fighters in the wild territory.</text>
+	</string>
+	<string id="bar_dolg_base_guard_talk_2">
+		<text>War with a group of Freedom? Why?</text>
+	</string>
+	<string id="bar_dolg_base_guard_talk_3">
+		<text>Bandits Because Freedom has no place in the Area, they must be destroyed. If you're interested, ask the bartender, he'll explain everything, I'm too busy for this.</text>
+	</string>
+	<string id="bar_dolg_guard_bunker_start_11">
+		<text>Wait! On the entrance only to members of the group. Without special permission in the hopper is not empty! If you want to, go to Colonel Petrenko, who in the administration through the yard.</text>
+	</string>
+	<string id="bar_dolg_guard_bunker_start_21">
+		<text>What are you doing? Come in faster.</text>
+	</string>
+	<string id="bar_dolg_guard_bunker_start_31">
+		<text>Come on in, brother. And remember, the mission of the Debt - cleansing!</text>
+	</string>
+	<string id="bar_dolg_ivancov_start_11">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_dolg_ivancov_start_21">
+		<text>Listen.</text>
+	</string>
+	<string id="bar_dolg_ivancov_start_31">
+		<text>Hello, brother.</text>
+	</string>
+	<string id="bar_dolg_leader_job_0">
+		<text>What else can I do for the Debt?</text>
+	</string>
+	<string id="bar_dolg_leader_job_1">
+		<text>Good question, Labeled, and he has a good answer - destroy the anarchists of the Freedom group and for each PDA anarchist, you get rewards, in addition, will be able to get a new title. All PDAs and bring them to Petrenko, he gives rewards.</text>
+	</string>
+	<string id="bar_dolg_leader_join_0">
+		<text>The bartender said you have a mission in military warehouses...</text>
+	</string>
+	<string id="bar_dolg_leader_join_1">
+		<text>I want to ask you to do one thing, for me personally, you know? Now we are territorial, fighting with a group of Freedom and we don't have enough weapons or notebook that we have. Freedom has some great grenade launchers RG-6, if you happened to enter the territory of Freedom and steal at least one grenade, I would have rewarded you handsomely. Because you're not in our group, you can easily creep into the confidence of Freedom and in a good situation to steal RG-6.</text>
+	</string>
+	<string id="bar_dolg_leader_join_11">
+		<text>Keep going.</text>
+	</string>
+	<string id="bar_dolg_leader_join_111">
+		<text>I'll give you information on the location of the base of Freedom. There you need to find a Cook, member of the "Freedom" he knows where it is stored RG-6. He is weak on the booze, so try to juice. Take this more vodka. So, are you up?</text>
+	</string>
+	<string id="bar_dolg_leader_join_1111">
+		<text>Well, I will undertake to steal RG-6 from Freedom.</text>
+	</string>
+	<string id="bar_dolg_leader_join_11111">
+		<text>And one last thing. Colonel Skull and his boys disobeyed my order and voluntarily went to attack the base of "Freedom". Suicide, well, let them get off. The skull is long overdue to be told. Don't interfere in their personal war, try to ingratiate himself to "Freedom" and get me RG-6, nothing else matters.\n</text>
+	</string>
+	<string id="bar_dolg_leader_join_1112">
+		<text>No, I'm not yet ready for such feats.</text>
+	</string>
+	<string id="bar_dolg_leader_join_11121">
+		<text>It's your business.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_0">
+		<text>I want to join a "Duty". I'm ready to take the oath!</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_1">
+		<text>Well done! Then repeat after me: I, Stalker, nicknamed Bullseye, swear to defend the goals and ideals of duty.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_2">
+		<text>I, Stalker, nicknamed Bullseye, swear to defend the goals and ideals of duty.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_3">
+		<text>To protect the earth from the dangers of the Zone. To pursue and destroy any manifestation of the Zone as inside, and outside its borders.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_4">
+		<text>To protect the earth from the dangers of the Zone. To pursue and destroy any manifestation of the Zone as inside, and outside its borders.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_5">
+		<text>To deal with any dissent in the face of the stalkers and factions.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_6">
+		<text>To deal with any dissent in the face of the stalkers and factions.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_7">
+		<text>And to give his life, in the name of justice and order on Earth!</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_8">
+		<text>And to give his life, in the name of justice and order on Earth!</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_9">
+		<text>Congratulations! Now you are a full member of the group's Debt.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_10">
+		<text>There is one problem. Intelligence reported that you were in the enemy group and cyclessa there in good standing, so even with your record I can't take you in "Debt".</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_11">
+		<text>I can't help you. You cyclessa in a friendly group, working in the science lab. And we have to avoid confusion in to the agreement not to take "Duty" of environmentalists.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_12">
+		<text>Clear.</text>
+	</string>
+	<string id="bar_dolg_leader_quest_rg6_finish_0">
+		<text>I've done my homework, brought in a modified RG-6.</text>
+	</string>
+	<string id="bar_dolg_leader_quest_rg6_finish_1">
+		<text>Good job, Stalker. This is just what we need. So, Bullseye, you fulfilled my request, as a reward you can have this suit, I think you'll like it.</text>
+	</string>
+	<string id="bar_dolg_leader_start_11">
+		<text>Listen.</text>
+	</string>
+	<string id="bar_dolg_leader_start_21">
+		<text>What brought you to me, brother?</text>
+	</string>
+	<string id="bar_dolg_leader_start_31">
+		<text>So, did you get RG-6?</text>
+	</string>
+	<string id="bar_dolg_leader_start_311">
+		<text>Yes, that's RG-6.</text>
+	</string>
+	<string id="bar_dolg_leader_start_3111">
+		<text>Good job, Stalker. This is just what we need. So, Bullseye, you fulfilled my request, as a reward you can have this suit, I think you'll like it.</text>
+	</string>
+	<string id="bar_dolg_leader_start_41">
+		<text>What brought you to me, brother?</text>
+	</string>
+	<string id="bar_dolg_leader_start_51">
+		<text>War with Freedom is coming to an end, Labeled. You've made a contribution and now I want to put an end to this war. I want you to destroy the leader of the Freedom.</text>
+	</string>
+	<string id="bar_dolg_leader_start_81">
+		<text>What brought you to me, brother? You killed the leader of the anarchists of Freedom that led to the disintegration of the group. The war is not over, but its outcome is already a foregone conclusion. Your merit is very big, we will never forget it.</text>
+	</string>
+	<string id="bar_dolg_newbie_start_11">
+		<text>Well, Stalker. Join the Debt, we need good fighters. I recently entered. Look what a nice shape they gave me!</text>
+	</string>
+	<string id="bar_dolg_newbie_start_21">
+		<text>Hi, Tagged. Well have you with us, soon the Debt will need good fighters.</text>
+	</string>
+	<string id="bar_dolg_novice_start_2">
+		<text>Hello, brother Stalker.</text>
+	</string>
+	<string id="bar_dolg_novice_start_3">
+		<text>Tell me about the Debt.</text>
+	</string>
+	<string id="bar_dolg_novice_start_31">
+		<text>We are here from the beginning. The group was founded by surviving members of one of the special units sent into the Zone to deal with the cause of its occurrence. We're in serious trouble. After half of them died in horrible circumstances, survivors vowed that will not go away until I deal with what happened in the Area. Until you cope with it.</text>
+	</string>
+	<string id="bar_dolg_novice_start_4">
+		<text>Tell me about Freedom.</text>
+	</string>
+	<string id="bar_dolg_novice_start_41">
+		<text>They are scumbags who do not understand that Area is sore on the face of the Earth. Want around the world to take away, to every house a piece. And for their purpose they will go to any means. I can't wait when we're done with them.</text>
+	</string>
+	<string id="bar_dolg_novice_start_5">
+		<text>You want to deal with the Area?</text>
+	</string>
+	<string id="bar_dolg_novice_start_51">
+		<text>Yes, and we very much do this. Our cleaning mission, burn the whole nest of mutated plague on the way to the center of the Zone.</text>
+	</string>
+	<string id="bar_dolg_novice_start_6">
+		<text>Thank you.</text>
+	</string>
+	<string id="bar_dolg_petrenko_start_11">
+		<text>Listen.</text>
+	</string>
+	<string id="bar_dolg_petrenko_start_21">
+		<text>Can I help you?</text>
+	</string>
+	<string id="bar_dolg_petrenko_start_31">
+		<text>Hello, brother. What brings you to me?</text>
+	</string>
+	<string id="bar_dolg_veteran_start_2">
+		<text>What do you want?</text>
+	</string>
+	<string id="bar_dolg_zastava_11">
+		<text>Come on, don't be long... What are you looking at?</text>
+	</string>
+	<string id="bar_dolg_zastava_21">
+		<text>Oh, Hey man! Glad you still mutants not eaten.</text>
+	</string>
+	<string id="bar_dolg_zastava_about_zastava_0">
+		<text>Before the Outpost was some kind of massacre that happened?</text>
+	</string>
+	<string id="bar_dolg_zastava_about_zastava_1">
+		<text>The remains from the last "wave" of mutants, which took place before discharge. Day three four lull, and then again there will be "wave". If we do not, neither the Bar nor the Debt has not been, we are the last barrier from the Madding swarms of mutants. Many of our were killed there.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_0">
+		<text>I would like to know something.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_1">
+		<text>What do you want to know?</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_2">
+		<text>I'm new here, can tell you a bit about this place?</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_21">
+		<text>Before the accident in ' 86 it was an industrial area. Now, as I understand, remained only the ruins remains. Near the hangar in the basement you will find a bar "100 x-ray", where all the stalkers from all over the Area, the local dealer works as a bartender, contains, so to speak, the room. Go there if you want to trade, chat or an interesting task to obtain, and even news latest know. Another is the arena where you can fight the mutants earn money. Near the Arena is a base group "Debt". If you want to try to enter into "Debt", then you right there, it will tell you whom to contact. This whole area is under the protection of the Debt, so be safe, nothing not waving his arms, and will shoot our patrol all at once you will calm.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_211">
+		<text>You said there is a Bar. I can tell where he is?</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_2111">
+		<text>In the basement behind the hangar, I'll mark on your map.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_21111">
+		<text>Thanks for the info</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_212">
+		<text>You said here, the Debt. Tell me how to get there.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_2121">
+		<text>Not far from the Arena, I noted you on the map.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_21211">
+		<text>Thanks for the info</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_213">
+		<text>You said here is the arena. I can tell where she is?</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_2131">
+		<text>How to come out of the hangar with a broken roof immediately will come to her, I you note on the map.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_21311">
+		<text>Thanks for the info</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_214">
+		<text>Thanks for the info</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_0">
+		<text>I'm here on business.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_1">
+		<text>I guess clearly something you want.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_11">
+		<text>There I filled up one pig on the road. Say, a valuable item.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_111">
+		<text>Heard you shot that Hog. Well, you're entitled to the prize and a good barrel. Don't embarrass an honest weapon.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_1111">
+		<text>Don't worry about me.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_12">
+		<text>I talked with the Tyrant of Freedom, he realized his mistake and promised not to misbehave. And I'm sure his word he will keep, the dead don't lie.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_121">
+		<text>Yes, the Tyrant was a thorn in our eye for a long time. I'm glad you killed him. Here premium and "Thunder", our signature weapons.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_1211">
+		<text>Well. Well, I went on to further exploits, good luck.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_13">
+		<text>And that Voronin didn't tell you?</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_131">
+		<text>Congratulations, to fill up the leader of the Freedom - is a feat. You earned your reward. I wish I could be cool like you.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_1311">
+		<text>Train, eat porridge in the mornings and listen to my mother. Thanks for the new clothes, I went.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_0">
+		<text>I would like to know something.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_1">
+		<text>What do you want to know?</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_11">
+		<text>Who you are and how we got here?</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_111">
+		<text>My name is Kruglov. I am a Professor of biology, are studying the Area. Yesterday, for example, came across one very interesting Antropomorphus Dendromutantus Vulgaris. Mainly find and describe new species of mutated animals, their habits and peculiarities. Then this information is analysed and I give it in the outside world, something that, of course, convey to the bartender. My discoveries have repeatedly saved the lives of stalkers. I just drove the results of his research on amber, when my helicopter was shot at.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_12">
+		<text>Tell me about the Area.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_121">
+		<text>The area is a wonderful gift to humanity. Of course, living here is impossible, radiation, anomalies, mutants. They all, of course, deadly, but are of great scientific value. It is almost a natural experiment, a reserve for scientists. It is difficult to imagine what will happen to science after the study Area. Technologies, medicines, new plant varieties, medicinal and edible. Biotechnology, healing incurable diseases, but who knows what else. Food can be a problem for the whole Earth will be solved. If only we did not interfere, maybe we would have led mankind into the "Golden age".</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_1211">
+		<text>Guys think differently from Debt, and Freedom are not particularly committed to help you.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_12111">
+		<text>You can't imagine the whole picture, on a global scale. For you same problem here and now is more important than any progress in the future.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_1212">
+		<text>Maybe there is some benefit in the study Area.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_12121">
+		<text>You see it too? So nice to find someone to talk to not a narrow-minded practice. I have always said, we must look at the problem more broadly, to turn away from human standards. Even if there is harm from the Zone, but can also be the benefit, and the benefit is huge I tell you.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_13">
+		<text>Why mercenaries hunt for this information?</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_131">
+		<text>Don't want to offend you, but stalkers are like children. They are very influenced by what they learn. You look at legends stalkers, about wish-fulfilling, "Monolith", for example. It's just kindergarten. Only games in the Area are equipped with weapons and cost lives. And some stalkers behave like resentful children, which hide dangerous information. That's only in their hands not a stick, and machines. And for them there are no barriers to the use of force, they easily begin to shoot, killing explorers Zone. They think they get this information, as before them opens the gate to the center of the Zone. Just naive fools and, unfortunately, very dangerous fools.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_14">
+		<text>I'm looking for a lab X16, do you know where she is?</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_141">
+		<text>Lab X16? Hmm... something About this spoke of Sugars, but I can't remember. You'll have to ask him, he at Yantar at the mobile lab.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_15">
+		<text>Sorry, I gotta go. Good luck.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_101">
+		<text>Labeled, stop them. D they do us!!!</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_1011">
+		<text>Just sit tight, now let's deal with them.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_10111">
+		<text>Well.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_1012">
+		<text>Go ahead, try to break through.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_10121">
+		<text>Let's get going.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_11">
+		<text>Stalker, help! We returned with Amber when we got mercenaries. They say that the information that they need, but I know they will shoot us. </text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_111">
+		<text>Well.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_1111">
+		<text>Thank you, Stalker. Fighter I'm a bad, but I know the way, so I'll lead, you cover us on the way.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_112">
+		<text>No. You're on your own.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_1121">
+		<text>No. I'm sure you meant no harm. It from here I still will not be able to leave. If you change your mind I'll be here... if you survive.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_21">
+		<text>Hurry up, hurry up and get out of here.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_31">
+		<text>Phew. Are we safe? Finally. Thank you for your help. I owe you, but for now take this here stick. This is the results of the last expedition. I'm sure the bartender for this information will be well paid.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_311">
+		<text>Yes, we're here.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_3111">
+		<text>Labeled, if you go to our mobile lab at Yantar will give you a suit of scientific, or anomaly detector.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_31111">
+		<text>Will see how it goes.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_41">
+		<text>Hello, Stalker. On behalf of the world of science Express their gratitude.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_51">
+		<text>Labeled, stop them. D they do us!!!</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_511">
+		<text>Just sit tight, now let's deal with them.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_5111">
+		<text>Well.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_512">
+		<text>Go ahead, try to break through.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_5121">
+		<text>Go.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_61">
+		<text>Labeled, stop them. D they do us!!!</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_611">
+		<text>Sit tight. Now let's deal with them.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_6111">
+		<text>Well, I'm waiting here.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_612">
+		<text>Go ahead, try to break through.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_6121">
+		<text>Well, come quickly.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_71">
+		<text>Be careful with the Hot Labeled. I'm not dangerous, I will protect the suit, and you should avoid frying approach.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_711">
+		<text>Thanks for the advice.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_91">
+		<text>Rather, Labeled. No time to chat.</text>
+	</string>
+	<string id="bar_ecolog_dialog_11">
+		<text>Stalker, talk to Professor Kruglov, help him to get out.</text>
+	</string>
+	<string id="bar_ecolog_dialog_21">
+		<text>All is lost, Kruglov killed!!!</text>
+	</string>
+</string_table>

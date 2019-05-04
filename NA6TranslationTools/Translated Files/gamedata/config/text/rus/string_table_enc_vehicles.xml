@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<!--Transport-->
+	<string id="Vehicles">
+		<text>Transport</text>
+	</string>
+
+<!--Niva-->	
+	<string id="Niva">
+		<text>Niva 2121</text>
+	</string>
+	<string id="enc_vehicles_niva">
+		<text>Легковой автомобиль повышенной проходимости.\n
+Грузоподъемность: 60 кг.\n 
+Для работы необходимы: тяжелый аккумулятор, запас топлива.</text>
+	</string>
+	
+<!--Vaz 2106-->	
+	<string id="vaz_2106">
+		<text>Lada 2106</text>
+	</string>
+	<string id="enc_vehicles_2106">
+		<text>Легковой автомобиль.\n
+Грузоподъемность: 80 кг.\n 
+Для работы необходимы: тяжелый аккумулятор, запас топлива.</text>
+	</string>
+
+<!--btr-70-->
+	<string id="btr-70">
+		<text>THE BTR-82A(W)</text>
+	</string>
+	<string id="enc_vehicles_btr-70">
+		<text>Патрульный бронетранспортер военных, охраняющих Зону. С исходным вариантом, из которого переделан (БТР-82А) не имеет уже практически ничего общего. Усилено бронирование, установлена система теплового наведения и распознавания образов, электронные системы прицеливания и стабилизации орудия. Корпус герметизирован, всё аналоговое управление переделано на основе сервоприводов. Полноценно управляем всего одним человеком, позволяет вести прицельный огонь из встроенного орудия, при этом, в нём ещё осталось место для десанта. \n
+Грузоподъемность: 100 кг.\n
+Для работы необходимы: тяжелый аккумулятор, запас топлива.</text>
+	</string>
+
+<!--mi-24-->
+	<string id="mi-24">
+		<text>The MI-24 helicopter</text>
+	</string>
+	<string id="enc_vehicles_mi-24">
+		<text>Армейский штурмовой вертолет.\n
+Грузоподъемность: восемь солдат десанта с оружием, боеприпасами, снаряжением.\n
+Для работы необходимы: тяжелый аккумулятор, запас топлива.</text>
+	</string>
+
+<!--Kamaz-->
+	<string id="Kamaz">
+		<text>KAMAZ truck</text>
+	</string>
+	<string id="enc_vehicles_kamaz">
+		<text>Большой и надежный грузовик.\n
+Грузоподъемность: водитель, заплечная и офигенно много всего.\n 
+Для работы необходимы: тяжелый аккумулятор, запас топлива.</text>
+	</string>
+
+<!--Traktor-->
+	<string id="traktor">
+		<text>Tractor</text>
+	</string>
+	<string id="enc_vehicles_traktor">
+		<text>Брошенная техника нашла свое применение в Зоне. Tractor обладает неплохой проходимостью, но фыркает сильно.\n
+Грузоподъемность: 40 кг.\n
+Для работы необходимы: тяжелый аккумулятор, запас топлива.</text>
+	</string>
+
+<!--Moskvich-->
+	<string id="Moskvich">
+		<text>Moskvich 2141</text>
+	</string>
+	<string id="enc_vehicles_moskvich">
+		<text>Легковой автомобиль. Несмотря на недостатки, был довольно популярен у дачников. Часто на нём ездила и милиция.\n
+Грузоподъемность: 60 кг.\n
+Для работы необходимы: тяжелый аккумулятор, запас топлива.</text>
+	</string>
+
+	<string id="Moskvich2">
+		<text>Moskvich 412</text>
+	</string>
+
+<!--Zaporozhets Gorbatiy-->
+
+	<string id="Zaporozh_gorb">
+		<text>ZAZ 965 (hunchback)</text>
+	</string>
+	<string id="enc_vehicles_zaporozh_gorb">
+		<text>Всеми любимый и воспетый во всех анекдотах вид транспорта. Отличается хорошей проходимостью и надежной сигнализацией "Бррр, буду я еще такую угонять".\n 
+Грузоподъемность: 40 кг.\n
+Для работы необходимы: тяжелый аккумулятор, запас топлива, сильные руки, толкающие вперед.</text>
+	</string>
+	
+<!--Zaporozhets Ushastiy-->
+	<string id="Zaporozh_ush">
+		<text>ZAZ 968 (eared)</text>
+	</string>
+	<string id="enc_vehicles_zaporozh_ush">
+		<text>Не менее популярный в анекдотах потомок горбатого.\n 
+Грузоподъемность: 40 кг.\n 
+Для работы необходимы: тяжелый аккумулятор, запас топлива, руки или ноги. Зависит от степени инвалидности.</text>
+	</string>
+
+<!--UAZ-->	
+	<string id="Uaz">
+		<text>UAZ 469 (goat)</text>
+	</string>
+	<string id="enc_vehicles_uaz">
+		<text>УАЗ. Надежный козлик. Хорошо себя зарекомендовал в армии.\n
+Грузоподъемность: 80 кг.\n 
+Для работы необходимы: тяжелый аккумулятор, запас топлива.</text>
+	</string>
+	
+<!--UAZ Buhanka-->
+	<string id="Uaz_buh">
+		<text>UAZ 3962 (loaf)</text>
+	</string>
+	<string id="enc_vehicles_uaz_buhanka">
+		<text>УАЗ Буханка. Надежный микроавтобус повышенной проходимости.\n
+Грузоподъемность: 100 кг.\n 
+Для работы необходимы: тяжелый аккумулятор, запас топлива.</text>
+	</string>
+	
+<!--Baggi-->
+	<string id="Baggi">
+		<text>Buggy</text>
+	</string>
+	<string id="enc_vehicles_baggi">
+		<text>Buggy из мусора. Самодельный быстрый автомобильчик минимальной себестоимости производства с возможностью кругового обстрела из-за отсутствия защиты. Грузоподъемность невысока, но компенсируется скоростью доставки.\n
+Грузоподъемность: 40 кг.\n
+Для работы необходимы: аккумулятор, запас топлива, если получится достать, то и закись азота.</text>
+	</string>
+	
+<!--ZIL MMZ-->
+	<string id="Zil_MMZ">
+		<text>ZIL MMZ</text>
+	</string>
+	<string id="enc_vehicles_zil_mmz">
+		<text>Грузовик, у которого в Зоне дурная слава. Сталкеры называют их "Грузовики смерти".\n
+Грузоподъемность: вряд ли кто считал количество трупов у них в кузове.\n
+Для работы необходимы: аккумулятор, запас топлива.</text>
+	</string>
+	
+<!--GAZ66-->
+	<string id="GAZ66">
+		<text>The GAZ 66 truck (truck)</text>
+	</string>
+	<string id="enc_vehicles_gaz66">
+		<text>Надежный грузовик повышенной проходимости. Почти домик на колесах\n
+Грузоподъемность: большая.\n 
+Для работы необходимы: тяжелый аккумулятор, запас топлива.</text>
+	</string>
+	
+<!--GAZ53-->
+	<string id="GAZ53">
+		<text>Bus GAS 53</text>
+	</string>
+	<string id="enc_vehicles_gaz53">
+		<text>Автобус на базе грузовика ГАЗ-53.\n
+Грузоподъемность: большая.\n 
+Для работы необходимы: тяжелый аккумулятор, запас топлива.</text>
+	</string>
+	
+	<!--ZIL 131-->
+	<string id="Zil_131">
+		<text>ZIL-131</text>
+	</string>
+	<string id="enc_vehicles_zil_mmz">
+		<text>Грузовик, у которого в Зоне дурная слава. Сталкеры называют их "Грузовики смерти".\n
+Грузоподъемность: вряд ли кто считал количество трупов у них в кузове.\n
+Для работы необходимы: аккумулятор, запас топлива.</text>
+	</string>
+	
+	<string id="st_veh_health">
+		<text>Condition</text>
+	</string>
+	<string id="st_trunk_max_weight">
+		<text>Max. downld.</text>
+	</string>
+	<string id="st_trunk_weight">
+		<text>Uploaded</text>
+	</string>
+	<string id="car_no_repair_kit_text">
+		<text>For repair of machine tools required.</text>
+	</string>
+	<string id="car_not_need_repair_text">
+		<text>The machine is not in need of repair.</text>
+	</string>
+	<string id="car_repaired_text">
+		<text>The machine is repaired.</text>
+	</string>
+	<string id="car_no_fuel_text">
+		<text>For the filling machines need fuel.</text>
+	</string>
+	<string id="car_not_need_fuel_text">
+		<text>The machine needs no priming.</text>
+	</string>
+	<string id="car_refueled_text">
+		<text>The car filled up.</text>
+	</string>
+	<string id="ui_st_refuel">
+		<text>Dressing</text>
+	</string>
+	<string id="ui_st_repair">
+		<text>Repair</text>
+	</string>
+	<string id="ui_st_open_trunk">
+		<text>The trunk</text>
+	</string>
+	<string id="kanistra">
+		<text>Canister</text>
+	</string>
+	<string id="enc_kanistra">
+		<text>Canister fuel for vehicles.</text>
+	</string>
+</string_table>
+

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="cit_doctor_escape_dialog_0">
+		<text>I need answers to some questions.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1">
+		<text>Ask, I will try to answer.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_11">
+		<text>Where's my stuff?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_111">
+		<text>All the selected stuff the leader usually puts. His room on the top floor. At least there my stuff took when caught.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1111">
+		<text>Thank you!</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_12">
+		<text>Way out of this place?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_121">
+		<text>While I fought, I noticed a manhole under the stairs on the first floor...\nIf unable to open the bars of the cell, then this move could get out of here... AND leave\nbetter to the West, where the tunnel to Freedom out.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1211">
+		<text>Thanks for the info.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_14">
+		<text>Who we captured?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_141">
+		<text>We got to the mercenaries. Who are not known to anyone, but rumor has it that they cooperate with foreign intelligence services. The location of this base is a big secret, no one knows how to get into the dead city. This secret many people are interested in, especially Freedom and Duty.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1411">
+		<text>Keep going.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_14111">
+		<text>If you get the map of the dead city, the assault on the pit not far off. Most likely it is or the mercenaries or the bandits. You could try to find her.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_141111">
+		<text>Thanks for the info</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_15">
+		<text>What do you know about this place?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_151">
+		<text>The city is divided into two parts. Where we sit - the territory of mercenaries, in the South area of the territory of bandits. Their base is in the school building in the South-Western part of the city. Between databases, the ruins of the building. Next few five-story buildings, relatively whole. In which case you can sit there. Around a couple garages and small garden houses. Half of the bandits also have a couple of five-story building and a dozen garages. On the other side of the square is the former city Council.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1511">
+		<text>Thanks for the info.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_16">
+		<text>Who runs this show?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_161">
+		<text>The very unpleasant type. The spooks name. Noticed a couple of times in his hands some kind of folder with documents. I think there might be something interesting.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1611">
+		<text>Thanks for the info.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_17">
+		<text>No, nothing.</text>
+	</string>
+	<string id="cit_doctor_hello_dialog_11">
+		<text>Shooter! Where have you been??? You guys weren't with the last outing! I was began to worry.</text>
+	</string>
+	<string id="cit_doctor_hello_dialog_21">
+		<text>Well that came to a head normal?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_0">
+		<text>Arrows???</text>
+	</string>
+	<string id="cit_doctor_main_dialog_1">
+		<text>Well, Yes, you are the Shooter, but who? Dr. I, do you not recognize me? Hey, buddy, what happened to you, Yes you, not himself. We're 2 years in the Area went. Don't you remember?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_11">
+		<text>I don't remember.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_2">
+		<text>Don't you remember??? Shooter, what are you doing? You're not kidding, over an old friend, no? Hmm... And guys, our guys do you remember? Fang, Ghost?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_21">
+		<text>Fang can't remember, and the Ghost is dead, his corpse I found in the Amber.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_3">
+		<text>Ghost!!!?? Dead??!!! Damn it, how could this happen?! They're... they're some of the best were. Hell, what happened there?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_31">
+		<text>Don't know what happened, I do not remember.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_4">
+		<text>Wait, can't I at least come yourself, after such news. I have only one thought - all this has something to do with your last trip to the Zone center. When we last saw you, you left me a key to the stash in Pripyat and scheme how to find him. I managed to save them, the mercenaries are not found. Here you go, just hide well. Perhaps there is something to find. And you always said that with the Monolith is some kind of trick. But I understand you and he didn't understand what it was about.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_41">
+		<text>Clear. Where are we now? I don't remember how I got here.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_5">
+		<text>We're in dead city! In the camp of mercenaries.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_6">
+		<text>We're in dead city!... In the camp of mercenaries...</text>
+	</string>
+	<string id="quest_cit_reward_0">
+		<text>By the way, I have some information about the mercenaries. You interested?</text>
+	</string>
+	<string id="quest_cit_reward_1">
+		<text>It depends on what that information is.</text>
+	</string>
+	<string id="quest_cit_reward_11">
+		<text>There is a map on which is marked the location of their base. Places And outposts, how to secretly pass and a lot of other useful information.</text>
+	</string>
+	<string id="quest_cit_reward_111">
+		<text>I agree, this information is of value, in the amount of three thousand.</text>
+	</string>
+	<string id="quest_cit_reward_1111">
+		<text>Suitable. Here you go.</text>
+	</string>
+	<string id="quest_cit_reward_11111">
+		<text>Great. And here is your reward.\nSoon stalkers will argue about whether it was grouping as Mercenaries or is it another legend of the Area.</text>
+	</string>
+	<string id="quest_cit_reward_1112">
+		<text>No, it's too little.</text>
+	</string>
+	<string id="quest_cit_reward_11121">
+		<text>Oh, and I still don't.</text>
+	</string>
+	<string id="quest_cit_reward_13">
+		<text>No, sorry, nothing. The usual gossip.</text>
+	</string>
+	<string id="quest_cit_reward_131">
+		<text>If things get specific, come, I'll pay.</text>
+	</string>
+</string_table>

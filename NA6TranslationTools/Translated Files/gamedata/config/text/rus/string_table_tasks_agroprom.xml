@@ -1,0 +1,78 @@
+	<string id="agr_find_ghost">
+		<text>To learn the fate of a Ghost</text>
+	</string>
+	<string id="agr_gunslinger_cache">
+		<text>Cache Pointer</text>
+	</string>
+	<string id="agr_help_krot">
+		<text>To Save The Mole</text>
+	</string>
+	<string id="agr_help_krot_0">
+		<text>Help the Mole to fend off the military</text>
+	</string>
+	<string id="agr_help_krot_1">
+		<text>To destroy the military</text>
+	</string>
+	<string id="agr_help_krot_2">
+		<text>To Save The Mole</text>
+	</string>
+	<string id="agr_help_stalkers">
+		<text>Help stalkers</text>
+	</string>
+	<string id="agr_help_stalkers_0">
+		<text>Help stalkers fend off the military</text>
+	</string>
+	<string id="agr_help_stalkers_1">
+		<text>To destroy the military</text>
+	</string>
+	<string id="agr_help_stalkers_2">
+		<text>Help stalkers fend off the military</text>
+	</string>
+	<string id="agr_krot">
+		<text>To meet with stalkers</text>
+	</string>
+	<string id="agr_meet_krot_band">
+		<text>To obtain information about the shooter</text>
+	</string>
+	<string id="agr_meet_krot_band_0">
+		<text>To get Mole information</text>
+	</string>
+	<string id="agr_meet_krot_band_1">
+		<text>To meet with a group of Mole</text>
+	</string>
+	<string id="agr_meet_krot_band_2">
+		<text>To receive information from the Mole</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache">
+		<text>To find the cache grouping Arrow</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache_0">
+		<text>To find the cache grouping Arrow.</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache_1">
+		<text>To find a hiding place</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache_2">
+		<text>Find the cache information on the spit</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache_3">
+		<text>To get out of the dungeon</text>
+	</string>
+	<string id="agroprom_find_stalker_phantom">
+		<text>Find The Ghost</text>
+	</string>
+	<string id="agroprom_find_stalker_phantom_0">
+		<text>The Ghost knows where the Shooter is.</text>
+	</string>
+	<string id="agroprom_get_military_documents">
+		<text>To find the documents of the war</text>
+	</string>
+	<string id="agroprom_get_military_documents_0">
+		<text>The research Institute of agriculture</text>
+	</string>
+	<string id="agroprom_get_military_documents_1">
+		<text>To steal military documents</text>
+	</string>
+	<string id="agroprom_get_military_documents_2">
+		<text>To attribute the documents to the bartender</text>
+	</string>

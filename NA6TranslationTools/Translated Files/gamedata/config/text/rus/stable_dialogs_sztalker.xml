@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+  <string id="jupiter_labx8_pda_desc">
+		<text>We helped one Stalker to look for information on this lab. He allegedly found some documents and promised to bring them, but then disappeared. We know the place whence he sent his message. Perhaps there are those documents. Are you ready to complete this task and to bring documents?</text>
+	</string>
+	<string id="marsh_kubik_rubik_desc">
+		<text>Can help principle the favor. I promised my friend, Grandfather Zombik from a Forgotten village one valuable thing - the Rubik's Cube. Why is it that the trinket was valuable, you don't know. I would and he drove, only for Murphy's law immediately need. Drove? Ready to perform this task?</text>
+	</string>
+	<string id="marsh_flower_ameliya_desc">
+		<text>This may be a question, but first you must pass the test. You need to bring me the Scarlet Flower. This artifact is so rare, it can be found in the Forgotten Forest. If you get, you can talk further. Yes, and bear in mind that this artifact can have very interesting effects on the human psyche. Ready to perform this task?</text>
+	</string>
+	<string id="marsh_container_rice_desc">
+		<text>I'd love to, but the problem I had: the colleagues have nothing to feed, garnish ended. A friend of mine, one soldier says military local scientists gave the party some kind of special rice which they grew somewhere and anomalies, and which allegedly increases resistance to radiation. This miracle is kept at the base in Hidden valley. If you're with the military at odds, the case - a mere trifle. Angry they probably will not, if you do, this container will be taken. However, you may have to bribe them so everything went smoothly. If you bring out the rice, I will share my experiences with the local fauna. The coordinates I'm thrown off. Ready?</text>
+	</string>
+	<string id="marsh_join_stranger_desc">
+		<text>Now, I don't mind. However, bear in mind that we have a neutrality with many groups in the Area, so kindly do not spoil our reputation and don't shoot at everybody unnecessarily. Are you sure you want to become a hunter?</text>
+	</string>
+	<string id="red_forest_lekarstvo_desc">
+		<text>I treat wounded stalkers: a bullet extracted, stitches applied. That's the only pain reliever I'm out. If you help me to get painkillers In the Hospital... surely there's more supplies. I will do the same. Ready to help?</text>
+	</string>
+	<string id="red_forest_explosive_charge_desc">
+		<text>I sent one Stalker on blasting. You need to break a passage through the hills surrounding the Red Forest to make it more convenient to move around. So, I gave this Stalker explosives. Blast the beacon and the beacon here is like a day all in one place. If explosive is set, then why there was no explosion, and if not installed and still have the Stalker, then why is he not moving? There's something odd. You need to go there to see and in any case, bring me back the explosives. I will do the same. Ready to help?</text>
+	</string>
+	<string id="predbannik_box_cigara_desc">
+		<text>It is a scarce commodity. My brother is a bit weird in the dressing room like sells a good detector. There really warriors wielded, many armored cars, but my guide can you quietly spend. At the same time will take me there for a box of Cuban cigars. Ready to go?</text>
+	</string>
+	<string id="predbannik_sidor_info_desc">
+		<text>This is considered a border Zone. So the main attraction is a bunch of warriors. Then they're not really agree well. So entrenched themselves in their bases and sit. And so we have here good bar, grocery shop. That's probably all. By the way, you would be better in the Swamp, went back to the hunters, if money want to earn extra money. They have a business to sell outside the Zone of the parts of the monsters put on the conveyor. Do not have the right amount to get here and am looking for people from the outside.</text>
+	</string>
+	<string id="swamp_trader_info_desc">
+		<text>This swamp. Dead swamp. But despite the frightening name of the place is relatively safe. Well, no, of course, are found here and all sorts of creatures and zombies, and bandits occasionally frequented by. But overall it is a quiet place.</text>
+	</string>
+	<string id="lost_village_icona_task_desc">
+		<text>How not to be sad. Been to Church in the Marshes near an ancient icon. I attended the services. Then she was gone. I think the mob and rested, which are now settled there. Well, not according to Orthodox it somehow. Need to find her and give it to some existing Church. Ready to help?</text>
+	</string>
+	<string id="lost_village_bandit_ataka_desc">
+		<text>Yes, I wouldn't say that. Criminals took a fancy to an Abandoned Village recently. Here near camp already established. So after a little they do. We decided here to survive. Came, fingers fanned out, threatened. Soon going to come again. My squad is largely inexperienced stalkers, I'm afraid, can't beat this gang Caudle. That is if you could help us, then we would have a chance.. Willing to help?</text>
+	</string>
+	<string id="zaton_poison_gas_ballon_task_desc">
+		<text>Fig. Cockroaches divorced - loads. There is here on the Creek the bunker, there's a monolith some barrels of poison gas carried. Now, if you found me one, I would have these creatures would have all the slack in Fig. The access code to the bunker: 110149. I myself am afraid to go, because there are some creepy monsters wound up by hearsay. Help?</text>
+	</string>
+	<string id="zat_lifter_quest_desc">
+		<text>Yes, like normal. However, in recent years stalkers hamsters divorced, though gas poisonous herbs. Always ask for a Hercules Yes vitamins. Stuff want more peretaskat Yes, squirreled away, or takanot. In short, figs knows. I still have stocks, but they are clearly not enough. Would you give me these supplements commercials 30 pieces. Will bring, will give you a really expensive cartridges. Help?</text>
+	</string>
+	<string id="escape_dynamite_task_desc">
+		<text>Yes I have conceived something, but need an assistant. Sent to me by a friend - the Wolf box with vsyscalls from the Cordon for a special occasion. So this event occurred, some don't. However, the monolith intercepted the package and hid it on one of their bases in Pripyat. We ought to drive over there and bring me vsynced, and I will do the same. Pay 15,000 virtually any. Is?</text>
+	</string>
+	<string id="predbannik_liker_desc">
+		<text>In the Red Forest and the Forester drives the local moonshine. Well, moonshine what a drive, what? But, no! It is not so simple. He insists in some anomalies then. Oh, and the effing thing happens, and is beyond decent. You need to drive there, to take one such bottle. He said that, just one ripe. And then I'll return the detector at a reduced price. The Forester this way you with mercenaries to bring can, if necessary. Is?</text>
+	</string>
+	<string id="pred_quest_case_desc">
+		<text>You got that right. Is. Speaking of... I have a deal for you one, since you're so curious. On this database from the Central Zones brought some suitcase, and it is supposedly very important papers. One friend of the major information I leaked. But such things, you know, well you can sell. So, if you get me that suitcase, the award will give you an interesting trellis. If you're with the warriors in trouble, you can try to negotiate with the local commander of the nearby base, with the local dealer - the Major by Barulinym anyway, hehe. It can make the loss of the type is not noticed and raised the alarm. Is?</text>
+	</string>
+	<string id="limansk_secret_device_big_task_desc">
+		<text>You were so stupid that happened on about these vile pseudo-scientists, and stole one of our portable psi-emitters. Now we need to restore the broadcasting system. In this case I saved one psi-emitter. It is securely hidden in Limansk. From there, I need to bring. Access code: 789319. Are you ready to do this job?</text>
+	</string>
+	<string id="labx14_equipment_dialog_desc">
+		<text>The teleport in Limansk is configured so that it was impossible to navigate in the Portal with weapons. Therefore, all your gear has been moved before the teleportation in a special safe located in the room with the teleport. You can go to Limansk and get her at any time.</text>
+	</string>
+	<string id="monolit_way_task_desc">
+		<text>You must restore the system of psy-radiation of the Monolith, raising them both to a new, unprecedented level. Nobody will know and feel that he will do the will of the Monolith. It is necessary to include a brain burner on the Radar and then turn psionic radiation at Yantar. Re-enabling these systems to work in complete stealth mode. The main switch on the Amber will work only if it is enabled radiation on the Radar. After that you need to get out of the Zone but with this modified portable psi-emitter, which you just gave, and which I reconfigured properly for launching global broadcasting of psy-radiation of the Monolith on the planet. Are you ready to do this job?</text>		
+	</string>
+	<string id="warlab_ucheniy_german_talk_desc">
+		<text>Hide. They force me to do terrible experiments. I think they opened a space-a temporary portal. How do you think they have so many German machine guns and technology of unknown origin? And their leader - the woman, if it can be called that... They are preparing something horrible! I want to get out of here!</text>
+	</string>
+	<string id="jupiter_detector_super_desc">
+		<text>And then? Got one Stalker some kind of experimental anomaly detector. It first easier. If raids went, you know what that means. But still finds there is something better. I really did not understand. In General I need this detector. The last time this Stalker go to the link here from Jupiter. Said anomalies to go somewhere to test it. Most likely vanished poor. So, if you find and bring me this detector will pay 10,000 virtually any. Is?</text>
+	</string>
+	<string id="jupiter_notebook_desc">
+		<text>Will. You won't believe, but I have lost another assistant. He was preparing a report on the peculiarities of the local flora and fauna, bringing was a portable computer, or as you young people call it - a laptop. In it he recorded all the data obtained during the research. It has been 2 days he hasn't been in contact. Before such was not. Certainly something happened. The data that he collected is actually priceless, so take my assistant living or dead, and bring me his computer. Science is in Your debt will remain. Okay?</text>
+	</string>
+	<string id="jupiter_gavaec_desc">
+		<text>You got that right. I arms trade. Suppliers send me couriers when you need a new batch. Now is such a case. The courier was supposed to arrive a few days ago, but it is still there. Last time he sent me a message here, Jupiter. Would you have picked and found him dead or alive. Me with suppliers you need to solve the situation. And I will not. Will give you a badass gun. Okay?</text>
+	</string>
+	<string id="jupiter_notes_desc">
+		<text>Be you and ammo, cocoa and tea, if you do one more job. The job is difficult and laborious. I myself received from one of a group of scientists. One well-known pest, I will not his name be called, stole these scientists with valuable secret documents, which they have been collected throughout the Area. They do not need these documents, but because he is a pest, so I decided to commit acts of sabotage. First, suck up to the scientists, and then waited for the right moment and stole the documents. Then he reported it to scientists, saying that the documents he had hidden in various inaccessible places on Jupiter and what to take for finding these documents is tantamount to madness. You need all these documents to find, and then I'll return the cartridges valuable and expensive throw. Okay?</text>
+	</string>
+	<string id="pri2_key_desc">
+		<text>I would be in one place to drive until you here your tasks will be. The way you can to help me. I need one key, and the key to this one monolitische commander, here in the Eastern part of Pripyat. Where exactly is this commander now on duty, hard to say. They have a lot of bases. So if you help me find the key that will give you the same jumpsuit as me. And the jumpsuit you just will not find anywhere else. By the way, if the commander will let you, you can try to negotiate with him. I found it, but I especially like to light up should not be. Well, agreed?</text>
+	</string>
+	<string id="pri2_ks23_m1_quest_desc">
+		<text>Remember, you're the key to me you were looking for? So, I went into this place, opened the door with the key, but then, well, were busy on more important and I quickly slipped away from there. In General, you still do not feed bread - give to take on every job, so be a friend and drove in that damned dungeon or whatever it is and bring me my super-shotgun, for which I went there. Well, since you bring, will grant you discounts on artefacts. Well, agreed?</text>
+	</string>
+	<string id="pri2_artefact_quest_desc">
+		<text>True! And I do have a business proposal. I found a few very rare artifacts, Pyramids are called, but only outside the Zone, where I mostly sell the artifacts, they still demand special is not in use. So I decided to hold back, but received an order for a batch of artifacts, and I have now formed completely different, so I'm in a RAID for artifacts in any way can not go, and time is running out. Now, if you bring me the necessary artifacts in a quantity of 10 pieces, I would in return gave you one such Pyramid. Trust me, it's worth it. Here is a list of desired artifacts: Goldfish, Crystal, Soul, Mama's Beads. Okay?</text>
+	</string>
+	<string id="pomidorov_af_detector_desc">
+		<text>And then? I suppose you already noticed that my profile is artifacts. I had a similar detector artifacts, only I broke it recently, and without it, the artifacts look much more complicated. And you especially do not need, you, I see more weapons good interested. So. I have a business proposition for you: let's change! You're giving me your detector artifacts, and I will give you in return a very valuable gun. You will not find anywhere else. And he told you, Oh, how can be useful... Well, agreed?</text>
+	</string>
+	<string id="zaton_condensators_desc">
+		<text>Can. The grid here on the ship did plow. I would have adjusted, as I am an electrician by profession. But here's the problem - I don't have it at hand. I primarily need the capacitors. Here on the Creek there's something like ex-workshop, there is likely to find capacitors. I already asked there to drive, but everyone is afraid - they're some sort of lair. Maybe you were stronger than this, you will, Yes you drive? If you find it, I'll give you a jumpsuit, "Guardian hunting". Okay?</text>
+	</string>
+	<string id="zaton_transistors_desc">
+		<text>Can. I'm here until you capacitors was looking for, figured and see me for repair would not hurt, and transistors. Where to find them, alas, I'll never know. If you find, you'll give you the artifact one is very rare. Okay?</text>
+	</string>
+	<string id="zaton_katushka_provoloki_desc">
+		<text>Imagine, I already had the capacitors changed, as the wiring look in many places already no. And look to short circuit and the fire will be. Would need to change it, since I took this job. There is one medic in Zaton hanging out one time, so it is for some experiments with artifacts ever since the wire was worn, as with a written sack. If you found it, or at least a place where he could store the wire and brought it to me, I would have bought you a machine gun one valuable. Such afternoon with fire will not find. Okay?</text>
+	</string>
+	<string id="hr_flaska_quest_desc">
+		<text>Yes I got involved, you know? Don't know if you heard about living water or not. About the real. In the Area, if near certain anomalies to put the bottle, well, or flask of water, then this water can sometimes be something extraordinary. Then this water the wound can be treated. Heal my order. So, I insisted, so a flask of this water and infuse it for several days need. All monsters fought back as best they could. You see, his wife wanted the water to take. It is a serious illness, the doctors said it would take a miracle. So I went to the Zone for a miracle, and then told me out of the situation. But when I came home in the night, things were a lot, so I foolishly hid the backpack right, you can't believe on a military base. What to do now, I don't know. There warriors 20 people and most of the commandos, I just couldn't beat them. See, you're cool man, if you help me a flask of this return, the return can take everything else good, what's in the backpack. Help?</text>
+	</string>
+	<string id="marsh_monster_part_1_quest_desc">
+		<text>Yeah, decided to earn some money? Well, the right decision. Oh, look at that it is not just a noodle race and a serious business. Hunt mutants, cut the trophies from the carcasses and sell outside the Zone. Trophies you can a buy here - mind you. And you're right to some extent. Only here for how long? But for pennies any accidents. And if you only knew how much those trophies really are... So, people we have now is not enough, and the volumes are growing, so we are forced to engage a third party wanting to earn extra money. If you want to make some money, then take the test task: you need to get in any proportion 10 boar hooves and eyes of flesh. 5000 Reward virtually any. If you pass the test, then the fees will be more serious. Well, that's it?</text>
+	</string>
+	<string id="marsh_monster_part_2_quest_desc">
+		<text>Well done. Good job with the first task. It's time to start chopping cabbage for real. The next batch of trophies that you should get should be from the hands of zombies, controllers and fractures in any proportion. Need to get a total of 15 hands. With fewer to bother not worth it – we pushed them in bulk. The reward this time for 7,500 virtually any. Are you going to spin yourself fast on our hunting exoskeleton earn. What? ?</text>
+	</string>
+	<string id="marsh_monster_part_3_quest_desc">
+		<text>Well, you give. Pretty soon you will become the best hunter in the Area. Have the opportunity to earn even more. Now you need to get a total of 20 trophies. They should consist of jaws of bloodsuckers, stop Snork and the eyes of poltergeists. The reward this time is even more impressive: 10,000 virtually any. ?</text>
+	</string>
+	<string id="marsh_monster_part_4_quest_desc">
+		<text>In General, listen carefully. Just received a large order and there is a serious loot. Will do, will receive 30,000 virtually any. That is not sickly? Then the same! But the work is not easy. We have yet two like want to accept. But here's the thing. This time the range of the claws of the Chimera, hands and brushes librarians are pseudogiants. The first two I know have had to face. But what is the librarian? Say some sort of rare subspecies of fractures. If ever there was one.... But I sent me a picture, so that means that there are such creatures, then, will be able to identify the parts that you need to find. Well, so what? ?</text>
+	</string>
+	<string id="marsh_monster_part_5_quest_desc">
+		<text>Yes, damn it. Doing something is not really going now. Whether the competition which, whether the market is saturated. In General, the demand only on the scarcity and prices are more moderate. On the other hand work is almost without risk. Need to bring legs splinters, tails risovalku and spleen of rats. First, in principle, for such an experienced hunter as you're safe, the second, too, but rats are generally harmless creatures. The job is simple but painstaking, will have to search long and track, but 20,000 virtually any on the floor, too, not lying. Right? Need a total of 30 trophies. ?</text>
+	</string>
+	<string id="swamp_monster_part_1_quest_desc">
+		<text>If you really want to engage in this business, you better get down to our bartender on the moor. And I'm kind of retired and only occasionally do trophies. The place here is quiet, calm... But if you want to earn extra money, have one custom made. The people I have available there, so you can charge you. You need to get the tails of dogs, and wolves pseudocubic a total of 20 pieces. A reward of 10,000 virtually any. I agree, not so bad. Well, that's it?</text>
+	</string>
+	<string id="swamp_monster_part_2_quest_desc">
+		<text>Like I said, if you want a really good money, we better get down to our bartender on the moor. But if you want to earn extra money, have one custom made. You need to get this abomination heads candy, belly cockroaches and brushes ghouls. Well, in General, if not of disgust, then take it. You need to bring a total of 30 such "spare parts". Remuneration 7500 virtually any. Admit it, to suppress thirty such small fry for seven and a half Grand isn't so bad. Well, that's it?</text>
+	</string>
+	<string id="swamp_monster_part_3_quest_desc">
+		<text>Well, this time you're just in time. Just received a rather large order. You need to get 15 hands of the burer. The task is not easy, this is not small fry to hunt any type of gerbils. But the money paid is serious. 15 hands – 15 pieces, hehe. Well, that's it?</text>
+	</string>
+	<string id="hr_food_quest_desc">
+		<text>Of course, lad. I'm here with my team in a jam hit. We hunker down here God knows how, but then realized that it is a trap. Here around the military base, then the posts with some type of mercenary or something, around anomalies, monsters. And the team I have inexperienced. Try to get out, most will not survive. Decided to sit it out until the one experienced guide wouldn't take us away from here. We told him the news sent. Only here's the problem – the food end and we get nowhere here. That would be if you brought me food, lots of food, well, there is 10... so I bite the beak, but after the hussars of money do not take women. Right? How much something will hit. Well, would it help?</text>
+	</string>
+	<string id="hr_drink_quest_desc">
+		<text>Well, with food you helped me. There was another problem. About you... well about drinking, in short, somehow I had not thought of. And here in the well of dirty radioactive water no more and get drunk. And drink from the dirty well you probably know this is the right way to become Kozlenko. That is if you would bring me bottles of 10 commercials in... well, the drinks were different, I would never regret and the last 200 roubles. Well, lad, help again the poor girl? And I, if the occasion arises, will do the same.</text>
+	</string>
+	<string id="dc_ammo_quest_desc">
+		<text>I Explorer actually. However, now temporarily do not do this business, as the ammunition I have at the end, and the place is here, as you yourself noticed, is unsafe. In General, some psychopath was going to shoot in all indiscriminately. Go out there and battle. Damn, just like in the war. And I have, if anything, even shoot nothing, and with hucksters of I'm in trouble, I do not sell. That is if you would bring me ammo boxes 10 commercials, then I will be able you to drive to certain areas of the Zone at discounted prices. Well, maybe some information you will share. Well, agreed? Will help with ammo? Look: I have a shotgun and Teteshnik, so we need cartridges of the 12th caliber and caliber of 7.62х25 mm.</text>
+	</string>
+	<string id="aver_medic_quest_desc">
+		<text>Yeah tell me about it. Only here to go we are now more nowhere, and there is a full Siberian fur animal. Monsters like dogs nerezanyh, and both literally and figuratively. Yes, and mercenaries are constantly jackals. I myself am a former monolith, so with combat training order, but all the rest with this case so-so. Permanently injured injured. This is the best, and the medicines we have at the end, and if some creatures or monsters come looking, it will be hard. That is if you would bring there medicines pieces 20 commercials, it would be quite another matter. Well, are you ready to help stalkers – brothers?</text>
+	</string>
+	<string id="aver_outfit_quest_desc">
+		<text>I think it is. I heard that was from some Stalker jacket and some special. He her or anomalies found, or c of the deceased in the anomaly of the companion removed. Say, jacket this there's got to be in the Forest. But I already amazing the whole thicket, and the jacket was never found. Maybe you can do it? I have no idea where she may be, as in the place I was looking for. Painfully spooky this place is. I tell you this place on the map marked. What?</text>
+	</string>
+	<string id="aver_drug_quest_desc">
+		<text>Almost. However, it would be good if you could us more help. We RAID going threat and we need more variety of specials. drugs. Get us the following substances: anti-radiation drugs, barvinky, the psi-blockade, radioprotectors in the amount of 20 pieces. Get, will give you a sight 1ПН58. Well, are you ready to help stalkers – brothers?</text>
+	</string>
+	<string id="zat_music_disc_desc">
+		<text>That's it? There is such a job. Need to find a CD with some very important information that the local thugs somehow very much want to hide. What kind of information it is hard to say, but the bandits are willing to pay a tidy sum. On this occasion I made a deal with one of the stalkers who found the disk, but had no leads on the criminals and if put it to them, they would have just killed. Only here this Stalker lost somewhere on the Moor. In General, you need to explore the area, find a disk and bring it to me. And I then their channels will require for it a reward from the bandits. Well, you offended will not. Just bear in mind that they can drive search, too, so be ready for unexpected encounters. Agreed?</text>
+	</string>
+	<string id="predbannik_artefact_quest_desc">
+		<text>Is. I'm here under the protection of warriors are buying the artifacts, well unfasten it for it. Otherwise they all would be guarded. So. I usually buy the artifacts individually, you know my prices already. But now just got a whole batch of 15 pieces. Payment of 25 thousand. Here is a list of desired artifacts such as Gravity, Ice, Spring, Plasma. Well, stir up a little business?</text>
+	</string>
+	<string id="val_scope_quest_desc">
+		<text>Well, you type on here. Need Bros to the arm in the suit, and then blah, blah, like cormorants with crackers dart. I will give them MP5 and M16 with optics. Not, you understand? Volynov is, and the sights to them no. Bring a dozen, lads in debt does not remain. Well?</text>
+	</string>
+	<string id="swamp_abakan_m2_dialog_desc">
+		<text>No, well I mean this gun here got. I am going with the homies, watching the boob some as out of the bushes lomanutsya. Well my Bros out there and Volyn this. Well, I was like, I'll take, maybe the fries back, and I told him it will drive. And then you showed up. But if need stow, then drive 20 Grand and it's yours without the Bazaar.</text>
+	</string>
+	<string id="zaton_notes_desc">
+		<text>We sent to the mainland for a helicopter with documents that are found here. However, over the Creek, the helicopter crashed. We sent a detachment of the local garrison to rescue the survivors, if they stayed, and save documents. The squad found the downed helicopter and some of the documents, however, at the time of inspection of the wreck were attacked by well-equipped and trained opponent, clearly professionals, mercenaries and in the ensuing firefight our squad suffered heavy losses, well, have receded. It is therefore possible that some of the documents seized those mercenaries. It is also possible that in a hurry they could either not find, or leave some of the documents somewhere at the crash site. In General, to send me now there's nobody, so since you asked for it, you can entrust this mission to you. Okay?</text>
+	</string>
+	<string id="zaton_details_desc">
+		<text>I'm probably already tired, but could you find me some more details? I would rosin, PCB and some small transformer. And I'm not in debt will remain. I think all these details can also be found somewhere nearby on the Creek. You will find, will give you valuable ammunition, as much as a whole bunch. Okay?</text>
+	</string>
+	<string id="zaton_toolkit_desc">
+		<text>You know, I thought you, too, in some degree profitable to mess with my orders. Right? But in Pripyat, a lot of shops there, can still not cleaned. And the shops there were good. Remember, as of now, there are good tools once sold. If the time allows ran and looked, perhaps that will find. Here on this rust bucket of work to be done, the tools have, Oh, how would not hurt. Ideally, I would conventional tools, tools for precision and high-precision instruments. And I owe this time will not stay, will give you our signature hunting exoskeleton. Okay?</text>
+	</string>
+	<string id="swamp_black_box_desc">
+		<text>Can help out. Of course, in return for the service. Here, a military helicopter crashed nearby. And why is not clear. You need to examine the crash site and bring me the black box. And I'm far from the warriors is going to decide. The box itself should be heavy, but the overall job, I think, is not complicated. But if anything, talk to my friend hunter, who runs things there. If you do order, get the armor of my own production. Is?</text>
+	</string>
+	<string id="swamp_black_box_search_desc_1">
+		<text>We heard a noise, immediately ran to see, but a closer approach did not dare, because he feared that the helicopter would explode. Then we see the stalkers some run to the wreck, fumbled near the helicopter and we go...</text>
+	</string>
+	<string id="swamp_black_box_search_desc_2">
+		<text>Well, say such that the type found something valuable and will bear this finding to the Cordon whether military, whether Sidorovich, shouting each other interrupted, so nothing really, and it was impossible to understand. All about a CAT talking. Although some PPC? The military would close them and not admitted to. In General, if you need these stalkers or what they found, it is likely that the search should continue at the Cordon.</text>
+	</string>
+	<string id="escape_vehicle_quest_desc">
+		<text>Discount can provide but not just. Spring. Planting on the nose, and I your tractor left the farm in the Marshes. You have it I drove over here closer to the bunker, and from there I already own. But bear in mind, I anyhow what a tractor is not needed. I need my tractor on a farm in the Swamps and that on it no scratches. If you drive, will you discounts, and not only me, but also my brother. Small at first, but if you'll help him, you are gonna freak with happiness. Is?</text>
+	</string>
+	<string id="predbannik_vehicle_quest_desc">
+		<text>Discount can provide but not just. Spring. Planting on the nose, and I have a tractor left in the village in Hidden Valley. You have it I drove over here closer to the bunker, and from there I already own. But bear in mind, I anyhow what a tractor is not needed. I need my tractor in the village Hidden in the Valley and that on it no scratches. If you drive, will you discounts, and not only me, but also my older brother, Yes, and those that are gonna freak with happiness. Is?</text>
+	</string>
+	<string id="red_forest_vehicle_quest_desc">
+		<text>Discount can provide but not just. I had a Zaporozhets, I drove it on the weapons and the ingredients for the brew, but you saw what happened to him. Without a car of course is very inconvenient. I saw, however, as monolith was cut around the Loaf. I have this machine very suitable. According to my informants a Loaf that is at the base of the Monolith on the Generators. There is still a bunker of some kind is interesting. If hijacking for me this Loaf and bring it over here closer to my house, will you discounts. Only a rumor that the battery in it Is junk...?</text>
+	</string>
+	<string id="lost_village_vehicle_quest_desc">
+		<text>Yes, there is such trouble happened... Spring. Planting on the nose, but I recently got drunk and went on his favorite tractor knows why in the Thicket for the night. And drowned him in a swamp, as house found himself already do not remember. Well at least here in the Area of cops present. So here you have it, I drove here and parked him somewhere on the territory of the village. But bear in mind, I anyhow what a tractor is not needed. I need my tractor in the swamp in the Forest and that on it no scratches. If will drive, I will give you 5000 virtually any. Is?</text>
+	</string>
+	<string id="yantar_vehicle_quest_desc">
+		<text>Suppose there is, but not for nothing. We managed to gather up a decent amount of rare artifacts, monsters, and make a big set of documentation on the results of our research. All this is extremely important for science! And all this should be removed from the Area as quickly as possible. But we don't have suitable transport. However, my colleagues informed me that in the Dead City, which is nearby, supposedly there is a suitable truck ZIL-131. They have not been able to verify on-the-go or not, as they were attacked by zombies and only narrowly escaped. If we bring this truck here for amber, will give you the artifact "Compass". Is?</text>
+	</string>
+	<string id="val_f1_bandit_sifa_kill_quest_desc">
+		<text>Something like that... However, there is one goat, Sifeu they call. Bitch is hiding somewhere in the area of the old Farm, bitch knows what awaits him, if I can find. Well, in short, what is there extra breeding market. Found you, huh? Well, handed to him from flaming me a Hello... And then I'll return Volyn pontovoe throw. Well you moved in?</text>
+	</string>
+	<string id="f1_borov_kill_quest_quest_desc">
+		<text>Of course I know. All the lads messing, managed to have his bosses appointed the beholder, and in fact, he's out of range of the informer was the cops knocking on the tale, and the rat he in addition. Would you help me rid the world of this bastard? And then people have much me without such a thug as you can handle. Will help, I'll return the machine will give very rare – I see you weapon valuable respect. So what? ?</text>
+	</string>
+	<string id="sifa_about_desc">
+		<text>Himself see. Bandit I. But I am not a thug and not a thug there is some. Just at the time foolishly made some unforgivable mistakes that newcomers make contact with these dregs. And now the road back is not. What happened, can't change the past not to return. I think you this situation and most familiar.</text>
+	</string>
+	<string id="f1_kolhoz_info_desc">
+		<text>Yes, indeed, next to a farm. Or rather what was left of him after the incident. There we have a small base, led by my colleague. I advise you to visit him, as he will surely find you some work.</text>
+	</string>
+	<string id="f1_lucky_quest_desc">
+		<text>We need your help. We were flying the helicopter, which carried a prototype of a very important device necessary for our expeditions. However, when approaching the helicopter has got to the anomalous zone and crashed somewhere on the Farm. You need to find the crash site and try to find a prototype of this device. He should have been kept in a shock proof box, so it survived.</text>
+	</string>
+	<string id="red_forest_kill_lukash_quest_quest_desc">
+		<text>As you have probably guessed, I'm the only Forester in the legend, and actually lead a group of mercenaries in the Area. In Soviet times I worked in a very serious office and was recruited by the CIA. After that I successfully met in the Soviet Union a number of serious acts of sabotage, causing substantial damage to the national economy. In fact, I in the terminology of those times, the saboteur is a pest. However, after the collapse of the USSR, the CIA pretended like I never existed and never worked. Well, you certainly heard about such cases. Only because of my foreign Affairs, I managed to establish contacts with a number of foreign subversive organizations that were in the Area of their interests. I am familiar with the area, suspicions, no one cause – well, who would suspect anything simple old Forester. My new employers have asked me to arrange the transfer to the Zone of armed groups well trained mercenaries, and to take command. Well it is, FYI, so you know who you are dealing with. Now about jobs. There are all kinds of rabble, proudly called themselves Freedom. Their leader, Lucas. You may even know him personally. He and his minions are constantly confused at our feet, often tearing the successful conduct of our operations. Everything is simple: you need to eliminate Lukas. My, and now your landlord is very generous, so the amount of remuneration not to worry. Ready to do the job?</text>
+	</string>
+	<string id="red_forest_kill_voronin_quest_quest_desc">
+		<text>Former military organized in the Area, a group called Debt. Many of them are not just former conscripts and professionals who, like my people have visited many hot spots. The leader dolgovtsev – General Voronin is also one of them. He and many of his men faced of my fighters in many hot spots in face-to-face. Now in addition they consider it their duty to deal with us, even past. Therefore, they represent for us serious threat. I think you have already guessed what will be your new assignment. It is necessary to eliminate General Voronin. It for some time desorientiert his troops and allow us to acquire a certain, even temporary, tactical advantage. What? Ready to perform this task?</text>
+	</string>
+	<string id="red_forest_kill_boroda_quest_quest_desc">
+		<text>One trader, nicknamed the Beard for a long time supplied us with so many weapons and knows about us. I had a suspicion that he secretly negotiated with the military and prepares us to a trap. Everything is simple: you need to eliminate it. Just bear in mind that he was in the Monolith preparation he is still the same, so be careful. Ready to do the job?</text>
+	</string>
+	<string id="rostok_find_gordon_info_desc">
+		<text>I hope you're not the hero of Halva are interested in? I think it's about wearing a nutty Stalker, who was Gordon Freeman, and, damn, it looks like he was on an eerily. Even the accent was depicted as foreign, however poorly he did it, just forget or buhnet, so once the baby Yes, abusive... of course he's No Gordon. Well, you judge for yourself. That would be if Gordon really exist, is he an idiot of some kind in the Area to go? Nope. Gordon was in the game was friends with the head and voluntarily would not be flooded would be here. I suspect that this Stalker was originally or mentally ill, or here he went to the roof completely. Constantly with a crowbar, a Glock, but with a SPAS-12 drags, well, obviously in a way got used in full. He used to hang out here, everyone said that the Area arose from the experiments at Black Mesa. Well, we listened, nodding, assented to, well, not to upset him. The last time we saw him, he said that he would go into the Wild to clean it from zombies. We never saw...</text>
+	</string>
+	<string id="about_doctor_monolit_desc">
+		<text>It seems to be baptized. I suppose you've heard tales around the campfire. Dr. Monolith no more than a legend, a scary story experienced stalkers like to scare newbies. No one's ever seen. There is no evidence of its existence. But if you believe the majority of these tales, the Zone is his handiwork. No explosion at Chernobyl, nor the experiments of scientists and military personnel who allegedly carried out in the Area nothing to do with. And my good advice to you: forget about it. The less you know the better you sleep, and will live longer. Though I am not superstitious, but note that legends from scratch does not arise. Hell knows, if the Doctor Monolith was real, then stay away from him. In most of the tales said that he had sat down somewhere at Chernobyl, so you do not go, if life road. And remember: I told you nothing.</text>
+	</string>
+	<string id="warlab_woman_ada_dialog_desc">
+		<text>So we meet again, asshole! The owl You made a huge mistake when he refused my proposal, and I haven't forgotten that. I could kill you before, how could kill right now but he has plans for you, so I'll give you the last chance. You need a floppy disk, right? It will not help you, if that. But so be it, unable this time to spare you and allow you to get it for 100 thousand virtually any. Either may provide you the opportunity to fight me after giving you a tire iron and first aid kits, to keep things honest... So I think shit...</text>
+	</string>
+	<string id="hr_cit_doctors_key_quest_desc">
+		<text>Can and share, but not just so. I need at any cost to break into one safe place in Pripyat. How will I ever get there, I have no idea. But that's not it. Even, let's say I go in there, they say, electronic lock and it needed the access card. Without it, the door doesn't open. Did you say you saw in the Dead City stalkers, who boasted that allegedly had some kind of electronic card, which the door to some in Pripyat opens. In General, you need to check all this and if so, to find and bring me this card. If you bring in will give you a valuable machine. Help?</text>
+	</string>
+	<string id="dc_cit_doctors_key_dialog_desc">
+		<text>Heard. And not only heard. The card I have. You helped me and I would give her nothing, but I now need the money desperately. Got into debt, it's time to give. Creditors - serious people. So be a PAL, help me out again. Give 20,000 virtually any. And I'm card. Is?</text>
+	</string>
+	<string id="marsh_mil_svoboda_leader_pda_dialog_desc">
+		<text>I'd love to, but the problem I had: I need an electronic access card from one store in Pripyat. They say she is a Stalker in this city. That is all I know. In General, you need to find her. If you find and bring, I will share my experiences with the local humanoide. Ready?</text>
+	</string>
+	<string id="pri_mil_svoboda_leader_pda_dialog_desc">
+		<text>Heard. And not only heard. The card I have, and I understand that you need it. So I won't attract the cat to the tail - whip 40.000 and the card is yours. Is?</text>
+	</string>
+	<string id="bar_container_green_desc">
+		<text>I have a single barrel rare. These are no longer produced for a long time. Sorry for him of course would be to give you, but if you could help me with something. I received an order from ecologists in search of the lost container with some organic greens, which they wanted to grow. Their expedition was attacked by a group of well-armed mercenaries and kidnapped the container. They say it happened somewhere between the Wild Territory and Yantar. I've looked everywhere and all questioned, but all to no avail - nobody saw anything, nobody heard anything, nobody really did not say. Would you help me with this business, and I'll reward this with a trunk present. Ready?</text>
+	</string>
+	<string id="bar_container_green_search_dc_desc">
+		<text>I have seen a squad of mercenaries passed on towards the centre of the city. One of them was some kind of container like green so. Then began a massacre, so I think the container is still there. It is unlikely that the mercenaries would risk trying to evacuate. Apparently it's some kind of important container, just such a war he started. Maybe the container didn't cause it, and the guys just decided to have some fun...</text>
+	</string>
+	<string id="bar_container_green_search_yan_desc">
+		<text>Yes, I know what you mean. We assigned a Stalker to find it. But apparently it did not work, once you container ask. One of my colleagues, miraculously survived the attack of mercenaries and heard how they talked about the fact that this container must be attributed to some mercenary base in some city nearby. I think it was about the city where do not last long...</text>
+	</string>
+	<string id="bar_predatel_card_desc">
+		<text>First earn trust. Help me to do one thing. Several of our soldiers over to Freedom. This can not be forgiven. They need to be punish to the fullest extent of wartime. These bastards went in the direction of the Dark Valley. We sent after them a detachment, but he has not yet returned. Maybe they got into some trouble. Try to find them, the Bartender said that you like going there. If you find these traitors first, then you can give them a lead, then come get me. But I really don't know why I need proof of death. One of those bastards had served in the militia, and since then all the time carries with him an identity that he somehow managed not to take the dismissal. Now, bring me this card, and in return I'll give you a pass to our base, but only to the commander you still can not walk yet he does not good will not give. Is?</text>
+	</string>
+	<string id="pri2_smoke_quest_desc">
+		<text>So there is not just the hitch will be. Bear watch, trade, you know. To leave can not. And then there's a place the enemy does not want to stay here, and even smokes over. Be a friend, bring me smokes pieces 100 commercials. If you bring, we will give you a very valuable machine. Is?</text>
+	</string>
+	<string id="dar_pass_flash_quest_desc">
+		<text>When we were urgently evacuated from the lab X18, I hastily left your favorite transceiver. I desperately needed to continue their research. Be kind, just still kind of hangin ' here, go there, fetch me my favorite receiver. Science is not in debt will remain. Is?</text>
+	</string>
+	<string id="warlab_evm_quest_desc">
+		<text>Not again and again, first of all... of Course it is. When we were urgently evacuated from the Military Laboratorii, I hastily posted my favorite electronic computer. Me she desperately needed to continue their research. Be kind, just still kind of hangin ' here, go there, fetch me my favorite electronic computer. Science is not in debt will remain. Is?</text>
+	</string>
+	
+	
+	<string id="aver_icona_secret_place">
+		<text>Find the icon</text>
+	</string>
+	<string id="lx8_pda_tip_01">
+		<text>How to turn off the Burner, look me up on amber. There is a very interesting task.</text>
+	</string>
+	<string id="lx8_pda_tip_02">
+		<text>You don't get in the bunker the normal way, until you talk to me. Go to amber! Go to amber!</text>
+	</string>
+	<string id="jupiter_documents_place">
+		<text>Find information about lab X8</text>
+	</string>
+	<string id="labx8_entrance_place">
+		<text>To enter the lab X8. Access code: 334825</text>
+	</string>
+	<string id="zaton_trader_pri_decoder">
+		<text>Pick up the Owl.</text>
+	</string>
+	<string id="generators_tip_01">
+		<text>Need to get into the underground military lab!</text>
+	</string>
+	<string id="bar_floppy_tip_01">
+		<text>Even forget to think about the floppy disk, bitch!</text>
+	</string>
+	<string id="generators_tip_02">
+		<text>Last chance to think again, asshole!</text>
+	</string>
+	<string id="warlab_tip_01">
+		<text>Need to get the access code!</text>
+	</string>
+	<string id="warlab_tip_02">
+		<text>The access code: 120912</text>
+	</string>
+	<string id="warlab_tip_03">
+		<text>I'm coming for you, asshole!</text>
+	</string>
+	<string id="warlab_tip_04">
+		<text>See you in hell, asshole!</text>
+	</string>
+	<string id="warlab_tip_05">
+		<text>Still not safe. Deal first with security!</text>
+	</string>
+	<string id="pri_decoder_tip_01">
+		<text>Pick up the decoder from Owl in Zaton. Details in the personal PDA!!!!!</text>
+	</string>
+	<string id="avp_exit_tip_01">
+		<text>There should be another way out of the caves. This is the shortest route. He may be more dangerous, but science requires sacrifice!</text>
+	</string>
+	<string id="avp_exit_tip_02">
+		<text>I told you that science demands sacrifice!</text>
+	</string>
+	<string id="peshera_guider_tip_01">
+		<text>If you don't want to wander through the maze, find the conductors!</text>
+	</string>
+	<string id="lesnik_freeplay_tip_01">
+		<text>As I finish the case at Chernobyl, look me up in the Red woods. There is a case.</text>
+	</string>
+	<string id="soldier_zaton_tip_01">
+		<text>Hey, Stalker! Look me in the dressing room. Have a conversation.</text>
+	</string>
+	<string id="monster_part_secret_tip_01">
+		<text>Skills the tamer of beasts!</text>
+	</string>
+	<string id="monster_part_secret_tip_02">
+		<text>Obtained skill of a tamer of humanoids!</text>
+	</string>
+	<string id="monster_part_secret_tip_03">
+		<text>Look me up on the Swamp for information!</text>
+	</string>
+	<string id="na_cheater_tip_01">
+		<text>CHEATER!!!!!</text>
+	</string>
+	<string id="x14_tip_01">
+		<text>Welcome to hell, asshole!</text>
+	</string>
+	<string id="x14_tip_02">
+		<text>Bis bald, Herr Schutze!</text>
+	</string>
+	<string id="x14_tip_03">
+		<text>Willkommen in der Holle, Arschloch!</text>
+	</string>
+	<string id="soldier_bribe_tip_01">
+		<text>You can safely pick up the documents from the Agroprom!</text>
+	</string>
+	<string id="soldier_bribe_tip_02">
+		<text>You can safely pick up the documents from the Cordon!</text>
+	</string>
+	<string id="soldier_bribe_tip_03">
+		<text>You can safely pick up documents from the dressing room!</text>
+	</string>
+	<string id="soldier_bribe_tip_04">
+		<text>You can safely pick up Hidden Valley!</text>
+	</string>
+	<string id="repair_relation_tip_01">
+		<text>A truce!</text>
+	</string>
+	<string id="hr_karina_tip_01">
+		<text>Hey, lad, come see me at the farm! You will not regret.</text>
+	</string>
+	<string id="atp_exit_tip_01">
+		<text>Feel your helplessness!</text>
+	</string>
+	<string id="atp_exit_tip_02">
+		<text>Feel your rage!</text>
+	</string>
+	<string id="df_exit_tip_01">
+		<text>I'm waiting for you!</text>
+	</string>
+	<string id="df_exit_tip_02">
+		<text>Find us!</text>
+	</string>
+	<string id="na_final_mission_tip_01">
+		<text>First you need to destroy all the guards!</text>
+	</string>
+	<string id="deadcity_container_green_place">
+		<text>The container with the greens.</text>
+	</string>
+	<string id="rinok_ada_tip_01">
+		<text>Come find me, asshole!</text>
+	</string>
+	<string id="rinok_ada_tip_02">
+		<text>You asked for it, asshole!</text>
+	</string>
+	<string id="dd_mission_tip_01">
+		<text>Something went wrong. You need to try go through the teleporter one more time!</text>
+	</string>
+</string_table>

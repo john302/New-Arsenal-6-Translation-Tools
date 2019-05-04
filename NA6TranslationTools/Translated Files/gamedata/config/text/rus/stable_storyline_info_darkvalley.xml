@@ -1,0 +1,75 @@
+	<string id="bar_darklab_documents_txt">
+		<text>Bartender: "According to the documents that you brought with the Agricultural industry, something begins to dawn, but data is lacking. There is information about a "brain burner" that blocks the way to the North, but what it is nobody knows. Also referred to a lab X18, descriptions converge with abandoned underground premises in the Dark Valley. What's going on is unknown, and besides, the bandits are now in the dark valley your base founded.\njust recently went there a few scouts-dolgovtsev, yet don't hear from them.\nto enter the lab you will need two electronic keys, one will I give you, and the second will have to take the Hog, the leader of the bandits.\nT_NL so you need to pick up the second key from the laboratory of a Hog. Then enter the lab and get the documents."</text>
+	</string>
+	<string id="bar_darklab_documents2_txt">
+		<text>You need to find documents about the research conducted in the lab X-18. They can shed light on the "brain burner".</text>
+	</string>
+	<string id="dar_codedoor_1_txt">
+		<text>Way into the depths of the laboratory barred by a door with a combination lock. You need to find someone who knows the code.</text>
+	</string>
+	<string id="dar_codedoor_2_txt">
+		<text>Another door, behind it there is something, it is a fact. You need to find the code for this door.</text>
+	</string>
+	<string id="dar_document1">
+		<text>The beginning of The experiment</text>
+	</string>
+	<string id="dar_document2">
+		<text>The second stage of the experiment</text>
+	</string>
+	<string id="dar_document3">
+		<text>Report protection</text>
+	</string>
+	<string id="dar_document4">
+		<text>The attack on the staff</text>
+	</string>
+	<string id="dar_document5">
+		<text>The completion of the experiment</text>
+	</string>
+	<string id="documents_1">
+		<text>A week ago, it was decided to increase the intensity of radiation on the subject. In the early days changes are detected. After a few days with them began a strange metamorphosis: reduction of hair, increased aggression. Several test subjects were literally trampled to death by his kin.</text>
+	</string>
+	<string id="documents_2">
+		<text>The experimental condition was stabilized. Hair is about 10% of the original. Significantly grew claws and teeth. Bursts of activity are more random in nature and not directed at their own kind. Senior laboratory assistant Burdov A. N. suggested that this may indicate the increase of intelligence. It was decided to test in experimental psy-emission new modulation.</text>
+	</string>
+	<string id="documents_3">
+		<text>Chief of security: Yesterday the security guard Glebov G. R., for fun, threw a Guinea a piece of meat. They tore and ate it in seconds. After that, a few individuals tried to escape from the cells. So because of this, technicians are unable to take a scheduled dose analyses. Despite the fact that Glebov G. R. have done a foolish thing, offer to provide the staff with pneumatic weapons for self-protection in case of an emergency.</text>
+	</string>
+	<string id="documents_4">
+		<text>Chief of security: Yesterday, the experiment almost got out of control. Broke two dozen test subjects, was blown to pieces two rooms of the laboratory. Well at least the research staff had closed upstairs. We were ordered to clean the room main lab. As a result of the laboratory three of the guards were injured from the bites. I hope that with them everything will be fine. Soon they would complete their experiments.</text>
+	</string>
+	<string id="documents_5">
+		<text>Yesterday, the experiment was tried the psi-radiation new of modulation. The impression that they simply burned out the brains. Hard to imagine how this radiation can affect humans. We have tried all types of radiation. The results are consistent with data from other laboratories. The experiment can be considered complete. I think that next week we will be ready to experiment on larger creatures.</text>
+	</string>
+	<string id="LabX18 first key">
+		<text>Enabling code 2nd level</text>
+	</string>
+	<string id="LabX18 second key">
+		<text>Enabling code 1st level</text>
+	</string>
+	<string id="LabX18_information">
+		<text>Information from X-18</text>
+	</string>
+	<string id="pass_to_1st_door">
+		<text>Great, Colleague. I'm glad You got access to 2nd level. Finally, You will learn what does our lab. Your access code is 1243. Head. lab X-18, Kalugin Pyotr Ilyich.</text>
+	</string>
+	<string id="pass_to_2nd_door">
+		<text>The colleague, I remind You that from tomorrow start service reservoirs in the Central laboratory. You need to check them every two hours. About all to report to me personally. Code to the Central laboratory: 9524. Head. lab X-18, Kalugin Pyotr Ilyich.</text>
+	</string>
+	<string id="sl_x18_dream_name">
+		<text>Strange dream</text>
+	</string>
+	<string id="sl_x18_dream_text">
+		<text>Had a strange dream. The bulk of The Chernobyl power station in the twilight. Everything looks peaceful. There is a lonely man. I see him from the back on the background of the station. The wind starts to blow. Suddenly a sea of rats begins to run from the station in different directions. The man is back to me and shoots at rats. He suddenly heard a shout: "Strelok!". The man shudders, freezes for a moment and slowly begins to turn to me, but...right before I saw his face, I woke up..what does this dream mean? don't know..But I think that's what I've seen.</text>
+	</string>
+	<string id="val_captive_help_txt">
+		<text>Member considers Bullet asks to help him to release the partner, who was captured by bandits. It should be escort to the abandoned factory.</text>
+	</string>
+	<string id="val_prisoner_help_art_txt">
+		<text>Member considers it: "they Have one of our Serge. He is being held in the basement of the building... there is... a big, unfinished. Help him, okay? And then they have it too..."</text>
+	</string>
+	<string id="val_x18_conclusion">
+		<text>Lab X18</text>
+	</string>
+	<string id="val_x18_conclusion_txt">
+		<text>Hmmm...not a healthy place lab X18...and its current inhabitants...did not even think that such evil can exist in the world. Found some documents...Of those few that understand are some technical specifications on some units to emitters Kaimanawa. But interestingly these units were intended for another laboratory with code X16 and apparently also classified.</text>
+	</string>

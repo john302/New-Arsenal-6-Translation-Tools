@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="agr_factory_krot_start_0">
+		<text>Thank you for your help, Stalker! If you had not come, I'd already be dead.</text>
+	</string>
+	<string id="agr_factory_krot_start_10001">
+		<text>I'm looking for information on the spit, do you know anything?</text>
+	</string>
+	<string id="agr_factory_krot_start_10002">
+		<text>How do I get into these cellars?</text>
+	</string>
+	<string id="agr_factory_krot_start_15001">
+		<text>Cache Pointer?\n</text>
+	</string>
+	<string id="agr_factory_krot_start_15002">
+		<text>Thanks for the info.</text>
+	</string>
+	<string id="agr_factory_krot_start_1501">
+		<text>Yeah, I heard about this, it seems also hunted in these places. Besides, somewhere in the basement there is a local cache pointer. It was even said that his base was here.</text>
+	</string>
+	<string id="agr_factory_krot_start_1502">
+		<text>Here is one of the many entrances, you will fall into one of the connected basements, well, see for yourself, I don't have it, they are labyrinth-like.</text>
+	</string>
+	<string id="agr_factory_krot_start_2">
+		<text>I'm looking for information on Arrow, Grey told me that you know something.</text>
+	</string>
+	<string id="agr_factory_krot_start_30001">
+		<text>Thank you.</text>
+	</string>
+	<string id="agr_factory_krot_start_3001">
+		<text>Yes, we are amazing, but found nothing. I'll text you my information, maybe you'll get lucky.</text>
+	</string>
+	<string id="agr_factory_stalker_about_0">
+		<text>What's going on here?</text>
+	</string>
+	<string id="agr_factory_stalker_about_1">
+		<text>Fight, but rather sit and stick our Asses shot off. Learn more the Mole ask. He's in charge here.</text>
+	</string>
+	<string id="agr_factory_stalker_start_0">
+		<text>Wow! What a mess was, the enemy does not want. Altogether, these military.</text>
+	</string>
+	<string id="agr_krot_about_agroprom_0">
+		<text>Where is the Agroprom?</text>
+	</string>
+	<string id="agr_krot_about_agroprom_10">
+		<text>Nearby. Follow the road West, it leads directly to the gates of the Institute.</text>
+	</string>
+	<string id="agr_krot_about_agroprom_100">
+		<text>They say there is now military located?</text>
+	</string>
+	<string id="agr_krot_about_agroprom_120">
+		<text>Thanks for the info.</text>
+	</string>
+	<string id="agr_krot_about_agroprom_20">
+		<text>Yes, there is now a military base. I don't know how many soldiers, but I can say that there's more than one platoon. They are well armed. It is best to get there at night, the base was well guarded, there are many guards. Actually, I heard of a deserter in the marsh. He d tell you anything.</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_0">
+		<text>What's going on here?</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_100">
+		<text>Me and my boys, here I found nice place with artifacts, when we do not understand why the military attacked. I do not understand what they wanted from us?!</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_200">
+		<text>Yeah, I heard about this, it seems also hunted in these places, there is a good place. He left here a long time, do not know when and where. That is all I know.</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_2000">
+		<text>You're knowingly sat? Otherwise, why military special forces then landed?</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_250">
+		<text>Well, I still know something about the shooter.</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_2500">
+		<text>Yes? I really need to know!</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_3500">
+		<text>If you lied to me, I will find you, and finish that the military was unable!</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_400">
+		<text>I'm not kidding. I know that there is no one trusts anyone, but then you have little choice.</text>
+	</string>
+	<string id="agr_krot_actor_met_seriy_100">
+		<text>Grey? Well, okay, look. They say that the Shooter hunted in these places. Besides, somewhere in the basement there is a local cache pointer. It was even said that here was a base of his group. We also amazing the stash, just haven't found anything. I'll text you my information, maybe you'll get lucky. There is all information about the cache that we have.</text>
+	</string>
+	<string id="agr_krot_actor_met_seriy_2000">
+		<text>What else do you know?</text>
+	</string>
+	<string id="agr_krot_actor_met_seriy_250">
+		<text>That is all I know, all I knew was you said, then you yourself should act. I wish you luck.</text>
+	</string>
+	<string id="agr_krot_help_0">
+		<text>Help me, Stalker!!!</text>
+	</string>
+	<string id="agr_krot_help_10">
+		<text>Well.</text>
+	</string>
+	<string id="agr_ratcatcher_start_0">
+		<text>Don't shoot, bro!</text>
+	</string>
+	<string id="agr_stalker_esc_0">
+		<text>What are you doing?</text>
+	</string>
+	<string id="agr_stalker_esc_20">
+		<text>C plant go, it's down the road. Don't know how, but our group got wind of the military. I did not begin to wait and took off. I hope we all already faded, and that, if long delayed, they just live long: you saw the helicopters.</text>
+	</string>
+	<string id="agr_stalker_esc_300">
+		<text>Got it, thanks.</text>
+	</string>
+	<string id="agr_stalker_esc_400">
+		<text>Got it, thanks.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_0">
+		<text>I have a couple of questions.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_10">
+		<text>What do you want to know?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_1000">
+		<text>What's interesting in the area?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_120">
+		<text>How much do you need?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_130">
+		<text>Here, take the money. Tell me where it is.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_131">
+		<text>Fuck you.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_140">
+		<text>Thank you.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_20">
+		<text>Yes, there are a couple of places! Current have a little fork!</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_21">
+		<text>Before everything was calm. And now che military raged. Wet all. Here the bandits had recently smoked. They say some managed to escape into the catacombs.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_30">
+		<text>Well, thirty-and hands?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_40">
+		<text>There is a nearby exit of the railway tunnel. In it, stalled before the dam is safe enough. At least until there's no one sleeping not eating.\nYet, in the North-West of the plant is the bog in this car, it is beautiful. Only the radiation to go better on the West side. And yet, there recently saw some soldier, apparently from the base to the Institute. A couple of days already sitting there. He roof is probably going to die alone.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_9999">
+		<text>While!</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_0">
+		<text>What you have here is interesting?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_1">
+		<text>About Piper know? Information will cost 30 money.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_11">
+		<text>Hands.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_111">
+		<text>We have here one local hero named Piper. He lives in the swamps. He threw as many rats in the sewers that they will soon be eaten alive by the cops.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_1111">
+		<text>Great. Thank you.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_1112">
+		<text>Tell us more about the collectors.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_11121">
+		<text>Headers... Yes, the usual stinking sewer. Removes AGROPROMOCJA drains to the nearest water body.\n</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_111211">
+		<text>Great. Yet. Take care of yourself.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_12">
+		<text>Know already. Thank you.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_121">
+		<text>More anything I can not tell.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_13">
+		<text>I don't have enough funds.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_14">
+		<text>I'm not interested.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_3">
+		<text>What you have here is interesting?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_31">
+		<text>Nothing.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_311">
+		<text>Clear. While!</text>
+	</string>
+	<string id="agr_stalker_talk_level_0">
+		<text>Tell me about this place.</text>
+	</string>
+	<string id="agr_stalker_talk_level_1">
+		<text>This is the territory of scientific research Institute "agriculture". The building of the Institute located in the South-West. A plant in the North - is production-technical base of the Institute. The building was long abandoned, and there is nothing to take. But recently, the military began to actively look for.</text>
+	</string>
+	<string id="agr_stalker_talk_level_2">
+		<text>Tell us more about the Institute.</text>
+	</string>
+	<string id="agr_stalker_talk_level_21">
+		<text>About the Institute the legends go. Before the accident in 1986, only here and there was that lonely building of the Institute of breeding and genetics of cereals. But the plant was an experimental field. After the accident, the Institute was closed, and the fields burned. And then I remembered, the building was whitewashed fence, the barracks built. The place fields constructed the plant. I do not know than there at the Institute was doing, but the money was not spared.</text>
+	</string>
+	<string id="agr_stalker_talk_level_3">
+		<text>Tell us more about the plant.</text>
+	</string>
+	<string id="agr_stalker_talk_level_31">
+		<text>This plant was built in the late eighties. Like, in order to build and test machines that are capable of treating radioactively contaminated soil. But as far as I know, no one has this one car did not see. He is now completely empty. Only stalkers like to stay there. They say that a pretty safe place if you do not look in dark corners.</text>
+	</string>
+	<string id="agr_stalker_talk_level_4">
+		<text>Thank you.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_0">
+		<text>What are you doing?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_10">
+		<text>Lurk here. I do not need problems.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_100">
+		<text>Who you hiding from?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_120">
+		<text>The catacombs?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_130">
+		<text>Do you know where in Sri Agroprom documents are stored?\n</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_140">
+		<text>What's next are you going to do?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_141">
+		<text>What's next are you going to do?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_20">
+		<text>I'm from the recon team. Us to the catacombs sent to see what was going on underneath the base. There is a complete ass. I alone escaped. The others are probably dead. But to return to base I don't want to. Us forever all the holes in the damn area plug, bloody bastards.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_30">
+		<text>The underground tunnels. They are from the Institute for his territory, I'll show you where entrances are. Maps of the catacombs themselves I have not.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_40">
+		<text>In the headquarters. He is on the third floor of the Institute. There's also those damn papers. But there still need to reach.\nDay territory patrolled completely. Night patrols less. If you want the base to climb, then I must say: not pass through the gate, the real way - through the catacombs.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_50">
+		<text>Hmm. I do not know. Under military law I am a deserter. And to get out of the Zone as you need to.\nWhen we came here in the garage Cossack stood, almost on the fly. I it to life back in half an hour, and the captain, the dog, took it to yourself - say to him according to the Ordinance laid! On the way, near here riding, and at the gate the rain quit. That would be to steal the Cossack - on wheels run more reliable!</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0">
+		<text>Hello.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_01">
+		<text>What brings you by?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_011">
+		<text>Tell me about the collector. How to get there, and where the inputs and outputs?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0111">
+		<text>The manifold right now. Six. Two of them on campus - there is a military base. The territory of the Institute patrolled. The schedule of patrols is the captain in the storeroom.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_01111">
+		<text>Why so much information?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_011111">
+		<text>Rats told.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0111111">
+		<text>Clear. Goodbye. Good luck to you.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_012">
+		<text>With nothing. Prior to the meeting.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_013">
+		<text>Who are you?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0134">
+		<text>Live here. If you want to call it. And so, I breed rats in the manifold, thereby pestering military Institute.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0135">
+		<text>I'm The Pied Piper.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_01351">
+		<text>What are you doing in this swamp?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_123">
+		<text>Ahhh... I see.... I'm generally not of this tale.\nha ha Ha...</text>
+	</string>
+	<string id="agroprom_vehicle_quest_desc">
+		<text>Not raved, and talked. We Rave you hike. So, if you want to help, then listen carefully. Then the Cossack a bummer, but I got to go. Just do not walk! I'm snaryagu to the Swamps will not come. Need a ride. In the dressing room Affairs run by Major Barygin - son of a bitch! Five For virtually any would sell his own mother, and on his fighters he even, feeling, care. Only money, money, money... But if we ignore this moment, he is a man generally mandatory, the word holds. I told him one thing at a time helped vnesustavnykh - eliminated competitors, and he promised, if necessary, to lend his Cornfield. She had usually parked right at the base. You know, I go there is tantamount to suicide, but maybe you will. In General, I get this Field over here to the swamp, but only in safe and sound. You know, I have the path hard - on the broken wreck I will not get far. If you drive a Niva, will give you a gun one rare - such a way even not produce, only is diluted, Yes La-La poplar, hardly do you where else one can find. Is?</text>
+	</string>
+</string_table>

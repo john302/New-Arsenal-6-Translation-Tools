@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="actor">
+		<text>A A Loner</text>
+	</string>
+	<string id="actor_dolg">
+		<text>Debt</text>
+	</string>
+	<string id="actor_freedom">
+		<text>Freedom</text>
+	</string>
+	<string id="actor_ecolog">
+		<text>The business ecologist</text>
+	</string>
+	<string id="actor_monolith">
+		<text>Monolith</text>
+	</string>
+	<string id="actor_stranger">
+		<text>Hunter</text>
+	</string>
+	<string id="actor_killer">
+		<text>Mercenary</text>
+	</string>
+	<string id="actor_bandit">
+		<text>Bandit</text>
+	</string>
+	<string id="wermacht">
+		<text>Fascist</text>
+	</string>
+	<string id="actor_wermacht">
+		<text>Fascistка</text>
+	</string>
+	<string id="actor_developer">
+		<text>Author</text>
+	</string>
+	<string id="arena_enemy">
+		<text>Gladiator</text>
+	</string>
+	<string id="bad">
+		<text>bad</text>
+	</string>
+	<string id="bandit">
+		<text>Bandit</text>
+	</string>
+	<string id="dolg">
+		<text>Debt</text>
+	</string>
+	<string id="ecolog">
+		<text>The business ecologist</text>
+	</string>
+	<string id="enemy">
+		<text>the enemy</text>
+	</string>
+	<string id="excellent">
+		<text>well</text>
+	</string>
+	<string id="exo_outfit_name_m1">
+		<text>Exoskeleton PNB-4УЗ</text>
+	</string>
+	<string id="experienced">
+		<text>experienced</text>
+	</string>
+	<string id="Found_PDA">
+		<text>Found PDA</text>
+	</string>
+	<string id="freedom">
+		<text>Freedom</text>
+	</string>
+	<string id="friendly">
+		<text>each</text>
+	</string>
+	<string id="good">
+		<text>well</text>
+	</string>
+	<string id="indifferent">
+		<text>neutral</text>
+	</string>
+	<string id="killer">
+		<text>Mercenary</text>
+	</string>
+	<string id="l01_escape">
+		<text>Cordon</text>
+	</string>
+	<string id="l02_garbage">
+		<text>Dump</text>
+	</string>
+	<string id="l03_agroprom">
+		<text>The research Institute of agriculture</text>
+	</string>
+	<string id="l04_darkvalley">
+		<text>Dark Valley</text>
+	</string>
+	<string id="l05_bar">
+		<text>Bar</text>
+	</string>
+	<string id="l06_rostok">
+		<text>Wild territory</text>
+	</string>
+	<string id="l07_military">
+		<text>Army warehouses</text>
+	</string>
+	<string id="l08_yantar">
+		<text>Amber</text>
+	</string>
+	<string id="l10_radar">
+		<text>Radar</text>
+	</string>
+	<string id="l11_pripyat">
+		<text>Pripyat</text>
+	</string>
+	<string id="l12_stancia">
+		<text>Chernobyl</text>
+	</string>
+	<string id="l12_stancia_2">
+		<text>Chernobyl</text>
+	</string>
+	<string id="master">
+		<text>master</text>
+	</string>
+	<string id="military">
+		<text>Military</text>
+	</string>
+	<string id="monolith">
+		<text>Monolith</text>
+	</string>
+	<string id="neutral">
+		<text>neutral</text>
+	</string>
+	<string id="novice">
+		<text>beginner</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>There are no active jobs</text>
+	</string>
+	<string id="st_time_till_surge">
+		<text>Time to release</text>
+	</string>
+	<string id="stalker">
+		<text>Loner</text>
+	</string>
+	<string id="terrible">
+		<text>awful</text>
+	</string>
+	<string id="trader">
+		<text>Dealer</text>
+	</string>
+	<string id="ui_st_community">
+		<text>group</text>
+	</string>
+	<string id="ui_st_price">
+		<text>Price</text>
+	</string>
+	<string id="ui_st_rank">
+		<text>rank</text>
+	</string>
+	<string id="ui_st_relation">
+		<text>attitude</text>
+	</string>
+	<string id="ui_st_reputation">
+		<text>reputation</text>
+	</string>
+	<string id="very_bad">
+		<text>PTS. bad</text>
+	</string>
+	<string id="very_good">
+		<text>PTS. well</text>
+	</string>
+	<string id="veteran">
+		<text>veteran</text>
+	</string>
+	<string id="zombied">
+		<text>Zombies</text>
+	</string>
+	<string id="Btn_Cancel">
+		<text>To cancel</text>
+	</string>
+	<string id="Btn_No">
+		<text>No</text>
+	</string>
+	<string id="Btn_OK">
+		<text>OK</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>Yes</text>
+	</string>
+	<string id="global_map">
+		<text>Map Of The Zone</text>
+	</string>
+	<string id="st_autosave">
+		<text>AutoSave...</text>
+	</string>
+	<string id="st_game_over">
+		<text>The game is over.</text>
+	</string>
+	<string id="st_item_used">
+		<text>Used</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>Not enough money</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>the NPCs have enough money</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>Backpack</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>The Search cache ($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>To lift the object ($$ACTION_USE$$)</text>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>Updates</text>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>Alternative</text>
+	</string>
+	<string id="ui_inv_health">
+		<text>Health</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Radiation</text>
+	</string>
+	<string id="ui_inv_satiety">
+		<text>Satiety</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Endurance</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Bleeding</text>
+	</string>
+	<string id="ui_inv_psy_health">
+		<text>Psychic.</text>
+	</string>  
+	<string id="st_mp_say_to_all">
+		<text>All</text>
+	</string>
+	<string id="st_mp_say_to_team">
+		<text>The team</text>
+	</string>
+	<string id="st_knife">
+		<text>Knife</text>
+	</string>
+	<string id="st_mp_disabled_voting">
+		<text>Voting is not available on this server.</text>
+	</string>
+	<string id="st_mp_no_current_voting">
+		<text>Now there are no active polls.</text>
+	</string>
+	<string id="st_mp_ready">
+		<text>ready</text>
+	</string>
+	<string id="st_mp_voting_succeed">
+		<text>The vote was successful!</text>
+	</string>
+	<string id="st_mp_voting_failed">
+		<text>The vote failed!</text>
+	</string>
+	<string id="l03u_agr_underground">
+		<text>Dungeon The research Institute of agriculture</text>
+	</string>
+	<string id="l04u_labx18">
+		<text>Lab X-18</text>
+	</string>
+	<string id="l08u_brainlab">
+		<text>Lab X-16</text>
+	</string>
+	<string id="l10u_bunker">
+		<text>Laboratory X-10</text>
+	</string>
+	<string id="l12u_sarcofag">
+		<text>The sarcophagus</text>
+	</string>
+	<string id="l12u_control_monolith">
+		<text>Management Monolithом</text>
+	</string>
+	<string id="stranger">
+		<text>Hunter</text>
+	</string>
+	<string id="javka">
+		<text>The turnout</text>
+	</string>
+	<string id="pri_oxot_baza">
+		<text>Base hunters</text>
+	</string>
+	<string id="st_detail_list_for_foo">
+		<text>Wow much information!</text>
+	</string>
+	<string id="no_cat_guard_in_car">
+		<text>Cat loves to ride on machines!</text>
+	</string>
+	<string id="only_one_cat_guard">
+		<text>At the same time it is possible to produce only one cat in the bag!</text>
+	</string>
+	<string id="cat_guard_use">
+		<text>To put the cat in the bag</text>
+	</string>
+	<string id="cat_in_bag">
+		<text>The cat in the bag!</text>
+	</string>
+	<string id="no_cat_guard_in_warlab">
+		<text>The cat in The bag wants to sit in the bag!</text>
+	</string>
+	<string id="cat_in_bag_dead">
+		<text>The cat in The bag died!</text>
+	</string>
+</string_table>

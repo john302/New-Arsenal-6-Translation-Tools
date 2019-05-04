@@ -1,0 +1,27 @@
+	<string id="gar_actor_looser">
+		<text>Well, you're a wimp, Tagged help you are zero. So gratitude from us you will not wait. Not thank you for that.</text>
+	</string>
+	<string id="gar_actor_normal">
+		<text>Not bad, Stalker, shoot the mutants. But the particular speed you're no different, so if you want to go - will have to pay.</text>
+	</string>
+	<string id="gar_actor_winner">
+		<text>Well Bullseye, you really helped us greatly. Let's assume that you've paid for your pass. You can go to the Bar.</text>
+	</string>
+	<string id="gar_direction_fire">
+		<text>Let them get closer so no one is left. I shoot first - then you.</text>
+	</string>
+	<string id="gar_dolg_blokpost_warning">
+		<text>Stalker, you're in territory controlled Debt. Any aggression will be punished.</text>
+	</string>
+	<string id="gar_dolg_monster_rush">
+		<text>All welcome!! Says the Outpost of the Debt on the Landfill. From the Dark valley towards the Bar there is a wave of mutants. Anyone who is committed to shoot vermin - appreciation with our guarantee.</text>
+	</string>
+	<string id="gar_dolg_warning">
+		<text>Stalker, you're on the grounds of the Debt. Going to whoop it up - get a 4 th degree of disability !</text>
+	</string>
+	<string id="gar_hellcar_victory">
+		<text>Well done guys, we defeated them. All the rest, and you Stalker, come here and chat.</text>
+	</string>
+	<string id="tips_gar_hellcar_alarm">
+		<text>The people, causing the commander of neutrals. We drove the bandits from the Parking lot abandoned equipment, suggesting a retaliatory counterattack. We have little strength, so you are welcome to help.</text>
+	</string>

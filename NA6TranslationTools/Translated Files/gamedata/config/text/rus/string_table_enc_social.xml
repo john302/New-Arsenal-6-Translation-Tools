@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Army">
+		<text>Army</text>
+	</string>
+	<string id="Bandits">
+		<text>The bandits</text>
+	</string>
+	<string id="Duty">
+		<text>The Grouping Of "Debt"</text>
+	</string>
+	<string id="enc_social_military_army">
+		<text>The soldiers of the regular army units. Guarding the approaches to the closed Area, patrolling the perimeter, shooting mutants and catching looters.\nArmy special forces - the elite unit. As a rule, land in the Area for rescue and special operations.</text>
+	</string>
+	<string id="enc_social_military_milstalkers">
+		<text>The soldiers, after the past experience in the Area of special training, and stalkers, signed a contract with the army. Usually supplied with a large amount of auxiliary equipment and well armed. Mainly used for studying the causes and consequences of the disaster, as well as in the mapping Area. Can walk alone, or groups up to five people. The usual stalkers to yourself are not allowed - immediately opened fire.</text>
+	</string>
+	<string id="enc_social_scientists_mobile-groups">
+		<text>Removed</text>
+	</string>
+	<string id="enc_social_scientists_mobile-labs">
+		<text>Mobile lab looks like a small metal tank with small tinted Windows. Able to withstand almost everything known to man damage of any nature. Can be translated in a fully Autonomous mode for a few months, which is equipped with reliable life-support systems. The Zone is delivered by a helicopter. The laboratory staff never let outsiders then the outer airlock, so inside a lab had not penetrated none of the stalkers.</text>
+	</string>
+	<string id="enc_social_stalker-clans_bandits">
+		<text>Representatives of the criminal world, came to the Zone for different reasons: to make money by selling artifacts, hide from the law, to buy or to sell arms. In Area of many similar item level, from punks to serious criminals. In the majority of United gangs. Although a single gang organization in the Zone is still there, much bother ordinary stalkers.</text>
+	</string>
+	<string id="enc_social_stalker-clans_duty">
+		<text>Obviously a paramilitary group, characterized by strict discipline: its members actually live under the Charter. Only representatives of "Debt" do not sell the unique creations of the Zone with the outside world: rumors: all found these people give up the artifacts to the scientists. Each "member considers" considers its main goal of protecting the world from the impact Zone. Most of the operations of groups linked to the extermination of monsters, so the raids of the "Debt" often deliver the rank and file of stalkers many pressing problems. Long and fierce enmity with the group "Freedom".</text>
+	</string>
+	<string id="enc_social_stalker-clans_freedom">
+		<text>Anarchists and daredevils who have declared themselves as freedom fighters in the Zone, and therefore in constant conflict with army units, military stalkers and the group "Duty". "Svobodovets" I think that information about what is happening in the Area should not be hidden from humanity, thus challenging the monopoly of governmental organizations in possession of its secrets and wonders.</text>
+	</string>
+	<string id="enc_social_stalker-clans_killers">
+		<text>The most mysterious and secretive group in the Zone, the existence of which many do not even believe. Someone constantly uses the services of mercenaries: professionals in their field, they quickly deal with any Stalker and even can completely eliminate a small group. For their services, apparently, take a considerable amount of money or artifacts. The location of the base of this group still remains a mystery; obviously it is somewhere in the depths of the Zone.</text>
+	</string>
+	<string id="enc_social_stalker-clans_loners">
+		<text>Stalkers exploring the Zone alone. The majority, as membership in grouping takes valuable time, thereby reducing the earnings; also, some are just by nature prone to loneliness and independence.</text>
+	</string>
+	<string id="enc_social_stalker-clans_strangers">
+		<text>A group of hunters who foraged in the Area collecting valuable trophies of monsters and selling them outside the Zone. Maintain neutrality with many other groups in the Area.</text>
+	</string>
+	<string id="enc_social_stalker-clans_monolith">
+		<text>Group, but rather like a religious sect. Its members believe that the center of the Zone lies the evolutionary crystal - Monolith - alien. The majority of despise stalkers followers the Monolith, believing them mad. Since its inception, the group has impeded the promotion of stalkers to the Zone center, citing the ill intentions of the latter in relation to the Monolith. According to rumors, the "monolith" there is a large base somewhere closer to the center of the Zone, but its exact location is not known by anybody except the members of the group.</text>
+	</string>
+	<string id="enc_social_stalker-clans_zomstalkers">
+		<text>Those who experience prolonged exposure to emitters on the "Amber" or some other sectors. Careless stalkers quickly go crazy, turning into a stray semi-corpses. A lot of them wandering the Area, some even go to the perimeter. Anyway, to help them is impossible: the process of destruction of identity is irreversible. Although zombified stalkers are still able to use their weapons, they are pretty stupid. At the meeting, you can hear them chanting under her breath, snatches of conversation, - which, however, completely meaningless. Eventually zombified stalkers finally lose all the old skills and turn into a zombie. As a rule, they are very aggressive and a significant accumulation pose a serious threat.</text>
+	</string>
+	<string id="Freedom">
+		<text>The Group "Freedom"</text>
+	</string>
+	<string id="Killers">
+		<text>Mercenaries</text>
+	</string>
+	<string id="Loners">
+		<text>Stalkers-loners</text>
+	</string>
+	<string id="Strangers">
+		<text>Hunters</text>
+	</string>
+	<string id="Military">
+		<text>Paramilitary part</text>
+	</string>
+	<string id="Milstalkers">
+		<text>Military stalkers</text>
+	</string>
+	<string id="Mobile-groups">
+		<text>Research group</text>
+	</string>
+	<string id="Mobile-labs">
+		<text>Mobile camp of scientists</text>
+	</string>
+	<string id="Monolith">
+		<text>Grouping "Monolith"</text>
+	</string>
+	<string id="Scientists">
+		<text>Scientists</text>
+	</string>
+	<string id="Social">
+		<text>Companies</text>
+	</string>
+	<string id="Stalker-clans">
+		<text>Clans of stalkers</text>
+	</string>
+	<string id="Zomstalkers">
+		<text>Zombified stalkers</text>
+	</string>
+</string_table>
