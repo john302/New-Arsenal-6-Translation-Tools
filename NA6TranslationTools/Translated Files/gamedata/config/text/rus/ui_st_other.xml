@@ -4,31 +4,31 @@
 		<text>Money</text>
 	</string>
 	<string id="mm_mp_pda_hunt">
-		<text>Bonus PDA</text>
+		<text>Hunt for PDA</text>
 	</string>
 	<string id="st_drink">
-		<text>drink</text>
+		<text>Drink</text>
 	</string>
 	<string id="st_mp_direct_ip">
 		<text>Direct IP</text>
 	</string>
 	<string id="ui_mm_default">
-		<text>By default</text>
+		<text>Default</text>
 	</string>
 	<string id="ui_mm_detail_density">
-		<text>The density of the grass</text>
+		<text>Detail density</text>
 	</string>
 	<string id="ui_mm_r2_sun">
-		<text>Shade from the sun</text>
+		<text>Shadow from the sun</text>
 	</string>
 	<string id="ui_mm_r2_sun_details">
-		<text>Shadow grass</text>
+		<text>Grass shadow</text>
 	</string>
 	<string id="ui_mm_render_2">
-		<text>Render 2</text>
+		<text>Render-2</text>
 	</string>
 	<string id="ui_pda_details">
-		<text># /details</text>
+		<text># /Detail</text>
 	</string>
 	<string id="ui_st_btn_cancel">
 		<text>Cancel</text>
@@ -37,13 +37,13 @@
 		<text>No</text>
 	</string>
 	<string id="ui_st_btn_ok">
-		<text>OK</text>
+		<text>ОК</text>
 	</string>
 	<string id="ui_st_btn_yes">
 		<text>Yes</text>
 	</string>
 	<string id="ui_st_cant_run_r2">
-		<text>You can't start a second render on your computer</text>
+		<text>You can't run a second render on your computer</text>
 	</string>
 	<string id="ui_st_conn_invalid_host">
 		<text>Connection error: invalid host</text>
@@ -52,148 +52,148 @@
 		<text>Connection error: invalid password</text>
 	</string>
 	<string id="ui_st_conn_rejected_server">
-		<text>Connection error: connection reset by peer</text>
+		<text>Connection error: rejected server</text>
 	</string>
 	<string id="ui_st_conn_sess_full">
 		<text>Connection error: server is full</text>
 	</string>
 	<string id="ui_st_days">
-		<text>days.</text>
+		<text>Days.</text>
 	</string>
 	<string id="ui_st_error">
 		<text>Error</text>
 	</string>
 	<string id="ui_st_file_exist_owerwrite_q">
-		<text>A file with the same name already exists. Overwrite?</text>
+		<text>File exists: overwrite?</text>
 	</string>
 	<string id="ui_st_file_name_is_empty">
-		<text>The file name is empty</text>
+		<text>Empty file name</text>
 	</string>
 	<string id="ui_st_hours">
-		<text>hour.</text>
+		<text>Hours.</text>
 	</string>
 	<string id="ui_st_leave">
-		<text>Go</text>
+		<text>Leave</text>
 	</string>
 	<string id="ui_st_mins">
-		<text>min.</text>
+		<text>Mins.</text>
 	</string>
 	<string id="ui_st_months">
-		<text>months.</text>
+		<text>Months.</text>
 	</string>
 	<string id="ui_st_params">
-		<text>Settings</text>
+		<text>Params</text>
 	</string>
 	<string id="ui_st_secs">
-		<text>sec.</text>
+		<text>Secs.</text>
 	</string>
 	<string id="ui_st_select_one_map">
-		<text>Please select at least one card</text>
+		<text>Please select at least one map</text>
 	</string>
 	<string id="ui_st_take_all">
-		<text>To take all</text>
+		<text>Take all</text>
 	</string>
 	<string id="ui_st_time_remains">
-		<text>Left</text>
+		<text>Time left</text>
 	</string>
 	<string id="ui_st_trade">
-		<text>To trade</text>
+		<text>Тrade</text>
 	</string>
 	<string id="ui_st_voting_disabled">
-		<text>Voting is disabled</text>
+		<text>Voting disabled</text>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
 		<text>Do you want to leave the game?</text>
 	</string>
 	<string id="ui_st_your_items">
-		<text>Things Tagged</text>
+		<text>Your items</text>
 	</string>
 	<string id="st_game_over_press_jump">
-		<text>Press ($$ACTION_JUMP$$) to exit to the main menu</text>
+		<text>Press ($$ACTION_JUMP$$) to return to main menu</text>
 	</string>
 	<string id="st_level">
 		<text>Level</text>
 	</string>
 	<string id="st_opening_stream">
-		<text>Open thread</text>
+		<text>Оpening stream</text>
 	</string>
 	<string id="st_loading_cform">
-		<text>Download shaped objects</text>
+		<text>Loading cform</text>
 	</string>
 	<string id="st_prefetching_objects">
-		<text>Object caching</text>
+		<text>Prefetching objects</text>
 	</string>
 	<string id="st_creating_new_game">
-		<text>The creation of a new game</text>
+		<text>Сreating new game</text>
 	</string>
 	<string id="st_loading_alife_simulator">
-		<text>Download of life simulation</text>
+		<text>Loading Alife simulator</text>
 	</string>
 	<string id="st_server_connecting">
-		<text>Connect</text>
+		<text>Connecting to server</text>
 	</string>
 	<string id="st_loading_saved_game">
-		<text>Download games</text>
+		<text>Loading saved game</text>
 	</string>
 	<string id="st_validating_cdkey">
-		<text>Test key</text>
+		<text>Validating CD key</text>
 	</string>
 	<string id="st_loading_ai_objects">
 		<text>Loading AI objects</text>
 	</string>
 	<string id="st_client_connecting_to">
-		<text>Connection with</text>
+		<text>Соnnecting to client</text>
 	</string>
 	<string id="st_client_spawning">
-		<text>Create</text>
+		<text>Сlient spawning</text>
 	</string>
 	<string id="st_loading_textures">
 		<text>Loading textures</text>
 	</string>
 	<string id="st_client_synchronising">
-		<text>Sync</text>
+		<text>Synchronizing</text>
 	</string>
 	<string id="st_server_starting">
-		<text>Start</text>
+		<text>Starting</text>
 	</string>
 	<string id="st_loading_shaders">
-		<text>Loading Shader</text>
+		<text>Loading shaders</text>
 	</string>
 	<string id="st_loading_geometry">
-		<text>Download geometry</text>
+		<text>Loading geometry</text>
 	</string>
 	<string id="st_loading_spatial_db">
-		<text>The loading of base of spaces</text>
+		<text>Loading spatial DB</text>
 	</string>
 	<string id="st_loading_details">
-		<text>Download of detailed objects</text>
+		<text>Loading details</text>
 	</string>
 	<string id="st_loading_sectors_portals">
-		<text>Loading sectors and portals</text>
+		<text>Loading sector portals</text>
 	</string>
 	<string id="ui_st_conn_version_differs">
-		<text>Connection Error: Different version.</text>
+		<text>Connection failure: game version differs.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
-		<text>Connection Error: Invalid CD-Key.</text>
+		<text>Connection failure: Invalid CD-Key.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_in_use">
-		<text>Connection Error: This CD Key is already in use.</text>
+		<text>Connection failure: This CD-Key is already in use.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
-		<text>Connection Error: Your CD-Key is locked. Contact customer support.</text>
+		<text>Connection failure: This CD-Key has been disabled.</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>New update is now available.\nVersion: %s\n%s\nWant to download it now?</text>
+		<text>A new patch is available. \ n Version: %s\n %s\n Want to download it now?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
 		<text>No new patches</text>
 	</string>
 	<string id="ui_mm_delete_existing_file_q">
-		<text>Are you sure you want to delete the file?</text>
+		<text>Delete existing file?</text>
 	</string>
 	<string id="st_game_paused">
-		<text>Pause</text>
+		<text>Paused</text>
 	</string>
 	<string id="st_bolt">
 		<text>Bolt</text>
@@ -205,36 +205,36 @@
 		<text>Video</text>
 	</string>
 	<string id="st_audio">
-		<text>Sound</text>
+		<text>Audio</text>
 	</string>
 	<string id="st_game">
-		<text>The game</text>
+		<text>Game</text>
 	</string>
 	<string id="st_controll">
-		<text>Management</text>
+		<text>Control</text>
 	</string>
 	<string id="ui_st_connecting_to_masterserver">
-		<text>Adherence to the master server</text>
+		<text>Connecting to master server</text>
 	</string>
 	<string id="mp_only_one_voting">
-		<text>Allowed only one active vote</text>
+		<text>Only one active vote is allowed</text>
 	</string>
 	<string id="ui_st_patch_download_success">
-		<text>Patch successfully downloaded. To install?</text>
+		<text>The patch was downloaded successfully. Install?</text>
 	</string>
 	<string id="ui_st_patch_download_error">
-		<text>It is impossible to download the patch.</text>
+		<text>Patch download error.</text>
 	</string>
 	<string id="ui_st_load_game_confirm">
-		<text>Download games will lead to loss of unsaved data. Wish to continue?</text>
+		<text>Loading a save will result in the loss of unsaved data. Do you want to continue?</text>
 	</string>
 	<string id="ui_st_invalid_saved_game">
-		<text>Does not match the version saved games or saved game is ruined.</text>
+		<text>Save game is invalid. It may be corrupted</text>
 	</string>
 	<string id="st_pda_change_spot_hint">
 		<text>Change the label text</text>
 	</string>
 	<string id="st_pda_delete_spot">
-		<text>Remove label</text>
+		<text>Delete label</text>
 	</string>
 </string_table>
